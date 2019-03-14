@@ -5,122 +5,67 @@
   <title>California Water Challenge</title>
   <link href="https://api.mapbox.com/mapbox-assembly/v0.22.0/assembly.min.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
-  <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.46.0/mapbox-gl.js"></script>
   <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v0.46.0/mapbox-gl.css" rel="stylesheet" />
+  <link href="style.css" rel="stylesheet" />
+  <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.46.0/mapbox-gl.js"></script>
   <script src="https://d3js.org/d3.v5.min.js"></script>
   <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
-  <style>
-    body {
-      margin:0;
-      padding:0;
-      font-family: "Noto Sans", sans-serif;
-    }
-
-    #map {
-      position:absolute;
-      top:0;
-      bottom:0;
-      width:100%;
-    }
-
-    #text {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 30%;
-      height: 100%;
-      padding: 15px;
-      background-color: rgba(69, 87, 96, 0.72);
-      color: white;
-    }
-
-
-    #img {
-      position: absolute;
-      z-index: 3;
-      right: 0;
-      top: 0;
-      background-color: rgba(255, 255, 255, 0.33);
-    }
-
-    #dashboard {
-      height: 200px;
-      text-align: center;
-    }
-
-    .logo {
-      height: 100px;
-      width: auto;
-    }
-
-    .center {
-      text-align: center;
-    }
-
-    .circle {
-      height: 12px;
-      width: 12px;
-      border: 1px solid rgb(69, 69, 69);
-      border-radius: 50%;
-    }
-    .circle-blue {
-      background-color: #C8D2D3;
-    }
-
-    .circle-yellow {
-      background-color: #f2d434;
-    }
-
-    .circle-orange {
-      background-color: #eb980b;
-    }
-
-    .circle-red {
-      background-color: #eb470b;
-    }
-
-    .icon-credit {
-      position: absolute;
-      right: 280px;
-      bottom: 5px;
-      font-size: 9px;
-      line-height: 10px;
-    }
-
-    .credit {
-      font-size: 12px;
-      margin-bottom: 12px;
-    }
-
-  </style>
 </head>
 <body class="prose">
-  <div id="map"></div>
-  <div id="img">
-      <a target="_blank" href="https://calpirg.org/resources/caf/get-lead-out-back-school-toolkit"><img class="logo" src="img/image.png" alt="logo for Get The Lead Out"></a>
-  </div>
-  <div class="icon-credit">Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
-  <div id="text" class="scroll-auto">
-    <h4>Lead Levels in San Francisco Schools</h4>
-    <p>San Francisco Unified School District <a target="_blank" href="https://sfwater.org/modules/showdocument.aspx?documentid=11554" class="color-blue-faint">tested</a> the school's drinking water for lead last year.
-    This map shows the highest lead levels detected at each school based on multiple sample sites and dates.</p>
 
-    <p>There is no safe level of lead, especially for children. Even small amounts can lower IQ. Damage from lead exposure is irreversible. Take action with CALPIRG's <a target="_blank" href="https://calpirg.org/resources/caf/get-lead-out-back-school-toolkit" class="color-blue-faint">"Get The Lead Out:Back to School Toolkit."</a></p>
+  <section id="top-section">
 
-    <div class="credit">
-      <span class="block">Data wrangling: <a target="_blank" href="https://github.com/thesadie" class="color-blue-faint">Sadie Gill</a> @ Flowwest.</span>
-      <span class="block">Mapping, front-end, data viz: <a target="_blank"href="https://lobenichou.com" class="color-blue-faint">Lo Bénichou </a>@ Mapbox.</span>
-    </div>
+   <!-- <div class="icon-credit">Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+-->
+    <section class="data">
+      <div id="img">
+        <a target="_blank" href="https://calpirg.org/resources/caf/get-lead-out-back-school-toolkit">
+          <img class="logo" src="img/image.png" alt="logo for Get The Lead Out">
+        </a>
+      </div>
+      <div class="tabs">
+        <button class="tab-links" id="text" onclick="switchTab()">Info</button>
+        <button class="tab-links" id="dashboard" onclick="switchTab()">Dashboard</button>
+      </div>
+      <div id="text" class="scroll-auto">
+        <h4>Lead Levels in San Francisco Schools</h4>
+        <p>San Francisco Unified School District <a target="_blank" href="https://sfwater.org/modules/showdocument.aspx?documentid=11554" class="color-blue-faint">tested</a> the school's drinking water for lead last year.
+        This map shows the highest lead levels detected at each school based on multiple sample sites and dates.</p>
 
-    <span class="block"><div  class="inline-block circle circle-blue"></div> Lead content < 1 ppb</span>
-    <span class="block"><span class="inline-block circle circle-yellow"></span> Lead content between 1 and 5 ppb</span>
-    <span class="block"><span  class="inline-block circle circle-orange"></span> Lead content between 5 and 15 ppb</span>
-    <span class="block"><span class="inline-block circle circle-red"></span> Lead content > 15 ppb</span>
-    <div id="key" class="py12"></div>
-    <div id="dashboard">
+        <p>There is no safe level of lead, especially for children. Even small amounts can lower IQ. Damage from lead exposure is irreversible. Take action with CALPIRG's <a target="_blank" href="https://calpirg.org/resources/caf/get-lead-out-back-school-toolkit" class="color-blue-faint">"Get The Lead Out:Back to School Toolkit."</a></p>
+      </div>
 
-    </div>
-  </div>
+      <div id="dashboard"> 
+        <div class="dropdown">
+          <!-- add dropdown filters (county, city, district, school) -->
+        </div>
+        <div class="school-visualizer">
+        </div>
+      </div>
+
+      <div class="credit">
+        <span class="block">Data wrangling: <a target="_blank" href="https://github.com/thesadie" class="color-blue-faint">Sadie Gill</a> @ Flowwest.</span>
+        <span class="block">Mapping, front-end, data viz: <a target="_blank"href="https://lobenichou.com" class="color-blue-faint">Lo Bénichou </a>@ Mapbox.</span>
+      </div>
+    </section>
+    <div id="map"></div>
+  </section>
+
+  <section id="key">
+    <span><span class="inline-block circle circle-blue"></span> Lead content < 1 ppb</span>
+    <span><span class="inline-block circle circle-yellow"></span> Lead content between 1 and 5 ppb</span>
+    <span><span class="inline-block circle circle-orange"></span> Lead content between 5 and 15 ppb</span>
+    <span ><span class="inline-block circle circle-red"></span> Lead content > 15 ppb</span>
+  </section>
+
+  <section class="table">
+
+  </section>
   <script src="app.js"></script>
 </body>
 </html>
+
+<script>
+object.onclick = function(){switchTab};
+object.addEventListener("click", switchTab);
+</script>
