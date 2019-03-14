@@ -6,6 +6,7 @@
   <link href="https://api.mapbox.com/mapbox-assembly/v0.22.0/assembly.min.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
   <link href="style.css" rel="stylesheet" />
+  <link href="tabs.css" rel="stylesheet" />
   <script src='https://api.mapbox.com/mapbox-gl-js/v0.53.0/mapbox-gl.js'></script>
   <link href='https://api.mapbox.com/mapbox-gl-js/v0.53.0/mapbox-gl.css' rel='stylesheet' />
   <script src="https://d3js.org/d3.v5.min.js"></script>
@@ -23,25 +24,31 @@
           <img class="logo" src="img/image.png" alt="logo for Get The Lead Out">
         </a>
       </div>
-      <div class="tabs">
-        <button class="tab-links" id="text" onclick="switchTab()">Info</button>
-        <button class="tab-links" id="dashboard" onclick="switchTab()">Dashboard</button>
-      </div>
-      <div id="text" class="scroll-auto">
-        <h4>Lead Levels in San Francisco Schools</h4>
-        <p>San Francisco Unified School District <a target="_blank" href="https://sfwater.org/modules/showdocument.aspx?documentid=11554" class="color-blue-faint">tested</a> the school's drinking water for lead last year.
-        This map shows the highest lead levels detected at each school based on multiple sample sites and dates.</p>
+      <div id="sub-panel">
+        <ul class="tabs group" id="main-tabs">
+          <li id="info-tab"><a class="active" href="#/one">Info</a></li>
+          <li id="dashboard-tab"><a href="#/two">Dashboard</a></li>
+        </ul>
+        <div id="content">
+          <div id="one" class="scroll-auto">
+            <h4>Lead Levels in San Francisco Schools</h4>
+            <p>San Francisco Unified School District <a target="_blank" href="https://sfwater.org/modules/showdocument.aspx?documentid=11554" class="color-blue-faint">tested</a> the school's drinking water for lead last year.
+            This map shows the highest lead levels detected at each school based on multiple sample sites and dates.</p>
 
-        <p>There is no safe level of lead, especially for children. Even small amounts can lower IQ. Damage from lead exposure is irreversible. Take action with CALPIRG's <a target="_blank" href="https://calpirg.org/resources/caf/get-lead-out-back-school-toolkit" class="color-blue-faint">"Get The Lead Out:Back to School Toolkit."</a></p>
-      </div>
-
-      <div id="dashboard"> 
-        <div class="dropdown">
-          <!-- add dropdown filters (county, city, district, school) -->
+            <p>There is no safe level of lead, especially for children. Even small amounts can lower IQ. Damage from lead exposure is irreversible. Take action with CALPIRG's <a target="_blank" href="https://calpirg.org/resources/caf/get-lead-out-back-school-toolkit" class="color-blue-faint">"Get The Lead Out:Back to School Toolkit."</a></p>
+          </div>
+          <div id="two">
+            <div id="dashboard"> 
+              <div class="dropdown">
+                <!-- add dropdown filters (county, city, district, school) -->
+              </div>
+              <div class="school-visualizer">
+              </div>
+            </div>
+          </div>
         </div>
-        <div class="school-visualizer">
-        </div>
       </div>
+      <!-- borrowed -->
 
       <div class="credit">
         <span class="block">Data wrangling: <a target="_blank" href="https://github.com/thesadie" class="color-blue-faint">Sadie Gill</a> @ Flowwest.</span>
@@ -65,7 +72,8 @@
 </body>
 </html>
 
-<script>
+
+<!-- <script>
 object.onclick = function(){switchTab};
 object.addEventListener("click", switchTab);
-</script>
+</script> -->

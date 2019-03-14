@@ -1,12 +1,51 @@
-mapboxgl.accessToken = 'pk.eyJ1Ijoic2FkaWUtZ2lsbCIsImEiOiJjamtlOXhsdTczOWJiM3dtazU2ODZiZ2dzIn0.20B7rRYqEidFxaHOXuGKkA';
+/* tab switching */
+var tabs =  Array.prototype.slice.call(document.querySelectorAll("#sub-panel .tabs li a"));
+
+tabs.forEach(function(tab) {
+  tab.addEventListener('click', function(event) {
+    const target = event.target;
+    const active = target.className.indexOf('active') > -1;
+    if (active) {
+      console.log("you clicked a tab that is already active");
+    } else {
+      console.log("you clicked a closed tab", target);
+      tabs.forEach(function(tab) {
+        tab.className = '';
+      });
+      target.className = 'active';
+      var li = target.parentElement;
+      var tabID = li.id;
+      if (tabID === 'info-tab') {
+        document.getElementById('one').style.display = 'block';
+        document.getElementById('two').style.display = 'none';
+      } else if (tabID=== 'dashboard-tab') {
+        document.getElementById('one').style.display = 'none';
+        document.getElementById('two').style.display = 'block';
+      }
+    }
+  });
+});
+
+mapboxgl.accessToken = 'pk.eyJ1Ijoidml5bWFrIiwiYSI6ImNqdDdndWQ2dTAyc2Y0NHF1djgwY3FqYjYifQ.G_2fY2hb7vQSDHybmMXpbw';
+// restrict map panning
+const bounds = [
+  [-131.661213, 43.617188], //NW coordinates
+  [-109.286723, 30.847858] //SE coordinates
+];
+
 const map = new mapboxgl.Map({
   container: 'map', // container id
-  style: 'mapbox://styles/sadie-gill/cjkeaodtodv792sqkkg4yara2', // stylesheet location
+  //style: 'mapbox://styles/viymak/cjt7h2y9q01eq1frqxcqfptqh', // stylesheet location
+  style: 'mapbox://styles/mapbox/streets-v11',
   center: [
     -122.473373, 37.767579
   ], // starting position [lng, lat]
-  zoom: 11.5 // starting zoom
+  zoom: 11,//, // starting zoom
+  maxBounds: bounds
 });
+
+map.addControl(new mapboxgl.NavigationControl());
+
 
 const range = d3.scaleThreshold().domain([1, 5, 15]).range(['#C8D2D3', '#f2d434', '#eb980b', '#eb470b']);
 
