@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,latitude,longitude
+California School for the Blind (State Special Schl),California School for the Blind,500 Walnut Avenue Fremont CA 94536-4365,9.860499999999998,ppb,TRUE,tested,37.5481948,-121.9808293
+California School for the Deaf-Fremont (State Special Schl),California School for the Deaf-Fremont,39350 Gallaudet Drive Fremont CA 94538-2308,NA,NA,FALSE,tested,37.5573291,-121.9617297
+NA,St. Edward Parish,5788 Thornton Avenue Newark CA 94560,NA,NA,FALSE,tested,37.5395210780721,-122.028520511827
+Newark Unified,Whiteford (June) Special Education Preschool,35725 Cedar Boulevard Newark CA 94560-1324,6.903,ppb,TRUE,tested,37.5449594,-122.029247
+Newark Unified,John F. Kennedy Elementary,35430 Blackburn Drive Newark CA 94560-1312,NA,NA,FALSE,tested,37.5525641,-122.042348129968
+Newark Unified,Newark Junior High,6201 Lafayette Avenue Newark CA 94560-2432,6.926,ppb,TRUE,tested,37.5417841019707,-122.039344613929
