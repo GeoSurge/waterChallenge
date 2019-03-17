@@ -12,6 +12,8 @@ with open(outpath, "w") as f:
   dictWriter = DictWriter(f, fieldnames=fieldnames)
   dictWriter.writeheader()
 
+misses = 0
+
 for index, school in enumerate(schools):
   url = "https://nominatim.openstreetmap.org/search"
   params = {
@@ -28,10 +30,10 @@ for index, school in enumerate(schools):
     print("response:", response)
   else:
     print("none found")
+    misses += 1
   print("sleeping")
   sleep(5)
-  if (index > 5):
-    break
+  print("percentage missed:", float(misses) / (index+1))
 
   with open("ca_schools_lead_testing_data_geocoded.csv", "a") as f:
     DictWriter(f, fieldnames=fieldnames).writerow(school)
