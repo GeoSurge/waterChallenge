@@ -1,3 +1,8 @@
+var cache = {
+  cooccurrences: {},
+  indices: {}
+};
+
 /* tab switching */
 var tabs =  Array.prototype.slice.call(document.querySelectorAll("#sub-panel .tabs li a"));
 
@@ -24,8 +29,96 @@ tabs.forEach(function(tab) {
       }
     }
   });
-});
+})
 
+function populateDropdown(id, defaultName, optionArray) {
+  var dropdown = document.getElementById(id);
+  console.log("dropdown:", dropdown);
+  var options = defaultName ? [ { 'val': -1, 'txt': defaultName }] : [];
+  optionArray.map(function(optionValue, i) {
+    options.push({ val: i, txt: optionValue });
+  });
+  console.log("options:", options);
+  fillDropdown(dropdown, options);
+}
+
+function fillDropdown(dropdown, options) {
+  var innerHTML = '';
+  options.forEach(function(option) {
+    innerHTML += '<option value="' + option.val + '">' + option.txt + '</option>';
+  });
+  dropdown.innerHTML = innerHTML;
+}
+
+function populateCountyDropdown() {
+  loadIndex("county", function(countyIndex) {
+    populateDropdown('countyDropdown', 'County', countyIndex);
+  });
+}
+
+function loadIndex(name, callback) {
+  if (cache.indices[name]) {
+    callback(cache.indices[name]);
+  } else {
+    loadText("data/indices/" + name + "-index.txt", function(text){
+      const index = text.split("\n").slice(0, -1);
+      cache.indices[name] = index;
+      callback(index);
+    });
+  }
+}
+
+/*
+  {
+    "Alameda County": ["Berekely", "Fremont"]
+  }
+*/
+function loadCooccurrences(name, callback) {
+  if (cache.cooccurrences[name]) {
+    callback(cache.cooccurrences[name]);
+  } else {
+    loadTSV('data/cooccurrences/' + name, function(rows) {
+      var result = {};
+      rows.forEach(function(row) {
+        var key = row[0];
+        var values = row[1].split(",").map(Number);
+        result[key] = values;
+      });
+      cache.cooccurrences[name] = result;
+      callback(result);
+    });
+  }
+}
+
+populateCountyDropdown();
+
+function populateCityDropdown() {
+  var selectedCounty = document.getElementById("countyDropdown").value;
+  if (selectedCounty === "County") {
+    populateDropdown("cityDropdown", null, []);
+  } else {
+    loadCooccurrences("county-to-city", function(cooccurrences) {
+      var includedCityIds = cooccurrences[selectedCounty];
+      if (includedCityIds !== undefined) { // undefined when page is loading
+        loadIndex("city", function(cityIndex) {
+          var options = [];
+          includedCityIds.forEach(function(cityID) {
+            var cityName = cityIndex[cityID];
+            if (cityName !== '') {
+              options.push({ val: cityID, txt: cityName });
+            }
+          });
+          var dropdown = document.getElementById('cityDropdown');
+          fillDropdown(dropdown, options);
+        });        
+      }
+    });
+  }
+}
+
+populateCityDropdown();
+
+/*
 mapboxgl.accessToken = 'pk.eyJ1Ijoidml5bWFrIiwiYSI6ImNqdDdndWQ2dTAyc2Y0NHF1djgwY3FqYjYifQ.G_2fY2hb7vQSDHybmMXpbw';
 // restrict map panning
 const bounds = [
@@ -114,7 +207,6 @@ map.on('load', () => {
       ]
     }
   })
-
   map.addLayer({
     'id': 'schoolLayerHover',
     'type': 'circle',
@@ -223,6 +315,7 @@ map.on('load', () => {
         updateDashboard(hoveredId);
       }
     });
+
     //
     // map.on('mouseleave', 'schoolLayerHover', function() {
     //   map.getCanvas().style.cursor = '';
@@ -234,3 +327,4 @@ map.on('load', () => {
     //   hoveredId = null;
     // });
   })
+*/

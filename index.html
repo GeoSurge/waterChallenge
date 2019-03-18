@@ -2,14 +2,21 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>California Water Challenge</title>
+  <title>Get the Lead Out Map</title>
   <link href="https://api.mapbox.com/mapbox-assembly/v0.22.0/assembly.min.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
   <link href="style.css" rel="stylesheet" />
   <link href="tabs.css" rel="stylesheet" />
-  <script src='https://api.mapbox.com/mapbox-gl-js/v0.53.0/mapbox-gl.js'></script>
-  <link href='https://api.mapbox.com/mapbox-gl-js/v0.53.0/mapbox-gl.css' rel='stylesheet' />
+  <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+    integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+    crossorigin=""></script>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+    integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+    crossorigin=""/>
   <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="csv2geojson.js"></script>
+    <link href='https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css' rel='stylesheet' />
+  <script src='https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js'></script>
   <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
 </head>
 <body class="prose">
@@ -37,43 +44,63 @@
 
             <p>There is no safe level of lead, especially for children. Even small amounts can lower IQ. Damage from lead exposure is irreversible. Take action with CALPIRG's <a target="_blank" href="https://calpirg.org/resources/caf/get-lead-out-back-school-toolkit" class="color-blue-faint">"Get The Lead Out:Back to School Toolkit."</a></p>
           </div>
-          <div id="two">
+          <div id="two" style="display: none">
             <div id="dashboard"> 
-              <div class="dropdown">
+              <select class="dropdown" id="countyDropdown" onchange="populateCityDropdown()">
+                <option value="">County</option>
+                <option value="San-Francisco">San Francisco</option>
+                <option value="San-Diego">San Diego</option>
+              </select>
+              <select class="dropdown" id="cityDropdown"></select>
                 <!-- add dropdown filters (county, city, district, school) -->
-              </div>
               <div class="school-visualizer">
               </div>
             </div>
           </div>
+          <div class="credit">
+            <span class="block">Data wrangling: <a target="_blank" href="https://github.com/thesadie" class="color-blue-faint">Sadie Gill</a> @ Flowwest.</span>
+            <span class="block">Mapping, front-end, data viz: <a target="_blank"href="https://lobenichou.com" class="color-blue-faint">Lo Bénichou </a>@ Mapbox.</span>
+          </div>
         </div>
-      </div>
-      <!-- borrowed -->
-
-      <div class="credit">
-        <span class="block">Data wrangling: <a target="_blank" href="https://github.com/thesadie" class="color-blue-faint">Sadie Gill</a> @ Flowwest.</span>
-        <span class="block">Mapping, front-end, data viz: <a target="_blank"href="https://lobenichou.com" class="color-blue-faint">Lo Bénichou </a>@ Mapbox.</span>
       </div>
     </section>
     <div id="map"></div>
   </section>
 
   <section id="key">
-    <span><span class="inline-block circle circle-blue"></span> Lead content < 1 ppb</span>
+    <span><span class="inline-block circle circle-blue" width=25vw ></span> Lead content < 1 ppb</span>
     <span><span class="inline-block circle circle-yellow"></span> Lead content between 1 and 5 ppb</span>
     <span><span class="inline-block circle circle-orange"></span> Lead content between 5 and 15 ppb</span>
     <span ><span class="inline-block circle circle-red"></span> Lead content > 15 ppb</span>
   </section>
 
   <section class="table">
-
+    <table>
+      <tr>
+        <th> Lead Level </th>
+        <th> School </th>
+        <th> County </th>
+        <th> Address </th>
+      </tr>
+      <tr>
+        <td><span class="inline-block circle circle-blue"></span> <span> 1 ppb </span></td>
+        <td> John Muir Elementary School </td>
+        <td> San Francisco </td>
+        <td> 380 Webster St, San Francisco, CA 94117 </td>
+      </tr>
+      <tr>
+        <td><span class="inline-block circle circle-yellow"></span> <span> 2.79 ppb </span></td>
+        <td> Jefferson Elementary School </td>
+        <td> San Fransisco </td>
+        <td> 1725 Irving St, San Francisco, CA 94122 </td>
+      </tr>
+    </table>
   </section>
+  <script src="utils.js"></script>
   <script src="app.js"></script>
+  <script src="map.js"></script>
 </body>
 </html>
 
 
-<!-- <script>
-object.onclick = function(){switchTab};
-object.addEventListener("click", switchTab);
-</script> -->
+
