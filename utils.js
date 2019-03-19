@@ -19,3 +19,7 @@ function loadTSV(url, callback) {
 		callback(rows);
     });
 }
+
+function getValue(id) {
+	return document.getElementById(id).value;
+}

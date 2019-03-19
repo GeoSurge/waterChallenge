@@ -132,20 +132,24 @@ h4, p {
   border: 1px solid rgb(69, 69, 69);
   border-radius: 50%;
 }
-.circle-blue {
+.circle-grey {
   background-color: #C8D2D3;
 }
 
+.circle-blue {
+  background-color: #A16BFF;
+}
+
 .circle-yellow {
-  background-color: #f2d434;
+  background-color: #FFB624
 }
 
 .circle-orange {
-  background-color: #eb980b;
+  background-color: #FF3624;
 }
 
 .circle-red {
-  background-color: #eb470b;
+  background-color: #9E0000;
 }
 
 /* table section */
@@ -176,30 +180,23 @@ h4, p {
 }
 
 .low {
-  fill: #00ff7f;
+  fill: #FFB624;
   stroke:   #A9A9A9;
-  background: #00ff7f;
+  background: #FFB624;
   border-color:  #A9A9A9;
 }
 
 .medium {
-  fill: #f2d434;
+  fill: #FF3624;
   stroke: #A9A9A9;
-  background: #f2d434;
+  background: #FF3624;
   border-color: #A9A9A9;
 }
 
 .high {
-  fill: #eb980b;
+  fill: #9E0000;
   stroke:#A9A9A9;
-  background: #eb980b;
-  border-color: #A9A9A9;
-}
-
-.veryhigh {
-  fill: #eb470b;
-  stroke:#A9A9A9;
-  background: #eb470b;
+  background: #9E0000;
   border-color: #A9A9A9;
 }
 
@@ -211,10 +208,20 @@ h4, p {
 }
 
 .untested {
-  fill: #FF69B4;
+  fill: #A16BFF;
   stroke:#A9A9A9;
-  background:#FF69B4;
+  background:#A16BFF;
   border-color: #A9A9A9;
 }
 
+
+@media (max-width: 700px) {
+  .data {
+    width: 100%;
+  }
+  
+  .map {
+    width: 100%;
+  }
+}
 

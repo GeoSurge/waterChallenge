@@ -25,6 +25,7 @@
 
    <!-- <div class="icon-credit">Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
 -->
+    <div id="tabs-dropdown"></div>
     <section class="data">
       <div id="img">
         <a target="_blank" href="https://calpirg.org/resources/caf/get-lead-out-back-school-toolkit">
@@ -38,28 +39,31 @@
         </ul>
         <div id="content">
           <div id="one" class="scroll-auto">
-            <h4>Lead Levels in San Francisco Schools</h4>
-            <p>San Francisco Unified School District <a target="_blank" href="https://sfwater.org/modules/showdocument.aspx?documentid=11554" class="color-blue-faint">tested</a> the school's drinking water for lead last year.
-            This map shows the highest lead levels detected at each school based on multiple sample sites and dates.</p>
-
-            <p>There is no safe level of lead, especially for children. Even small amounts can lower IQ. Damage from lead exposure is irreversible. Take action with CALPIRG's <a target="_blank" href="https://calpirg.org/resources/caf/get-lead-out-back-school-toolkit" class="color-blue-faint">"Get The Lead Out:Back to School Toolkit."</a></p>
+          <h4>Lead Levels in California Schools</h4>
+            <p>There is no safe level of lead, especially for children. Even small amounts can lower IQ. Damage from lead exposure is irreversible.</p>
+            <p>California community water systems are required by the state to test drinking water for lead at the schools they serve by June 2019.</p>
+            This map shows the highest lead levels detected at each school based on the <a target="_blank" href="https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/leadsamplinginschools.html" class="color-blue-faint">latest publicly available data as of 3/12/2019</a>. It includes data through 1/12/2019. In cases where school districts have provided more data, we included that too.</p>
+            <p>Although there is no safe level of lead, the state is only required to share results when lead levels are above 5 PPB. Some schools did their own testing and have publicly shared results down to 1PPB. <a target="_blank" href="https://www.aap.org/en-us/about-the-aap/aap-press-room/pages/With-No-Amount-of-Lead-Exposure-Safe-for-Children,-American-Academy-of-Pediatrics-Calls-For-Stricter-Regulations.aspx" class="color-blue-faint"> The American Academy of Pediatrics</a> recommends no more than 1 PPB in drinking water for children.</p>
+            <p>Read CALPIRG’s recommendations in our new Get the Lead Out report.</p>
+            <p>Take action with CALPIRG's <a target="_blank" href=https://calpirg.org/resources/caf/get-lead-out-back-school-toolkit">"Get The Lead Out:Back to School Toolkit."</a></p>
           </div>
           <div id="two" style="display: none">
             <div id="dashboard"> 
-              <select class="dropdown" id="countyDropdown" onchange="populateCityDropdown()">
+              <select class="dropdown" id="countyDropdown" onchange="onChangeCountyDropdown()">
                 <option value="">County</option>
-                <option value="San-Francisco">San Francisco</option>
-                <option value="San-Diego">San Diego</option>
               </select>
-              <select class="dropdown" id="cityDropdown"></select>
-                <!-- add dropdown filters (county, city, district, school) -->
+
+              <select class="dropdown" id="cityDropdown" onchange="onChangeCityDropdown();"></select>
+              <select class="dropdown" id="districtDropdown" onchange="onChangeDistrictDropdown();"></select>
+              
+              <select class="dropdown" id="schoolDropdown"></select>
               <div class="school-visualizer">
               </div>
             </div>
           </div>
           <div class="credit">
             <span class="block">Data wrangling: <a target="_blank" href="https://github.com/thesadie" class="color-blue-faint">Sadie Gill</a> @ Flowwest.</span>
-            <span class="block">Mapping, front-end, data viz: <a target="_blank"href="https://lobenichou.com" class="color-blue-faint">Lo Bénichou </a>@ Mapbox.</span>
+            <span class="block">Mapping, front-end, data viz: Daniel Dufour & Victoria Mak @ GeoSurge.</span>
           </div>
         </div>
       </div>
@@ -68,10 +72,12 @@
   </section>
 
   <section id="key">
-    <span><span class="inline-block circle circle-blue" width=25vw ></span> Lead content < 1 ppb</span>
-    <span><span class="inline-block circle circle-yellow"></span> Lead content between 1 and 5 ppb</span>
+    <span><span class="inline-block circle circle-grey" width=25vw ></span> Exempt</span>
+        <span><span class="inline-block circle circle-blue"></span> Untested</span>
+    <span><span class="inline-block circle circle-yellow"></span> Lead content < 5 ppb</span>
     <span><span class="inline-block circle circle-orange"></span> Lead content between 5 and 15 ppb</span>
     <span ><span class="inline-block circle circle-red"></span> Lead content > 15 ppb</span>
+
   </section>
 
   <section class="table">

@@ -31,18 +31,45 @@ tabs.forEach(function(tab) {
   });
 })
 
+/*
+//tab 1 collapse
+var infoTab = document.getElementById("one");
+var infoContent = document.getElementById("one");
+
+infoTab.addEventListener("click", function() {
+  if (infoContent.style.display === "none") {
+    infoContent.style.display = null;
+  } else {
+    infoContent.display = "none";
+  }
+});
+
+
+//tab 2 collapse
+var dashboardTab = document.getElementById("two");
+var dashboardContent = document.getElementById("two");
+
+dashboardTab.addEventListener("click", function() {
+  if (dashboardContent.style.display === "none") {
+    dashboardContent.style.display = null;
+  } else {
+    dashboardContent.display = "none";
+  }
+}); 
+*/
+
+//Filters
 function populateDropdown(id, defaultName, optionArray) {
-  var dropdown = document.getElementById(id);
-  console.log("dropdown:", dropdown);
   var options = defaultName ? [ { 'val': -1, 'txt': defaultName }] : [];
   optionArray.map(function(optionValue, i) {
     options.push({ val: i, txt: optionValue });
   });
   console.log("options:", options);
-  fillDropdown(dropdown, options);
+  fillDropdown(id, options);
 }
 
-function fillDropdown(dropdown, options) {
+function fillDropdown(dropdownID, options) {
+  var dropdown = document.getElementById(dropdownID);  
   var innerHTML = '';
   options.forEach(function(option) {
     innerHTML += '<option value="' + option.val + '">' + option.txt + '</option>';
@@ -95,21 +122,20 @@ populateCountyDropdown();
 function populateCityDropdown() {
   var selectedCounty = document.getElementById("countyDropdown").value;
   if (selectedCounty === "County") {
-    populateDropdown("cityDropdown", null, []);
+    populateDropdown("cityDropdown", "City", []);
   } else {
     loadCooccurrences("county-to-city", function(cooccurrences) {
       var includedCityIds = cooccurrences[selectedCounty];
       if (includedCityIds !== undefined) { // undefined when page is loading
         loadIndex("city", function(cityIndex) {
-          var options = [];
+          var options = [{ val: -1, txt: 'City'}];
           includedCityIds.forEach(function(cityID) {
             var cityName = cityIndex[cityID];
-            if (cityName !== '') {
+            if (cityName !== '' && cityName !== 'NA') {
               options.push({ val: cityID, txt: cityName });
             }
           });
-          var dropdown = document.getElementById('cityDropdown');
-          fillDropdown(dropdown, options);
+          fillDropdown('cityDropdown', options);
         });        
       }
     });
@@ -117,6 +143,87 @@ function populateCityDropdown() {
 }
 
 populateCityDropdown();
+
+function populateDistrictDropdown() {
+  var selectedCounty = document.getElementById("countyDropdown").value;
+  if (selectedCounty === "County") {
+    populateDropdown("districtDropdown", "District", []);
+  } else {
+    loadCooccurrences("county-to-district", function(cooccurrences) {
+      var includedDistrictIds = cooccurrences[selectedCounty];
+      if (includedDistrictIds !== undefined) { //undefined when page is loading
+        loadIndex("district", function(districtIndex) {
+          var options = [{ val: -1, txt: 'School District'}];
+          includedDistrictIds.forEach(function(districtID) {
+            var districtName = districtIndex[districtID];
+            if (districtName !== '' || districtName !== 'NA') {
+              options.push({ val: districtID, txt: districtName });
+            }
+          });
+          fillDropdown('districtDropdown', options);
+        });
+      }
+    });
+  }
+}
+
+populateDistrictDropdown();
+
+function fillSchoolDropdown(schoolIDs) {
+  if (schoolIDs != undefined) { //undefined when page is loading
+    loadIndex("schoolName", function(schoolIndex) {
+      var options = [{ val: -1, txt: 'School'}];  
+      schoolIDs.forEach(function(schoolID) {
+        var schoolName = schoolIndex[schoolID];
+        options.push({ val: schoolID, txt: schoolName });
+      });
+      fillDropdown('schoolDropdown', options);  
+    });
+  }
+}
+
+function fillSchoolDropdownBySelection(cooccurrencesName, selectionID) {
+  loadCooccurrences(cooccurrencesName, function(cooccurrences) {
+      var idsOfSchools = cooccurrences[selectionID];
+      fillSchoolDropdown(idsOfSchools);
+  });  
+}
+
+function populateSchoolDropdown() {
+  var selectedCounty = getValue("countyDropdown");
+  var selectedCity = getValue("cityDropdown");
+  var selectedDistrict = getValue("districtDropdown");
+
+  var userHasSelectedCounty = selectedCounty != -1 && selectedCounty != '';
+  var userHasSelectedCity = selectedCity != -1 && selectedCity != '';
+  var userHasSelectedDistrict = selectedDistrict != -1 && selectedDistrict != '';
+
+  if (userHasSelectedCity) {
+    fillSchoolDropdownBySelection("city-to-schoolName", selectedCity);
+  } else if (userHasSelectedDistrict) {
+    fillSchoolDropdownBySelection("district-to-schoolName", selectedDistrict);
+  } else if (userHasSelectedCounty) {
+    fillSchoolDropdownBySelection("county-to-schoolName", selectedCounty);
+  } else {
+    populateDropdown("schoolDropdown", "School", []);      
+  }
+}
+
+function onChangeCountyDropdown() {
+  populateCityDropdown();
+  populateDistrictDropdown();
+  populateSchoolDropdown();
+}
+
+function onChangeCityDropdown() {
+  document.getElementById('districtDropdown').value = -1;
+  populateSchoolDropdown();      
+}
+
+function onChangeDistrictDropdown() {
+  document.getElementById('cityDropdown').value = -1;
+  populateSchoolDropdown();  
+}
 
 /*
 mapboxgl.accessToken = 'pk.eyJ1Ijoidml5bWFrIiwiYSI6ImNqdDdndWQ2dTAyc2Y0NHF1djgwY3FqYjYifQ.G_2fY2hb7vQSDHybmMXpbw';

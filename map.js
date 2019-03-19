@@ -1,7 +1,7 @@
 var geojson;
 var metadata;
 var csvPath = "data/ca_schools_lead_testing_data_geocoded.csv";
-rmax = 30 //maximum radius for cluster pies
+var rmax = 30 //maximum radius for cluster pies
 
 /*function that generates a svg markup for the pie chart*/
 function bakeThePie(options) {
@@ -100,14 +100,12 @@ function getCategory(properties) {
 		return "exempt"; 
 	} else if (status == "not tested") {
 		return "untested";
-	} else if (medianResult < 1 ) {
+	} else if (medianResult == "NA") {
 		return "low";
-	} else if (medianResult >= 1 && medianResult < 5) {
-		return "medium";
 	} else if (medianResult >= 5 && medianResult < 15) {
-		return "high";
+		return "medium";
 	} else if (medianResult >= 15) {
-		return "veryhigh";
+		return "high";
 	}
 }
 
@@ -121,9 +119,7 @@ function getTitle(category) {
 	} else if (category == "medium") {
 		return "Medium";
 	} else if (category == "high") {
-		return "High";
-	} else if (category == "veryhigh") {
-		return "veryhigh";
+		return "high";
 	}
 }
 
