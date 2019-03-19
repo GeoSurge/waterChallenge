@@ -132,25 +132,6 @@ h4, p {
   border: 1px solid rgb(69, 69, 69);
   border-radius: 50%;
 }
-.circle-grey {
-  background-color: #C8D2D3;
-}
-
-.circle-blue {
-  background-color: #A16BFF;
-}
-
-.circle-yellow {
-  background-color: #FFB624
-}
-
-.circle-orange {
-  background-color: #FF3624;
-}
-
-.circle-red {
-  background-color: #9E0000;
-}
 
 /* table section */
 .table {
@@ -180,17 +161,10 @@ h4, p {
 }
 
 .low {
-  fill: #FFB624;
+  fill: #F66257;
   stroke:   #A9A9A9;
-  background: #FFB624;
+  background: #F66257;
   border-color:  #A9A9A9;
-}
-
-.medium {
-  fill: #FF3624;
-  stroke: #A9A9A9;
-  background: #FF3624;
-  border-color: #A9A9A9;
 }
 
 .high {
@@ -201,16 +175,16 @@ h4, p {
 }
 
 .exempt {
-  fill:#C8D2D3;
+  fill:#05004E;
   stroke:#A9A9A9;
-  background:#C8D2D3;
+  background:#05004E;
   border-color: #A9A9A9;
 }
 
 .untested {
-  fill: #A16BFF;
+  fill: #06C2F4;
   stroke:#A9A9A9;
-  background:#A16BFF;
+  background:#06C2F4;
   border-color: #A9A9A9;
 }
 
@@ -222,6 +196,10 @@ h4, p {
   
   .map {
     width: 100%;
+    z-index: 2;
   }
 }
 
+.cluster-pie text{
+  stroke: white;
+}

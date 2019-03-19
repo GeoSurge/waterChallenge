@@ -33,6 +33,7 @@ tabs.forEach(function(tab) {
 })
 
 /*
+
 //tab 1 collapse
 var infoTab = document.getElementById("one");
 var infoContent = document.getElementById("one");
@@ -101,6 +102,7 @@ function loadIndex(name, callback) {
     "Alameda County": ["Berekely", "Fremont"]
   }
 */
+
 function loadCooccurrences(name, callback) {
   if (cache.cooccurrences[name]) {
     callback(cache.cooccurrences[name]);
@@ -274,42 +276,42 @@ function bakeThePie(options) {
 }
 
 function defineClusterIcon(cluster) {
-    var children = cluster.getAllChildMarkers();
-    var n = children.length; //Get number of markers in cluster
-    var strokeWidth = 1; //Set clusterpie stroke width
-    var r = rmax-2*strokeWidth-(n<10?12:n<100?8:n<1000?4:0); //Calculate clusterpie radius...
-    var iconDim = (r+strokeWidth)*2; //...and divIcon dimensions (leaflet really want to know the size)
-    var data = d3.nest() //Build a dataset for the pie chart
-          .key(function(d) {
-            return getCategory(d.feature.properties);
-          })
-          .entries(children, d3.map);
-        //bake some svg markup
-    var html = bakeThePie({
-      data: data,
-      valueFunc: function(d){
-        return d.values.length;
-      },
-      strokeWidth: 1,
-      outerRadius: r,
-      innerRadius: r-10,
-      pieClass: 'cluster-pie',
-      pieLabel: n,
-      pieLabelClass: 'marker-cluster-pie-label',
-      pathClassFunc: function(d){
-        return d.data.key;
-      },
-      pathTitleFunc: function(d){
-        return getTitle(d.data.key)+' ('+d.data.values.length+')';
-      }
-    });
-    //Create a new divIcon and assign the svg markup to the html property
-    var myIcon = new L.DivIcon({
-      html: html,
-      className: 'marker-cluster', 
-      iconSize: new L.Point(iconDim, iconDim)
-    });
-    return myIcon;
+  var children = cluster.getAllChildMarkers();
+  var n = children.length; //Get number of markers in cluster
+  var strokeWidth = 1; //Set clusterpie stroke width
+  var r = rmax-2*strokeWidth-(n<10?12:n<100?8:n<1000?4:0); //Calculate clusterpie radius...
+  var iconDim = (r+strokeWidth)*2; //...and divIcon dimensions (leaflet really want to know the size)
+  var data = d3.nest() //Build a dataset for the pie chart
+        .key(function(d) {
+          return getCategory(d.feature.properties);
+        })
+        .entries(children, d3.map);
+      //bake some svg markup
+  var html = bakeThePie({
+    data: data,
+    valueFunc: function(d){
+      return d.values.length;
+    },
+    strokeWidth: 1,
+    outerRadius: r,
+    innerRadius: r-10,
+    pieClass: 'cluster-pie',
+    pieLabel: n,
+    pieLabelClass: 'marker-cluster-pie-label',
+    pathClassFunc: function(d){
+      return d.data.key;
+    },
+    pathTitleFunc: function(d){
+      return getTitle(d.data.key)+' ('+d.data.values.length+')';
+    }
+  });
+  //Create a new divIcon and assign the svg markup to the html property
+  var myIcon = new L.DivIcon({
+    html: html,
+    className: 'marker-cluster',
+    iconSize: new L.Point(iconDim, iconDim)
+  });
+  return myIcon;
 }
 
 function getCategory(properties) {
@@ -321,9 +323,7 @@ function getCategory(properties) {
     return "untested";
   } else if (medianResult == "NA") {
     return "low";
-  } else if (medianResult >= 5 && medianResult < 15) {
-    return "medium";
-  } else if (medianResult >= 15) {
+  } else if (medianResult >= 5) {
     return "high";
   }
 }
@@ -335,10 +335,8 @@ function getTitle(category) {
     return "Untested";
   } else if (category == "low" ) {
     return "Low";
-  } else if (category == "medium") {
-    return "Medium";
   } else if (category == "high") {
-    return "high";
+    return "High";
   }
 }
 
@@ -354,7 +352,12 @@ function getMarkerClass(properties) {
 function defineFeature(feature, latlng) {
   var props = feature.properties;
   props.hidden = false;
-  return L.circleMarker(latlng, {className: getMarkerClass(props)});
+  var options = {
+    className: getMarkerClass(props),
+    fillOpacity: 0.8,
+    weight: 1
+  };
+  return L.circleMarker(latlng, options);
 }
 
 function loadGeoJSON(url, callback) {
@@ -372,12 +375,12 @@ function loadGeoJSON(url, callback) {
 
 /*Helper function*/
 function serializeXmlNode(xmlNode) {
-    if (typeof window.XMLSerializer != "undefined") {
-        return (new window.XMLSerializer()).serializeToString(xmlNode);
-    } else if (typeof xmlNode.xml != "undefined") {
-        return xmlNode.xml;
-    }
-    return "";
+  if (typeof window.XMLSerializer != "undefined") {
+    return (new window.XMLSerializer()).serializeToString(xmlNode);
+  } else if (typeof xmlNode.xml != "undefined") {
+    return xmlNode.xml;
+  }
+  return "";
 }
 
 
