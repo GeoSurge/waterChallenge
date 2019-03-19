@@ -6,7 +6,7 @@ outpath = "ca_schools_lead_testing_data_geocoded.csv"
 with open("ca_schools_lead_testing_data.csv") as f:
   dictReader = DictReader(f)
   schools = list(dictReader)
-  fieldnames = dictReader.fieldnames + ["latitude", "longitude"]
+  fieldnames = dictReader.fieldnames + ["city", "county", "latitude", "longitude"]
 
 with open(outpath, "w") as f:
   dictWriter = DictWriter(f, fieldnames=fieldnames)
@@ -15,8 +15,10 @@ with open(outpath, "w") as f:
 misses = 0
 
 for index, school in enumerate(schools):
+  print("\nindex:", index)
   url = "https://nominatim.openstreetmap.org/search"
   params = {
+    "addressdetails": 1,
     "format": "json",
     "q": school["schoolAddress"],
     "state": "CA",
@@ -25,14 +27,17 @@ for index, school in enumerate(schools):
   responses = get(url, params=params).json()
   if len(responses) > 0:
     response = responses[0]
+    print("response:", response)
+    address = response['address']
+    school['city'] = address.get('city','')
+    school['county'] = address.get('county', '')
     school['latitude'] = response['lat']
     school['longitude'] = response['lon']
-    print("response:", response)
   else:
     print("none found")
     misses += 1
   print("sleeping")
-  sleep(5)
+  sleep(10)
   print("percentage missed:", float(misses) / (index+1))
 
   with open("ca_schools_lead_testing_data_geocoded.csv", "a") as f:
