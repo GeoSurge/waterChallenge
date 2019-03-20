@@ -454,7 +454,7 @@ function filterMapByPropertyValue(property, value) {
   markerclusters.addLayer(markers);
 
   // zoom to filtered data
-  calLead.fitBounds(markerclusters.getBounds())
+  calLead.fitBounds(markerclusters.getBounds());
 }
 
 function toNumber(inpt) {
@@ -529,7 +529,15 @@ function updateSchoolInfo(schoolID) {
     var schoolImage = document.getElementById("school-image");
     schoolImage.style.display = "block";
     schoolImage.src = "img/school-" + category + ".svg";
-  })
+
+    var schoolLeadResult = document.getElementById("school-lead-result");
+    schoolLeadResult.style.display = "block";
+    schoolLeadResult.textContent = leadDisplayText;
+
+    var schoolNameDisplay = document.getElementById("school-name");
+    schoolNameDisplay.style.display = "block";
+    schoolNameDisplay.textContent = schoolName;
+  });
 
 }
 
@@ -543,10 +551,6 @@ function resetMap() {
     pointToLayer: defineFeature
   });
   markerclusters.addLayer(markers);
-}
-
-function resetTable() {
-  console.log("starting resetTable");
 }
 
 function filterMapAndTable() {
@@ -594,4 +598,14 @@ function onChangeDistrictDropdown() {
 
 function onChangeSchoolDropdown() {
   filterMapAndTable();
+  var selectedSchool = getValue("schoolDropdown");
+
+  var layers = markerclusters.getLayers();
+  for (var i = 0; i < layers.length; i++) {
+    var layer = layers[i];
+    if (layer.feature.properties.schoolName == selectedSchool) {
+      calLead.flyTo(layer._latlng, 15);
+      break;
+    }
+  }
 }
