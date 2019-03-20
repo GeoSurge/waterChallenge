@@ -120,8 +120,10 @@ body {
   background: rgb(84, 95, 96);
   line-height: 5;
   border: lightslategrey;
+  border: 1px solid dimgrey;
   color: rgb(240,240,240);
   width: 95%;
+  background: rgb(84, 95, 96, .8) !important;
 }
  
 
@@ -215,10 +217,10 @@ body {
 
 .untested {
   /*fill: #06C2F4; #DFFF00*/ 
-  fill: #B2FF59;
+  fill: #DFFF00;
   stroke:#A9A9A9;
   /*background:#06C2F4;*/
-  background: #B2FF59;
+  background: #DFFF00;
   border-color: #A9A9A9;
 }
 
@@ -264,11 +266,6 @@ body {
   .data {
     height: auto;
     width: 100%;
-  }
-
-  .dropdown {
-    background: rgb(84, 95, 96, .8) !important;
-    border: 1px solid dimgrey;
   }
 
   #credits {

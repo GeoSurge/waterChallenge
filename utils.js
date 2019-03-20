@@ -24,7 +24,6 @@ function loadTSV(url, callback) {
 function loadCSVFromText(text, callback) {
 	const splat = text.split("\n");
 	const header = splat[0].split(",");
-	console.log("header:", header);
 	const lines = splat.slice(1, -1);
 	const rows = lines.map(function(line) {
 		const row = {};

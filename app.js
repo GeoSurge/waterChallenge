@@ -27,7 +27,7 @@ tabs.forEach(function(tab) {
         document.getElementById('credits').style.display = 'none'; 
       }
     } else  {
-      console.log("you clicked a closed tab", target);
+      console.log("you clicked a closed tab");
       tabs.forEach(function(tab) {
         tab.className = '';
       });
@@ -57,7 +57,6 @@ function populateDropdown(id, defaultName, optionArray) {
   optionArray.map(function(optionValue, i) {
     options.push({ val: i, txt: optionValue });
   });
-  console.log("options:", options);
   fillDropdown(id, options);
 }
 
@@ -65,7 +64,8 @@ function fillDropdown(dropdownID, options) {
   var dropdown = document.getElementById(dropdownID);  
   var innerHTML = '';
   options.forEach(function(option) {
-    innerHTML += '<option value="' + option.val + '">' + option.txt + '</option>';
+    var selectedText = option.selected ? 'selected' : false;
+    innerHTML += '<option value="' + option.val + '" ' + selectedText + '>' + option.txt + '</option>';
   });
   dropdown.innerHTML = innerHTML;
 }
@@ -175,23 +175,24 @@ function populateDistrictDropdown() {
 
 populateDistrictDropdown();
 
-function fillSchoolDropdown(schoolIDs) {
+function fillSchoolDropdown(schoolIDs, selectedSchoolID) {
   if (schoolIDs != undefined) { //undefined when page is loading
     loadIndex("schoolName", function(schoolIndex) {
       var options = [{ val: -1, txt: 'School'}];  
       schoolIDs.forEach(function(schoolID) {
         var schoolName = schoolIndex[schoolID];
-        options.push({ val: schoolID, txt: schoolName });
+        var selected = schoolID == selectedSchoolID;
+        options.push({ val: schoolID, txt: schoolName, selected: selected});
       });
       fillDropdown('schoolDropdown', options);  
     });
   }
 }
 
-function fillSchoolDropdownBySelection(cooccurrencesName, selectionID) {
+function fillSchoolDropdownBySelection(cooccurrencesName, selectionID, selectedSchoolID) {
   loadCooccurrences(cooccurrencesName, function(cooccurrences) {
       var idsOfSchools = cooccurrences[selectionID];
-      fillSchoolDropdown(idsOfSchools);
+      fillSchoolDropdown(idsOfSchools, selectedSchoolID);
   });  
 }
 
@@ -209,7 +210,7 @@ function populateSchoolDropdown() {
   } else if (userHasSelectedDistrict) {
     fillSchoolDropdownBySelection("district-to-schoolName", selectedDistrict);
   } else if (userHasSelectedCounty) {
-    fillSchoolDropdownBySelection("county-to-schoolName", selectedCounty);
+    fillSchoolDropdownBySelection("county-to-schoolName", selectedCounty, null);
   } else {
     populateDropdown("schoolDropdown", "School", []);      
   }
@@ -363,6 +364,21 @@ function defineFeature(feature, latlng) {
   return L.circleMarker(latlng, options);
 }
 
+function defineFeatureClickEvent(feature, layer) {
+  layer.on('click', function(event) {
+    var feature = event.target.feature;
+    console.log("feature:", feature);
+    var countyID = feature.properties.county;
+    var selector = '#countyDropdown option[value="' + countyID + '"]';
+    document.querySelector(selector).selected = true;
+
+    var schoolID = feature.properties.schoolName;
+    fillSchoolDropdownBySelection("county-to-schoolName", countyID, schoolID);
+
+    updateSchoolInfo(schoolID);
+  });
+}
+
 function loadGeoJSONFromText(text, callback) {
   var options = {
     latfield: 'latitude',
@@ -415,8 +431,8 @@ loadText(csvPath, function(text) {
   loadGeoJSONFromText(text, function(geojson) {
     cache.geojson = geojson
     var markers = L.geoJson(geojson, {
-      pointToLayer: defineFeature //,
-      // onEachFeature: defineFeatureClickEvent
+      pointToLayer: defineFeature,
+      onEachFeature: defineFeatureClickEvent
     });
     markerclusters.addLayer(markers);
   });
@@ -431,7 +447,8 @@ function filterMapByPropertyValue(property, value) {
     type: "FeatureCollection"
   };
   var markers = L.geoJson(newGeoJson, {
-    pointToLayer: defineFeature
+    pointToLayer: defineFeature,
+    onEachFeature: defineFeatureClickEvent
   });
   markerclusters.addLayer(markers);
 
@@ -493,34 +510,34 @@ function loadCSVFromURL(url, callback) {
 
 // medianResult and status are decompressed by default
 function updateSchoolInfo(schoolID) {
-  var schoolName = cache.indices.schoolName[schoolID];
-  console.log("schoolName:", schoolName);
-  var school = cache.geojson.features.filter(function(feature) {
-    return feature.properties.schoolName == schoolID;
-  })[0];
-  var props = school.properties;
-  loadIndices(["lead", "schoolName"], function(){
-    var info = {
-      lead: cache.indices.lead[props.lead],
-      medianResult: props.medianResult,
-      status: props.status
-    };
-    var leadDisplayText = getLeadLevelDisplay(info);
-    var category = getCategory(info);
+  loadIndex("schoolName", function() {
+    var schoolName = cache.indices.schoolName[schoolID];
+    var school = cache.geojson.features.filter(function(feature) {
+      return feature.properties.schoolName == schoolID;
+    })[0];
+    var props = school.properties;
+    loadIndex("lead", function(){
+      var info = {
+        lead: cache.indices.lead[props.lead],
+        medianResult: props.medianResult,
+        status: props.status
+      };
+      var leadDisplayText = getLeadLevelDisplay(info);
+      var category = getCategory(info);
 
-    var schoolImage = document.getElementById("school-image");
-    schoolImage.style.display = "block";
-    schoolImage.src = "img/school-" + category + ".svg";
+      var schoolImage = document.getElementById("school-image");
+      schoolImage.style.display = "block";
+      schoolImage.src = "img/school-" + category + ".svg";
 
-    var schoolLeadResult = document.getElementById("school-lead-result");
-    schoolLeadResult.style.display = "block";
-    schoolLeadResult.textContent = leadDisplayText;
+      var schoolLeadResult = document.getElementById("school-lead-result");
+      schoolLeadResult.style.display = "block";
+      schoolLeadResult.textContent = leadDisplayText;
 
-    var schoolNameDisplay = document.getElementById("school-name");
-    schoolNameDisplay.style.display = "block";
-    schoolNameDisplay.textContent = schoolName;
+      var schoolNameDisplay = document.getElementById("school-name");
+      schoolNameDisplay.style.display = "block";
+      schoolNameDisplay.textContent = schoolName;
+    });
   });
-
 }
 
 function filterMapAndTableByPropertyValue(property, value) {
@@ -530,7 +547,8 @@ function filterMapAndTableByPropertyValue(property, value) {
 
 function resetMap() {
   var markers = L.geoJson(cache.geojson, {
-    pointToLayer: defineFeature
+    pointToLayer: defineFeature,
+    onEachFeature: defineFeatureClickEvent
   });
   markerclusters.addLayer(markers);
 }
