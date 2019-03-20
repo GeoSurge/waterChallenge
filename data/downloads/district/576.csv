@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Oakland Unified School District,Centro Infantil CDC,2660 East 16th Street Oakland CA 94619,5.2,ppb,TRUE,tested,Oakland,Alameda County,37.7827337507615,-122.230335355299
+Oakland Unified School District,Jefferson CDC,1975 40th Avenue Oakland CA 94601,NA,NA,FALSE,tested,Oakland,Alameda County,37.7786300323369,-122.213972953112
+Oakland Unified School District,LPS Oakland R & D Campus,8601 MacArthur Boulevard Building 100 Oakland CA 94605,NA,NA,NA,not tested,,,,
+Oakland Unified School District,Manzanita CDC,2618 Grande Vista Avenue Oakland CA 94601,NA,NA,FALSE,tested,Oakland,Alameda County,37.7919366091505,-122.226267052211
+Oakland Unified School District,Temporary Alternative Program & Young Adult Program,1011 Union Street Oakland  CA 94607,NA,NA,FALSE,tested,Oakland,Alameda County,37.8073273737374,-122.289435828283

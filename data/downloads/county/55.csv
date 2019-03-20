@@ -1,0 +1,16 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+NA,Alvord Adult Education,NA,5.7,ppb,TRUE,tested,,Trøndelag,64.5731537,11.5280364395482
+NA,Ballard Elementary,NA,10,ppb,TRUE,tested,,Trøndelag,64.5731537,11.5280364395482
+NA,Big Sur Charter,NA,NA,NA,FALSE,tested,,Trøndelag,64.5731537,11.5280364395482
+NA,Calaveras Elementary,NA,NA,NA,FALSE,tested,,Trøndelag,64.5731537,11.5280364395482
+NA,Hickman Charter,NA,NA,NA,FALSE,tested,,Trøndelag,64.5731537,11.5280364395482
+NA,High Tech Middle Media Arts,NA,NA,NA,FALSE,tested,,Trøndelag,64.5731537,11.5280364395482
+NA,KIPP Adelante Preparatory Academy,NA,NA,NA,FALSE,tested,,Trøndelag,64.5731537,11.5280364395482
+NA,LPS Oakland R & D Campus,NA,NA,NA,FALSE,tested,,Trøndelag,64.5731537,11.5280364395482
+NA,Memorial Scholars & Athletes,NA,NA,NA,FALSE,tested,,Trøndelag,64.5731537,11.5280364395482
+NA,New Day Academy,NA,NA,NA,FALSE,tested,,Trøndelag,64.5731537,11.5280364395482
+NA,Norman R. Brekke Elementary,NA,NA,NA,FALSE,tested,,Trøndelag,64.5731537,11.5280364395482
+La Mesa-Spring Valley School District,"Science, Technology, Engineering, Arts and Math Academy at La Presa",NA,NA,NA,NA,exempt,,Trøndelag,64.5731537,11.5280364395482
+NA,Spectrum Center - Mission Valley,NA,NA,NA,FALSE,tested,,Trøndelag,64.5731537,11.5280364395482
+NA,Sycamore Rocks Elementary,NA,NA,NA,FALSE,tested,,Trøndelag,64.5731537,11.5280364395482
+NA,Tule Elk Park Children Center,NA,5.5,ppb,TRUE,tested,,Trøndelag,64.5731537,11.5280364395482

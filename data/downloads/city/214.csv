@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Palm Springs Unified,Katherine Finchy Elementary,777 East Tachevah Drive Palm Springs CA 92262-4903,NA,NA,NA,not tested,Palm Springs,Riverside County,33.837531,-116.538991232314
+NA,Palm Springs Community School,1800 E. Vista Chino Palm Springs CA 92262,NA,NA,FALSE,tested,Palm Springs,Riverside County,33.844939,-116.526885
+Palm Springs Unified,Raymond Cree Middle,1011 Vista Chino Palm Springs CA 92262-3207,NA,NA,FALSE,tested,Palm Springs,Riverside County,33.844915,-116.5019535

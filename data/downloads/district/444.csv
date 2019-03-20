@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Long Beach Unified School District,Bethune Elementary,2101 San Gabriel Avenue Long Beach CA 90810,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.7934270764983,-118.223814635948
+Long Beach Unified School District,Browning High School,2180 Obispo Avenue Long Beach CA 90804,NA,NA,NA,not tested,Signal Hill,Los Angeles County,33.796921,-118.154466
+Long Beach Unified School District,Cambodian Christian School K-12,2474 Pacific Avenue Long Beach CA 90806,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.802057244898,-118.19361077551
+Long Beach Unified School District,First Baptist Church School K-12,1000 Pine Avenue Long Beach CA 90813,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.779096,-118.192277
+Long Beach Unified School District,Lakewood Christian School PK-8,5336 E. Arbor Road Long Beach CA 90808,NA,NA,NA,not tested,,,,
+Long Beach Unified School District,Paalacademy High School,1545 Long Beach Boulevard Long Beach CA 90813,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.7863142243693,-118.189469429169
+Long Beach Unified School District,Smith Elementary School,565 E. Hill Street Long Beach CA 90806,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.7971981666667,-118.18571975

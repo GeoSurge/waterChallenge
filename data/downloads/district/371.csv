@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Kern County Superintendent of Schools,Karl F. Clemens State Preschool,523 Broadway Ave. Wasco CA 93280,NA,NA,FALSE,tested,,Kern County,35.5959361530612,-119.338052826531
+Kern County Superintendent of Schools,Wasco Child Development Center,617 6th Street Wasco CA 93280,NA,NA,NA,not tested,,Kern County,35.5954736482412,-119.32883161809
+Kern County Superintendent of Schools,Wasco Child Development Center (H St.),764 H Street Wasco CA 93280,NA,NA,NA,not tested,,Kern County,35.5927526730769,-119.330810826923
+Kern County Superintendent of Schools,West Kern Community School,301 North Street Taft CA 93268,NA,NA,NA,not tested,Taft,Kern County,35.140832,-119.455869

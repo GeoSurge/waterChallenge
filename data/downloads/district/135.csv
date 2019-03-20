@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Central Union High,Central Union High,1001 Brighton Avenue El Centro CA 92243-3110,NA,NA,FALSE,tested,,,,
+Central Union High,Desert Oasis High (Continuation),1302 South Third St El Centro CA 92243-6604,NA,NA,FALSE,tested,,,,
+Central Union High,Phoenix Rising High,351 1/2 Ross Ave. El Centro CA 92243-6604,NA,NA,FALSE,tested,,,,
+Central Union High,Southwest High,2001 Ocotillo Drive El Centro CA 92243-9451,NA,NA,FALSE,tested,El Centro,Imperial County,32.777308,-115.578517

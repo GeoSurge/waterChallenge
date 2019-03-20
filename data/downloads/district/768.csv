@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Santa Rita Union Elementary,Bolsa Knolls Middle,1031 Rogge Road Salinas CA 93906-1305,13,ppb,TRUE,tested,,,,
+Santa Rita Union Elementary,Gavilan View Middle,18250 Vab Buren Salinas CA 93906-4300,NA,NA,FALSE,tested,,,,
+Santa Rita Union Elementary,La Joya Elementary,55 Rogge Road Salinas CA 93906-1301,NA,NA,FALSE,tested,,,,
+Santa Rita Union Elementary,McKinnon,2100 McKinnon Salinas CA 93906-5700,NA,NA,FALSE,tested,Salinas,Monterey County,36.7172769393939,-121.643541121212
+Santa Rita Union Elementary,New Republic Elementary,636 Arcadia Way Salinas CA 93906-5422,NA,NA,FALSE,tested,Salinas,Monterey County,36.7137202295474,-121.628195397438
+Santa Rita Union Elementary,Santa Rita Elementary,2014 South Santa Rita Street Salinas CA 93906-1912,NA,NA,FALSE,tested,Salinas,Monterey County,36.724483,-121.653558

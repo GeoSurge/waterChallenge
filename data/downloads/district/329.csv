@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Hayward Unified School District,Eden Area ROP,26316 Hesperian Blvd Hayward CA 94545,NA,NA,FALSE,tested,Hayward,Alameda County,37.6386646,-122.1004683
+Hayward Unified School District,Student Information and Assessment Center (SIAC),27211 Tyrrell Avenue Hayward CA 94544,8.5,ppb,TRUE,tested,Hayward,Alameda County,37.6364929930587,-122.074616184804

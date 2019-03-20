@@ -1,8 +1,15 @@
 var cache = {
   cooccurrences: {},
+  downloads: {},
   markers: null,
   indices: {}
 };
+
+var appState = {
+  selectedCity: null,
+  selectedDistrict: null,
+  selectedCounty: null
+}
 
 /* tab switching */
 var tabs =  Array.prototype.slice.call(document.querySelectorAll("#sub-panel .tabs li a"));
@@ -24,9 +31,11 @@ tabs.forEach(function(tab) {
       if (tabID === 'info-tab') {
         document.getElementById('one').style.display = 'block';
         document.getElementById('two').style.display = 'none';
+        document.getElementById('credits').style.display = 'none';
       } else if (tabID=== 'dashboard-tab') {
         document.getElementById('one').style.display = 'none';
         document.getElementById('two').style.display = 'block';
+        document.getElementById('credits').style.display = 'block';
       }
     }
   });
@@ -95,6 +104,18 @@ function loadIndex(name, callback) {
       callback(index);
     });
   }
+}
+
+function loadIndices(names, callback) {
+  var loadedIndices = {};
+  names.forEach(function(name) {
+    loadIndex(name, function(index) {
+      loadedIndices[name] = index;
+      if (Object.keys(loadedIndices).length === names.length) {
+        callback(loadedIndices);
+      }
+    });
+  });
 }
 
 /*
@@ -360,16 +381,14 @@ function defineFeature(feature, latlng) {
   return L.circleMarker(latlng, options);
 }
 
-function loadGeoJSON(url, callback) {
-  loadText(url, function(text) {
-    var options = {
-      latfield: 'latitude',
-      longitude: 'longitude',
-      delimiter: ','
-    };
-    csv2geojson.csv2geojson(text, options, function(err, data) {
-      callback(data);
-    });
+function loadGeoJSONFromText(text, callback) {
+  var options = {
+    latfield: 'latitude',
+    longitude: 'longitude',
+    delimiter: ','
+  };
+  csv2geojson.csv2geojson(text, options, function(err, data) {
+    callback(data);
   });
 }
 
@@ -408,13 +427,17 @@ var markerclusters = L.markerClusterGroup({
 //add the empty markercluster layer
 calLead.addLayer(markerclusters);
 
-loadGeoJSON(csvPath, function(geojson) {
-  cache.geojson = geojson
-  var markers = L.geoJson(geojson, {
-    pointToLayer: defineFeature //,
-    // onEachFeature: defineFeatureClickEvent
+// initially loading the data
+loadText(csvPath, function(text) {
+  cache.text = text;
+  loadGeoJSONFromText(text, function(geojson) {
+    cache.geojson = geojson
+    var markers = L.geoJson(geojson, {
+      pointToLayer: defineFeature //,
+      // onEachFeature: defineFeatureClickEvent
+    });
+    markerclusters.addLayer(markers);
   });
-  markerclusters.addLayer(markers);
 });
 
 function filterMapByPropertyValue(property, value) {
@@ -434,6 +457,87 @@ function filterMapByPropertyValue(property, value) {
   calLead.fitBounds(markerclusters.getBounds())
 }
 
+function toNumber(inpt) {
+  try {
+    return Number(inpt);
+  } catch (error) {
+    return inpt;
+  }
+}
+
+function getLeadLevelDisplay(row) {
+  var medianResult = toNumber(row.medianResult);
+  if (medianResult > 0) {
+    return medianResult + " ppb";
+  } else if (row.lead === "FALSE") {
+    return "< 5 ppb";
+  } else if (row.status === "not tested") {
+    return "Not Tested";
+  } else if (row.status === 'exempt') {
+    return "Exempt";
+  } else {
+    return "NA";
+  }
+}
+
+function filterTableByPropertyValue(property, value) {
+  var tableBody = document.getElementById('table-body');
+  tableBody.innerHTML = 'loading'; // clears
+  var url = 'data/downloads/' + property + '/' + value + '.csv';
+  loadCSVFromURL(url, function(rows) {
+    var tableBodyInnerHTML = '';
+    rows.forEach(function(row) {
+      var category = getCategory({ medianResult: row.medianResult, status: row.status });
+      var leadLevel = getLeadLevelDisplay(row);
+      tableBodyInnerHTML += '<tr><td><span class="inline-block circle ' + category + '"></span><span> ' + leadLevel + ' </span></td><td> ' + row.schoolName + ' </td><td> ' + row.district + ' </td><td> ' + row.schoolAddress + ' </td></tr>';
+      tableBody.innerHTML = tableBodyInnerHTML;
+    });
+  });
+  document.getElementById('download-table').href = url;
+}
+
+function loadCSVFromURL(url, callback) {
+  if (cache.downloads[url]) {
+    callback(cache.downloads[url]);
+  } else {
+    loadText(url, function(text) {
+      loadCSVFromText(text, function(rows) {
+        cache.downloads[url] = rows;
+        callback(cache.downloads[url]);
+      });
+    });    
+  }
+}
+
+// medianResult and status are decompressed by default
+function updateSchoolInfo(schoolID) {
+  var schoolName = cache.indices.schoolName[schoolID];
+  console.log("schoolName:", schoolName);
+  var school = cache.geojson.features.filter(function(feature) {
+    return feature.properties.schoolName == schoolID;
+  })[0];
+  var props = school.properties;
+  loadIndices(["lead", "schoolName"], function(){
+    var info = {
+      lead: cache.indices.lead[props.lead],
+      medianResult: props.medianResult,
+      status: props.status
+    };
+    var leadDisplayText = getLeadLevelDisplay(info);
+    var category = getCategory(info);
+
+    var schoolImage = document.getElementById("school-image");
+    schoolImage.style.display = "block";
+    schoolImage.src = "img/school-" + category + ".svg";
+  })
+
+}
+
+function filterMapAndTableByPropertyValue(property, value) {
+  filterMapByPropertyValue(property, value);
+  filterTableByPropertyValue(property, value);
+}
+
 function resetMap() {
   var markers = L.geoJson(cache.geojson, {
     pointToLayer: defineFeature
@@ -441,21 +545,29 @@ function resetMap() {
   markerclusters.addLayer(markers);
 }
 
-function filterMap() {
+function resetTable() {
+  console.log("starting resetTable");
+}
+
+function filterMapAndTable() {
   var selectedCounty = getValue("countyDropdown");
   var selectedCity = getValue("cityDropdown");
   var selectedDistrict = getValue("districtDropdown");
+  var selectedSchool = getValue("schoolDropdown");
 
   var userHasSelectedCounty = selectedCounty != -1 && selectedCounty != '';
   var userHasSelectedCity = selectedCity != -1 && selectedCity != '';
   var userHasSelectedDistrict = selectedDistrict != -1 && selectedDistrict != '';
+  var userHasSelectedSchool = selectedSchool != -1 && selectedSchool != '';
 
-  if (userHasSelectedCity) {
-    filterMapByPropertyValue("city", selectedCity);
+  if (userHasSelectedSchool) {
+    updateSchoolInfo(selectedSchool);
+  } else if (userHasSelectedCity) {
+    filterMapAndTableByPropertyValue("city", selectedCity);
   } else if (userHasSelectedDistrict) {
-    filterMapByPropertyValue("district", selectedDistrict);
+    filterMapAndTableByPropertyValue("district", selectedDistrict);
   } else if (userHasSelectedCounty) {
-    filterMapByPropertyValue("county", selectedCounty);
+    filterMapAndTableByPropertyValue("county", selectedCounty);
   } else {
     resetMap();
   }
@@ -465,17 +577,21 @@ function onChangeCountyDropdown() {
   populateCityDropdown();
   populateDistrictDropdown();
   populateSchoolDropdown();
-  filterMap();
+  filterMapAndTable();
 }
 
 function onChangeCityDropdown() {
   getValue('districtDropdown').value = -1;
   populateSchoolDropdown();
-  filterMap();   
+  filterMapAndTable();   
 }
 
 function onChangeDistrictDropdown() {
   document.getElementById('cityDropdown').value = -1;
   populateSchoolDropdown();
-  filterMap();
+  filterMapAndTable();
+}
+
+function onChangeSchoolDropdown() {
+  filterMapAndTable();
 }

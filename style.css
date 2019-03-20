@@ -61,9 +61,11 @@ h4, p {
   display: block;
 }
 
-.credit {
+#credits {
   font-size: 12px;
   margin-bottom: 12px;
+  position: absolute;
+  bottom: 15px;
 }
 
 .center {
@@ -86,8 +88,8 @@ h4, p {
 /* tab 2 */
 #dashboard {
   height: 200px;
-  width: 25%;
-  text-align: center;
+  width: 80%;
+  text-align: left;
 }
 
 .dropdown {
@@ -134,7 +136,7 @@ h4, p {
 }
 
 /* table section */
-.table {
+#table {
   z-index: 3;
   background-color: rgba(210, 218, 219, 90);
 }
@@ -182,9 +184,11 @@ h4, p {
 }
 
 .untested {
-  fill: #06C2F4;
+  /*fill: #06C2F4; #DFFF00*/ 
+  fill: #B2FF59;
   stroke:#A9A9A9;
-  background:#06C2F4;
+  /*background:#06C2F4;*/
+  background: #B2FF59;
   border-color: #A9A9A9;
 }
 
@@ -202,4 +206,30 @@ h4, p {
 
 .cluster-pie text{
   stroke: white;
+}
+
+.button {
+  background: #6edeef;
+  box-shadow: 2px 2px 2px darkcyan;
+  color: #545f60 !important;
+  cursor: pointer;
+  font-weight: normal;
+  border-radius: 5px;
+  padding: 5px; 
+}
+
+#download-table {
+  float: right;
+  right: 20px;
+  text-decoration: none;
+}
+
+#school-visualizer {
+  height: 200px;
+  text-align: center;
+}
+
+#school-image {
+  position: relative;
+  width: 80%;
 }

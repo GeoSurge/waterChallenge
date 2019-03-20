@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Brittan Elementary,Brittan Elementary,2340 Pepper Street Sutter CA 95982-2430,NA,NA,NA,not tested,,Sutter County,39.161842705802,-121.746565444246
+Live Oak Unified,Live Oak High,2351 Pennington Road Live Oak CA 95953-2402,NA,NA,NA,not tested,,Sutter County,39.2761550259495,-121.657562309866
+Live Oak Unified,Live Oak Middle,2082 Pennington Road Live Oak CA 95953-2516,NA,NA,NA,not tested,,Sutter County,39.275977,-121.65283
+Live Oak Unified,Luther Elementary,10123 Connecticut Avenue Live Oak CA 95953-2001,NA,NA,NA,not tested,,Sutter County,39.2773199183673,-121.66797555102
+Sutter County Office of Education,Sutter County Adult,1699 Sierra Avenue Yuba City CA 95993-8982,NA,NA,NA,not tested,Yuba City,Sutter County,39.140463,-121.648669
+Yuba City Unified,Sutter County Superintendent,970 Klamath Yuba City CA 95993,NA,NA,NA,not tested,Yuba City,Sutter County,39.1397708911588,-121.651787495456
+Sutter Union High,Sutter High,2665 Acacia St Sutter CA 95982,NA,NA,NA,not tested,,Sutter County,38.8706922,-121.7040075
+Yuba City Unified,Twin Rivers Charter,840 Cooper Avenue Yuba City CA 95991-3849,NA,NA,NA,not tested,Yuba City,Sutter County,39.1380695252414,-121.623716938328
+Live Oak Unified,Valley Oak Continuation High,2207 Pennington Rd Live Oak CA 95953-2402,NA,NA,NA,not tested,,Sutter County,39.276146,-121.654371367705

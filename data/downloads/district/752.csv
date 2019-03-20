@@ -1,0 +1,9 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Sanger Unified,Del Rey Elementary,10620 Morro Street Del Rey CA 93616-0068,NA,NA,NA,not tested,,,,
+Sanger Unified,John S. Wash Elementary,6350 East Lane Avenue Fresno CA 93727-5734,NA,NA,FALSE,tested,Fresno,Fresno County,36.7333318287666,-119.675720166214
+Sanger Unified,Madison Elementary,2324 Cherry Street Sanger CA 93657-3608,NA,NA,NA,not tested,,,,
+Sanger Unified,Quail Lake Environmental Charter,4087 North Quail Lake Drive Clovis CA 93611-4646,NA,NA,NA,not tested,,,,
+Sanger Unified,Sanger Academy Charter,2207 Ninth Street Sanger CA 93657-2711,NA,NA,NA,not tested,,,,
+Sanger Unified,Sanger High,1045 Bethel Ave Sanger CA 93657-2985,NA,NA,NA,not tested,Sanger,Fresno County,36.70125325,-119.57777875281
+Sanger Unified,Sequoia Elementary,1820 South Armstrong Avenue Fresno CA 93727-6724,NA,NA,FALSE,tested,Fresno,Fresno County,36.71037085,-119.671306150078
+Sanger Unified,Washington Academic Middle,1705 Tenth Street Sanger CA 93657-2799,NA,NA,NA,not tested,,,,

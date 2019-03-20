@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Mountain Valley Unified,Hayfork Elementary,6930 State Highway 3 Hayfork CA 96041-0070,10.365,ppb,TRUE,tested,,,,
+Mountain Valley Unified,Hayfork High,231 Oak Street Hayfork CA 96041-0010,NA,NA,FALSE,tested,,,,

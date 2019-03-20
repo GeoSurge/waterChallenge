@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Milpitas Unified School District,Rose Child Development Center,205A Rosewell Drive Milpitas CA 95035,NA,NA,NA,not tested,,,,
+Milpitas Unified School District,Sunnyhills Child Development Center,365 Dixon Road Milpitas CA 95035,8.55,ppb,TRUE,tested,Milpitas,Santa Clara County,37.4599192105263,-121.904596210526

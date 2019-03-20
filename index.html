@@ -35,16 +35,17 @@
       <div id="sub-panel">
         <ul class="tabs group" id="main-tabs">
           <li id="info-tab"><a class="active" href="#/one">Info</a></li>
-          <li id="dashboard-tab"><a href="#/two">Dashboard</a></li>
+          <li id="dashboard-tab"><a href="#/two">Find My School</a></li>
         </ul>
         <div id="content">
           <div id="one" class="scroll-auto">
           <h4>Lead Levels in California Schools</h4>
             <p>There is no safe level of lead, especially for children. Even small amounts can lower IQ. Damage from lead exposure is irreversible.</p>
-            <p>California community water systems are required by the state to test drinking water for lead at the schools they serve by June 2019.</p>
-            This map shows the highest lead levels detected at each school based on the <a target="_blank" href="https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/leadsamplinginschools.html" class="color-blue-faint">latest publicly available data as of 3/12/2019</a>. It includes data through 1/12/2019. In cases where school districts have provided more data, we included that too.</p>
-            <p>Although there is no safe level of lead, the state is only required to share results when lead levels are above 5 PPB. Some schools did their own testing and have publicly shared results down to 1PPB. <a target="_blank" href="https://www.aap.org/en-us/about-the-aap/aap-press-room/pages/With-No-Amount-of-Lead-Exposure-Safe-for-Children,-American-Academy-of-Pediatrics-Calls-For-Stricter-Regulations.aspx" class="color-blue-faint"> The American Academy of Pediatrics</a> recommends no more than 1 PPB in drinking water for children.</p>
-            <p>Read CALPIRG’s recommendations in our new Get the Lead Out report.</p>
+            <p>California community water systems are required by the state to test drinking water for lead at the schools they serve before Summer 2019.</p>
+            <p>This map shows the median lead levels detected at each site based <a target="_blank" href="https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/leadsamplinginschools.html" class="color-blue-faint">latest publicly available data as of 3/12/2019</a>. It includes data through 1/12/2019. In cases where school districts have provided more data, we included that too.</p>
+            <p>Although there is no safe level of lead, the state is only required to share results when lead levels are above 5 PPB. Some schools did their own testing and have publicly shared results down to 1PPB. </p>
+              <p><a target="_blank" href="https://www.aap.org/en-us/about-the-aap/aap-press-room/pages/With-No-Amount-of-Lead-Exposure-Safe-for-Children,-American-Academy-of-Pediatrics-Calls-For-Stricter-Regulations.aspx" class="color-blue-faint"> The American Academy of Pediatrics</a> recommends no more than 1 PPB in drinking water for children and so CALPIRG urges schools to test down to 1 PPB and to get the lead out wherever it is found..</p>
+            <p>Read CALPIRG’s recommendations in our new <i>Get the Lead Out report</i>.</p>
             <p>Take action with CALPIRG's <a target="_blank" href=https://calpirg.org/resources/caf/get-lead-out-back-school-toolkit">"Get The Lead Out:Back to School Toolkit."</a></p>
           </div>
           <div id="two" style="display: none">
@@ -56,12 +57,13 @@
               <select class="dropdown" id="cityDropdown" onchange="onChangeCityDropdown();"></select>
               <select class="dropdown" id="districtDropdown" onchange="onChangeDistrictDropdown();"></select>
               
-              <select class="dropdown" id="schoolDropdown"></select>
-              <div class="school-visualizer">
+              <select class="dropdown" id="schoolDropdown" onchange="onChangeSchoolDropdown()"></select>
+              <div id="school-visualizer">
+                <img id="school-image" alt="school icon" style="display: none;">
               </div>
             </div>
           </div>
-          <div class="credit">
+          <div id="credits" style="display: none;">
             <span class="block">Data wrangling: <a target="_blank" href="https://github.com/thesadie" class="color-blue-faint">Sadie Gill</a> @ Flowwest.</span>
             <span class="block">Mapping, front-end, data viz: Daniel Dufour & Victoria Mak @ GeoSurge.</span>
           </div>
@@ -76,29 +78,21 @@
         <span><span class="inline-block circle untested"></span> Untested</span>
     <span><span class="inline-block circle low"></span> Lead content < 5 ppb</span>
     <span ><span class="inline-block circle high"></span> Lead content >= 5 ppb</span>
-
   </section>
 
-  <section class="table">
+  <section id="table">
     <table>
-      <tr>
-        <th> Lead Level </th>
-        <th> School </th>
-        <th> County </th>
-        <th> Address </th>
-      </tr>
-      <tr>
-        <td><span class="inline-block circle low"></span> <span> 1 ppb </span></td>
-        <td> John Muir Elementary School </td>
-        <td> San Francisco </td>
-        <td> 380 Webster St, San Francisco, CA 94117 </td>
-      </tr>
-      <tr>
-        <td><span class="inline-block circle low"></span> <span> 2.79 ppb </span></td>
-        <td> Jefferson Elementary School </td>
-        <td> San Fransisco </td>
-        <td> 1725 Irving St, San Francisco, CA 94122 </td>
-      </tr>
+      <thead>
+        <tr>
+          <th> Lead Level </th>
+          <th> School </th>
+          <th> District </th>
+          <th> Address <a class="button" id="download-table" target="_blank">Download</a></th>
+        </tr>
+      </thead>
+      <tbody id="table-body">
+        <tr><td>You must first make a selection of a county before viewing the data table.</td></tr>
+      </tbody>
     </table>
   </section>
   <script src="utils.js"></script>

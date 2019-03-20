@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Oceanside Unified School District,Clair Burgener Academy,707 Carey Rd Oceanside CA 92058,8.55,ppb,TRUE,tested,Oceanside,San Diego County,33.204617,-117.359413
+Oceanside Unified School District,Ditmar Elementary School,1125 South Ditmar St. Oceanside CA 92054,NA,NA,FALSE,tested,Oceanside,San Diego County,33.1860653744257,-117.368470109982
+Oceanside Unified School District,Foussat Elementary School,3800 Pala Road Oceanside CA 92058,NA,NA,FALSE,tested,Oceanside,San Diego County,33.238121292397,-117.328829404465

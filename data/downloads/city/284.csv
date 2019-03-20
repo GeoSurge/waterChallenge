@@ -1,0 +1,41 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Santa Rosa City Schools,Abraham Lincoln Elementary,"850 W 9th St, Santa Rosa, CA 95401",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4415496630226,-122.736069224231
+Santa Rosa City Schools,Albert F. Biella Elementary,"2140 Jennings Ave, Santa Rosa, CA 95401",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4498565597847,-122.75292543966
+Santa Rosa City Schools,Brook Hill Elementary,"1850 Vallejo St, Santa Rosa, CA 95404",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4378474572541,-122.693907851034
+NA,Brush Creek Montessori,1569 Brush Creek Rd Santa Rosa CA 95404,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4662300784948,-122.680655331034
+Santa Rosa Elementary,Cesar Chavez Language Academy,2750 West Steele Lane Santa Rosa CA 95403-3236,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4596532752192,-122.74700550689
+Santa Rosa High,Grace High,1700 Fulton Road Santa Rosa CA 95403-1815,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.45999,-122.769542
+Santa Rosa City Schools,Helen Lehman Elementary,"1700 Jennings Ave, Santa Rosa, CA 95401",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.449675,-122.745082
+Santa Rosa Elementary,Helen M. Lehman Elementary,1700 Jennings Avenue Santa Rosa CA 95401-4556,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.449675,-122.745082
+Santa Rosa High,Herbert Slater Middle,3500 Sonoma Avenue Santa Rosa CA 95405-5414,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.448451,-122.67303
+Santa Rosa City Schools,Herbert Slater Middle School,"3500 Sonoma Ave, Santa Rosa, CA 95405",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.448451,-122.67303
+Santa Rosa City Schools,Hidden Valley Elementary,"3435 Bonita Vista Dr, Santa Rosa, CA 95404",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4759413345236,-122.699511013836
+Santa Rosa High,Hilliard Comstock Middle,2750 West Steele Ln Santa Rosa CA 95403-3299,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4596532752192,-122.74700550689
+Santa Rosa City Schools,Hilliard Comstock Middle School,"2750 W Steele Ln, Santa Rosa, CA 95403",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4596532752192,-122.74700550689
+Santa Rosa Elementary,James Monroe Elementary,2567 Marlow Road Santa Rosa CA 95403-2473,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4568771762267,-122.752206956644
+Santa Rosa City Schools,James Monroe Elementary,"2567 Marlow Rd, Santa Rosa, CA 95403",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4568771762267,-122.752206956644
+Santa Rosa High,Lawrence Cook Middle,2480 Sebastopol Rd Santa Rosa CA 95407-6728,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4265063653846,-122.746873971154
+Santa Rosa City Schools,Lawrence Cook Middle School,"2480 Sebastopol Rd, Santa Rosa, CA 95407",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4265063653846,-122.746873971154
+Santa Rosa Elementary,Luther Burbank Elementary,203 South A Street Santa Rosa CA 95401-6302,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4349301984282,-122.715417835372
+Santa Rosa City Schools,Luther Burbank Elementary,"203 A St, Santa Rosa, CA 95401",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4420427,-122.719497
+Santa Rosa High,Mesa High,1235 Mendocino Avenue Santa Rosa CA 95401-4312,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4518935037103,-122.717563874814
+Santa Rosa High,Montgomery High,1250 Hahman Drive Santa Rosa CA 95405-6934,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.441091,-122.685192
+Santa Rosa City Schools,Montgomery High School,"1250 Hahman Dr, Santa Rosa, CA 95405",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.441091,-122.685192
+Santa Rosa High,Piner High,1700 Fulton Rd. Santa Rosa CA 95403-1815,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.45999,-122.769542
+Santa Rosa City Schools,Piner High School,"1700 Fulton Rd, Santa Rosa, CA 95403",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.45999,-122.769542
+Santa Rosa Elementary,Proctor Terrace Elementary,1711 Bryden Lane Santa Rosa CA 95404-3646,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4516682405063,-122.698978
+Santa Rosa City Schools,Proctor Terrace Elementary,"1711 Bryden Ln, Santa Rosa, CA 95404",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4516682405063,-122.698978
+Santa Rosa High,Rincon Valley Middle,4650 Badger Road Santa Rosa CA 95409-2699,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.482084,-122.672222
+Santa Rosa City Schools,Rincon Valley Middle School,"4650 Badger Rd, Santa Rosa, CA 95409",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.482084,-122.672222
+Roseland,Roseland Charter,100 Sebastopol Road Santa Rosa CA 95407-6928,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.430893,-122.723722
+Roseland,Roseland Elementary,950 Sebastopol Road Santa Rosa CA 95407-6829,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4291607907849,-122.731032084079
+Santa Rosa City Schools,Santa Rosa Charter School for the Arts,"756 Humboldt St, Santa Rosa, CA 95404",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4468142000657,-122.714596839273
+Santa Rosa Elementary,Santa Rosa French-American Charter (SRFACS),1350 Sonoma Avenue Santa Rosa CA 95405-6623,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4417433548387,-122.697471516129
+Santa Rosa City Schools,Santa Rosa French-American Charter School,"1350 Sonoma Ave, Santa Rosa, CA 95405",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4417433548387,-122.697471516129
+Santa Rosa High,Santa Rosa High,1235 Mendocino Ave Santa Rosa CA 95401-4312,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4518935037103,-122.717563874814
+Santa Rosa City Schools,Santa Rosa High School,"1235 Mendocino Ave, Santa Rosa, CA 95401",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4518935037103,-122.717563874814
+Santa Rosa High,Santa Rosa Middle,500 E Street Santa Rosa CA 95404-4373,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.444909118678,-122.710803668656
+Santa Rosa City Schools,Santa Rosa Middle School,"500 E St, Santa Rosa, CA 95404",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.444909118678,-122.710803668656
+Roseland,Sheppard Elementary,1777 West Avenue Santa Rosa CA 95407-7449,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4200201557875,-122.727894280611
+Santa Rosa City Schools,Steele Lane Elementary,"301 Steele Ln, Santa Rosa, CA 95403",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.460548,-122.720485
+Santa Rosa Elementary,Steele Lane Elementary,301 Steele Lane Santa Rosa CA 95403-3148,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.460548,-122.720485

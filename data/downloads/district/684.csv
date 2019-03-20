@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Riverside Office of Education,Betty Gibbel RLC,1251 Eagle Drive San Jacinto CA 92583,NA,NA,FALSE,tested,San Jacinto,Riverside County,33.8017859,-116.9677295
+Riverside Office of Education,Perris Head Start,148 Avocado Avenu Perris CA 92571,NA,NA,FALSE,tested,,,,
+Riverside Office of Education,Val Verde RLC,3010 Webster Avenue Perris CA 92571,NA,NA,FALSE,tested,Perris,Riverside County,33.8444774,-117.2438266
