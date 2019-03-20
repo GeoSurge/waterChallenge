@@ -168,6 +168,7 @@ body {
 #table {
   z-index: 3;
   background-color: rgba(210, 218, 219, 90);
+  overflow-x: : auto;
 }
 
 /*Markers pie-aggregated*/
@@ -266,7 +267,8 @@ body {
   }
 
   .dropdown {
-    color: black;
+    background: rgb(84, 95, 96, .8) !important;
+    border: 1px solid dimgrey;
   }
 
   #credits {
