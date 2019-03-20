@@ -1,4 +1,5 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Los Molinos Unified,Los Molinos Community Day,25330 Magnolia Street Los Molinos CA 96055-0609,NA,NA,NA,not tested,,Tehama County,40.0263450333333,-122.092811766667
-Los Molinos Unified,Los Molinos Elementary,7700 Stanford Los Molinos CA 96055-0007,NA,NA,NA,not tested,,Tehama County,40.02029,-122.094999
-Los Molinos Unified,Los Molinos High,7900 Sherwood Boulevard Los Molinos CA 96055-0609,NA,NA,NA,not tested,,Tehama County,40.025043,-122.096333
+Modoc Joint Unified,Alturas Elementary,809 West 8th Street Alturas CA 96101-3116,NA,NA,FALSE,tested,Alturas,Modoc County,41.4908952624821,-120.557703580067
+Modoc Joint Unified,Modoc Community Adult,802 North East Street Alturas CA 96101,NA,NA,FALSE,tested,Alturas,Modoc County,41.4910993877551,-120.539912285714
+Modoc Joint Unified,Modoc High,900 North Main Street Alturas CA 96101-3376,NA,NA,FALSE,tested,Alturas,Modoc County,41.488601,-120.542501
+Modoc Joint Unified,Modoc Middle,906 West Fourth Street Alturas CA 96101-3716,NA,NA,FALSE,tested,NA,NA,NA,NA

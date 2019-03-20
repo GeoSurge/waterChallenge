@@ -17,12 +17,12 @@ Oakland Unified,Aspire Golden State College Preparatory Academy,1009 66th Avenue
 Oakland Unified,Aspire Lionel Wilson College Preparatory Academy,400 105th Avenue Oakland CA 94603-2968,NA,NA,FALSE,tested,Oakland,Alameda County,37.729478,-122.180412
 Oakland Unified,Aspire Monarch Academy,1445 101st Avenue Oakland CA 94603-3207,NA,NA,FALSE,tested,Oakland,Alameda County,37.7423682306943,-122.168241891114
 Oakland Unified,Aspire Triumph Technology Academy,3200 62nd Avenue Oakland CA 94605-1614,NA,NA,FALSE,tested,Oakland,Alameda County,37.7742900909091,-122.182292676768
-NA,Aurora School,40 Dulwich Road Oakland CA 94618,NA,NA,FALSE,tested,Oakland,Alameda County,37.8398965025148,-122.231772288077
+Private,Aurora School,40 Dulwich Road Oakland CA 94618,NA,NA,FALSE,tested,Oakland,Alameda County,37.8398965025148,-122.231772288077
 Oakland Unified,Bay Area Technology,8251 Fontaine St Oakland CA 94605-4109,NA,NA,FALSE,tested,Oakland,Alameda County,37.766682554441,-122.153622764705
 Oakland Unified,Baywood Learning Centers,12500 Campus Drive Oakland CA 94619,NA,NA,NA,not tested,Oakland,Alameda County,37.7898699433625,-122.168451318079
 Oakland Unified,Bella Vista CDC,2410 10th Avenue Oakland CA 94606,9.3,ppb,TRUE,tested,Oakland,Alameda County,37.7987379958038,-122.240221546438
 Oakland Unified,Bella Vista Elementary,1025 East 28th Street Oakland CA 94610-4018,NA,NA,FALSE,tested,Oakland,Alameda County,37.8004465952219,-122.237365056373
-NA,Bishop O'Dowd High School,9500 Stearns Avenue Oakland CA 94605,NA,NA,FALSE,tested,Oakland,Alameda County,37.753491036709,-122.156391567484
+Private,Bishop O'Dowd High School,9500 Stearns Avenue Oakland CA 94605,NA,NA,FALSE,tested,Oakland,Alameda County,37.753491036709,-122.156391567484
 Oakland Unified,Bret Harte Middle,3700 Coolidge Avenue Oakland CA 94602-3309,NA,NA,FALSE,tested,Oakland,Alameda County,37.80062,-122.206491
 Oakland Unified,Bridges Academy,1325 53rd Avenue Oakland CA 94601-5728,NA,NA,FALSE,tested,Oakland,Alameda County,37.767374732639,-122.207072898548
 Oakland Unified,Brookfield Elementary,401 Jones Avenue Oakland CA 94603-1123,10.5,ppb,TRUE,tested,Oakland,Alameda County,37.735938,-122.188695
@@ -31,7 +31,7 @@ Oakland Unified,Burckhalter Elementary,3994 Burckhalter Avenue Oakland CA 94605-
 Oakland Unified,Carl B. Munck Elementary,11900 Campus Drive Oakland CA 94619-3104,NA,NA,FALSE,tested,Oakland,Alameda County,37.794583041633,-122.173963396725
 Oakland Unified,Castlemont High,8601 MacArthur Boulevard Oakland CA 94605-4037,NA,NA,FALSE,tested,Oakland,Alameda County,37.7596712675827,-122.162974413273
 Oakland Unified,Castlemont Primary Academy,8711 MacArthur Boulevard Oakland CA 94605-4000,NA,NA,NA,not tested,Oakland,Alameda County,37.7583655927698,-122.16250076927
-Oakland Unified School District,Centro Infantil CDC,2660 East 16th Street Oakland CA 94619,5.2,ppb,TRUE,tested,Oakland,Alameda County,37.7827337507615,-122.230335355299
+Oakland Unified,Centro Infantil CDC,2660 East 16th Street Oakland CA 94619,5.2,ppb,TRUE,tested,Oakland,Alameda County,37.7827337507615,-122.230335355299
 Oakland Unified,Chabot Elementary,6686 Chabot Road Oakland CA 94618-1641,NA,NA,FALSE,tested,Oakland,Alameda County,37.8504766263494,-122.243269043838
 Oakland Unified,Civicorps Corpsmember Academy,101 Myrtle Street Oakland CA 94607-2507,NA,NA,FALSE,tested,Oakland,Alameda County,37.799551,-122.285345
 Oakland Unified,Claremont Middle,5750 College Avenue Oakland CA 94618-1629,NA,NA,FALSE,tested,Oakland,Alameda County,37.8450468,-122.2518436
@@ -45,7 +45,7 @@ Oakland Unified,Conservatory of Vocal/Instrumental Arts,3800 Mountain Boulevard 
 Oakland Unified,Conservatory of Vocal/Instrumental Arts High,3637 Magee Avenue Oakland CA 94619-1630,NA,NA,NA,not tested,Oakland,Alameda County,37.7934578597592,-122.19952173185
 Alameda County Office of Education,Cox Academy,9860 Sunnyside St Oakland CA 94603-2750,NA,NA,FALSE,tested,Oakland,Alameda County,37.7464790138598,-122.161762134508
 Oakland Unified,Cox CDC,9860 Sunnyside Street Oakland CA 94603,NA,NA,FALSE,tested,Oakland,Alameda County,37.7464790138598,-122.161762134508
-NA,Cristo Rey De La Salle,1530 34th Ave Oakland CA 94601,NA,NA,FALSE,tested,Oakland,Alameda County,37.7788663398378,-122.22263606593
+Private,Cristo Rey De La Salle,1530 34th Ave Oakland CA 94601,NA,NA,FALSE,tested,Oakland,Alameda County,37.7788663398378,-122.22263606593
 Oakland Unified,Crocker Highlands Elementary,525 Midcrest Road Oakland CA 94610-1813,NA,NA,FALSE,tested,Oakland,Alameda County,37.811078733192,-122.227000531862
 Oakland Unified,Dewey Academy,1111 2nd Avenue Oakland CA 94606-2285,NA,NA,FALSE,tested,Oakland,Alameda County,37.7967754663798,-122.258157607071
 Oakland Unified,Downtown Charter Academy,301 12th Street Oakland CA 94607-4217,NA,NA,FALSE,tested,Oakland,Alameda County,37.812097,-122.299264
@@ -60,7 +60,7 @@ Emery Unified,Emery Secondary,915 54th Street Oakland CA 94608-3142,NA,NA,NA,not
 Oakland Unified,EnCompass Academy Elementary,1025 81st Ave Oakland CA 94621-2455,NA,NA,FALSE,tested,Oakland,Alameda County,37.7530701431694,-122.185688060877
 Alameda County Office of Education,Envision Academy for Arts & Technology,1515 Webster Street Oakland CA 94612-3355,NA,NA,FALSE,tested,Oakland,Alameda County,37.8045567263168,-122.268201447303
 Oakland Unified,Epic Charter,1112 29th Avenue Oakland CA 94601-2212,NA,NA,FALSE,tested,Oakland,Alameda County,37.77750725,-122.23067075
-NA,Escuela Bilingüe Internacional,410 Alcatraz Avenue Oakland CA 94609,NA,NA,FALSE,tested,Oakland,Alameda County,37.8505100769231,-122.257322961538
+Private,Escuela Bilingüe Internacional,410 Alcatraz Avenue Oakland CA 94609,NA,NA,FALSE,tested,Oakland,Alameda County,37.8505100769231,-122.257322961538
 Oakland Unified,Esperanza Elementary,10315 E Street Oakland CA 94603-3133,NA,NA,FALSE,tested,Oakland,Alameda County,37.73720475,-122.174328472382
 Oakland Unified,Francophone Charter School of Oakland,9736 Lawlor Street Oakland CA 94605-4735,NA,NA,FALSE,tested,Oakland,Alameda County,37.7515747549586,-122.15732832785
 Oakland Unified,Frank G Mar Site,274 12th Street Oakland CA 94607,NA,NA,NA,not tested,Oakland,Alameda County,37.8014749500842,-122.268095348769
@@ -77,11 +77,11 @@ Oakland Unified,Global Family,2035 40th Avenue Oakland CA 94601-4203,NA,NA,FALSE
 Oakland Unified,Grass Valley Elementary,4720 Dunkirk Avenue Oakland CA 94605-5607,NA,NA,FALSE,tested,Oakland,Alameda County,37.7530927412877,-122.124889011844
 Oakland Unified,Greenleaf Elementary,6328 East 17th Street Oakland CA 94621-3832,NA,NA,FALSE,tested,Oakland,Alameda County,37.7643889908344,-122.19484853313
 Oakland Unified,Harriet Tubman CDC,800 33rd Street Oakland CA 94609,NA,NA,NA,not tested,Oakland,Alameda County,37.823419,-122.272928
-NA,Head-Royce School,4315 Lincoln Avenue Oakland CA 94602,NA,NA,FALSE,tested,Oakland,Alameda County,37.8081743777764,-122.204741888892
+Private,Head-Royce School,4315 Lincoln Avenue Oakland CA 94602,NA,NA,FALSE,tested,Oakland,Alameda County,37.8081743777764,-122.204741888892
 Oakland Unified,Highland CDC,1322 86th Avenue Oakland CA 94621,NA,NA,FALSE,tested,Oakland,Alameda County,37.7518785331871,-122.177858031878
 Oakland Unified,Hillcrest Elementary,30 Marguerite Drive Oakland CA 94618-2230,NA,NA,FALSE,tested,Oakland,Alameda County,37.8405078721116,-122.232490055236
 Oakland Unified,Hintil CDC,11850 Campus Dr. Oakland CA 94619,6.7,ppb,TRUE,tested,Oakland,Alameda County,37.7946956421427,-122.174975282423
-NA,Holy Names High School,4660 Harbord Drive Oakland CA 94618,NA,NA,FALSE,tested,Oakland,Alameda County,37.8390220362751,-122.23208688029
+Private,Holy Names High School,4660 Harbord Drive Oakland CA 94618,NA,NA,FALSE,tested,Oakland,Alameda County,37.8390220362751,-122.23208688029
 Oakland Unified,Home and Hospital Program,1011 Union Street Oakland CA 94607-4808,NA,NA,NA,not tested,Oakland,Alameda County,37.8073273737374,-122.289435828283
 Oakland Unified,Hoover Elementary,890 Brockhurst Street Oakland CA 94608-4318,NA,NA,FALSE,tested,Oakland,Alameda County,37.8232458676453,-122.27539074172
 Oakland Unified,Horace Mann Elementary,5222 Ygnacio Avenue Oakland CA 94601-5422,NA,NA,FALSE,tested,Oakland,Alameda County,37.773418,-122.202400763158
@@ -89,7 +89,7 @@ Oakland Unified,Howard Elementary,8755 Fontaine Street Oakland CA 94605-4197,6.3
 Oakland Unified,"Independent Study, Sojourner Truth",8251 Fontaine  Oakland CA 94605-4109,NA,NA,FALSE,tested,Oakland,Alameda County,37.766682554441,-122.153622764705
 Oakland Unified,Infant and Preschool Program,3550 64th Ave. Oakland CA 94605-1802,NA,NA,FALSE,tested,Oakland,Alameda County,37.775689,-122.177433
 Oakland Unified,International Community,2825 International Boulevard Oakland CA 94601-1543,NA,NA,FALSE,tested,Oakland,Alameda County,37.7796417142857,-122.229767040816
-Oakland Unified School District,Jefferson CDC,1975 40th Avenue Oakland CA 94601,NA,NA,FALSE,tested,Oakland,Alameda County,37.7786300323369,-122.213972953112
+Oakland Unified,Jefferson CDC,1975 40th Avenue Oakland CA 94601,NA,NA,FALSE,tested,Oakland,Alameda County,37.7786300323369,-122.213972953112
 Oakland Unified,Joaquin Miller Elementary,5525 Ascot Drive Oakland CA 94611-3001,NA,NA,FALSE,tested,Oakland,Alameda County,37.8190454798256,-122.201463430067
 Oakland Unified,Ka Lo Academy,1561 Vista Street Oakland CA 94602,NA,NA,NA,not tested,Oakland,Alameda County,37.8067204395772,-122.216534161945
 Oakland Unified,Kaiser Elementary,25 South Hill Court Oakland CA 94618-2306,NA,NA,FALSE,tested,Oakland,Alameda County,37.8530951117598,-122.231662604447
@@ -109,7 +109,7 @@ A Lighthouse Community Charter Public,Lodestar,"701, 105th Ave Oakland CA 94601-
 A Lighthouse Community Charter Public,Lodestar A Lighthouse Community Charter Public,2433 Coolidge Avenue Oakland CA 94601,6.9,ppb,TRUE,tested,Oakland,Alameda County,37.7860766666667,-122.219261666667
 Oakland Unified,Madison Park Academy 6-12,400 Capistrano Dr. Oakland CA 94603-3520,NA,NA,FALSE,tested,Oakland,Alameda County,37.727861,-122.179164
 Oakland Unified,Madison Park Academy TK-5,470 El Paseo Drive Oakland CA 94603-3565,NA,NA,FALSE,tested,Oakland,Alameda County,37.7283797119688,-122.177342595123
-Oakland Unified School District,Manzanita CDC,2618 Grande Vista Avenue Oakland CA 94601,NA,NA,FALSE,tested,Oakland,Alameda County,37.7919366091505,-122.226267052211
+Oakland Unified,Manzanita CDC,2618 Grande Vista Avenue Oakland CA 94601,NA,NA,FALSE,tested,Oakland,Alameda County,37.7919366091505,-122.226267052211
 Oakland Unified,Manzanita Community,2409 East 27th Street Oakland CA 94601-1303,NA,NA,FALSE,tested,Oakland,Alameda County,37.7926516773738,-122.224904680367
 Oakland Unified,Manzanita SEED Elementary,2409 East 27th St Oakland CA 94601-1303,NA,NA,FALSE,tested,Oakland,Alameda County,37.7926516773738,-122.224904680367
 Oakland Unified,Markham Elementary,7220 Krause Avenue Oakland CA 94605-2380,NA,NA,FALSE,tested,Oakland,Alameda County,37.7653812409639,-122.178829759036
@@ -143,21 +143,21 @@ Oakland Unified,Roosevelt Middle,1926 19th Avenue Oakland CA 94606-4170,NA,NA,FA
 Oakland Unified,ROOTS International Academy,1390 66th Avenue Oakland CA 94621-3506,NA,NA,FALSE,tested,Oakland,Alameda County,37.760497,-122.195615
 Oakland Unified,Roses in Concrete,4551 Steele Street Oakland CA 94619-2743,NA,NA,FALSE,tested,Oakland,Alameda County,37.7873518255777,-122.187837680578
 Oakland Unified,Rudsdale Continuation,8251 Fontaine Street Oakland CA 94605-4109,NA,NA,FALSE,tested,Oakland,Alameda County,37.766682554441,-122.153622764705
-NA,Saint Leo the Great School,4238 Howe Street Oakland CA 94611,15,ppb,TRUE,tested,Oakland,Alameda County,37.8288022250802,-122.250818441272
+Private,Saint Leo the Great School,4238 Howe Street Oakland CA 94611,15,ppb,TRUE,tested,Oakland,Alameda County,37.8288022250802,-122.250818441272
 Oakland Unified,San Antonio CDC,2228 E 15th Street Oakland CA 94606,NA,NA,NA,not tested,Oakland,Alameda County,37.7851132917681,-122.236464255723
 Oakland Unified,Sankofa Academy,581 61st Street Oakland CA 94609-1248,NA,NA,FALSE,tested,Oakland,Alameda County,37.8471060114845,-122.264533266146
 Oakland Unified,Sequoia Elementary,3730 Lincoln Avenue Oakland CA 94602-2468,NA,NA,FALSE,tested,Oakland,Alameda County,37.80206395,-122.210502228601
 Oakland Unified,Skyline High,12250 Skyline Boulevard Oakland CA 94619-2425,5.5,ppb,TRUE,tested,Oakland,Alameda County,37.7970111316334,-122.162831228818
-NA,"spectrum Center, Oakland Campus",6325 Camden Street Oakland CA 94605,NA,NA,FALSE,tested,Oakland,Alameda County,37.7729167937323,-122.182364610207
-NA,St. Anthony School,1500 East 15th Street Oakland CA 94606,NA,NA,FALSE,tested,Oakland,Alameda County,37.789785,-122.244292
-NA,St. Elizabeth Elementary,1516 33rd Avenue Oakland CA 94601,14,ppb,TRUE,tested,Oakland,Alameda County,37.779028967508,-122.223785097237
-NA,St. Theresa School,4850 Clarewood Oakland CA 94618,6.5,ppb,TRUE,tested,Oakland,Alameda County,37.8365241124626,-122.231764208614
+Private,"spectrum Center, Oakland Campus",6325 Camden Street Oakland CA 94605,NA,NA,FALSE,tested,Oakland,Alameda County,37.7729167937323,-122.182364610207
+Private,St. Anthony School,1500 East 15th Street Oakland CA 94606,NA,NA,FALSE,tested,Oakland,Alameda County,37.789785,-122.244292
+Private,St. Elizabeth Elementary,1516 33rd Avenue Oakland CA 94601,14,ppb,TRUE,tested,Oakland,Alameda County,37.779028967508,-122.223785097237
+Private,St. Theresa School,4850 Clarewood Oakland CA 94618,6.5,ppb,TRUE,tested,Oakland,Alameda County,37.8365241124626,-122.231764208614
 Oakland Unified,Stonehurst CDC,901 105th  Ave. Oakland CA 94603,NA,NA,FALSE,tested,Oakland,Alameda County,37.7355529248777,-122.174306150245
 Oakland Unified,Street Academy (Alternative),417 29th Street Oakland CA 94609-3510,NA,NA,FALSE,tested,Oakland,Alameda County,37.8177459308806,-122.265362518197
 Oakland Unified,Sungate Site,2563 International Blvd Oakland CA 94601,NA,NA,NA,not tested,Oakland,Alameda County,37.7719038,-122.2139261
-Oakland Unified School District,Temporary Alternative Program & Young Adult Program,1011 Union Street Oakland  CA 94607,NA,NA,FALSE,tested,Oakland,Alameda County,37.8073273737374,-122.289435828283
-private,The Child Unique Montessori School Taylor Avenue,1400 6th Street Alameda CA  94501,NA,NA,FALSE,tested,Oakland,Alameda County,37.8022107,-122.2836117
-NA,The College Preparatory School,6100 Broadway Oakland CA 94618,NA,NA,FALSE,tested,Oakland,Alameda County,37.848842,-122.241303
+Oakland Unified,Temporary Alternative Program & Young Adult Program,1011 Union Street Oakland  CA 94607,NA,NA,FALSE,tested,Oakland,Alameda County,37.8073273737374,-122.289435828283
+Private,The Child Unique Montessori School Taylor Avenue,1400 6th Street Alameda CA  94501,NA,NA,FALSE,tested,Oakland,Alameda County,37.8022107,-122.2836117
+Private,The College Preparatory School,6100 Broadway Oakland CA 94618,NA,NA,FALSE,tested,Oakland,Alameda County,37.848842,-122.241303
 Oakland Unified,Think College Now,2825 International Blvd Oakland CA 94601-1543,NA,NA,FALSE,tested,Oakland,Alameda County,37.7796417142857,-122.229767040816
 Oakland Unified,Thornhill Elementary,5880 Thornhill Drive Oakland CA 94611-2147,NA,NA,FALSE,tested,Oakland,Alameda County,37.8361319252418,-122.211543690698
 Oakland Unified,United for Success Academy,2101 35th Ave Oakland CA 94601-3124,NA,NA,FALSE,tested,Oakland,Alameda County,37.78437,-122.216736

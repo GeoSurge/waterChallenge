@@ -1,9 +1,6 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Eureka Union,Excelsior Elementary,2701 Eureka Road Roseville CA 95661-6447,NA,NA,FALSE,tested,Roseville,Placer County,38.7372661522643,-121.238137967699
-Eureka Union,Greenhills Elementary,8200 Greenhills Way Granite Bay CA 95746-4300,NA,NA,FALSE,tested,,,,
-Eureka Union,Maidu Elementary,1950 Johnson Ranch Drive Roseville CA 95661-3749,NA,NA,FALSE,tested,Roseville,Placer County,38.7386033133539,-121.247270586148
-Eureka Union,Oakhills Elementary,9233 Twin School Road Granite Bay CA 95746-7100,NA,NA,FALSE,tested,,,,
-Eureka Union,Olive Ranch School,5280 Stirling St Granite Bay CA 95746,NA,NA,FALSE,tested,,Placer County,38.7519343265306,-121.205048367347
-Eureka Union,Olympus Junior High,2625 La Croix Drive Roseville CA 95661-3959,NA,NA,FALSE,tested,Roseville,Placer County,38.748001,-121.233866
-Eureka Union,Ridgeview Elementary,9177 Twin School Road Granite Bay CA 95746-7100,NA,NA,FALSE,tested,,,,
-Eureka Union,Willma Cavitt Junior High,7200 Fuller Drive Granite Bay CA 95746-6247,5.1,ppb,TRUE,tested,,Placer County,38.739944,-121.166279
+Fowler Unified,Fowler Academy Continuation,975 E. Adams Avenue Fowler CA 93625-2702,NA,NA,NA,not tested,Fowler,Fresno County,36.6344261020408,-119.667679265306
+Fowler Unified,Fowler High,701 East Main Street Fowler CA 93625-2423,NA,NA,NA,not tested,Fowler,Fresno County,36.6334128,-119.670522944684
+Fowler Unified,John Sutter Middle,701 East Walter Fowler CA 93625-9792,NA,NA,NA,not tested,Fowler,Fresno County,36.6307751380221,-119.670124609454
+Fowler Unified,Malaga Elementary,3910 South Ward Avenue Fresno CA 93725-2538,NA,NA,NA,not tested,NA,Fresno County,36.679105,-119.732883
+Fowler Unified,Marshall Elementary,142 North Armstrong Avenue Fowler CA 93625-9601,NA,NA,NA,not tested,Fowler,Fresno County,36.6352272800409,-119.673361817177

@@ -1,2 +1,3 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Jefferson Elementary School District,General Pershing Elementary,631 Hanover Street Daly City CA 94014,NA,NA,FALSE,tested,Daly City,San Mateo County,37.7067802800419,-122.449863352417
+Lagunitas Elementary,Lagunitas Elementary,One Lagunitas School Road San Geronimo CA 94963-0308,NA,NA,FALSE,tested,NA,Marin County,38.0187036,-122.6749571
+Lagunitas Elementary,San Geronimo Valley Elementary,One Lagunitas School Road San Geronimo CA 94963-0308,NA,NA,NA,not tested,NA,Marin County,38.0187036,-122.6749571

@@ -1,11 +1,21 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Paso Robles Joint Unified,Daniel Lewis Middle,900 Creston Road Paso Robles CA 93447-3002,NA,NA,FALSE,tested,Paso Robles,San Luis Obispo County,35.5724858,-120.5898183
-Paso Robles Joint Unified,George H. Flamson Middle,655 24th Street Paso Robles CA 93446-1444,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.6391254,-120.6932194
-Paso Robles Joint Unified,Georgia Brown Elementary,525 36th Street Paso Robles CA 93447-7010,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.651413,-120.6956166
-Paso Robles Joint Unified,Kermit King Elementary,700 Schoolhouse Circle Paso Robles CA 93446-7001,NA,NA,FALSE,tested,,,,
-Paso Robles Joint Unified,Liberty High (Continuation),810 Niblick Road Paso Robles CA 93447-7010,NA,NA,FALSE,tested,,San Luis Obispo County,35.61519045,-120.67057124507
-Paso Robles Joint Unified,Marie Bauer/Glen Speck School,401 17th St Paso Robles CA 93446,7.5,ppb,TRUE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.6326384,-120.6945996
-Paso Robles Joint Unified,Paso Robles High,801 Niblick Road Paso Robles CA 93447-7010,NA,NA,FALSE,tested,,San Luis Obispo County,35.6159033,-120.6698876
-Paso Robles Joint Unified,Pat Butler Elementary,700 Nicklaus Street Paso Robles CA 93446-3415,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.610783,-120.673846817168
-Paso Robles Joint Unified,Virginia Peterson Elementary,2501 Beechwood Drive Paso Robles CA 93446-4730,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.60036965,-120.655643751438
-Paso Robles Joint Unified,Winifred Pifer Elementary,1350 Creston Road Paso Robles CA 93447-7010,NA,NA,FALSE,tested,Paso Robles,San Luis Obispo County,35.5724858,-120.5898183
+Rocklin Unified,Antelope Creek Elementary,6185 Springview Drive Rocklin CA 95677-2900,NA,NA,FALSE,tested,Rocklin,Placer County,38.777744493359,-121.257284130261
+Rocklin Unified,Breen Elementary,2751 Breen Drive Rocklin CA 95765-5158,NA,NA,FALSE,tested,Rocklin,Placer County,38.8186129792515,-121.261177937708
+Rocklin Unified,Cobblestone Elementary,5740 Cobblestone Drive Rocklin CA 95765-4193,NA,NA,FALSE,tested,Rocklin,Placer County,38.8019553456501,-121.26375249295
+Rocklin Unified,Granite Oaks Middle,2600 Wyckford Drive Rocklin CA 95765-5289,NA,NA,FALSE,tested,NA,NA,NA,NA
+Rocklin Unified,Maria Montessori Charter Academy,1850 Wildcat Boulevard Rocklin CA 95765-5471,NA,NA,NA,not tested,Rocklin,Placer County,38.8220171,-121.2853218
+Rocklin Unified,Parker Whitney Elementary,5145 Topaz Avenue Rocklin CA 95677-2232,NA,NA,FALSE,tested,Rocklin,Placer County,38.7932611421185,-121.254881891788
+Rocklin Unified,Rock Creek Elementary,2140 Collet Quarry Drive Rocklin CA 95765-4244,NA,NA,FALSE,tested,Rocklin,Placer County,38.7969259926536,-121.280668295193
+Rocklin Unified,Rocklin Academy at Turnstone,6532 Turnstone Way Rocklin CA 95765-5865,NA,NA,NA,not tested,Rocklin,Placer County,38.8024546515636,-121.286130973197
+Rocklin Unified,Rocklin Elementary,5025 Meyers Street Rocklin CA 95677-2811,NA,NA,FALSE,tested,Rocklin,Placer County,38.7911392923943,-121.228946333917
+Rocklin Unified,Rocklin High,5301 Victory Lane Rocklin CA 95765-4988,NA,NA,FALSE,tested,Rocklin,Placer County,38.813507,-121.2554
+Rocklin Unified,Rocklin Independent Charter Academy,3250 Victory Drive Rocklin CA 95765-4992,NA,NA,NA,not tested,Rocklin,Placer County,38.8156525291279,-121.255202424904
+Rocklin Unified,Ruhkala Elementary,6530 Turnstone Way Rocklin CA 95765-5865,NA,NA,FALSE,tested,Rocklin,Placer County,38.80226374622,-121.286176370533
+Rocklin Unified,Sierra Elementary,6811 Camborne Way Rocklin CA 95677-4484,5.51,ppb,TRUE,tested,Rocklin,Placer County,38.772252,-121.2171251
+Rocklin Unified,Spring View Middle,5040 Fifth Street Rocklin CA 95677-2322,NA,NA,FALSE,tested,NA,NA,NA,NA
+Rocklin Unified,Sunset Ranch Elementary,2500 Bridlewood Drive Rocklin CA 95765-5441,NA,NA,FALSE,tested,Rocklin,Placer County,38.827499,-121.27691
+Rocklin Unified,Twin Oaks Elementary,2835 Club Drive Rocklin CA 95765-4949,NA,NA,FALSE,tested,Rocklin,Placer County,38.8098627749334,-121.266451115708
+Rocklin Unified,Valley View Elementary,3000 Crest Drive Rocklin CA 95765-5093,NA,NA,FALSE,tested,Rocklin,Placer County,38.815339,-121.24125
+Rocklin Unified,Victory High,3250 Victory Dr Rocklin CA 95765-4992,NA,NA,FALSE,tested,Rocklin,Placer County,38.8156525291279,-121.255202424904
+Rocklin Unified,Western Sierra Collegiate Academy,660 Menlo Drive Rocklin CA 95765-3713,NA,NA,NA,not tested,Rocklin,Placer County,38.8120516315666,-121.297875416352
+Rocklin Unified,Whitney High,701 Wildcat Boulevard Rocklin CA 95765-5469,6.245,ppb,TRUE,tested,Rocklin,Placer County,38.8199237,-121.2816087

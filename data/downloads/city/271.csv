@@ -1,7 +1,7 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
 San Marcos Unified,Alvin M. Dunn Elementary,3697 La Mirada Drive San Marcos CA 92078-2312,NA,NA,NA,not tested,San Marcos,San Diego County,33.1439377850954,-117.204279024211
 San Marcos Unified,Discovery Elementary,730 Applewilde Drive San Marcos CA 92078-4969,NA,NA,FALSE,tested,San Marcos,San Diego County,33.1287692958176,-117.189883328064
-San Marcos Unified School District,Double Peak K8 School,111 San Elijo Road San Marcos CA 92078,NA,NA,FALSE,tested,San Marcos,San Diego County,33.1056914,-117.166995784126
+San Marcos Unified,Double Peak K8 School,111 San Elijo Road San Marcos CA 92078,NA,NA,FALSE,tested,San Marcos,San Diego County,33.1056914,-117.166995784126
 San Marcos Unified,Knob Hill Elementary,1825 Knob Hill Road San Marcos CA 92069-3301,NA,NA,FALSE,tested,San Marcos,San Diego County,33.1387588566379,-117.117799498691
 San Marcos Unified,Mission Hills High,1 Mission Hills Court San Marcos CA 92069-1965,NA,NA,FALSE,tested,San Marcos,San Diego County,33.1433095,-117.14101556847
 San Marcos Unified,Paloma Elementary,660 Camino Magnifico San Marcos CA 92069-7323,NA,NA,FALSE,tested,San Marcos,San Diego County,33.15940595,-117.185678532199

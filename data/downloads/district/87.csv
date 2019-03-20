@@ -1,4 +1,11 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Brisbane Elementary,Brisbane Elementary,500 San Bruno Avenue Brisbane CA 94005-1671,NA,NA,NA,not tested,,San Mateo County,37.68072665,-122.399732797033
-Brisbane Elementary,Lipman Middle,1 Solano Street Brisbane CA 94005-1342,NA,NA,NA,not tested,,San Mateo County,37.6829291,-122.4052218
-Brisbane Elementary,Panorama Elementary,25 Bellevue Avenue Daly City CA 94014-1423,NA,NA,FALSE,tested,Daly City,San Mateo County,37.7069293212058,-122.437252035854
+Buckeye Union Elementary,Blue Oak Elementary,2391 Merrychase Drive Cameron Park CA 95682-9094,7,ppb,TRUE,tested,NA,NA,NA,NA
+Buckeye Union Elementary,Buckeye Elementary,4561 Buckeye Road Shingle Springs CA 95682-9503,9,ppb,TRUE,tested,NA,El Dorado County,38.6687002563008,-120.915846765535
+Buckeye Union Elementary,California Montessori Project-Shingle Springs Campus,4645 Buckeye Road Shingle Springs CA 95682-9505,NA,NA,NA,not tested,NA,El Dorado County,38.6690282620101,-120.907462995576
+Buckeye Union Elementary,Camerado Springs Middle,2480 Merrychase Drive Cameron Park CA 95682-9093,NA,NA,FALSE,tested,NA,NA,NA,NA
+Buckeye Union Elementary,Charter Montessori Blue Oak Campus,2391 Merrychase Dr Cameron Park CA 95682-9094,NA,NA,FALSE,tested,NA,NA,NA,NA
+Buckeye Union Elementary,Oak Meadow Elementary,7701 Silva Valley Parkway El Dorado Hills CA 95762-7729,NA,NA,FALSE,tested,NA,NA,NA,NA
+Buckeye Union Elementary,Rising Sun Montessori,7006 Rossmore Lane El Dorado Hills CA 95762-7126,NA,NA,NA,not tested,NA,NA,NA,NA
+Buckeye Union Elementary,Rolling Hills Middle,7141 Silva Valley Parkway El Dorado Hills CA 95762-7862,NA,NA,NA,not tested,NA,NA,NA,NA
+Buckeye Union Elementary,Silva Valley Elementary,3001 Golden Eagle Lane El Dorado Hills CA 95762-7500,NA,NA,FALSE,tested,NA,NA,NA,NA
+Buckeye Union Elementary,William Brooks Elementary,3610 Park Drive El Dorado Hills CA 95762-4544,NA,NA,FALSE,tested,NA,El Dorado County,38.6559342,-121.073374

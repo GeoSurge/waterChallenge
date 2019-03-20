@@ -1,6 +1,3 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Dinuba Unified,Dinuba High,340 East Kern Street Dinuba CA 93618-1825,NA,NA,NA,not tested,,Tulare County,36.5395938,-119.38423886341
-Dinuba Unified,Jefferson Elementary,1660 East Sierra Way Dinuba CA 93618-1825,NA,NA,NA,not tested,,Tulare County,36.53832,-119.377404
-Dinuba Unified,John F. Kennedy Elementary,999 North Crawford Dinuba CA 93618-8700,NA,NA,NA,not tested,,,,
-Dinuba Unified,Sierra Vista High (Continuation),8470 Avenue 406 Dinuba CA 93618-1825,NA,NA,NA,not tested,,Tulare County,36.52847495,-119.384177527384
-Dinuba Unified,Washington Intermediate,1150 North Hayes Avenue Dinuba CA 93618-1825,NA,NA,NA,not tested,,Tulare County,36.55532155,-119.379247189523
+Edison Elementary,Edison Middle,721 South Edison Road Bakersfield CA 93307-9147,NA,NA,FALSE,tested,NA,Kern County,35.186926,-118.87811
+Edison Elementary,Orangewood Elementary,9600 Eucalyptus Drive Bakersfield CA 93306-6781,NA,NA,FALSE,tested,NA,Kern County,35.3654540603015,-118.897566321608

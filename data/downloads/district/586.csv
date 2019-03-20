@@ -1,5 +1,3 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Orange County Department of Education,Harbor Learning Center,15872 Harbor Boulevard Fountain Valley CA 92708,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.7319364,-117.9190348097
-Orange County Department of Education,Orange County Workforce Innovation High,505 North Euclid Street Anaheim CA 92805-5506,NA,NA,NA,not tested,Anaheim,Orange County,33.8378141623277,-117.941661015095
-Orange County Department of Education,Placentia Education Center,5247 E Orangethorpe Avenue Anaheim CA 92807,NA,NA,NA,not tested,Anaheim,Orange County,33.8594939,-117.9184774
-Orange County Department of Education,Samueli Academy,1901 North Fairview Street Santa Ana CA 92706-2205,NA,NA,NA,not tested,,,,
+Princeton Joint Unified,Princeton Elementary,428 Norman Road Princeton CA 95970-0008,NA,NA,NA,not tested,NA,Colusa County,39.4064224870934,-122.012109710599
+Princeton Joint Unified,Princeton Junior-Senior High,473 State Street Princeton CA 95970-0008,NA,NA,NA,not tested,NA,Colusa County,39.4015552,-122.0114681

@@ -1,10 +1,7 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Los Altos Elementary,Almond Elementary,550 Almond Avenue Los Altos CA 94022-2312,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.385082,-122.100525543478
-Los Altos Elementary,Ardis G. Egan Junior High,100 West Portola Avenue Los Altos CA 94022-1210,5.2,ppb,TRUE,tested,Los Altos,Santa Clara County,37.3961242,-122.116366380816
-Los Altos Elementary,Covington Elementary,205 Covington Road Los Altos CA 94024-4030,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.370465,-122.107404
-Los Altos Elementary,Gardner Bullis Elementary,25890 Fremont Road Los Altos Hills CA 94022-2617,NA,NA,FALSE,tested,,,,
-Los Altos Elementary,Georgina P. Blach Junior High,1120 Covington Road Los Altos CA 94024-5005,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.36386675,-122.081681652979
-Los Altos Elementary,Loyola Elementary,770 Berry Avenue Los Altos CA 94024-5413,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.3613621152209,-122.092284068525
-Los Altos Elementary,Oak Avenue Elementary,1501 Oak Avenue Los Altos CA 94024-5831,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.356843,-122.071846
-Los Altos Elementary,Santa Rita Elementary,700 Los Altos Avenue Los Altos CA 94022-1631,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.775444,-118.125129
-Los Altos Elementary,Springer Elementary,1120 Rose Avenue Mountain View CA 94040-4058,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.3709394,-122.0914759
+Middletown Unified,Alphabet Soup Co op Preschool,21075 Bush St Middletown CA 95461,NA,NA,FALSE,tested,NA,Lake County,38.7540158547084,-122.61544250535
+Middletown Unified,Cobb Mountain Elementary,15895 Highway 175 Middletown CA 95461-0338,NA,NA,NA,not tested,NA,NA,NA,NA
+Middletown Unified,Coyote Valley Elementary,18950 Coyote Valley Road Middletown CA 95461-0338,NA,NA,NA,not tested,NA,NA,NA,NA
+Middletown Unified,Early Connection Preschool,15846 Wardlaw ST Middletown CA 95461,NA,NA,FALSE,tested,NA,Lake County,38.7550966756973,-122.615924081156
+Middletown Unified,Lake County International Charter,15850 Armstrong Street Middletown CA 95461,NA,NA,FALSE,tested,NA,Lake County,38.751383,-122.614553571429
+Middletown Unified,Minnie Cannon Elementary,15846 Wardlaw St. Middletown CA 95461-0338,NA,NA,FALSE,tested,NA,Lake County,38.7550966756973,-122.615924081156

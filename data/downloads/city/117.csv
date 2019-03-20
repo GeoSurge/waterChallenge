@@ -1,3 +1,6 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Colton Joint Unified,Grand Terrace Elementary,12066 Vivienda Avenue Grand Terrace CA 92313-5026,6.8,ppb,TRUE,tested,Grand Terrace,San Bernardino County,34.0353581122449,-117.321012857143
-Colton Joint Unified,Terrace View Elementary,22731 Grand Terrace Road Grand Terrace CA 92313-4921,10.4,ppb,TRUE,tested,Grand Terrace,San Bernardino County,34.0427279618655,-117.308629244568
+Greenfield Union Elementary,Cesar Chavez Elementary,250 Apple Avenue Greenfield CA 93927-5354,NA,NA,NA,not tested,Greenfield,Monterey County,36.3318720055624,-121.231704539239
+South Monterey County Joint Union High,Greenfield High,225 South El Camino Real Greenfield CA 93927-6312,NA,NA,NA,not tested,Greenfield,Monterey County,36.3212228367347,-121.243798571429
+Greenfield Union Elementary,Mary Chapa Academy,490 El Camino Real Greenfield CA 93927-4914,NA,NA,NA,not tested,Greenfield,Monterey County,36.3265283877551,-121.248098122449
+Greenfield Union Elementary,Oak Avenue Elementary,1239 Oak Avenue Greenfield CA 93927-5438,NA,NA,NA,not tested,Greenfield,Monterey County,36.3173393333333,-121.249509
+Greenfield Union Elementary,Vista Verde Middle,1199 Elm Avenue Greenfield CA 93927-4624,NA,NA,NA,not tested,Greenfield,Monterey County,36.316337,-121.243343

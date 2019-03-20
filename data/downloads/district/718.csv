@@ -1,9 +1,8 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-San Carlos Elementary,Arroyo School,1710 Arroyo Avenue San Carlos CA 94070,NA,NA,FALSE,tested,San Carlos,San Mateo County,37.4989986899234,-122.260503062015
-San Carlos Elementary,Arundel Elementary,200 Arundel Road San Carlos CA 94070-1945,NA,NA,FALSE,tested,San Carlos,San Mateo County,37.503987,-122.273667
-San Carlos Elementary,Brittan Acres Elementary,2000 Belle Avenue San Carlos CA 94070-3730,NA,NA,FALSE,tested,San Carlos,San Mateo County,37.496287,-122.263826
-San Carlos Elementary,Central Middle,757 Cedar Street San Carlos CA 94070-3802,NA,NA,FALSE,tested,San Carlos,San Mateo County,37.5010416868601,-122.262071666635
-San Carlos Elementary,Heather Elementary,2757 Melendy Drive San Carlos CA 94070-3604,NA,NA,FALSE,tested,San Carlos,San Mateo County,37.491661167834,-122.276759696568
-San Carlos Elementary,San Carlos Charter Learning Center,750 Dartmouth Ave. San Carlos CA 94070,NA,NA,FALSE,tested,San Carlos,San Mateo County,37.50860195,-122.286504310745
-San Carlos Elementary,Tierra Linda Middle,750 Dartmouth Ave San Carlos  CA 94070,NA,NA,FALSE,tested,San Carlos,San Mateo County,37.50860195,-122.286504310745
-San Carlos Elementary,White Oaks Elementary,1901 White Oak Way San Carlos CA 94070-4747,NA,NA,FALSE,tested,San Carlos,San Mateo County,37.492039,-122.253343
+Shasta Union High,Enterprise High,3411 Churn Creek Road Redding CA 96002-2798,NA,NA,FALSE,tested,Redding,Shasta County,40.5582849,-122.350733639744
+Shasta Union High,Foothill High,9733 Deschutes Road Palo Cedro CA 96073-8644,NA,NA,FALSE,tested,NA,Shasta County,40.573534,-122.238647
+Shasta Union High,Freedom High,2650 Eighth Street Redding CA 96001,NA,NA,FALSE,tested,NA,NA,NA,NA
+Shasta Union High,Freedom High Mary Community Day,590 Mary Street Redding CA 96001,NA,NA,NA,not tested,Redding,Shasta County,40.5912902487258,-122.408959492598
+Shasta Union High,Shasta Adult Education,590 Mary Street Redding CA 96001,NA,NA,FALSE,tested,Redding,Shasta County,40.5912902487258,-122.408959492598
+Shasta Union High,Shasta High,2500 Eureka Way Redding CA 96001-0335,NA,NA,FALSE,tested,Redding,Shasta County,40.5882274,-122.410526312513
+Shasta Union High,University Preparatory,2200 Eureka Way Redding CA 96001-0337,6.7,ppb,TRUE,tested,Redding,Shasta County,40.5875051,-122.406434172333

@@ -1,25 +1,37 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Saddleback Valley,Cordillera Elem,"25952 Cordillera Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6101003599328,-117.677676068773
-Saddleback Valley Unified,Cordillera Elementary,25952 Cordillera Drive Mission Viejo CA 92691-4099,NA,NA,NA,not tested,Mission Viejo,Orange County,33.6101003599328,-117.677676068773
-Saddleback Valley,De Portola Elem.,"27031 Preciados Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.601471,-117.659954
-Saddleback Valley Unified,De Portola Elementary,27031 Preciados Drive Mission Viejo CA 92691-5214,NA,NA,NA,not tested,Mission Viejo,Orange County,33.601471,-117.659954
-Saddleback Valley Unified School District,Del Cerro Elementary School,"24382 Regina St, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6084173908379,-117.681349507824
-Saddleback Valley Unified,Del Lago Elementary,"27181 Entidad, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6473003721403,-117.656947590292
-Saddleback Valley Unified,Del Lago Elementary,"27181 Entidad, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6473003721403,-117.656947590292
-Saddleback Valley Unified,Esperanza,25121 Pradera Drive Mission Viejo CA 92691-5310,NA,NA,NA,not tested,Mission Viejo,Orange County,33.597054,-117.667657
-Saddleback Valley,Esperanza Sp. Educ.,"25121 Pradera Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.597054,-117.667657
-Saddleback Valley Unified,Glen Yermo Elementary,26400 Trabuco Road Mission Viejo CA 92691-1999,NA,NA,NA,not tested,Mission Viejo,Orange County,33.6132533289115,-117.656854970504
-Saddleback Valley,Glen Yermo.,"26400 Trabuco Rd, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6132533289115,-117.656854970504
-Saddleback Valley,La Paz Inter.,"25151 Pradera Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.5976179985451,-117.666497108615
-Saddleback Valley Unified,La Paz Intermediate,25151 Pradera Drive Mission Viejo CA 92691-5310,NA,NA,NA,not tested,Mission Viejo,Orange County,33.5976179985451,-117.666497108615
-Saddleback Valley Unified School District,La Tierra Early Childhood Center,"24150 Lindley St, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6115813348237,-117.691371562216
-Saddleback Valley,Linda Vista Elem.,"25222 Pericia Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.5964418124717,-117.666714603857
-Saddleback Valley Unified School District,Los Alisos Intermediate School,"25171 Moor Ave, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.615852,-117.691308
-Saddleback Valley Unified,Mission Viejo High,25025 Chrisanta Drive Mission Viejo CA 92691-5326,NA,NA,NA,not tested,Mission Viejo,Orange County,33.5994021,-117.6718598
-Saddleback Valley,Mission Viejo HS,"25025 Chrisanta Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.5994021,-117.6718598
-Saddleback Valley,Montevideo Elem.,"24071 Carrillo, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6131661981555,-117.667381143771
-Saddleback Valley Unified,Montevideo Elementary,24071 Carrillo Drive Mission Viejo CA 92691-4222,NA,NA,NA,not tested,Mission Viejo,Orange County,33.6131661981555,-117.667381143771
-Saddleback Valley,Silverado Cont. HS,"25632 Peter A Hartman Way, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6209966339304,-117.68340302806
-Saddleback Valley Unified,Trabuco Hills High School,"27501 Mustang Run, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6529333307929,-117.650590952775
-Saddleback Valley Unified,Trabuco Hills High School,"27501 Mustang Run, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6529333307929,-117.650590952775
-Capistrano Unified,Viejo Elementary,26782 Via Grande Mission Viejo CA 92691-6133,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.5715429823452,-117.668816326834
+Stanislaus Union Elementary,Agnes M. Baptist Elementary,1825 Cheyenne Way Modesto CA 95356-0987,NA,NA,NA,not tested,Modesto,Stanislaus County,37.69342475,-121.025338202466
+Sylvan Union Elementary,Aspire University Charter,3313 Coffee Road Modesto CA 95355-1534,NA,NA,NA,not tested,Modesto,Stanislaus County,37.6863855263158,-120.976129947368
+Empire Union Elementary,Bernard L. Hughes Elementary,512 North McClure Road Modesto CA 95357-1542,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.6470707419355,-120.929992548387
+Empire Union Elementary,Capistrano Elementary,400 Capistrano Drive Modesto CA 95354-3243,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.643516,-120.942392
+Empire Union Elementary,Christine Sipherd Elementary,3420 East Orangeburg Avenue Modesto CA 95355-3550,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.663487244898,-120.932100530612
+Sylvan Union Elementary,Coleman F. Brown Elementary,2024 Vera Cruz Drive Modesto CA 95355-2404,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.6727388752345,-120.972243238628
+Sylvan Union Elementary,Daniel J. Savage Middle,1900 Maid Mariane Lane Modesto CA 95355-8744,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.670832,-120.93033
+Sylvan Union Elementary,Elizabeth Ustach Middle,2701 Kodiak Drive Modesto CA 95355-9256,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.683371,-120.954843
+Modesto City Elementary,Enslen Elementary,515 Coldwell Avenue Modesto CA 95354-0107,NA,NA,NA,not tested,Modesto,Stanislaus County,37.6529655714286,-120.999850571429
+Modesto City Elementary,Evelyn Hanshaw Middle,1725 Las Vegas Street Modesto CA 95358-5500,NA,NA,NA,not tested,Modesto,Stanislaus County,37.605744,-121.002819
+Modesto City High,Fred C. Beyer High,1717 Sylvan Avenue Modesto CA 95355-1399,NA,NA,NA,not tested,Modesto,Stanislaus County,37.6890423732191,-120.968150595287
+Sylvan Union Elementary,Freedom Elementary,2101 Fine Avenue Modesto CA 95355-9771,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.6735397236181,-120.926000778894
+Stanislaus Union Elementary,George Eisenhut Elementary,1809 Sheldon Drive Modesto CA 95350-0420,NA,NA,NA,not tested,Modesto,Stanislaus County,37.6855313333333,-121.025145
+Salida Union Elementary,Great Valley Academy - Salida,5901 Sisk Road Modesto CA 95356-8870,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.6871469,-121.0571432
+Modesto City Elementary,Harriette Kirschen Elementary,1900 Kirschen Drive Modesto CA 95351-2916,NA,NA,NA,not tested,Modesto,Stanislaus County,37.615456,-121.022172
+Modesto City High,James C. Enochs High,3201 Sylvan Avenue Modesto CA 95355-7893,NA,NA,NA,not tested,Modesto,Stanislaus County,37.689071,-120.935069
+Stanislaus Union Elementary,Josephine Chrysler Elementary,2818 Conant Avenue Modesto CA 95350-1752,NA,NA,NA,not tested,Modesto,Stanislaus County,37.6810651818182,-121.040388909091
+Modesto City Elementary,La Loma Junior High,1800 Encina Avenue Modesto CA 95354-1598,NA,NA,NA,not tested,Modesto,Stanislaus County,37.645162,-120.966245
+Sylvan Union Elementary,Mary Ann Sanders Elementary,3101 Fine Avenue Modesto CA 95355-9702,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.6781096,-120.9259839
+Stanislaus Union Elementary,Mary Lou Dieterich Elementary,2412 Warm Springs Drive Modesto CA 95350-9399,NA,NA,NA,not tested,Modesto,Stanislaus County,37.698821530303,-121.038758484848
+Salida Union Elementary,Mildred Perkins Elementary,3920 Blue Bird Dr. Modesto CA 95356-0254,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.696395,-121.058545
+Modesto City High,Modesto High,18 H Street Modesto CA 95351-3203,NA,NA,NA,not tested,Modesto,Stanislaus County,37.631473,-121.007126333333
+Sylvan Union Elementary,Orchard Elementary,1800 Wisdom Way Modesto CA 95355-8836,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.6698136,-120.953971979601
+Stanislaus Union Elementary,Prescott Junior High,2243 West Rumble Road Modesto CA 95350-0219,NA,NA,NA,not tested,Modesto,Stanislaus County,37.6824154215481,-121.036117999794
+Modesto City High,Robert Elliott Alternative Education Center,1440 Sunrise Avenue Modesto CA 95350-4643,NA,NA,NA,not tested,Modesto,Stanislaus County,37.6643622857143,-120.984703489796
+Modesto City Elementary,Rose Avenue Elementary,1120 Rose Avenue Modesto CA 95355-3799,NA,NA,NA,not tested,Modesto,Stanislaus County,37.6586899333333,-120.966641333333
+Modesto City Elementary,Shackelford Elementary,100 School Avenue Modesto CA 95351-5398,NA,NA,NA,not tested,Modesto,Stanislaus County,37.612079,-120.993499
+Sylvan Union Elementary,Sherwood Elementary,819 Rumble Road Modesto CA 95350-2414,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.68159,-120.963055
+Sylvan Union Elementary,Somerset Middle,1037 Floyd Avenue Modesto CA 95350-2426,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.678139271028,-120.978843392523
+Sylvan Union Elementary,Standiford Elementary,605 Tokay Avenue Modesto CA 95350-3535,9.2,ppb,TRUE,tested,Modesto,Stanislaus County,37.672735877551,-120.985722306122
+Stanislaus Union Elementary,Stanislaus Elementary,1931 Kiernan Avenue Modesto CA 95356-9159,NA,NA,NA,not tested,Modesto,Stanislaus County,37.7113942,-121.0384135
+Sylvan Union Elementary,Stockard Coffee Elementary,3900 Northview Drive Modesto CA 95355-1244,5.4,ppb,TRUE,tested,Modesto,Stanislaus County,37.694755,-120.968402
+Sylvan Union Elementary,Sylvan Elementary,2908 Coffee Road Modesto CA 95355-1757,6,ppb,TRUE,tested,Modesto,Stanislaus County,37.680776678392,-120.975804899497
+Modesto City High,Thomas Downey High,1000 Coffee Road Modesto CA 95355-4275,NA,NA,NA,not tested,Modesto,Stanislaus County,37.657317,-120.975493
+Modesto City Elementary,Wilson Elementary,201 Wilson Avenue Modesto CA 95354-2789,9.8,ppb,TRUE,tested,Modesto,Stanislaus County,37.641227,-120.9778
+Sylvan Union Elementary,Woodrow Elementary,800 Woodrow Avenue Modesto CA 95350-1234,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.685518,-121.003547

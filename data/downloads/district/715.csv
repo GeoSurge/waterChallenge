@@ -1,8 +1,4 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-San Bernardino County Superintendent of Schools,Apple Valley County Early Education Center,18415 Nakash Rd. Apple Valley CA 92307,NA,NA,FALSE,tested,,San Bernardino County,34.5439328526926,-117.263761394161
-San Bernardino County Superintendent of Schools,Chaffey North Community School,7201 Archibald Ave. Suites 4 & 5 Rancho Cucamonga CA 91701,NA,NA,NA,not tested,,,,
-San Bernardino County Superintendent of Schools,David Stine Chaffey West County Community School,5033 Holt Blvd. Montclair CA 91763,NA,NA,NA,not tested,Montclair,San Bernardino County,34.0631092012585,-117.695368719971
-San Bernardino County Superintendent of Schools,Frost Early Education Center,12860 Banyan Street Rancho Cucamonga CA 91739,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.1434415,-117.558552
-San Bernardino County Superintendent of Schools,Mulberry Early Education Center,8435 Archibald Ave Rancho Cucamonga CA 91730,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.1007302662986,-117.593362727199
-San Bernardino County Superintendent of Schools,Norma Covert County Education Center,14079 Meadow Grove Dr. Victorville CA 92395,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5051622525253,-117.288367686869
-San Bernardino County Superintendent of Schools,Victorville Education Center,12421 Hesperia Road Victorville CA 92395,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.4767971618763,-117.291134325693
+Shandon Joint Unified,Shandon Community Day,101 South First Street Shandon CA 93461,NA,NA,NA,not tested,NA,NA,NA,NA
+Shandon Joint Unified,Shandon Elementary,301 South First Street Shandon CA 93461-0049,NA,NA,NA,not tested,NA,NA,NA,NA
+Shandon Joint Unified,Shandon High,101 South First St Shandon CA 93461-0079,NA,NA,NA,not tested,NA,NA,NA,NA

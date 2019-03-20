@@ -1,12 +1,16 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-El Centro Elementary,Ballington Academy for the Arts and Sciences,1525 West Main Street El Centro CA 92243-2211,NA,NA,NA,not tested,El Centro,Imperial County,32.7927569663914,-115.571547780969
-Central Union High School District Office,Central Union High School District Office,351 W Ross Ave El Centro CA 92243,NA,NA,NA,not tested,El Centro,Imperial County,32.7814068979592,-115.551371591837
-El Centro Elementary,De Anza Magnet,1530 South Waterman Avenue El Centro CA 92243-4142,NA,NA,FALSE,tested,El Centro,Imperial County,32.7784806,-115.575131392135
-Imperial Unified,Frank M. Wright Middle,885 North Imperial Avenue Imperial CA 92251-1105,NA,NA,NA,not tested,El Centro,Imperial County,32.8003449653167,-115.569821002093
-El Centro Elementary,Hedrick Elementary School,550 South Waterman Avenue El Centro CA 92243-3139,NA,NA,NA,not tested,El Centro,Imperial County,32.787992,-115.575492739455
-El Centro Elementary School District,Home School Science Center,2370 W Main St El Centro CA 92243,NA,NA,NA,not tested,El Centro,Imperial County,32.7929361598722,-115.582206349858
-El Centro Elementary,Imagine Schools at Imperial Valley,1150 North Imperial Avenue El Centro CA 92243-1740,NA,NA,NA,not tested,El Centro,Imperial County,32.8031178227687,-115.569767647473
-El Centro Elementary,Margaret Hedrick Elementary,550 South Waterman Avenue El Centro CA 92243,NA,NA,FALSE,tested,El Centro,Imperial County,32.787992,-115.575492739455
-El Centro Elementary,Martin Luther King Jr. Elementary,1950 Villa Avenue El Centro CA 92243-1268,NA,NA,FALSE,tested,El Centro,Imperial County,32.8048954,-115.57745426228
-Central Union High,Southwest High,2001 Ocotillo Drive El Centro CA 92243-9451,NA,NA,FALSE,tested,El Centro,Imperial County,32.777308,-115.578517
-El Centro Elementary,Wilson Jr. High,600 South Wilson El Centro CA 92243-2799,16.5,ppb,TRUE,tested,El Centro,Imperial County,32.786875,-115.566859
+Mountain View Elementary,Baker Elementary,12043 Exline Street El Monte CA 91732-2797,NA,NA,NA,not tested,El Monte,Los Angeles County,34.0661511804223,-118.016266023931
+Mountain View Elementary,Charles T. Kranz Intermediate,12460 Fineview Street El Monte CA 91732-3930,NA,NA,NA,not tested,El Monte,Los Angeles County,34.0454126938776,-118.023527
+El Monte City,Cherrylee Elementary,5025 Buffington Road El Monte CA 91732-1499,NA,NA,NA,not tested,El Monte,Los Angeles County,34.0927564398329,-118.00855679707
+El Monte Union High,El Monte Union High School Community Day,5050 Kings Row El Monte CA 91731-5405,NA,NA,FALSE,tested,El Monte,Los Angeles County,34.0936859,-118.0261562
+El Monte Union High,El Monte/Rosemead Adult,10807 Ramona Boulevard El Monte CA 91731-2627,NA,NA,NA,not tested,El Monte,Los Angeles County,34.0720673061224,-118.039275673469
+El Monte Union High,Fernando R. Ledesma Continuation High,12347 Ramona Boulevard El Monte CA 91732-2569,NA,NA,FALSE,tested,El Monte,Los Angeles County,34.0763085325041,-118.003780480998
+Mountain View Elementary,Jerry Voorhis Elementary,3501 North Durfee Avenue El Monte CA 91732-2911,NA,NA,NA,not tested,El Monte,Los Angeles County,34.067002,-118.009901
+Mountain View Elementary,La Primaria Elementary,4220 Gilman Road El Monte CA 91732-2597,NA,NA,NA,not tested,El Monte,Los Angeles County,34.0755552353279,-118.002840967162
+El Monte City,Legore Elementary,11121 Bryant Road El Monte CA 91731-2053,NA,NA,NA,not tested,El Monte,Los Angeles County,34.0804191791597,-118.028704287192
+Mountain View Elementary,Maxson Elementary,12380 Felipe Street El Monte CA 91732-3656,NA,NA,NA,not tested,El Monte,Los Angeles County,34.0504704210526,-118.020325421053
+Mountain View Elementary,Miramonte Elementary,10620 Schmidt Road El Monte CA 91732-2702,NA,NA,NA,not tested,El Monte,Los Angeles County,34.0492394,-118.0201783
+El Monte Union High,Mountain View High,2900 Parkway Drive El Monte CA 91732-3695,NA,NA,FALSE,tested,El Monte,Los Angeles County,34.052307,-118.013242
+El Monte City,New Lexington Elementary,10410 East Bodger Street El Monte CA 91733-1314,NA,NA,NA,not tested,El Monte,Los Angeles County,34.06369895,-118.044616142474
+El Monte City,Thompson Elementary,4544 Maxson Road El Monte CA 91732-1798,NA,NA,NA,not tested,El Monte,Los Angeles County,34.0823947162162,-118.004610135135
+Mountain View Elementary,Twin Lakes Elementary,3900 Gilman Road El Monte CA 91732-2515,NA,NA,NA,not tested,El Monte,Los Angeles County,34.071026,-118.00524

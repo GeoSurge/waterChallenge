@@ -1,8 +1,9 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Central School District,Bear Gulch Elementary,"8355 Bear Gulch Place, Rancho Cucamonga CA 91730",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.1011904079936,-117.607718866857
-Central School District,Central Elementary,"7955 Archibald Ave  Rancho Cucamonga, CA 91730",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.1094055,-117.592301894895
-Central School District,Coyote Canyon Elementary,"7889 Elm Avenue  Rancho Cucamonga, California 91730",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.1117357520209,-117.564135507579
-Central School District,Cucamonga Middle School,"7611 Hellman Avenue  Rancho Cucamonga, CA  91730",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.1156458741699,-117.602216958064
-Central School District,Dona Merced Elementary,"10333 Palo Alto Street  Rancho Cucamonga, CA 91730",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.11676145,-117.579305831526
-Central School District,Ruth Musser Middle School,"10789 Terra Vista Parkway   Rancho Cucamonga, CA 91730",NA,NA,NA,exempt,,,,
-Central School District,Valle Vista Elementary,"7727 Valle Vista Dr.  Rancho Cucamonga, CA 91730",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.11422115,-117.618441354928
+Chaffey Joint Union High School,Alternative Education Center Center,"1802 East 7th Street, Ontario, CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.088567,-117.613448213429
+Chaffey Joint Union High School,Chaffey Adult School,"557 West 5th St, Ontario, CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.0816299908855,-117.657582630231
+Chaffey Joint Union High School,Chaffey High School,"1245 North Euclid Avenue, Ontario, CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.0805756938775,-117.651043
+Chaffey Joint Union High School,Colony High School,"3850 East Riverside Dr., Ontario, CA 91761",NA,NA,NA,exempt,Ontario,San Bernardino County,34.0193655,-117.6480197
+Chaffey Joint Union High School,Etiwanda High School,"13500 Victoria St., Rancho Cucamonga, CA 91739",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.1283890408051,-117.51179677397499
+Chaffey Joint Union High School,Ontario High School,"901 West Francis St, Ontario, CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.040913,-117.665599
+Chaffey Joint Union High School,Rancho Cucamonga High School,"11801 Lark Dr., Rancho Cucamonga, CA 91701",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.13058375,-117.547611150717
+Chaffey Joint Union High School,Valley View High School,"1801 east 6th St, Ontario, CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.0849738887939,-117.613361526956

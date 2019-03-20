@@ -1,9 +1,11 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Reef-Sunset Unified,Avenal Elementary,500 South First Avenue Avenal CA 93204-1501,NA,NA,NA,not tested,,,,
-Reef-Sunset Unified,Avenal High,601 Mariposa Street Avenal CA 93204-1413,NA,NA,NA,not tested,,,,
-Reef-Sunset Unified,Reef Sunset Middle,608 North First Avenue Avenal CA 93204-1071,NA,NA,NA,not tested,,,,
-Reef-Sunset Unified,Reef-Sunset Adult Education,205 North Park Avenue Avenal CA 93204-1425,NA,NA,NA,not tested,Avenal,Kings County,36.009495,-120.125394
-Reef-Sunset Unified,Reef-Sunset Primary Community Day,500 South First Street Avenal CA 93204-1558,NA,NA,NA,not tested,,,,
-Reef-Sunset Unified,Reef-Sunset Secondary Community Day,861 Monterey Street Avenal CA 93204-1425,NA,NA,NA,not tested,Avenal,Kings County,36.0080676734694,-120.124890408163
-Reef-Sunset Unified,Sunrise High (Continuation),209 North Park Avenue Avenal CA 93204-1425,NA,NA,NA,not tested,Avenal,Kings County,36.0095137689868,-120.125390314765
-Reef-Sunset Unified,Tamarack Elementary,1000 Union Avenue Avenal CA 93204-2046,NA,NA,NA,not tested,,,,
+San Rafael City Elementary,Bahia Vista Elementary,125 Bahia Way San Rafael CA 94901-4502,NA,NA,FALSE,tested,San Rafael,Marin County,37.966624237562,-122.498272306981
+San Rafael City Elementary,Coleman Elementary,800 Belle Ave San Rafael CA 94901-2227,NA,NA,FALSE,tested,San Rafael,Marin County,37.979424,-122.519334
+San Rafael City Elementary,Glenwood Elementary,25 Castlewood Dr San Rafael CA 94901-2524,NA,NA,FALSE,tested,San Rafael,Marin County,37.9855876088732,-122.476919683168
+San Rafael City Elementary,James B. Davidson Middle,280 Woodland Ave San Rafael CA 94901-5046,NA,NA,FALSE,tested,San Rafael,Marin County,37.9649415469143,-122.526732849128
+San Rafael City Elementary,Laurel Dell Elementary,225 Woodland Ave San Rafael CA 94901-6017,NA,NA,FALSE,tested,San Rafael,Marin County,37.9647774107595,-122.52689351962
+San Rafael City Elementary,San Pedro Elementary,498 Point San Pedro Rd San Rafael CA 94901-2457,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Rafael City Elementary,San Rafael Childrens Early Intervention Center,251 North San Pedro Rd San Rafael CA 94903-4412,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Rafael City Elementary,Short Elementary,35 Marin Street San Rafael CA 94901-4960,NA,NA,FALSE,tested,San Rafael,Marin County,37.9664665102041,-122.535484306122
+San Rafael City Elementary,Sun Valley Elementary,75 Happy Ln San Rafael CA 94901-1020,NA,NA,FALSE,tested,San Rafael,Marin County,37.9857598120891,-122.550021903207
+San Rafael City Elementary,Venetia Valley K-8,177 North San Pedro Rd San Rafael CA 94903-4200,NA,NA,FALSE,tested,NA,NA,NA,NA

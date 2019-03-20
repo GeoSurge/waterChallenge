@@ -1,2 +1,4 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-North Orange County ROP,North Orange County ROP,385 North Muller Street Anaheim CA 92801-5456,NA,NA,NA,not tested,Anaheim,Orange County,33.8383055441925,-117.95028354057
+Pioneer Union Elementary,Frontier Elementary,1854 North Mustang Drive Hanford CA 93230-9811,26,ppb,TRUE,tested,NA,NA,NA,NA
+Pioneer Union Elementary,Pioneer Elementary,8810 14th Avenue Hanford CA 93230-9677,NA,NA,FALSE,tested,NA,NA,NA,NA
+Pioneer Union Elementary,Pioneer Middle,101 West Pioneer Way Hanford CA 93230-9677,280,ppb,TRUE,tested,Hanford,Kings County,36.3705371,-119.6530887

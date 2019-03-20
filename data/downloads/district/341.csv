@@ -1,11 +1,6 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Hollister,Calaveras Elementary/Accelerated Achievement Academy,1151 Buena Vista Road Suite 100 Hollister CA 95023-3329,NA,NA,NA,not tested,,,,
-Hollister,Cerra Vista Elementary,2151 Cerra Vista Drive Hollister CA 95023-6200,NA,NA,FALSE,tested,,San Benito County,36.8292423196137,-121.373399175317
-Hollister,Gabilan Hills,901 Santa Ana Road Hollister CA 95023-7117,NA,NA,FALSE,tested,,San Benito County,36.855811,-121.382697
-Hollister,Hollister Dual Language Academy,"873 Santa Ana Road, Suite 200 Hollister CA 95023-7115",NA,NA,NA,not tested,,,,
-Hollister,Hollister Prep,881 Line Street Hollister CA 95023-4514,NA,NA,FALSE,tested,,San Benito County,36.8464736,-121.411676128716
-Hollister,Ladd Lane Elementary,161 Ladd Lane Hollister CA 95023-6100,NA,NA,NA,not tested,,San Benito County,36.8294303027831,-121.393194830988
-Hollister,Maze Middle,900 Meridian Street Hollister CA 95023-4107,5.5,ppb,TRUE,tested,,San Benito County,36.85282845,-121.384962165774
-Hollister,R. O. Hardin Elementary,881 Line Street Hollister CA 95023-4514,NA,NA,NA,not tested,,San Benito County,36.8464736,-121.411676128716
-Hollister,Rancho San Justo,1201 Rancho Drive Hollister CA 95023-4914,NA,NA,NA,not tested,,San Benito County,36.841338,-121.3968
-Hollister,Sunnyslope Elementary,1475 Memorial Drive Hollister CA 95023-5007,8.9,ppb,TRUE,tested,,San Benito County,36.83976655,-121.383109817571
+King City Union,Chalone Peaks Middle,667 Meyer St King City CA 93930-2919,NA,NA,FALSE,tested,King City,Monterey County,36.2213897,-121.1346625
+King City Union,Del Rey Elementary,502 King Street King City CA 93930-3232,NA,NA,FALSE,tested,King City,Monterey County,36.2154301632653,-121.135151244898
+King City Union,King City Arts Magnet,415 Pearl Street King City CA 93930-2919,NA,NA,FALSE,tested,King City,Monterey County,36.2098055714286,-121.127289
+King City Union,Phoenix Academy Community Day,667 Meyer Street King City CA 93930-3769,NA,NA,NA,not tested,King City,Monterey County,36.2213897,-121.1346625
+King City Union,Santa Lucia Elementary,502 Collins Street King City CA 93930-3233,NA,NA,FALSE,tested,King City,Monterey County,36.2137548571429,-121.132602836735

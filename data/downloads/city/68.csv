@@ -1,3 +1,7 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Corona-Norco Unified,Corona-Norco Adult,300  Buena Vista Avenue Corona CA 92882-1937,NA,NA,NA,not tested,Corona,Riverside County,33.8503648,-117.5816805
-Corona-Norco Unified,Corona-Norco Alternative,185 Magnolia Avenue Corona CA 92879-3329,NA,NA,NA,not tested,Corona,Riverside County,33.8634921,-117.5466156
+Coronado Unified,Coronado High,650 D Avenue Coronado CA 92118-2113,NA,NA,FALSE,tested,Coronado,San Diego County,32.69141538438,-117.178213272213
+Coronado Unified,Coronado Middle,550 F Avenue Coronado CA 92118-2110,NA,NA,FALSE,tested,Coronado,San Diego County,32.6937758506021,-117.17958126693
+Coronado Unified,Coronado Unified Special Education Pre-K,201 6th Street Coronado CA 92118-1638,NA,NA,NA,not tested,Coronado,San Diego County,32.696178,-117.187148
+Coronado Unified,Early Childhood Development Center (ECDC),199 6th St. Coronado CA 92118,NA,NA,FALSE,tested,Coronado,San Diego County,32.696596,-117.188154
+Coronado Unified,Palm Academy for Learning,555 D Avenue Coronado CA 92118-1714,NA,NA,FALSE,tested,Coronado,San Diego County,32.6928953635097,-117.17712279334
+Coronado Unified,Silver Strand Elementary,1350 Leyte Road Coronado CA 92118-3124,NA,NA,FALSE,tested,Coronado,San Diego County,32.6444979,-117.1450315

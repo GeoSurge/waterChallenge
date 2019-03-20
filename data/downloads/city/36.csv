@@ -1,12 +1,8 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-San Mateo Union High,Burlingame High,1 Mangini Way Burlingame CA 94010-2708,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.582181,-122.3471674
-Burlingame Elementary,Burlingame Intermediate,1715 Quesada Way Burlingame CA 94010-5701,9,ppb,TRUE,tested,Burlingame,San Mateo County,37.5880200353607,-122.384722630488
-San Mateo Union High,Design Tech High,1800 Rollins Road Burlingame CA 94010-2205,NA,NA,NA,not tested,Burlingame,San Mateo County,37.5978274018288,-122.379961310625
-Burlingame Elementary,Franklin Elementary,2385 Trousdale Drive Burlingame CA 94010-5704,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.5886306818914,-122.389057711078
-Burlingame Elementary,Hoover Elementary School,2220 Summit Drive Burlingame CA 94010,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.5772110390416,-122.380622431399
-Burlingame Elementary,McKinley Elementary,701 Paloma Avenue Burlingame CA 94010-3728,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.579094,-122.355961
-NA,Pacific Rim International School,454 Peninsula Avenue San Mateo CA 94401,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.580678329294,-122.334246545536
-NA,Palcare,945 California Dr Burlingame CA 94010,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.5853423594177,-122.358519103018
-Burlingame Elementary,Roosevelt Elementary,1151 Vancouver Avenue Burlingame CA 94010-5674,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.5790595624821,-122.368119495521
-NA,Village Park Preschool,1535 California Dr Burlingame CA 94010,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.5918605984446,-122.374093705132
-Burlingame Elementary,Washington Elementary,801 Howard Avenue Burlingame CA 94010-3006,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.580858,-122.340351
+Las Virgenes Unified,Alice C. Stelle Middle,22450 Mulholland Highway Calabasas CA 91302-5180,NA,NA,NA,not tested,Calabasas,Los Angeles County,34.1428335,-118.6142054
+Las Virgenes Unified,Arthur E. Wright Middle,4029 North Las Virgenes Road Calabasas CA 91302-1927,NA,NA,NA,not tested,Calabasas,Los Angeles County,34.1324502448568,-118.703423852337
+Las Virgenes Unified,Bay Laurel Elementary,24740 Paseo Primario Calabasas CA 91302-3071,NA,NA,NA,not tested,Calabasas,Los Angeles County,34.139378306766,-118.651830153715
+Las Virgenes Unified,Calabasas High,22855 West Mulholland Highway Calabasas CA 91302-2047,NA,NA,FALSE,tested,Calabasas,Los Angeles County,34.1390244,-118.6266077
+Los Angeles County Office of Education,"Gonzales, David Camp",1301 North Las Virgenes Road Calabasas CA 91302,NA,NA,NA,not tested,Calabasas,Los Angeles County,34.1470056,-118.6977536
+Las Virgenes Unified,Las Virgenes Adult,4111 North Las Virgenes Road Calabasas CA 91302-1929,NA,NA,NA,not tested,Calabasas,Los Angeles County,34.1336275294622,-118.703154707253
+Las Virgenes Unified,Lupin Hill Elementary,26210 Adamor Road Calabasas CA 91302-1006,NA,NA,NA,not tested,Calabasas,Los Angeles County,34.161613,-118.698556

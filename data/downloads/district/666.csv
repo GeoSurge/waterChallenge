@@ -1,14 +1,22 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Redondo Beach Unified,Adams Middle,2600 Ripley Avenue Redondo Beach CA 90278-4555,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.866031,-118.364893
-Redondo Beach Unified,Alta Vista Elementary,815 Knob Hill Avenue Redondo Beach CA 90277-4300,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.8283570939369,-118.378874757543
-Redondo Beach Unified,Beryl Heights Elementary,920 Beryl Street Redondo Beach CA 90277-2236,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.8521850408163,-118.384458346939
-Redondo Beach Unified,Birney Elementary,1600 Green Lane Redondo Beach CA 90278-3656,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.869135,-118.376831
-Redondo Beach Unified,Jefferson Elementary,600 Harkness Lane Redondo Beach CA 90278-4806,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.86017,-118.381022
-Redondo Beach Unified,Lincoln Elementary,2223 Plant Avenue Redondo Beach CA 90278-2013,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.8809135,-118.3748719
-Redondo Beach Unified,Madison Elementary,2200 MacKay Lane Redondo Beach CA 90278-2509,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.874863,-118.368411
-Redondo Beach Unified,Parras (Nick G.) Middle,200 North Lucia Redondo Beach CA 90277-3220,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.844538,-118.378559
-Redondo Beach Unified,Redondo Beach Learning Academy,1000 Del Amo Street Redondo Beach CA 90277-3934,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.848611,-118.382401
-Redondo Beach Unified,Redondo Shores High (Continuation),1000 Del Amo Street B Redondo Beach CA 90277-3034,NA,NA,FALSE,tested,,,,
-Redondo Beach Unified,Redondo Union High,631 Vincent Park Redondo Beach CA 90277-3125,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.8446126108009,-118.38392333428
-Redondo Beach Unified,Tulita Elementary,1520 Prospect Avenue Redondo Beach CA 90277-5113,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.8665038438706,-118.389563669792
-Redondo Beach Unified,Washington Elementary,1100 Lilienthal Lane Redondo Beach CA 90278-4557,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.864886,-118.365478
+San Mateo-Foster City,Abbott Middle,600 36th Avenue San Mateo CA 94403-4101,NA,NA,NA,not tested,San Mateo,San Mateo County,37.529614,-122.308837
+San Mateo-Foster City,Audubon Elementary,841 Gull Avenue Foster City CA 94404-1427,NA,NA,NA,not tested,Foster City,San Mateo County,37.5671696763845,-122.259321929782
+San Mateo-Foster City,Bayside S.T.E.M. ACADEMY,2025 Kehoe Avenue San Mateo CA 94403-1061,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5654690942308,-122.295894165394
+San Mateo-Foster City,Baywood Elementary,600 Alameda de Las Pulgas San Mateo CA 94402-3358,NA,NA,NA,not tested,NA,NA,NA,NA
+San Mateo-Foster City,Beresford Elementary,300 28th Avenue San Mateo CA 94403-2405,NA,NA,NA,not tested,San Mateo,San Mateo County,37.539123,-122.309286
+San Mateo-Foster City,Borel Middle,425 Barneson Avenue San Mateo CA 94402-3405,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5503207843887,-122.322242562957
+San Mateo-Foster City,Bowditch Middle,1450 Tarpon Street Foster City CA 94404-1938,NA,NA,NA,not tested,Foster City,San Mateo County,37.560347,-122.250543
+San Mateo-Foster City,Brewer Island Elementary,1151 Polynesia Drive Foster City CA 94404-1749,NA,NA,NA,not tested,Foster City,San Mateo County,37.560764475,-122.260797925
+San Mateo-Foster City,College Park Elementary,715-A Indian Avenue San Mateo CA 94401-1768,NA,NA,NA,not tested,NA,NA,NA,NA
+San Mateo-Foster City,Fiesta Gardens International Elementary,1001 Bermuda Drive San Mateo CA 94403-1508,NA,NA,NA,not tested,San Mateo,San Mateo County,37.551273,-122.2994
+San Mateo-Foster City,Foster City Elementary,461 Beach Park Boulevard Foster City CA 94404-2713,NA,NA,NA,not tested,Foster City,San Mateo County,37.5455071073524,-122.273118532321
+San Mateo-Foster City,George Hall Elementary,130 San Miguel Way San Mateo CA 94403-2954,NA,NA,NA,not tested,San Carlos,San Mateo County,37.489221,-122.2703077
+San Mateo-Foster City,Highlands Elementary,2320 Newport Street San Mateo CA 94402-3838,NA,NA,NA,not tested,NA,San Mateo County,37.5234751754958,-122.349502662195
+San Mateo-Foster City,Laurel Elementary,316 36th Avenue San Mateo CA 94403-4204,NA,NA,NA,not tested,San Mateo,San Mateo County,37.531728940968,-122.303705527655
+San Mateo-Foster City,LEAD Elementary,949 Ocean View Avenue San Mateo CA 94401-3462,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5704009323959,-122.303584289886
+San Mateo-Foster City,Meadow Heights Elementary,2619 Dolores Street San Mateo CA 94403-2644,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5390059042014,-122.317126387828
+San Mateo-Foster City,North Shoreview Montessori Elementary,1301 Cypress Avenue San Mateo CA 94401-2007,NA,NA,NA,not tested,San Mateo,San Mateo County,37.574523,-122.316377
+San Mateo-Foster City,Parkside Elementary,1685 Eisenhower Street San Mateo CA 94402-1045,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5603261939917,-122.296829824551
+San Mateo-Foster City,San Mateo Park Elementary,161 Clark Drive San Mateo CA 94402-1002,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5698423554974,-122.342617942306
+San Mateo-Foster City,San Mateo-Foster City Special Education Preschool,1170 Chess Drive Foster City CA 94404-1107,NA,NA,NA,not tested,Foster City,San Mateo County,37.5659375730012,-122.273100655905
+San Mateo-Foster City,Sunnybrae Elementary,1031 South Delaware Street San Mateo CA 94402-1855,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5482289,-122.3047813

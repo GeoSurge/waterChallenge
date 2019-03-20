@@ -1,13 +1,13 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Delano Union Elementary,Albany Park Elementary,235 West 20th Avenue Delano CA 93215-1352,NA,NA,FALSE,tested,,Kern County,35.7832253061224,-119.26168477551
-Delano Union Elementary,Almond Tree Middle,200 West 15th Avenue Delano CA 93215-1816,NA,NA,FALSE,tested,,Kern County,35.773978,-119.260873
-Delano Union Elementary,Cecil Avenue Math and Science Academy,1430 Cecil Avenue Delano CA 93215-1444,NA,NA,FALSE,tested,,Kern County,35.7757786565657,-119.241580161616
-Delano Union Elementary,Del Vista Math and Science Academy,710 Quincy Street Delano CA 93215-3044,NA,NA,FALSE,tested,,Kern County,35.7662559736842,-119.234320473684
-Delano Union Elementary,Fremont Elementary,1318 Clinton Street Delano CA 93215-2139,NA,NA,FALSE,tested,,Kern County,35.7718100306122,-119.255915581633
-Delano Union Elementary,Harvest Elementary,1320 Vassar Avenue Delano CA 93215-3872,NA,NA,FALSE,tested,,,,
-Delano Union Elementary,La Vina Middle,1331 Browning Road Delano CA 93215-9497,NA,NA,FALSE,tested,,Kern County,35.725198,-119.223124
-Delano Union Elementary,Morningside,2100 Summer Drive Delano CA 93215-4794,NA,NA,FALSE,tested,,Kern County,35.787129,-119.227566
-Delano Union Elementary,Nueva Vista Language Academy,120 Garces Highway Delano CA 93215-3328,NA,NA,FALSE,tested,,Kern County,35.7612967349822,-119.256607000149
-Delano Union Elementary,Pioneer,1001 Hiett Avenue Delano CA 93215-9530,NA,NA,FALSE,tested,,Kern County,35.775863,-119.267407
-Delano Union Elementary,Princeton Street Elementary,1959 Princeton Street Delano CA 93215-1523,NA,NA,FALSE,tested,,Kern County,35.761418,-119.236415
-Delano Union Elementary,Terrace Elementary,1999 Norwalk Street Delano CA 93215-1458,NA,NA,FALSE,tested,,Kern County,35.783034,-119.24102
+East Whittier City Elementary,Ceres Elementary,10601 South Ceres Avenue Whittier CA 90604-1655,12,ppb,TRUE,tested,NA,Los Angeles County,33.934221,-118.028939
+East Whittier City Elementary,East Whittier Middle,14421 East Whittier Boulevard Whittier CA 90605-2188,NA,NA,FALSE,tested,La Habra,Orange County,33.9391171,-117.9447152
+East Whittier City Elementary,Evergreen Elementary,12915 East Helmer Drive Whittier CA 90602-3232,10.4,ppb,TRUE,tested,Whittier,Los Angeles County,33.9632923731076,-118.041670627856
+East Whittier City Elementary,Granada Middle,15337 Lemon Drive Whittier CA 90604-3251,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.9233967356266,-118.002488053892
+East Whittier City Elementary,Hillview Middle,10931 South Stamy Road Whittier CA 90604-2225,NA,NA,FALSE,tested,NA,Los Angeles County,33.9329415243902,-118.00617
+East Whittier City Elementary,La Colima Elementary,11225 Miller Road Whittier CA 90604-1952,NA,NA,FALSE,tested,NA,Los Angeles County,33.9299154705882,-118.020485764706
+East Whittier City Elementary,Laurel Elementary,13550 Lambert Road Whittier CA 90605-2423,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.956389,-118.035477
+East Whittier City Elementary,Leffingwell Elementary,10625 South Santa Gertrudes Whittier CA 90603-2441,NA,NA,FALSE,tested,NA,NA,NA,NA
+East Whittier City Elementary,Mulberry Elementary,14029 East Mulberry Drive Whittier CA 90605-3169,NA,NA,FALSE,tested,NA,NA,NA,NA
+East Whittier City Elementary,Murphy Ranch Elementary,16021 Janine Drive Whittier CA 90603-1527,NA,NA,NA,not tested,Whittier,Los Angeles County,33.9465699334663,-117.98781436306
+East Whittier City Elementary,Orchard Dale Elementary,10625 South Cole Road Whittier CA 90604-1539,8.4,ppb,TRUE,tested,NA,NA,NA,NA
+East Whittier City Elementary,Scott Avenue Elementary,11701 Scott Avenue Whittier CA 90604-3245,NA,NA,FALSE,tested,NA,Los Angeles County,33.9275362634952,-118.000397229553

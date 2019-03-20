@@ -15,7 +15,7 @@ Stockton Unified,Aspire Rosa Parks Academy,1930 South D Street Stockton CA 95206
 Manteca Unified,be.tech,2271 West Louise Ave Manteca CA 95337-8381,NA,NA,NA,not tested,Manteca,San Joaquin County,37.8124828,-121.256742175
 Lodi Unified,Bear Creek High,10555 Thornton Road Stockton CA 95209-4100,NA,NA,NA,not tested,Stockton,San Joaquin County,38.0518765044213,-121.351345929525
 Lodi Unified,Beckman Elementary,2201 Scarborough Drive Lodi CA 95240-6600,NA,NA,FALSE,tested,Lodi,San Joaquin County,38.1056388499254,-121.280987619087
-Lammersville Joint Unified,Bethany Elementary,570 Escuela Drive Mountain House CA 95391-2051,NA,NA,NA,not tested,,San Joaquin County,37.7730021,-121.549961063836
+Lammersville Joint Unified,Bethany Elementary,570 Escuela Drive Mountain House CA 95391-2051,NA,NA,NA,not tested,NA,San Joaquin County,37.7730021,-121.549961063836
 Manteca Unified,Brock Elliott Elementary,1110 Stonum Lane Manteca CA 95336-0032,NA,NA,NA,not tested,Manteca,San Joaquin County,37.7856437346939,-121.239753714286
 Stockton Unified,Business Leadership Academy,401 North San Joaquin Street Stockton CA 95202,NA,NA,NA,not tested,Stockton,San Joaquin County,37.95752055,-121.28890432739
 Stockton Unified,Business Learning Academy,401 North San Joaquin Street Stockton CA 95202,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.95752055,-121.28890432739
@@ -27,7 +27,7 @@ Lincoln Unified,Colonial Heights,8135 Balboa Avenue Stockton CA 95209-2920,NA,NA
 Lodi Unified,Creekside Elementary,2515 Estate Drive Stockton CA 95209-1185,NA,NA,FALSE,tested,Stockton,San Joaquin County,38.0416968,-121.34906756598
 New Jerusalem Elementary,Delta Bridges Charter,703 East Swain Road Stockton CA 95207-3146,NA,NA,NA,not tested,Stockton,San Joaquin County,38.00926075,-121.302151972438
 Lodi Unified,Delta Sierra Middle,2255 Wagner Heights Road Stockton CA 95209-4700,NA,NA,FALSE,tested,Stockton,San Joaquin County,38.03591,-121.342532477936
-Escalon Unified,Dent Elementary,1998 Yosemite Avenue Escalon CA 95320-1845,NA,NA,NA,not tested,,San Joaquin County,37.798341,-120.989266
+Escalon Unified,Dent Elementary,1998 Yosemite Avenue Escalon CA 95320-1845,NA,NA,NA,not tested,NA,San Joaquin County,37.798341,-120.989266
 Tracy Joint Unified,Discovery Charter,51 East Beverly PL Tracy CA 95376-3191,NA,NA,NA,not tested,Tracy,San Joaquin County,37.7450641610738,-121.426560395973
 Stockton Unified,District Special Education,1800 South Sutter Stockton CA 95206-2004,NA,NA,NA,not tested,Stockton,San Joaquin County,37.934458,-121.280625
 Stockton Unified,Dr. Lewis Dolphin Stallworth Sr. Charter,1610 East Main Street Stockton CA 95205-5521,NA,NA,NA,not tested,Stockton,San Joaquin County,37.9556848281388,-121.27004897378
@@ -35,7 +35,7 @@ Tracy Joint Unified,Earle E. Williams Middle,1600 Tennis Lane Tracy CA 95376-401
 Manteca Unified,East Union High,1700 North Union Road Manteca CA 95336-9217,NA,NA,NA,not tested,Manteca,San Joaquin County,37.82307,-121.235662
 Stockton Unified,El Dorado Elementary,1540 North Lincoln Street Stockton CA 95204-5617,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.967066,-121.300836059311
 Lodi Unified,Erma B. Reese Elementary,1800 West Elm Street Lodi CA 95242-2917,NA,NA,FALSE,tested,Lodi,San Joaquin County,38.136127,-121.295418
-Escalon Unified,Escalon Charter Academy,1520 Yosemite Avenue Escalon CA 95320-1753,NA,NA,NA,not tested,,San Joaquin County,37.7985314489796,-120.994298428571
+Escalon Unified,Escalon Charter Academy,1520 Yosemite Avenue Escalon CA 95320-1753,NA,NA,NA,not tested,NA,San Joaquin County,37.7985314489796,-120.994298428571
 Stockton Unified,Fillmore Elementary,2644 East Poplar Street Stockton CA 95205-4349,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9692206130163,-121.25617102686
 Tracy Joint Unified,George Kelly Elementary,535 Mabel Josephine Drive Tracy CA 95377-6645,NA,NA,NA,not tested,Tracy,San Joaquin County,37.7280606874209,-121.46247571853
 Manteca Unified,George McParland Annex,1370 London Ave Manteca CA 95366,NA,NA,NA,not tested,Manteca,San Joaquin County,37.8188273353497,-121.244568670909
@@ -66,8 +66,8 @@ Lodi Unified,Lawrence Elementary,721 Calaveras Street Lodi CA 95240-0628,NA,NA,F
 Lodi Unified,Leroy Nichols Elementary,1301 South Crescent Avenue Lodi CA 95240-6001,NA,NA,FALSE,tested,Lodi,San Joaquin County,38.117095,-121.2828063
 Lodi Unified,Liberty High,660 West Walnut Street Lodi CA 95240-3437,NA,NA,FALSE,tested,Lodi,San Joaquin County,38.1312522244898,-121.281446734694
 Manteca Unified,Lincoln Elementary,750 East Yosemite Avenue Manteca CA 95336-5827,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.7973528571429,-121.206918857143
-Linden Unified,Linden Adult,18257 East Main Street Linden CA 95236,NA,NA,NA,not tested,,San Joaquin County,38.020074,-121.081185
-Lodi Unified,Lockeford Elementary,19456 North Tully Road Lockeford CA 95237-9752,NA,NA,NA,not tested,,San Joaquin County,38.1608047873298,-121.147060112597
+Linden Unified,Linden Adult,18257 East Main Street Linden CA 95236,NA,NA,NA,not tested,NA,San Joaquin County,38.020074,-121.081185
+Lodi Unified,Lockeford Elementary,19456 North Tully Road Lockeford CA 95237-9752,NA,NA,NA,not tested,NA,San Joaquin County,38.1608047873298,-121.147060112597
 Lodi Unified,Lodi Adult,542 East Pine Street Lodi CA 95240-3034,NA,NA,FALSE,tested,Lodi,San Joaquin County,38.1340783877551,-121.262313316327
 Lodi Unified,Lodi High,3 South Pacific Avenue Lodi CA 95242-3020,8.8,ppb,TRUE,tested,Lodi,San Joaquin County,38.13305705,-121.292012344811
 Lodi Unified,Lodi Middle,945 South Ham Lane Lodi CA 95242-3822,5.6,ppb,TRUE,tested,Lodi,San Joaquin County,38.1221529543308,-121.288364551076
@@ -104,7 +104,7 @@ Lodi Unified,Ronald E. McNair High,9550 Ronald East McNair Way Stockton CA 95210
 San Joaquin County Office of Education,San Joaquin Building Futures Academy,3100 Monte Diablo Avenue Stockton CA 95203-1108,NA,NA,NA,not tested,Stockton,San Joaquin County,37.9545612,-121.342491074837
 San Joaquin County ROP,San Joaquin County ROCP,2707 Transworld Stockton CA 95206-9030,NA,NA,NA,not tested,Stockton,San Joaquin County,37.906898750694,-121.22875362555
 San Joaquin County Office of Education,San Joaquin County Special Education,2707 Transworld Dr. Stockton CA 95206-3948,NA,NA,NA,not tested,Stockton,San Joaquin County,37.906898750694,-121.22875362555
-Lammersville Joint Unified,Sebastian Questa Elementary,543 North Montebello Street Mountain House CA 95391,NA,NA,NA,not tested,,San Joaquin County,37.7858341,-121.5518387
+Lammersville Joint Unified,Sebastian Questa Elementary,543 North Montebello Street Mountain House CA 95391,NA,NA,NA,not tested,NA,San Joaquin County,37.7858341,-121.5518387
 Manteca Unified,Sierra High,1700 Thomas Street Manteca CA 95336-0032,NA,NA,NA,not tested,Manteca,San Joaquin County,37.793619,-121.24646
 Manteca Unified,Stella Brockman Elementary,763 Silverado Drive Manteca CA 95336-0032,NA,NA,NA,not tested,Manteca,San Joaquin County,37.8094113333333,-121.245440666667
 Stockton Unified,Stockton Collegiate International Elementary,321 East Weber Avenue Stockton CA 95202-2707,NA,NA,NA,not tested,Stockton,San Joaquin County,37.95456945,-121.286867206203
@@ -115,10 +115,10 @@ Tracy Joint Unified,Tracy Adult,1902 Corral Hollow Road Tracy CA 95376-4017,NA,N
 Tracy Joint Unified,Tracy High,315 East 11th Street Tracy CA 95376-4017,NA,NA,NA,not tested,Tracy,San Joaquin County,37.7397097,-121.4238381
 Lincoln Unified,Tully C. Knoles,6511 Clarksburg Place Stockton CA 95207-3222,NA,NA,NA,not tested,Stockton,San Joaquin County,38.00280981954,-121.344412772266
 Manteca Unified,Veritas Elementary,1600 Pagola Street Manteca CA 95337-8603,NA,NA,NA,not tested,Manteca,San Joaquin County,37.7744779,-121.230803
-Lodi Unified,Victor Elementary,17670 North Bruella Road Victor CA 95253-9999,NA,NA,NA,not tested,,San Joaquin County,38.1432260909608,-121.205965498471
+Lodi Unified,Victor Elementary,17670 North Bruella Road Victor CA 95253-9999,NA,NA,NA,not tested,NA,San Joaquin County,38.1432260909608,-121.205965498471
 Lincoln Unified,Village Oaks High School,1900 West Swain Stockton CA 95207-3439,NA,NA,NA,not tested,Stockton,San Joaquin County,38.0007296702058,-121.333614188091
-Lodi Unified,Vinewood Elementary,1600 West Tokay Street Lodi CA 95242-3435,NA,NA,FALSE,tested,Lodi,San Joaquin County,38.126334,-121.29345
-Escalon Unified,Vista High (Continuation),1520 Yosemite Ave. Escalon CA 95320-1753,NA,NA,NA,not tested,,San Joaquin County,37.7985314489796,-120.994298428571
+Lodi Unified,Vinewood Elementary,1600 West Tokay Street Lodi CA 95242-3435,NA,NA,FALSE,tested,Lodi,San Joaquin County,38.126334,-121.29345000000001
+Escalon Unified,Vista High (Continuation),1520 Yosemite Ave. Escalon CA 95320-1753,NA,NA,NA,not tested,NA,San Joaquin County,37.7985314489796,-120.994298428571
 Lodi Unified,Wagner-Holt Elementary,8778 Brattle Place Stockton CA 95209-4850,NA,NA,FALSE,tested,Stockton,San Joaquin County,38.02930495,-121.352830709892
 Manteca Unified,Walter Woodward Elementary,575 Tannehill Drive Manteca CA 95337-8709,NA,NA,NA,not tested,Manteca,San Joaquin County,37.7694658332224,-121.208538237193
 Tracy Joint Unified,Wanda Hirsch Elementary,1280 Dove Drive Tracy CA 95376-8362,NA,NA,NA,not tested,Tracy,San Joaquin County,37.7153047959184,-121.441109571429

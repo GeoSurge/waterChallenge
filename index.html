@@ -51,7 +51,7 @@
           <div id="two" style="display: none">
             <div id="dashboard"> 
               <select class="dropdown" id="countyDropdown" onchange="onChangeCountyDropdown()">
-                <option value="">County</option>
+                <option type="radio" value="">County</option>
               </select>
 
               <select class="dropdown" id="cityDropdown" onchange="onChangeCityDropdown();"></select>
@@ -78,8 +78,8 @@
   <section id="key">
     <span><span class="inline-block circle exempt" width=25vw ></span> Exempt</span>
         <span><span class="inline-block circle untested"></span> Untested</span>
-    <span><span class="inline-block circle low"></span> Lead content < 5 ppb</span>
-    <span ><span class="inline-block circle high"></span> Lead content >= 5 ppb</span>
+    <span><span class="inline-block circle low"></span> Lead < 5 ppb</span>
+    <span ><span class="inline-block circle high"></span> Lead >= 5 ppb</span>
   </section>
 
   <section id="table">

@@ -1,5 +1,4 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Los Nietos,Ada S. Nelson Elementary,8140 South Vicki Drive Whittier CA 90606-3040,NA,NA,NA,not tested,,,,
-Los Nietos,Aeolian Elementary,11600 Aeolian Street Whittier CA 90606-3306,NA,NA,NA,not tested,,Los Angeles County,33.9661888038958,-118.06887211635
-Los Nietos,Los Nietos Middle,11425 East Rivera Road Los Nietos CA 90606-3245,NA,NA,NA,not tested,,,,
-Los Nietos,Rancho Santa Gertrudes Elementary,11233 East Charlesworth Road Santa Fe Springs CA 90670-2820,NA,NA,NA,not tested,Santa Fe Springs,Los Angeles County,33.954482,-118.081302
+Mojave Unified,Douglas (East Kern Community School),3200 Pat Avenue Mojave CA 93501-1344,NA,NA,FALSE,tested,NA,Kern County,35.049989,-118.189802
+Mojave Unified,Mojave Elementary,"15800 ""O"" Street Mojave CA 93501-1344",NA,NA,FALSE,tested,NA,Kern County,35.0532516100629,-118.167166528302
+Mojave Unified,Mojave Jr./Sr. High,15732 O Street Mojave CA 93501-1751,5.4,ppb,TRUE,tested,NA,Kern County,35.0530112578616,-118.167162037736

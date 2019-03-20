@@ -1,10 +1,13 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Orcutt Union Elementary,Alice Shaw Elementary,759 Dahlia Place Santa Maria CA 93455-2931,NA,NA,FALSE,tested,,Santa Barbara County,34.8889583596503,-120.426051057142
-Orcutt Union Elementary,Joe Nightingale Elementary,255 Winter Road Santa Maria CA 93455-2643,NA,NA,FALSE,tested,,Santa Barbara County,34.8982571111111,-120.435101555556
-Orcutt Union Elementary,Lakeview Junior High,3700 Orcutt Road Santa Maria CA 93455-2602,NA,NA,FALSE,tested,,Santa Barbara County,34.8923682272005,-120.436117048506
-Orcutt Union Elementary,Olga L. Reed Elementary,480 Centennial Street Los Alamos CA 93440-0318,NA,NA,FALSE,tested,,Santa Barbara County,34.7409009591837,-120.279663959184
-Orcutt Union Elementary,Orcutt Academy Charter,500 Dyer Street Orcutt CA 93455-5300,NA,NA,FALSE,tested,,Santa Barbara County,34.862219,-120.442117
-Orcutt Union Elementary,Orcutt Junior High,608 Pinal Street Santa Maria CA 93455-5302,NA,NA,FALSE,tested,,,,
-Orcutt Union Elementary,Patterson Road Elementary,400 Patterson Road Santa Maria CA 93455-4806,NA,NA,FALSE,tested,,,,
-Orcutt Union Elementary,Pine Grove Elementary,1050 East Rice Ranch Road Santa Maria CA 93455-5068,NA,NA,FALSE,tested,,,,
-Orcutt Union Elementary,Ralph Dunlap Elementary,1220 Oak Knoll Road Santa Maria CA 93455-4301,NA,NA,FALSE,tested,,,,
+Ramona City Unified,Barnett Elementary,23925 Couna Way Ramona CA 92065-4120,NA,NA,FALSE,tested,NA,NA,NA,NA
+Ramona City Unified,Future Bound Independent Study Secondary,720 Ninth Street Ramona CA 92065-2348,14,ppb,TRUE,tested,NA,NA,NA,NA
+Ramona City Unified,Hanson Elementary,2520 Boundary Avenue Ramona CA 92065-3106,NA,NA,FALSE,tested,NA,San Diego County,33.019244,-116.89176
+Ramona City Unified,James Dukes Elementary,24908 Abalar Way Ramona CA 92065-4649,NA,NA,FALSE,tested,NA,NA,NA,NA
+Ramona City Unified,Montecito High (Continuation),720 Ninth Str. Ramona CA 92065-2348,14,ppb,TRUE,tested,NA,NA,NA,NA
+Ramona City Unified,Mountain Valley Academy,1010 Ramona Street Ramona CA 92065-3222,NA,NA,FALSE,tested,NA,San Diego County,33.026732,-116.878279
+Ramona City Unified,Mt. Woodson Elementary,17427 Archie Moore Road Ramona CA 92065-6907,NA,NA,FALSE,tested,NA,NA,NA,NA
+Ramona City Unified,Olive Peirce Middle,1521 Hanson Lane Ramona CA 92065-3306,NA,NA,FALSE,tested,NA,San Diego County,33.026693,-116.871608
+Ramona City Unified,Ramona Adult,720 Ninth St. Ramona CA 92065-2348,14,ppb,TRUE,tested,NA,NA,NA,NA
+Ramona City Unified,Ramona Community Montessori,1010 Ramona St Ramona CA 92065-3222,NA,NA,FALSE,tested,NA,San Diego County,33.026732,-116.878279
+Ramona City Unified,Ramona Elementary,415 Eighth Street Ramona CA 92065-2346,NA,NA,FALSE,tested,NA,NA,NA,NA
+Ramona City Unified,Ramona High,1401 Hanson Lane Ramona CA 92065-3304,NA,NA,FALSE,tested,NA,San Diego County,33.027578,-116.86871

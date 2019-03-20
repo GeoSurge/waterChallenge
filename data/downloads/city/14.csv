@@ -1,5 +1,7 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Lucia Mar Unified,Arroyo Grande High,495 Valley Road Arroyo Grande CA 93420-3928,NA,NA,FALSE,tested,Arroyo Grande,San Luis Obispo County,35.1145959988087,-120.581171998152
-Lucia Mar Unified,Harloe Elementary,901 Fair Oaks Avenue Arroyo Grande CA 93420-3827,9.7,ppb,TRUE,tested,Arroyo Grande,San Luis Obispo County,35.1126258,-120.5924731
-Lucia Mar Unified,Ocean View Elementary,1208 Linda Drive Arroyo Grande CA 93420-2466,NA,NA,FALSE,tested,Arroyo Grande,San Luis Obispo County,35.12351015,-120.598377720738
-Lucia Mar Unified,Paulding Middle,600 Crown Hill Street Arroyo Grande CA 93420-2869,NA,NA,FALSE,tested,Arroyo Grande,San Luis Obispo County,35.1265051,-120.5718258
+ABC Unified,Burbank (Luther) Elementary,17711 Roseton Avenue Artesia CA 90701-3837,NA,NA,NA,not tested,Artesia,Los Angeles County,33.8702279798995,-118.087243959799
+ABC Unified,Juarez (Benito) Elementary,11939 Aclare Street Cerritos CA 90703-2709,NA,NA,FALSE,tested,Artesia,Los Angeles County,33.8745129387755,-118.078883428571
+ABC Unified,Kennedy (John F.) Elementary,17500 Belshire Avenue Artesia CA 90701-4352,NA,NA,NA,not tested,Artesia,Los Angeles County,33.8721895092314,-118.070616269274
+ABC Unified,Niemes (John H.) Elementary,16715 Jersey Avenue Artesia CA 90701-1750,NA,NA,NA,not tested,Artesia,Los Angeles County,33.880036,-118.085722
+Private,Our Lady of Fatima,18626 Clarkdale Avenue Artesia CA 90701,NA,NA,FALSE,tested,Artesia,Los Angeles County,33.8619058,-118.078955951317
+ABC Unified,Ross (Faye) Middle,17707 Elaine Avenue Artesia CA 90701-4018,NA,NA,NA,not tested,Artesia,Los Angeles County,33.872951,-118.076916

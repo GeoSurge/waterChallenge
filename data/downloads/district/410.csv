@@ -1,4 +1,5 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Larkspur-Corte Madera,Cove,330 Golden Hind Passage Corte Madera CA 94925-1914,NA,NA,FALSE,tested,,Marin County,37.9220877372618,-122.498305966476
-Larkspur-Corte Madera,Hall Middle,200 Doherty Drive Larkspur CA 94939-1532,NA,NA,FALSE,tested,Larkspur,Marin County,37.938134,-122.526519
-Larkspur-Corte Madera,Neil Cummins Elementary,58 Mohawk Avenue Corte Madera CA 94925-1033,NA,NA,FALSE,tested,,Marin County,37.92898,-122.521742
+Los Nietos,Ada S. Nelson Elementary,8140 South Vicki Drive Whittier CA 90606-3040,NA,NA,NA,not tested,NA,NA,NA,NA
+Los Nietos,Aeolian Elementary,11600 Aeolian Street Whittier CA 90606-3306,NA,NA,NA,not tested,NA,Los Angeles County,33.9661888038958,-118.06887211635
+Los Nietos,Los Nietos Middle,11425 East Rivera Road Los Nietos CA 90606-3245,NA,NA,NA,not tested,NA,NA,NA,NA
+Los Nietos,Rancho Santa Gertrudes Elementary,11233 East Charlesworth Road Santa Fe Springs CA 90670-2820,NA,NA,NA,not tested,Santa Fe Springs,Los Angeles County,33.954482,-118.081302

@@ -1,13 +1,9 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Oxnard,Christa McAuliffe Elementary,3300 West Via Marina Avenue Oxnard CA 93035-2440,NA,NA,FALSE,tested,Oxnard,Ventura County,34.1884198823529,-119.214829235294
-Oxnard,Elm Street Elementary,450 East Elm Street Oxnard CA 93033-3646,NA,NA,NA,not tested,Oxnard,Ventura County,34.1826603685306,-119.17215462858
-Oxnard,Emilie Ritchen Elementary,2200 Cabrillo Way Oxnard CA 93030-3106,NA,NA,FALSE,tested,Oxnard,Ventura County,34.2155435151515,-119.201599888889
-Oxnard,Juan Lagunas Soria Elementary,3101 Dunkirk Drive Oxnard CA 93035-1203,NA,NA,NA,not tested,Oxnard,Ventura County,34.1970798,-119.211625485596
-Oxnard,Kamala Elementary,634 West Kamala Street Oxnard CA 93033-3407,NA,NA,FALSE,tested,Oxnard,Ventura County,34.1786478888889,-119.184331525253
-Oxnard,Marina West Elementary,2501 Carob Street Oxnard CA 93035-3334,NA,NA,FALSE,tested,Oxnard,Ventura County,34.183961,-119.204701
-Oxnard,McKinna Elementary,1611 South J Street Oxnard CA 93033-3110,14,ppb,TRUE,tested,Oxnard,Ventura County,34.183698836447,-119.189156531566
-Oxnard,Norman R. Brekke Elementary,"1400 Martin Luther King, Junior Drive Oxnard CA 93030-7600",NA,NA,NA,not tested,,,,
-Oxnard,"Richard B. Haydock, Middle",647 West Hill Street Oxnard CA 93033-3199,6.2,ppb,TRUE,tested,Oxnard,Ventura County,34.186095,-119.206767
-Oxnard,"Robert J. Frank, Middle",701 North Juanita Avenue Oxnard CA 93030-7442,NA,NA,FALSE,tested,Oxnard,Ventura County,34.2077755095949,-119.168630460305
-Oxnard,San Miguel,2400 South J Street Oxnard CA 93030-4431,NA,NA,FALSE,tested,Oxnard,Ventura County,34.1775496643836,-119.186148952055
-Oxnard,Thurgood Marshall Elementary,2900 Thurgood Marshall Drive Oxnard CA 93036-6349,NA,NA,FALSE,tested,Oxnard,Ventura County,34.221578,-119.209346
+Redding Elementary,Bonny View Elementary,5080 Bidwell Road Redding CA 96001-4255,6.9,ppb,TRUE,tested,Redding,Shasta County,40.5438584395135,-122.378373758234
+Redding Elementary,Cypress Elementary,2150 Civic Center Drive Redding CA 96001-2704,NA,NA,FALSE,tested,Redding,Shasta County,40.5759093484848,-122.380326565657
+Redding Elementary,Juniper,375 Ellis Street Redding CA 96001-3644,NA,NA,FALSE,tested,Redding,Shasta County,40.5634444285714,-122.381893142857
+Redding Elementary,Manzanita Elementary,1240 Manzanita Hills Avenue Redding CA 96001-1348,7.3,ppb,TRUE,tested,Redding,Shasta County,40.5816960657577,-122.411980248561
+Redding Elementary,Sequoia Middle,1805 Sequoia Street Redding CA 96001-1247,NA,NA,FALSE,tested,Redding,Shasta County,40.5832735612245,-122.381207204082
+Redding Elementary,Stellar Charter,5885 E Bonnyview Road Redding CA 96001-4535,NA,NA,FALSE,tested,Redding,Shasta County,40.5317690555556,-122.374369166667
+Redding Elementary,Sycamore Elementary,1926 Sycamore Drive Redding CA 96001-4870,NA,NA,FALSE,tested,Redding,Shasta County,40.5234710801089,-122.388783442501
+Redding Elementary,Turtle Bay,1330 Arboretum Drive Redding CA 96003-3603,NA,NA,FALSE,tested,Redding,Shasta County,40.59745225,-122.383724981363

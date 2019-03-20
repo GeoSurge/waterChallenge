@@ -1,10 +1,8 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Encinitas Union Elementary,Capri Elementary,941 Capri Road Encinitas CA 92024-1214,NA,NA,NA,not tested,Encinitas,San Diego County,33.0760018771224,-117.288832459455
-Encinitas Union Elementary,El Camino Creek Elementary,7885 Paseo Aliso Carlsbad CA 92009-9028,NA,NA,NA,not tested,Carlsbad,San Diego County,33.0770263568538,-117.258967618608
-Encinitas Union Elementary,Flora Vista Elementary,1690 Wandering Road Encinitas CA 92024-2417,NA,NA,NA,not tested,Encinitas,San Diego County,33.056895,-117.252276
-Encinitas Union Elementary,La Costa Heights Elementary,3035 Levante Street Carlsbad CA 92009-8331,NA,NA,NA,not tested,Carlsbad,San Diego County,33.0809196720078,-117.243387041512
-Encinitas Union Elementary,Mission Estancia Elementary,3330 Calle Barcelona Carlsbad CA 92009-9319,NA,NA,NA,not tested,Carlsbad,San Diego County,33.0723301,-117.240137
-Encinitas Union Elementary,Ocean Knoll Elementary,910 Melba Road Encinitas CA 92024-3901,NA,NA,NA,not tested,Encinitas,San Diego County,33.0403032,-117.2722253
-Encinitas Union Elementary,Olivenhain Pioneer Elementary,8000 Calle Acervo Carlsbad CA 92009-8900,NA,NA,NA,not tested,Carlsbad,San Diego County,33.069318,-117.232973
-Encinitas Union Elementary,Park Dale Lane Elementary,2050 Park Dale Lane Encinitas CA 92024-4324,NA,NA,NA,not tested,Encinitas,San Diego County,33.0464195518218,-117.243113753442
-Encinitas Union Elementary,Paul Ecke-Central Elementary,185 Union Street Encinitas CA 92024-2119,NA,NA,NA,not tested,Encinitas,San Diego County,33.0580312727273,-117.298061818182
+Firebaugh-Las Deltas Unified,Arthur E. Mills Intermediate,1191 P Street Firebaugh CA 93622-2230,NA,NA,NA,not tested,NA,Fresno County,36.8595003012548,-120.455154764049
+Firebaugh-Las Deltas Unified,El Puente High,1691 Saipan Avenue Firebaugh CA 93622-2465,NA,NA,NA,not tested,NA,Fresno County,36.8524357152147,-120.449091527395
+Firebaugh-Las Deltas Unified,Firebaugh Community Day,1666 Saipan Avenue Firebaugh CA 93622-2438,NA,NA,NA,not tested,NA,Fresno County,36.8524966984251,-120.447793723426
+Firebaugh-Las Deltas Unified,Firebaugh High,1976 Morris Kyle Drive Firebaugh CA 93622-9711,NA,NA,NA,not tested,NA,Fresno County,36.846858474718,-120.44934759258
+Firebaugh-Las Deltas Unified,Firebaugh Middle,1600 16th Street Firebaugh CA 93622-2407,NA,NA,NA,not tested,NA,Fresno County,36.854198,-120.449943
+Firebaugh-Las Deltas Unified,Firebaugh-Las Deltas Adult,1976 Morris Kyle Dr. Firebaugh CA 93622-9711,NA,NA,NA,not tested,NA,Fresno County,36.846858474718,-120.44934759258
+Firebaugh-Las Deltas Unified,Hazel M. Bailey Primary,1691 Q Street Firebaugh CA 93622-9711,NA,NA,NA,not tested,NA,Fresno County,36.8622087,-120.4566822

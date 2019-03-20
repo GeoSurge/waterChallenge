@@ -1,24 +1,44 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Hawthorne,Bud Carson Middle,13838 South Yukon Avenue Hawthorne CA 90250-7716,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.9329015,-118.3348931
-Los Angeles Unified,Cimarron Avenue Elementary,11559 Cimarron Avenue Hawthorne CA 90250-1914,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.928894346025,-118.315212562113
-LAUSD,CIMARRON ELEMENTARY,"11559 CIMARRON AVE, HAWTHORNE,      CA 90250",NA,NA,NA,exempt,Hawthorne,Los Angeles County,33.928894346025,-118.315212562113
-Wiseburn Unified,Da Vinci Communications High,12495 Isis Avenue Hawthorne CA 90250-4147,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.919205755102,-118.374436204082
-Wiseburn Unified,Da Vinci Design,12501 Isis Avenue Hawthorne CA 90250-4149,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.918945,-118.374434
-Wiseburn Unified,Da Vinci Innovation Academy,13500 Aviation Blvd. Hawthorne CA 90250-6462,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.8955706,-118.3786916
-Wiseburn Unified,Da Vinci Science,13500 Aviation Boulevard Hawthorne CA 90250-6462,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.8955706,-118.3786916
-Wiseburn Unified School District,Dana Middle School,5504 W. 135th St.  Hawthorne CA 90250,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.909370932509,-118.376605804227
-Los Angeles Unified,Executive Preparatory Academy of Finance,2506 West Imperial Highway Hawthorne CA 90250-1953,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.930875,-118.3560959
-Centinela Valley Union High,Hawthorne High,4859 West El Segundo Boulevard Hawthorne CA 90250-4204,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.9164066,-118.3542953
-Hawthorne,Hawthorne Middle,4366 West 129th Street Hawthorne CA 90250-5211,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.9152234117647,-118.351338882353
-Hawthorne,Jefferson,4091 West 139th Street Hawthorne CA 90250-7303,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.9051682916667,-118.346330166667
-Wiseburn Unified,Juan De Anza Elementary,12110 Hindry Avenue Hawthorne CA 90250-3403,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.9027845,-118.3730663
-Lawndale Elementary,Kit Carson Elementary,3530 West 147th Street Hawthorne CA 90250-8518,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.898207375,-118.33364425
-Hawthorne,Kornblum,3620 West El Segundo Boulevard Hawthorne CA 90250-4819,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.9164066,-118.3542953
-Inglewood Unified,Morningside High School,10500 South Yukon Avenue Inglewood CA 90303-2003,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.940688,-118.335061
-Wiseburn Unified,Peter Burnett Elementary,5403 W. 138th St.  Hawthorne CA 90250,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.90662475,-118.374372
-Hawthorne,Prairie Vista Middle,13600 South Prairie Avenue Hawthorne CA 90250-7306,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.9314635,-118.3439013
-Hawthorne,Ramona,4617 West 136th Street Hawthorne CA 90250-5735,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.9086223,-118.3641893
-Los Angeles County Office of Education,Renaissance County Community,14600 Cerise Avenue Hawthorne CA 90250-8526,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.899387,-118.332901
-Hawthorne,Washington,4339 West 129th Street Hawthorne CA 90250-5210,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.9153931764706,-118.350625235294
-Inglewood Unified,Worthington Elementary,11101 South Yukon Avenue Inglewood CA 90303-2728,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.9342722,-118.335678318922
-Hawthorne,Zela Davis,13435 South Yukon Avenue Hawthorne CA 90250-6228,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.9329015,-118.3348931
+Alameda County Office of Education,Alameda County Community,313 West Winton Avenue Hayward CA 94544-1136,NA,NA,NA,not tested,Hayward,Alameda County,37.6582036357633,-122.097208738841
+Private,All Saints Catholic School,22870 Second Street Hayward CA 94541,NA,NA,FALSE,tested,Hayward,Alameda County,37.6723195744681,-122.076404744681
+Hayward Unified,Anthony W. Ochoa Middle,2121 Depot Road Hayward CA 94545-2428,NA,NA,FALSE,tested,Hayward,Alameda County,37.638918,-122.1092449
+Hayward Unified,Bowman Elementary,520 Jefferson Street Hayward CA 94544-4126,NA,NA,FALSE,tested,Hayward,Alameda County,37.6415373448276,-122.062094344828
+Hayward Unified,Brenkwitz High,22100 Princeton Street Hayward CA 94541-3817,9.4,ppb,TRUE,tested,Hayward,Alameda County,37.6681204,-122.0965836
+Hayward Unified,Bret Harte Middle,1047 E Street Hayward CA 94540-5000,8,ppb,TRUE,tested,Hayward,Alameda County,37.6702592083333,-122.078915125
+Hayward Unified,Burbank Elementary,353 B Street Hayward CA 94541-6307,NA,NA,FALSE,tested,Hayward,Alameda County,37.6679363469388,-122.094260367347
+Alameda County Office of Education,Burke Academy,612 West A Street Hayward CA 94541,NA,NA,FALSE,tested,Hayward,Alameda County,37.6660715560796,-122.111167647648
+San Lorenzo Unified,Colonial Acres Elementary,17115 Meekland Avenue Hayward CA 94541-1304,NA,NA,FALSE,tested,Hayward,Alameda County,37.6667862,-122.098816
+New Haven Unified,Core Learning Academy at Conley-Caraballo High,541 Blanche St Hayward CA 94544-7700,NA,NA,FALSE,tested,Hayward,Alameda County,37.6147823877551,-122.029290734694
+Hayward Unified,East Avenue Elementary,2424 East Avenue Hayward CA 94541-5634,NA,NA,FALSE,tested,Hayward,Alameda County,37.6730696,-122.0729659
+San Lorenzo Unified,East Bay Arts High,20450 Royal Ave Hayward CA 94541-4712,13,ppb,TRUE,tested,Hayward,Alameda County,37.669376,-122.1146863
+Hayward Unified,Eden Area ROP,26316 Hesperian Blvd Hayward CA 94545,NA,NA,FALSE,tested,Hayward,Alameda County,37.6386646,-122.1004683
+Hayward Unified,Eden Gardens Elementary,2184 Thayer Avenue Hayward CA 94545-2925,10,ppb,TRUE,tested,Hayward,Alameda County,37.6380404561692,-122.107187204476
+Hayward Unified,Eldridge Elementary,26825 Eldridge Avenue Hayward CA 94544-3729,NA,NA,FALSE,tested,Hayward,Alameda County,37.6400767,-122.0896277
+Hayward Unified,Faith Ringgold School of Arts and Science,1570 Ward Street Hayward CA 94541-3030,NA,NA,FALSE,tested,Hayward,Alameda County,37.6770186,-122.072571346711
+Hayward Unified,Glassbrook Elementary,975 Schafer Road Hayward CA 94544-3614,NA,NA,FALSE,tested,Hayward,Alameda County,37.6409460035683,-122.08079522331
+Hayward Unified,Harder Elementary,495 Wyeth Road Hayward CA 94544-2951,NA,NA,FALSE,tested,Hayward,Alameda County,37.651390981657,-122.072435407337
+Hayward Unified,Hayward Adult,22100 Princeton St Hayward CA 94540-0001,NA,NA,NA,not tested,Hayward,Alameda County,37.6681204,-122.0965836
+Hayward Unified,Hayward High,1633 East Avenue Hayward CA 94541-5314,NA,NA,FALSE,tested,Hayward,Alameda County,37.6718433604168,-122.06321744702
+Private,Helen Turner Children's Center,23640 Reed Way Hayward CA 94541,6.6,ppb,TRUE,tested,Hayward,Alameda County,37.6569733849546,-122.108012215753
+Hayward Unified,Highland,2021 Highland Boulevard Hayward CA 94540-0001,NA,NA,FALSE,tested,Hayward,Alameda County,37.662192,-122.0593081
+New Haven Unified,Hillview Crest Elementary,31410 Wheelon Avenue Hayward CA 94544-7662,NA,NA,FALSE,tested,Hayward,Alameda County,37.6148331607151,-122.036186698954
+Hayward Unified,Impact Academy of Arts & Technology,2560 Darwin Street Hayward CA 94545-3451,NA,NA,FALSE,tested,Hayward,Alameda County,37.6306989,-122.102808489352
+Hayward Unified,Knowledge Enlightens You (KEY) Academy,1570 Ward St Hayward CA 94541-3030,NA,NA,NA,not tested,Hayward,Alameda County,37.6770186,-122.072571346711
+Hayward Unified,Leadership Public Schools - Hayward,28000 Calaroga Avenue Hayward CA 94545-4600,NA,NA,FALSE,tested,Hayward,Alameda County,37.624106,-122.087806
+Hayward Unified,Longwood Elementary,850 Longwood Avenue Hayward CA 94541-7151,NA,NA,FALSE,tested,Hayward,Alameda County,37.6590006088813,-122.110153095253
+Hayward Unified,Lorin A. Eden Elementary,27790 Portsmouth Avenue Hayward CA 94545-4013,NA,NA,FALSE,tested,Hayward,Alameda County,37.6243776,-122.1005191
+Hayward Unified,"Martin Luther King, Jr. Middle",26890 Holly Hill Avenue Hayward CA 94545-3500,NA,NA,FALSE,tested,Hayward,Alameda County,37.6352299849854,-122.092538578604
+Hayward Unified,Mt. Eden High,2300 Panama Street Hayward CA 94545-4662,NA,NA,FALSE,tested,Hayward,Alameda County,37.6237799,-122.089999804239
+Hayward Unified,Palma Ceia Elementary,27679 Melbourne Avenue Hayward CA 94545-4723,NA,NA,FALSE,tested,Hayward,Alameda County,37.6272392746495,-122.085324492472
+Hayward Unified,Park Elementary,411 Larchmont Street Hayward CA 94540-1103,NA,NA,FALSE,tested,Hayward,Alameda County,37.6540961,-122.093084100678
+San Lorenzo Unified,Royal Sunset (Continuation),20450 Royal Avenue Hayward CA 94541-4712,7,ppb,TRUE,tested,Hayward,Alameda County,37.669376,-122.1146863
+Hayward Unified,Ruus Elementary,28027 Dickens Avenue Hayward CA 94540-5639,NA,NA,FALSE,tested,Hayward,Alameda County,37.6275242440091,-122.073835681688
+San Lorenzo Unified,San Lorenzo Unified Preschool,20450 Royal Hayward CA 94541-4712,NA,NA,FALSE,tested,Hayward,Alameda County,37.669376,-122.1146863
+Hayward Unified,Schafer Park Elementary,26268 Flamingo Avenue Hayward CA 94544-3159,NA,NA,FALSE,tested,Hayward,Alameda County,37.6430034,-122.086435715207
+Hayward Unified,Silver Oak High Public Montessori Charter,951 Palisade Street Hayward CA 94542-1048,NA,NA,NA,not tested,Hayward,Alameda County,37.662154,-122.0724628
+Hayward Unified,Southgate Elementary,26601 Calaroga Avenue Hayward CA 94545-3121,NA,NA,FALSE,tested,Hayward,Alameda County,37.6382685,-122.094469577187
+Hayward Unified,Stonebrae Elementary,28761 Hayward Boulevard Hayward CA 94542-2213,NA,NA,FALSE,tested,Hayward,Alameda County,37.6561487175933,-122.023761305282
+Hayward Unified,Student Information and Assessment Center (SIAC),27211 Tyrrell Avenue Hayward CA 94544,8.5,ppb,TRUE,tested,Hayward,Alameda County,37.6364929930587,-122.074616184804
+Hayward Unified,Treeview Elementary,30565 Treeview Street Hayward CA 94544-7458,NA,NA,FALSE,tested,Hayward,Alameda County,37.62444935,-122.038027532852
+Hayward Unified,Tyrrell Elementary,27000 Tyrrell Avenue Hayward CA 94540-0001,NA,NA,FALSE,tested,Hayward,Alameda County,37.63830505,-122.07467772156
+Hayward Unified,Winton Middle,119 Winton Avenue Hayward CA 94540-5000,5.2,ppb,TRUE,tested,Hayward,Alameda County,37.6606222186877,-122.090458064193

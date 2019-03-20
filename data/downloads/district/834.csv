@@ -1,7 +1,4 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-South Whittier Elementary,Carmela Elementary,13300 Lakeland Road Whittier CA 90605-3241,NA,NA,NA,not tested,Santa Fe Springs,Los Angeles County,33.931657,-118.04867
-South Whittier Elementary,Howard J. McKibben Elementary,10550 Mills Avenue Whittier CA 90604-2439,NA,NA,FALSE,tested,,Los Angeles County,33.9376929997263,-118.038911723764
-South Whittier Elementary,Lake Marie Elementary,10001 Carmenita Road Whittier CA 90605-3206,NA,NA,FALSE,tested,,Los Angeles County,33.943997,-118.046528
-South Whittier Elementary,Loma Vista Elementary,13463 East Meyer Road Whittier CA 90605-3943,NA,NA,NA,not tested,,,,
-South Whittier Elementary,Monte Vista Middle,12000 Loma Drive Whittier CA 90604-2643,9.3,ppb,TRUE,tested,,Los Angeles County,33.9212276,-118.0323947
-South Whittier Elementary,Richard L. Graves Middle,13243 East Los Nietos Road Whittier CA 90605-3295,NA,NA,FALSE,tested,Santa Fe Springs,Los Angeles County,33.943927,-118.051698
+Weaver Union,Farmdale Elementary,100 Winder Avenue Merced CA 95341-8855,NA,NA,FALSE,tested,Merced,Merced County,37.2771639,-120.4778991
+Weaver Union,Pioneer Elementary,2950 Gerard Avenue Merced CA 95341-5433,NA,NA,FALSE,tested,NA,Merced County,37.3881272,-120.6141235
+Weaver Union,Weaver Middle,3076 East Childs Avenue Merced CA 95341-9583,NA,NA,FALSE,tested,Merced,Merced County,37.28977295,-120.431239694122

@@ -1,13 +1,9 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Newark Unified,August Schilling Elementary,36901 Spruce Street Newark CA 94560-2719,NA,NA,FALSE,tested,Newark,Alameda County,37.528165,-122.046106
-Newark Unified,Birch Grove Intermediate,37490 Birch Street Newark CA 94560-4140,NA,NA,FALSE,tested,Newark,Alameda County,37.53516755,-122.02233140513
-Newark Unified,Birch Grove Primary,6071 Smith Ave Newark CA 94560-4536,NA,NA,FALSE,tested,Newark,Alameda County,37.52948475,-122.016105727101
-Newark Unified,Bridgepoint High (Continuation),35753 Cedar Boulevard Newark CA 94560-5007,9.112,ppb,TRUE,tested,Newark,Alameda County,37.5449594,-122.029247
-Newark Unified,E. L. Musick Elementary,5735 Musick Avenue Newark CA 94560-2554,NA,NA,FALSE,tested,Newark,Alameda County,37.5422929946954,-122.031741196313
-Newark Unified,H. A. Snow Elementary,6580 Mirabeau Drive Newark CA 94560-1121,NA,NA,FALSE,tested,Newark,Alameda County,37.54205605,-122.04920602959
-Newark Unified,James A. Graham Elementary,36270 Cherry Street Newark CA 94560-2318,NA,NA,FALSE,tested,Newark,Alameda County,37.5385757991409,-122.042763618605
-Newark Unified,John F. Kennedy Elementary,35430 Blackburn Drive Newark CA 94560-1312,NA,NA,FALSE,tested,Newark,Alameda County,37.5525641,-122.042348129968
-Newark Unified,Lincoln Elementary,36111 Bettencourt Street Newark CA 94560-2101,NA,NA,FALSE,tested,Newark,Alameda County,37.5362983061224,-122.052616979592
-Newark Unified,Newark Junior High,6201 Lafayette Avenue Newark CA 94560-2432,6.926,ppb,TRUE,tested,Newark,Alameda County,37.5417841019707,-122.039344613929
-Newark Unified,Newark Memorial High,39375 Cedar Boulevard Newark CA 94560-5007,NA,NA,FALSE,tested,Newark,Alameda County,37.52062465,-122.002553870503
-Newark Unified,Whiteford (June) Special Education Preschool,35725 Cedar Boulevard Newark CA 94560-1324,6.903,ppb,TRUE,tested,Newark,Alameda County,37.5449594,-122.029247
+Patterson Joint Unified,Apricot Valley Elementary,1320 Henley Parkway Patterson CA 95363-8800,NA,NA,NA,not tested,NA,Stanislaus County,37.4689182531588,-121.154974662455
+Patterson Joint Unified,Creekside Middle,535 Peregrine Patterson CA 95363-2232,NA,NA,NA,not tested,NA,Stanislaus County,37.473785946637,-121.146950847203
+Patterson Joint Unified,Del Puerto High,640 M Street Patterson CA 95363-2215,NA,NA,NA,not tested,NA,Stanislaus County,37.4762560204082,-121.139608734694
+Patterson Joint Unified,Grayson Charter,301 Howard Road Westley CA 95387-0007,NA,NA,NA,not tested,NA,Stanislaus County,37.5451307,-121.19880946413
+Patterson Joint Unified,Las Palmas Elementary,624 West Las Palmas Avenue Patterson CA 95363-2697,NA,NA,NA,not tested,NA,Stanislaus County,37.4696331632653,-121.134064530612
+Patterson Joint Unified,Northmead Elementary,625 L Street Patterson CA 95363-2230,NA,NA,NA,not tested,NA,Stanislaus County,37.4755034081633,-121.138322979592
+Patterson Joint Unified,Patterson High,200 North Seventh Street Patterson CA 95363-2215,NA,NA,NA,not tested,NA,NA,NA,NA
+Patterson Joint Unified,Walnut Grove Elementary,775 North Hartley Street Patterson CA 95363-2477,NA,NA,NA,not tested,NA,Stanislaus County,37.4835529,-121.12627

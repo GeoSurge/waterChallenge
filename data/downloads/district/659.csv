@@ -1,7 +1,9 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Ravenswood CSD,Brentwood Academy,"2086 Clarke Ave, East Palo Alto, CA 94303",NA,NA,NA,exempt,East Palo Alto,San Mateo County,37.4621972300486,-122.134570389119
-Ravenswood CSD,Cesar Chavez Elem. - RMS,"2450 Ralmar Ave, East Palo Alto, CA 94303",NA,NA,NA,exempt,,San Mateo County,37.4733837931035,-122.147116586207
-Ravenswood CSD,Costanzo School/49ers Academy,"2695 Fordham St, East Palo Alto, CA 94303",NA,NA,NA,exempt,East Palo Alto,San Mateo County,37.4780188,-122.139117148027
-Ravenswood CSD,Los Robles Academy,"2033 Pulgas Ave, East Palo Alto, CA 94303",NA,NA,NA,exempt,East Palo Alto,San Mateo County,37.4620725637972,-122.130214940564
-Ravenswood CSD,McNair Academy,"2033 Pulgas Ave, East Palo Alto, CA 94303",NA,NA,NA,exempt,East Palo Alto,San Mateo County,37.4620725637972,-122.130214940564
-Ravenswood CSD,The Primary School,"951 O' Connor St, East Palo Alto, CA 94303",NA,NA,NA,exempt,East Palo Alto,San Mateo County,37.4608287106356,-122.133501498457
+San Lorenzo Valley Unified,Boulder Creek Elementary,400 Lomond Street Boulder Creek CA 95006-9274,NA,NA,FALSE,tested,NA,Santa Cruz County,37.1233345,-122.1217822
+San Lorenzo Valley Unified,Ludlow Preschool,7101 Highway 9 Felton CA 95018-9718,NA,NA,NA,not tested,NA,Santa Cruz County,37.0401122,-122.0710796
+San Lorenzo Valley Unified,Ocean Grove Charter,16900 North Highway Nine Boulder Creek CA 95006,6.4,ppb,TRUE,tested,NA,NA,NA,NA
+San Lorenzo Valley Unified,San Lorenzo Valley Elementary,7155 Highway 9 Felton CA 95018-9718,NA,NA,FALSE,tested,NA,Santa Cruz County,37.0401122,-122.0710796
+San Lorenzo Valley Unified,San Lorenzo Valley High,7105 Highway 9 Felton CA 95018-9718,NA,NA,FALSE,tested,NA,Santa Cruz County,37.0401122,-122.0710796
+San Lorenzo Valley Unified,San Lorenzo Valley Middle,7179 Hacienda Way Felton CA 95018-9340,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Lorenzo Valley Unified,SLVUSD Charter,7101 Highway Nine Felton CA 95018-9718,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Lorenzo Valley Unified,SLVUSD Home and Hospital,325 Marion Avenue Ben Lomond CA 95005-9403,NA,NA,FALSE,tested,NA,Santa Cruz County,37.0840001257281,-122.074164613504

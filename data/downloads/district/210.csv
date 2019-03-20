@@ -1,10 +1,15 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Dry Creek Joint Elementary,Antelope Crossing Middle,9200 Palmerson Drive Sacramento CA 95843-4616,NA,NA,FALSE,tested,,Sacramento County,38.717094,-121.33975
-Dry Creek Joint Elementary,Antelope Meadows Elementary,8343 Palmerson Drive Antelope CA 95843-5195,NA,NA,FALSE,tested,,,,
-Dry Creek Joint Elementary,Barrett Ranch Elementary,7720 Ocean Park Drive Antelope CA 95843-6034,NA,NA,NA,not tested,,,,
-Dry Creek Joint Elementary,Coyote Ridge Elementary,1751 Morning Star Drive Roseville CA 95747-4975,NA,NA,NA,not tested,,,,
-Dry Creek Joint Elementary,Creekview Ranch,8779 Cook Riolo Road Roseville CA 95747-9258,NA,NA,FALSE,tested,Roseville,Placer County,38.7504229,-121.3370225
-Dry Creek Joint Elementary,Heritage Oak Elementary,2271 Americana Drive Roseville CA 95747-7688,NA,NA,NA,not tested,Roseville,Placer County,38.757743,-121.314099
-Dry Creek Joint Elementary,Olive Grove Elementary,7926 Firestone Way Antelope CA 95843-4633,NA,NA,NA,not tested,,Sacramento County,38.7109648371051,-121.341648859843
-Dry Creek Joint Elementary,Quail Glen Elementary,1250 Canevari Drive Roseville CA 95747-6833,NA,NA,NA,not tested,Roseville,Placer County,38.773471,-121.334963628827
-Dry Creek Joint Elementary,Silverado Middle,2525 Country Club Drive Roseville CA 95747-6009,NA,NA,NA,not tested,Roseville,Placer County,38.7578031374372,-121.3263566886
+El Rancho Unified,Birney Tech Academy,8501 Orange Avenue Pico Rivera CA 90660-5543,NA,NA,FALSE,tested,Pico Rivera,Los Angeles County,33.957955875,-118.09579375
+El Rancho Unified,Durfee Elementary,4220 South Durfee Avenue Pico Rivera CA 90660-1709,7.6,ppb,TRUE,tested,Pico Rivera,Los Angeles County,34.0122703871423,-118.075499235495
+El Rancho Unified,El Rancho High,6501 South Passons Boulevard Pico Rivera CA 90660-3373,NA,NA,FALSE,tested,Pico Rivera,Los Angeles County,33.9850021,-118.088778169381
+El Rancho Unified,Ellen Ochoa Prep Academy,8110 Paramount Blvd Pico Rivera CA 90660,10.75,ppb,TRUE,tested,Pico Rivera,Los Angeles County,33.9894117,-118.1015521
+El Rancho Unified,Magee Academy of Arts & Sciences,8200 Serapis Avenue Pico Rivera CA 90660-5141,9.4,ppb,TRUE,tested,Pico Rivera,Los Angeles County,33.96454885,-118.102174980757
+El Rancho Unified,North Park Academy of the Arts,4450 South Durfee Avenue Pico Rivera CA 90660-2016,7.9,ppb,TRUE,tested,Pico Rivera,Los Angeles County,34.0095730062572,-118.076094922116
+El Rancho Unified,North Ranchito Elementary,8837 East Olympic Boulevard Pico Rivera CA 90660-2336,6.5,ppb,TRUE,tested,NA,NA,NA,NA
+El Rancho Unified,Rio Vista Elementary,8809 Coffman-Pico Road Pico Rivera CA 90660-3226,22,ppb,TRUE,tested,Pico Rivera,Los Angeles County,33.9899592275025,-118.09531303447
+El Rancho Unified,Rivera Elementary,7250 Citronell Street Pico Rivera CA 90660-4020,NA,NA,FALSE,tested,Pico Rivera,Los Angeles County,33.976294196644,-118.095284110601
+El Rancho Unified,Rivera Middle,7200 Citronell Avenue Pico Rivera CA 90660-4020,8.15,ppb,TRUE,tested,Pico Rivera,Los Angeles County,33.976852,-118.094909
+El Rancho Unified,Ruben Salazar Continuation and Spectrum-El Rancho,9115 Balfour Street Pico Rivera CA 90660-3225,9.5,ppb,TRUE,tested,Pico Rivera,Los Angeles County,33.987554656394,-118.088617749272
+El Rancho Unified,South Ranchito Dual Language Academy,5241 South Passons Boulevard Pico Rivera CA 90660-2826,NA,NA,FALSE,tested,Pico Rivera,Los Angeles County,33.9953266341489,-118.080068565432
+El Rancho Unified,STEAM Academy @ Burke,8101 Orange Avenue Pico Rivera CA 90660-5312,10,ppb,TRUE,tested,Pico Rivera,Los Angeles County,33.96241715,-118.094717268249
+El Rancho Unified,Valencia Academy of the Arts,9241 East Cosgrove Street Pico Rivera CA 90660-3265,7.8,ppb,TRUE,tested,NA,NA,NA,NA

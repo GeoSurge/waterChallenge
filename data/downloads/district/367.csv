@@ -1,7 +1,5 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Keppel Union Elementary,Alpine Elementary,8244 East Pearblossom Highway Littlerock CA 93543-3042,NA,NA,NA,not tested,,Los Angeles County,34.521025,-117.983380571429
-Keppel Union Elementary,Antelope Elementary,37237 North 100th Street East Littlerock CA 93543-1501,NA,NA,NA,not tested,,,,
-Keppel Union Elementary,Daisy Gibson Elementary,9650 East Palmdale Boulevard Palmdale CA 93591-2235,NA,NA,NA,not tested,Palmdale,Los Angeles County,34.5796836237322,-117.957245892532
-Keppel Union Elementary,Keppel Academy,9330 East Avenue U Littlerock CA 93543-3107,NA,NA,NA,not tested,,Los Angeles County,34.52833875,-117.963861125
-Keppel Union Elementary,Lake Los Angeles Elementary,16310 East Avenue Q Palmdale CA 93591-3603,NA,NA,NA,not tested,Palmdale,Los Angeles County,34.5871568333333,-117.839860833333
-Keppel Union Elementary,Pearblossom Elementary,12828 East Avenue W Pearblossom CA 93553-0186,NA,NA,NA,not tested,,Los Angeles County,34.4993655,-117.9338135
+Lamont Elementary,Alicante Avenue Elementary,7998 Alicante Avenue Lamont CA 93241-1744,NA,NA,NA,not tested,NA,Kern County,35.261365,-118.914951040404
+Lamont Elementary,Lamont Elementary,10621 Main Street Lamont CA 93241-2046,NA,NA,NA,not tested,NA,Kern County,35.2581408979592,-118.914302
+Lamont Elementary,Mountain View Middle,8001 Weedpatch Hwy Bakersfield CA 93307-9654,NA,NA,NA,not tested,NA,Kern County,35.2380173,-118.9151002
+Lamont Elementary,Myrtle Avenue Elementary,10421 Myrtle Avenue Lamont CA 93241-1854,NA,NA,NA,not tested,NA,Kern County,35.259539010101,-118.909727

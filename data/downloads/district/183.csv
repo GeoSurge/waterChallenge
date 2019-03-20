@@ -1,7 +1,6 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Coronado Unified,Coronado High,650 D Avenue Coronado CA 92118-2113,NA,NA,FALSE,tested,Coronado,San Diego County,32.69141538438,-117.178213272213
-Coronado Unified,Coronado Middle,550 F Avenue Coronado CA 92118-2110,NA,NA,FALSE,tested,Coronado,San Diego County,32.6937758506021,-117.17958126693
-Coronado Unified,Coronado Unified Special Education Pre-K,201 6th Street Coronado CA 92118-1638,NA,NA,NA,not tested,Coronado,San Diego County,32.696178,-117.187148
-Coronado Unified,Coronado Village Elementary,600 Sixth Street Coronado CA 92118-1600,NA,NA,FALSE,tested,,,,
-Coronado Unified,Palm Academy for Learning,555 D Avenue Coronado CA 92118-1714,NA,NA,FALSE,tested,Coronado,San Diego County,32.6928953635097,-117.17712279334
-Coronado Unified,Silver Strand Elementary,1350 Leyte Road Coronado CA 92118-3124,NA,NA,FALSE,tested,Coronado,San Diego County,32.6444979,-117.1450315
+Delano Joint Union High,Cesar E. Chavez High,800 Browning Road Delano CA 93215-9494,NA,NA,NA,not tested,NA,Kern County,35.767082,-119.220814123416
+Delano Joint Union High,Delano Adult,1811 Princeton Street Delano CA 93215,NA,NA,NA,not tested,NA,Kern County,35.761418,-119.236415
+Delano Joint Union High,Delano High,1331 Cecil Avenue Delano CA 93215-1410,NA,NA,NA,not tested,NA,Kern County,35.7788311,-119.238688213745
+Delano Joint Union High,Robert F. Kennedy High,1401 Hiett Avenue Delano CA 93215,NA,NA,NA,not tested,NA,Kern County,35.775863,-119.267407
+Delano Joint Union High,Valley High,1927 Randolph Street Delano CA 93215-1526,NA,NA,NA,not tested,NA,Tulare County,35.7818249387755,-119.232118

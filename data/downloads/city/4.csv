@@ -1,12 +1,9 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-LAUSD,BILL CRUZ EARLY EDUCATION CENTER,"1020 S. VALENCIA ST., LOS ANGELES, CA 90015",NA,NA,NA,exempt,Alhambra,Los Angeles County,34.0840006060606,-118.113063676768
-Alhambra Unified,Century High,20 South Marengo Avenue Alhambra CA 91801-1947,NA,NA,FALSE,tested,Alhambra,Los Angeles County,34.0911904729597,-118.141923921646
-Alhambra Unified,Emery Park Elementary,2821 West Commonwealth Avenue Alhambra CA 91803-1099,5.8,ppb,TRUE,tested,Alhambra,Los Angeles County,34.0878860575557,-118.154417360236
-Alhambra Unified,Garfield Elementary,110 West McLean Street Alhambra CA 91801-1364,5.43,ppb,TRUE,tested,Alhambra,Los Angeles County,34.1014241428571,-118.132933
-Alhambra Unified,Granada Elementary,100 South Granada Avenue Alhambra CA 91801-4021,NA,NA,FALSE,tested,Alhambra,Los Angeles County,34.098323,-118.116877
-Alhambra Unified,Marguerita Elementary,1603 South Marguerita Avenue Alhambra CA 91803-3199,6.1,ppb,TRUE,tested,Alhambra,Los Angeles County,34.0753707785235,-118.138245731544
-Alhambra Unified,Mark Keppel High,501 East Hellman Avenue Alhambra CA  91801-5716,NA,NA,FALSE,tested,Alhambra,Los Angeles County,34.069874,-118.116617
-Alhambra Unified,Mark Keppel High,501 East Hellman Ave Alhambra CA 91801-5716,NA,NA,NA,not tested,Alhambra,Los Angeles County,34.069874,-118.116617
-Alhambra Unified,Martha Baldwin Elementary,900 South Almansor Street Alhambra CA 91801-4854,NA,NA,FALSE,tested,Alhambra,Los Angeles County,34.085618,-118.116848
-Alhambra Unified,Park Elementary,301 North Marengo Avenue Alhambra CA 91801-1917,NA,NA,FALSE,tested,Alhambra,Los Angeles County,34.09536,-118.142151
-Alhambra Unified,William Northrup Elementary,409 South Atlantic Boulevard Alhambra CA 91801-3643,8.2,ppb,TRUE,tested,Alhambra,Los Angeles County,34.08602005,-118.135552395614
+Capistrano Unified,Aliso Niguel High,28000 Wolverine Way Aliso Viejo CA 92656-3385,NA,NA,FALSE,tested,Aliso Viejo,Orange County,33.5632975,-117.719641059703
+Capistrano Unified,Aliso Viejo Middle,111 Park Avenue Aliso Viejo CA 92656-2847,NA,NA,FALSE,tested,Aliso Viejo,Orange County,33.5795978623721,-117.713799098523
+Capistrano Unified,Canyon Vista Elementary,27800 Oak View Drive Aliso Viejo CA 92656-6244,NA,NA,NA,not tested,Aliso Viejo,Orange County,33.5625285,-117.7349394
+Capistrano Unified,Don Juan Avila Elementary,26278 Wood Canyon Drive Aliso Viejo CA 92656-8060,NA,NA,FALSE,tested,Aliso Viejo,Orange County,33.5620222416638,-117.734664198965
+Capistrano Unified,Don Juan Avila Middle,26278 Wood Canyon Dr Aliso Viejo CA 92656-8060,NA,NA,NA,not tested,Aliso Viejo,Orange County,33.5620222416638,-117.734664198965
+Capistrano Unified,Journey,27102 Foxborough Aliso Viejo CA 92656-3377,NA,NA,FALSE,tested,Aliso Viejo,Orange County,33.5670806050735,-117.719504628039
+Capistrano Unified,Oak Grove Elementary,22705 Sanborn Aliso Viejo CA 92656-6055,NA,NA,FALSE,tested,Aliso Viejo,Orange County,33.5750809127513,-117.735562182423
+Capistrano Unified,Wood Canyon Elementary,23431 Knollwood Aliso Viejo CA 92656-4240,NA,NA,FALSE,tested,Aliso Viejo,Orange County,33.5535398,-117.7220088

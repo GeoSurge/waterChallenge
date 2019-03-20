@@ -1,11 +1,4 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Goleta Union Elementary,Brandon Elementary,195 Brandon Drive Goleta CA 93117-1036,NA,NA,FALSE,tested,,Santa Barbara County,34.438716,-119.893538
-Goleta Union Elementary,El Camino Elementary,5020 San Simeon Drive Santa Barbara CA 93111-2129,NA,NA,FALSE,tested,,Santa Barbara County,34.440285,-119.796526
-Goleta Union Elementary,Ellwood Elementary,7686 Hollister Avenue Goleta CA 93117-2439,7.6,ppb,TRUE,tested,,Santa Barbara County,34.4306371,-119.896176139368
-Goleta Union Elementary,Foothill Elementary,711 Ribera Drive Santa Barbara CA 93111-1808,6.1,ppb,TRUE,tested,,Santa Barbara County,34.450589,-119.801037
-Goleta Union Elementary,Hollister Elementary,4950 Anita Lane Santa Barbara CA 93111-2704,7.8,ppb,TRUE,tested,,Santa Barbara County,34.432662,-119.794596
-Goleta Union Elementary,Isla Vista Elementary,6875 El Colegio Road Goleta CA 93117-4317,NA,NA,FALSE,tested,,,,
-Goleta Union Elementary,Kellogg Elementary,475 Cambridge Avenue Goleta CA 93117-2141,NA,NA,FALSE,tested,,,,
-Goleta Union Elementary,La Patera Elementary,555 North La Patera Lane Goleta CA 93117-1507,NA,NA,FALSE,tested,,Santa Barbara County,34.447293,-119.84779
-Goleta Union Elementary,Learning Tree Preschool,401 North Fairview Avenue Goleta CA 93117-1732,NA,NA,NA,not tested,,Santa Barbara County,34.447178,-119.832137
-Goleta Union Elementary,Mountain View Elementary,5465 Queen Anne Lane Santa Barbara CA 93111-1028,NA,NA,FALSE,tested,,,,
+Holtville Unified,Emmett S. Finley Elementary,627 East Sixth Street Holtville CA 92250-1450,NA,NA,NA,not tested,NA,NA,NA,NA
+Holtville Unified,Holtville High,755 Olive Avenue Holtville CA 92250-1015,NA,NA,NA,not tested,Holtville,Imperial County,32.8156992438655,-115.38525772049
+Holtville Unified,Holtville Junior High,800 Beale Avenue Holtville CA 92250-1404,NA,NA,NA,not tested,Holtville,Imperial County,32.816697,-115.370178

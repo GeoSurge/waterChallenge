@@ -1,4 +1,6 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-College Elementary,College Elementary,3525 Pine St. Santa Ynez CA 93460-9425,NA,NA,FALSE,tested,,Santa Barbara County,34.615702,-120.08251475
-College Elementary,Santa Ynez Elementary,3325 Pine Street Santa Ynez CA 93460-0188,6.1,ppb,TRUE,tested,,Santa Barbara County,34.6158834397782,-120.088232020381
-College Elementary,Santa Ynez Valley Charter,3525 Pine Street Santa Ynez CA 93460-9425,NA,NA,FALSE,tested,,Santa Barbara County,34.615702,-120.08251475
+Corona-Norco Unified,Corona Vista High,1154 Tenth Street Corona CA 92882-3901,NA,NA,NA,not tested,NA,NA,NA,NA
+Corona-Norco Unified,Corona-Norco Adult,300  Buena Vista Avenue Corona CA 92882-1937,NA,NA,NA,not tested,Corona,Riverside County,33.8503648,-117.5816805
+Corona-Norco Unified,Corona-Norco Alternative,185 Magnolia Avenue Corona CA 92879-3329,NA,NA,NA,not tested,Corona,Riverside County,33.8634921,-117.5466156
+Corona-Norco Unified,Dr. Bernice Jameson Todd Academy,25105 Mayhew Canyon Road Corona CA 92883-3166,NA,NA,NA,not tested,NA,NA,NA,NA
+Corona-Norco Unified,Temescal Valley Elementary,22950 Claystone Avenue Corona CA 92883-7151,NA,NA,NA,not tested,NA,NA,NA,NA

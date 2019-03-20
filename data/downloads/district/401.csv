@@ -1,27 +1,10 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Lake Elsinore Unified,Canyon Lake Middle,33005 Canyon Hills Road Lake Elsinore CA 92532-2534,NA,NA,FALSE,tested,,Riverside County,33.6688272,-117.2314129
-Lake Elsinore Unified,Cottonwood Canyon Elementary,32100 Lost Road Lake Elsinore CA 92532-2502,NA,NA,FALSE,tested,,Riverside County,33.6498025,-117.2591443
-Lake Elsinore Unified,David A. Brown Middle,21861 Grand Avenue Wildomar CA 92595-9632,NA,NA,FALSE,tested,,Riverside County,33.595297663811,-117.27427420879
-Lake Elsinore Unified,Donald Graham Elementary,35450 Frederick Street Wildomar CA 92595-9686,NA,NA,FALSE,tested,,Riverside County,33.6054082345838,-117.258091433303
-Lake Elsinore Unified,Earl Warren Elementary,41221 Rosetta Canyon Road Lake Elsinore CA 92532-1648,6.5,ppb,TRUE,tested,,,,
-Lake Elsinore Unified,Elsinore Elementary,512 West Sumner Avenue Lake Elsinore CA 92530-3648,NA,NA,NA,not tested,,Riverside County,33.6729683747226,-117.331476465211
-Lake Elsinore Unified,Elsinore High,21800 Canyon Drive Wildomar CA 92595-9181,NA,NA,FALSE,tested,,Riverside County,33.623364,-117.275562
-Lake Elsinore Unified,Elsinore Middle,1203 West Graham Avenue Lake Elsinore CA 92530-3318,NA,NA,NA,not tested,,Riverside County,33.6714516433056,-117.339460225229
-Lake Elsinore Unified,Heald Academy Child Development Center,601 W Heald Ave Lake Elsinore CA 92530,6,ppb,TRUE,tested,,Riverside County,33.671638,-117.333134
-Lake Elsinore Unified,Jeannette Ellis Center,411 W Heald Ave Lake Elsinore CA 92530,NA,NA,FALSE,tested,,Riverside County,33.6710495605186,-117.330973097325
-Lake Elsinore Unified,Keith McCarthy Academy,4305 Education Way Lake Elsinore CA 92530-2711,NA,NA,FALSE,tested,,,,
-Lake Elsinore Unified,Lakeland Village,18730 Grand Avenue Lake Elsinore CA 92530-6256,NA,NA,FALSE,tested,,Riverside County,33.6588395,-117.376661
-Lake Elsinore Unified,Lakeside High,32593 Riverside Drive Lake Elsinore CA 92530-7802,NA,NA,FALSE,tested,,,,
-Lake Elsinore Unified,Luiseno,13500 Mountain Road Corona CA 92883-6227,NA,NA,FALSE,tested,,,,
-Lake Elsinore Unified,Machado Elementary,15150 Joy Street Lake Elsinore CA 92530-7912,NA,NA,FALSE,tested,,Riverside County,33.6810878334508,-117.372475751384
-Lake Elsinore Unified,Ortega High,520 Chaney Street Building 100 Lake Elsinore CA 92530-1230,NA,NA,FALSE,tested,,,,
-Lake Elsinore Unified,Railroad Canyon Elementary,1300 Mill Street Lake Elsinore CA 92530-4377,NA,NA,FALSE,tested,,Riverside County,33.665164,-117.310756
-Lake Elsinore Unified,Rice Canyon Elementary,29535 Westwind Drive Lake Elsinore CA 92530-1242,6,ppb,TRUE,tested,,Riverside County,33.6964514,-117.4016088
-Lake Elsinore Unified,Ronald Reagan Elementary,35445 Porras Road Wildomar CA 92595-7683,NA,NA,FALSE,tested,,Riverside County,33.6073973,-117.2407122
-Lake Elsinore Unified,Sycamore Academy of Science and Cultural Arts,23151 Palomar Street Wildomar CA 92595-7317,NA,NA,NA,not tested,Murrieta,Riverside County,33.58750777545,-117.249563602886
-Lake Elsinore Unified,Temescal Canyon High,28755 El Toro Road Lake Elsinore CA 92532-1912,NA,NA,FALSE,tested,,Riverside County,33.7417341,-117.3364178
-Lake Elsinore Unified,Terra Cotta Middle,29291 Lake Street Lake Elsinore CA 92530-1801,NA,NA,FALSE,tested,,Riverside County,33.697963080857,-117.390146875343
-Lake Elsinore Unified,Tuscany Hills Elementary,23 Ponte Russo Lake Elsinore CA 92532-0500,NA,NA,FALSE,tested,,,,
-Lake Elsinore Unified,Wildomar Elementary,21575 Palomar Road Wildomar CA 92595-7441,8.1,ppb,TRUE,tested,,,,
-Lake Elsinore Unified,William Collier Elementary,20150 Mayhall Drive Wildomar CA 92595-8272,NA,NA,FALSE,tested,,,,
-Lake Elsinore Unified,Withrow Elementary,30100 Audelo Street Lake Elsinore CA 92530-7300,NA,NA,FALSE,tested,,Riverside County,33.6821342080537,-117.394233389262
+Los Alamitos Unified,Francis Hopkinson Elementary,12582 Kensington Road Los Alamitos CA 90720-4749,NA,NA,FALSE,tested,NA,Orange County,33.7990179,-118.0826061
+Los Alamitos Unified,J. H. McGaugh Elementary,1698 Bolsa Avenue Seal Beach CA 90740-6212,NA,NA,FALSE,tested,Seal Beach,Orange County,33.744938,-118.093743302326
+Los Alamitos Unified,Jack L. Weaver Elementary,11872 Wembley Road Los Alamitos CA 90720-2200,NA,NA,FALSE,tested,NA,Orange County,33.7981794,-118.0822311
+Los Alamitos Unified,Los Alamitos Elementary,10862 Bloomfield Street Los Alamitos CA 90720-2598,NA,NA,FALSE,tested,NA,Orange County,33.8051845,-118.0631796
+Los Alamitos Unified,Los Alamitos High,3591 Cerritos Avenue Los Alamitos CA 90720-2414,NA,NA,FALSE,tested,NA,Orange County,33.810472,-118.07179
+Los Alamitos Unified,Oak Middle,10821 Oak Street Los Alamitos CA 90720-2313,NA,NA,FALSE,tested,NA,Orange County,33.8074784342877,-118.075835908294
+Los Alamitos Unified,Richard Henry Lee Elementary,11481 Foster Road Los Alamitos CA 90720-3818,NA,NA,FALSE,tested,NA,Orange County,33.7959973515963,-118.082013130811
+Los Alamitos Unified,Rossmoor Elementary,3272 Shakespeare Drive Los Alamitos CA 90720-3842,NA,NA,FALSE,tested,NA,Orange County,33.7934120075528,-118.075980806042
+Los Alamitos Unified,Sharon Christa McAuliffe Middle,4112 Cerritos Avenue Los Alamitos CA 90720-2521,NA,NA,FALSE,tested,NA,Orange County,33.810258,-118.0616585

@@ -1,5 +1,5 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-NA,Bethany Christian Academy,13431 Edwards Street Westminster CA 92683,NA,NA,FALSE,tested,Westminster,Orange County,33.7676289,-118.0166152
+Private,Bethany Christian Academy,13431 Edwards Street Westminster CA 92683,NA,NA,FALSE,tested,Westminster,Orange County,33.7676289,-118.0166152
 Westminster,Eastwood Elementary,13552 University Westminster CA 92683-2770,NA,NA,FALSE,tested,Westminster,Orange County,33.7654358307157,-118.035953
 Westminster,Finley Elementary,13521 Edwards Street Westminster CA 92683-2502,NA,NA,FALSE,tested,Westminster,Orange County,33.7620053673469,-118.016049
 Westminster,Fryberger Elementary,6952 Hood Drive Westminster CA 92683-2122,5.1,ppb,TRUE,tested,Westminster,Orange County,33.771228,-118.010225

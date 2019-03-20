@@ -1,5 +1,4 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-San Dieguito Union High School District,Oak Crest Middle School,675 Balour Dr.,NA,NA,NA,exempt,Encinitas,San Diego County,33.0430139990273,-117.268293252612
-San Dieguito Union High School District,Oak Crest Middle School,"675 Balour Dr, Encinitas, CA 92024",NA,NA,NA,exempt,Encinitas,San Diego County,33.0430139990273,-117.268293252612
-San Dieguito Union High School District,San Dieguito Academy,"800 Santa Fe Dr, Encinitas, CA 92024",NA,NA,NA,exempt,Encinitas,San Diego County,33.0363524454541,-117.275018831884
-San Dieguito Union High School District,Sunset High School,"684 Requeza St., Encinitas, CA 92024",NA,NA,NA,exempt,Encinitas,San Diego County,33.0435352422933,-117.277771471845
+Siskiyou County Office of Education,Happy Camp High School,234 Indian Creek Rd Happy Camp CA 96039,9,ppb,TRUE,tested,NA,Siskiyou County,41.7963551285437,-123.37822731712
+Siskiyou County Office of Education,J. Everett Barr Court,269 Sharps Lane Yreka CA 96097,NA,NA,NA,not tested,Yreka,Siskiyou County,41.7093450057997,-122.639355397706
+Siskiyou County Office of Education,Siskiyou County Special Education,609 South Gold Street Yreka CA 96097-3110,NA,NA,NA,not tested,Yreka,Siskiyou County,41.7291005454545,-122.642646636364

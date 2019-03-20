@@ -1,9 +1,7 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Sanger Unified,Del Rey Elementary,10620 Morro Street Del Rey CA 93616-0068,NA,NA,NA,not tested,,,,
-Sanger Unified,John S. Wash Elementary,6350 East Lane Avenue Fresno CA 93727-5734,NA,NA,FALSE,tested,Fresno,Fresno County,36.7333318287666,-119.675720166214
-Sanger Unified,Madison Elementary,2324 Cherry Street Sanger CA 93657-3608,NA,NA,NA,not tested,,,,
-Sanger Unified,Quail Lake Environmental Charter,4087 North Quail Lake Drive Clovis CA 93611-4646,NA,NA,NA,not tested,,,,
-Sanger Unified,Sanger Academy Charter,2207 Ninth Street Sanger CA 93657-2711,NA,NA,NA,not tested,,,,
-Sanger Unified,Sanger High,1045 Bethel Ave Sanger CA 93657-2985,NA,NA,NA,not tested,Sanger,Fresno County,36.70125325,-119.57777875281
-Sanger Unified,Sequoia Elementary,1820 South Armstrong Avenue Fresno CA 93727-6724,NA,NA,FALSE,tested,Fresno,Fresno County,36.71037085,-119.671306150078
-Sanger Unified,Washington Academic Middle,1705 Tenth Street Sanger CA 93657-2799,NA,NA,NA,not tested,,,,
+Stanislaus Union Elementary,Agnes M. Baptist Elementary,1825 Cheyenne Way Modesto CA 95356-0987,NA,NA,NA,not tested,Modesto,Stanislaus County,37.69342475,-121.025338202466
+Stanislaus Union Elementary,George Eisenhut Elementary,1809 Sheldon Drive Modesto CA 95350-0420,NA,NA,NA,not tested,Modesto,Stanislaus County,37.6855313333333,-121.025145
+Stanislaus Union Elementary,Josephine Chrysler Elementary,2818 Conant Avenue Modesto CA 95350-1752,NA,NA,NA,not tested,Modesto,Stanislaus County,37.6810651818182,-121.040388909091
+Stanislaus Union Elementary,Mary Lou Dieterich Elementary,2412 Warm Springs Drive Modesto CA 95350-9399,NA,NA,NA,not tested,Modesto,Stanislaus County,37.698821530303,-121.038758484848
+Stanislaus Union Elementary,Prescott Junior High,2243 West Rumble Road Modesto CA 95350-0219,NA,NA,NA,not tested,Modesto,Stanislaus County,37.6824154215481,-121.036117999794
+Stanislaus Union Elementary,Stanislaus Elementary,1931 Kiernan Avenue Modesto CA 95356-9159,NA,NA,NA,not tested,Modesto,Stanislaus County,37.7113942,-121.0384135

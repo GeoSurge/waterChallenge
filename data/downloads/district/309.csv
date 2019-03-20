@@ -1,6 +1,4 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Gonzales Unified,Fairview Middle,401 Fourth Street Gonzales CA 93926,NA,NA,NA,not tested,,,,
-Gonzales Unified,Gonzales Evening High,650 Elko St Gonzales CA 93926,NA,NA,NA,not tested,Gonzales,Monterey County,36.511435,-121.443416
-Gonzales Unified,Gonzales High,501 Fifth Street Gonzales CA 93926,NA,NA,NA,not tested,,,,
-Gonzales Unified,La Gloria Elementary,220 Elko Street Gonzales CA 93926-0238,NA,NA,NA,not tested,Gonzales,Monterey County,36.5080403887097,-121.439667423709
-Gonzales Unified,Somavia High,650 Elko Street Gonzales CA 93926,NA,NA,NA,not tested,Gonzales,Monterey County,36.511435,-121.443416
+Hope Elementary,Hope Elementary,3970-A La Colina Road Santa Barbara CA 93110-2597,NA,NA,FALSE,tested,Santa Barbara,Santa Barbara County,34.444618,-119.753927
+Hope Elementary,Monte Vista Elementary,730 North Hope Avenue Santa Barbara CA 93110-1599,NA,NA,FALSE,tested,Santa Barbara,Santa Barbara County,34.450702,-119.745436
+Hope Elementary,Vieja Valley Elementary,434 Nogal Drive Santa Barbara CA 93110-2211,6.35,ppb,TRUE,tested,NA,Santa Barbara County,34.4353098154407,-119.769932855343

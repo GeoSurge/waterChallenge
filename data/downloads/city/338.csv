@@ -1,5 +1,5 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Whittier City School District,Abraham Lincoln Elementary School,12620 Broadway Whittier CA 90601,NA,NA,NA,not tested,Whittier,Los Angeles County,33.9862586,-118.0417634
+Whittier City Elementary,Abraham Lincoln Elementary School,12620 Broadway Whittier CA 90601,NA,NA,NA,not tested,Whittier,Los Angeles County,33.9862586,-118.0417634
 East Whittier City Elementary,Evergreen Elementary,12915 East Helmer Drive Whittier CA 90602-3232,10.4,ppb,TRUE,tested,Whittier,Los Angeles County,33.9632923731076,-118.041670627856
 Whittier Union High,Frontier High (Continuation),9401 South Painter Avenue Whittier CA 90605-2729,10,ppb,TRUE,tested,Whittier,Los Angeles County,33.9523234995066,-118.043887290466
 Lowell Joint,Jordan Elementary,10654 Jordan Road Whittier CA 90603-2931,5.9,ppb,TRUE,tested,Whittier,Los Angeles County,33.93794965,-117.979863942761

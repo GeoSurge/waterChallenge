@@ -1,5 +1,17 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Dixie Elementary,Dixie Elementary,1175 Idylberry Drive San Rafael CA 94903-1131,NA,NA,FALSE,tested,,,,
-Dixie Elementary,Mary E. Silveira Elementary,375 Blackstone Drive San Rafael CA 94903-1401,NA,NA,FALSE,tested,,,,
-Dixie Elementary,Miller Creek Middle,2255 Las Gallinas Avenue San Rafael CA 94903-1699,NA,NA,FALSE,tested,San Rafael,Marin County,38.0063203,-122.5444299
-Dixie Elementary,Vallecito Elementary,50 Nova Albion Way San Rafael CA 94903-3556,NA,NA,FALSE,tested,San Rafael,Marin County,38.0078087606722,-122.549399612316
+El Centro Elementary,Ballington Academy for the Arts and Sciences,1525 West Main Street El Centro CA 92243-2211,NA,NA,NA,not tested,El Centro,Imperial County,32.7927569663914,-115.571547780969
+El Centro Elementary,De Anza Magnet,1530 South Waterman Avenue El Centro CA 92243-4142,NA,NA,FALSE,tested,El Centro,Imperial County,32.7784806,-115.575131392135
+El Centro Elementary,Desert Garden Elementary,1900 South Sixth Street El Centro CA 92243-4463,NA,NA,FALSE,tested,NA,NA,NA,NA
+El Centro Elementary,El Centro Elementary School District Office,1256 Broadwy El Centro CA 92243,6.6,ppb,TRUE,tested,NA,NA,NA,NA
+El Centro Elementary,Harding Elementary,950 South Seventh Street El Centro CA 92243-3919,NA,NA,FALSE,tested,NA,NA,NA,NA
+El Centro Elementary,Hedrick Elementary School,550 South Waterman Avenue El Centro CA 92243-3139,NA,NA,NA,not tested,El Centro,Imperial County,32.787992,-115.575492739455
+El Centro Elementary,Home School Science Center,2370 W Main St El Centro CA 92243,NA,NA,NA,not tested,El Centro,Imperial County,32.7929361598722,-115.582206349858
+El Centro Elementary,Imagine Schools at Imperial Valley,1150 North Imperial Avenue El Centro CA 92243-1740,NA,NA,NA,not tested,El Centro,Imperial County,32.8031178227687,-115.569767647473
+El Centro Elementary,Kennedy Middle,900 North Sixth Street El Centro CA 92243-1803,14.5,ppb,TRUE,tested,NA,NA,NA,NA
+El Centro Elementary,Lincoln Elementary,200 North Twelfth Street El Centro CA 92243-2346,NA,NA,FALSE,tested,NA,NA,NA,NA
+El Centro Elementary,Margaret Hedrick Elementary,550 South Waterman Avenue El Centro CA 92243,NA,NA,FALSE,tested,El Centro,Imperial County,32.787992,-115.575492739455
+El Centro Elementary,Martin Luther King Jr. Elementary,1950 Villa Avenue El Centro CA 92243-1268,NA,NA,FALSE,tested,El Centro,Imperial County,32.8048954,-115.57745426228
+El Centro Elementary,McKinley Elementary,1177 North Eighth Street El Centro CA 92243-1721,NA,NA,FALSE,tested,NA,NA,NA,NA
+El Centro Elementary,Sunflower Elementary,2450 Main Street El Centro CA 92243-3577,NA,NA,FALSE,tested,Newport Beach,Orange County,33.614761,-117.9220856
+El Centro Elementary,Washington Elementary,223 South First Street El Centro CA 92243-2799,8.2,ppb,TRUE,tested,NA,NA,NA,NA
+El Centro Elementary,Wilson Jr. High,600 South Wilson El Centro CA 92243-2799,16.5,ppb,TRUE,tested,El Centro,Imperial County,32.786875,-115.566859

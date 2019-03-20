@@ -1,9 +1,6 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Beaumont Unified,21st Century Learning Institute,939 Michigan Avenue Beaumont CA 92223,NA,NA,NA,not tested,Beaumont,Riverside County,33.9346554068949,-116.968961624863
-Beaumont Unified,Anna Hause Elementary,1015 Carnation Lane Beaumont CA 92223-7827,NA,NA,NA,not tested,Beaumont,Riverside County,33.9349467,-116.9597142
-Beaumont Unified,Beaumont Adult,1575 Cherry Avenue Beaumont CA 92223,NA,NA,NA,not tested,Beaumont,Riverside County,33.9371046,-116.9643932
-Beaumont Unified,Beaumont USD Preschool,715 Wellwood Avenue Beaumont CA 92223-2122,NA,NA,NA,not tested,Beaumont,Riverside County,33.9317162352801,-116.982870215277
-Beaumont Unified,Glen View High,905 Michigan Avenue Beaumont CA 92223,NA,NA,NA,not tested,Beaumont,Riverside County,33.9342023058121,-116.96896371341
-Beaumont Unified,Highland Academy,715 Wellwood Avenue Beaumont CA 92223-7442,NA,NA,NA,not tested,Beaumont,Riverside County,33.9317162352801,-116.982870215277
-Beaumont Unified,Palm Elementary,751 Palm Avenue Beaumont CA 92223-0187,NA,NA,NA,not tested,Beaumont,Riverside County,33.9317319785393,-116.97172186779
-Beaumont Unified,San Gorgonio Middle,1591 Cherry Ave Beaumont CA 92223-5121,NA,NA,NA,not tested,Beaumont,Riverside County,33.9371046,-116.9643932
+Sequoia Union High,Carlmont High,1400 Alameda de Las Pulgas Belmont CA 94002-3585,NA,NA,FALSE,tested,Belmont,San Mateo County,37.5051047,-122.288642505711
+Belmont-Redwood Shores Elementary,Central Elementary,525 Middle Road Belmont CA 94002-2130,NA,NA,NA,not tested,Belmont,San Mateo County,37.5237533745905,-122.282387486137
+Belmont-Redwood Shores Elementary,Fox Elementary,3100 Saint James Road Belmont CA 94002-2956,NA,NA,NA,not tested,Belmont,San Mateo County,37.507815,-122.321761
+Belmont-Redwood Shores Elementary,Nesbit Elementary,500 Biddulph Way Belmont CA 94002-2711,NA,NA,NA,not tested,Belmont,San Mateo County,37.525707,-122.274586
+Belmont-Redwood Shores Elementary,Ralston Intermediate,2675 Ralston Avenue Belmont CA 94002-1216,NA,NA,NA,not tested,Belmont,San Mateo County,37.5151144,-122.2838483

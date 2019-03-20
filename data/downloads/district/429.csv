@@ -1,4 +1,3 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Linden Unified,Linden Adult,18257 East Main Street Linden CA 95236,NA,NA,NA,not tested,,San Joaquin County,38.020074,-121.081185
-Linden Unified,Linden Elementary,18100 West Front Street Linden CA 95236-9701,NA,NA,NA,not tested,,,,
-Linden Unified,Linden High,18527 East Front Street Linden CA 95236-9703,NA,NA,NA,not tested,,,,
+Mark Twain Union Elementary,Copperopolis Elementary,217 School Street Copperopolis CA 95228-0145,NA,NA,NA,not tested,NA,Calaveras County,37.9819132531735,-120.642339307678
+Mark Twain Union Elementary,Mark Twain Elementary,646 Stanislaus Avenue Angels Camp CA 95222-1239,NA,NA,FALSE,tested,NA,NA,NA,NA

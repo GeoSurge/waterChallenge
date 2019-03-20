@@ -20,14 +20,23 @@ tabs.forEach(function(tab) {
     const active = target.className.indexOf('active') > -1;
     if (active) {
       console.log("you clicked a tab that is already active");
-    } else {
+      if (window.innerWidth <= 700) {
+        //show map
+        document.getElementById('one').style.display = 'none';
+        document.getElementById('two').style.display = 'none';
+        document.getElementById('credits').style.display = 'none'; 
+      }
+    } else  {
       console.log("you clicked a closed tab", target);
       tabs.forEach(function(tab) {
         tab.className = '';
       });
+
       target.className = 'active';
+
       var li = target.parentElement;
       var tabID = li.id;
+
       if (tabID === 'info-tab') {
         document.getElementById('one').style.display = 'block';
         document.getElementById('two').style.display = 'none';
@@ -41,33 +50,6 @@ tabs.forEach(function(tab) {
   });
 })
 
-/*
-
-//tab 1 collapse
-var infoTab = document.getElementById("one");
-var infoContent = document.getElementById("one");
-
-infoTab.addEventListener("click", function() {
-  if (infoContent.style.display === "none") {
-    infoContent.style.display = null;
-  } else {
-    infoContent.display = "none";
-  }
-});
-
-
-//tab 2 collapse
-var dashboardTab = document.getElementById("two");
-var dashboardContent = document.getElementById("two");
-
-dashboardTab.addEventListener("click", function() {
-  if (dashboardContent.style.display === "none") {
-    dashboardContent.style.display = null;
-  } else {
-    dashboardContent.display = "none";
-  }
-}); 
-*/
 
 //Filters
 function populateDropdown(id, defaultName, optionArray) {

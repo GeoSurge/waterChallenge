@@ -1,24 +1,24 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Hesperia Unified,Canyon Ridge High,12850 Muscatel Avenue Hesperia CA 92344-5566,NA,NA,FALSE,tested,,,,
-Hesperia Unified,Carmel Elementary,9321 Glendale Avenue Hesperia CA 92345-5600,NA,NA,FALSE,tested,,San Bernardino County,34.42345,-117.2418
-Hesperia Unified,Cedar Middle,13565 Cedar Street Hesperia CA 92345-0139,NA,NA,NA,not tested,,San Bernardino County,34.4047787650961,-117.367088716614
-Hesperia Unified,Cottonwood Elementary,8850 Cottonwood Hesperia CA 92345-3702,NA,NA,FALSE,tested,,San Bernardino County,34.411423938773,-117.338351484403
-Hesperia Unified,Cypress School of the Arts,10365 Cypress Hesperia CA 92345-2821,NA,NA,FALSE,tested,,San Bernardino County,34.4388243968046,-117.325376859909
-Hesperia Unified,Eucalyptus Elementary,11224 Tenth Avenue Hesperia CA 92345-2302,NA,NA,FALSE,tested,,,,
-Hesperia Unified,Hesperia High,9898 Maple Avenue Hesperia CA 92345-3643,NA,NA,FALSE,tested,,San Bernardino County,34.4306514656335,-117.346614420227
-Hesperia Unified,Hesperia Junior High,10275 Cypress Hesperia CA 92345-2819,NA,NA,FALSE,tested,,San Bernardino County,34.4374988989454,-117.325673751017
-Hesperia Unified,Hollyvale Elementary,11645 Hollyvale Avenue Victorville CA 92392-9081,NA,NA,NA,not tested,Victorville,San Bernardino County,34.4618295312529,-117.38627158612
-Hesperia Unified,Joshua Circle Elementary,10140 Eighth Avenue Hesperia CA 92345-2801,NA,NA,FALSE,tested,,,,
-Hesperia Unified,Juniper Elementary,9400 I Avenue Hesperia CA 92345-6210,NA,NA,FALSE,tested,,San Bernardino County,34.4221431336843,-117.282480907097
-Hesperia Unified,Kingston Elementary,7473 Kingston Avenue Hesperia CA 92345-7316,12,ppb,TRUE,tested,,San Bernardino County,34.3874656534106,-117.274895614373
-Hesperia Unified,"Krystal School of Science, Math & Technology",17160 Krystal Drive Hesperia CA 92345-7214,NA,NA,FALSE,tested,,San Bernardino County,34.3782913958275,-117.288687635034
-Hesperia Unified,Lime Street Elementary,16852 Lime Street Hesperia CA 92345-5934,NA,NA,FALSE,tested,,San Bernardino County,34.4052724194166,-117.297172961766
-Hesperia Unified,Maple Elementary,10616 Maple Street Hesperia CA 92345-2436,NA,NA,FALSE,tested,,,,
-Hesperia Unified,Mesa Grande Elementary,9172 Third Street Hesperia CA 92345-3643,8.2,ppb,TRUE,tested,,,,
-Hesperia Unified,Mesquite Trails Elementary,13884 Mesquite Hesperia CA 92345-8485,NA,NA,FALSE,tested,,San Bernardino County,34.397784,-117.3598235
-Hesperia Unified,Mission Crest Elementary,13065 Muscatel Street Hesperia CA 92345-5572,NA,NA,FALSE,tested,,San Bernardino County,34.4103622,-117.3185031
-Hesperia Unified,Mojave High,16633 Lemon Hesperia CA 92345-2133,NA,NA,NA,not tested,,San Bernardino County,34.445065742215,-117.302125102978
-Hesperia Unified,Oak Hills High,7625 Cataba Road Oak Hills CA 92344-8713,NA,NA,NA,not tested,,,,
-Hesperia Unified,Ranchero Middle,17607 Ranchero Road Hesperia CA 92345-7336,NA,NA,FALSE,tested,,San Bernardino County,34.3831852,-117.3085286
-Hesperia Unified,Sultana High,17311 Sultana Avenue Hesperia CA 92345-6567,NA,NA,FALSE,tested,,,,
-Hesperia Unified,Topaz Preparatory Academy,14110 Beech Street Hesperia CA 92345-8003,NA,NA,FALSE,tested,,San Bernardino County,34.432627,-117.355299
+Kern High,Arvin High,900 Varsity Road Arvin CA 93203-2421,NA,NA,FALSE,tested,NA,Kern County,35.2164284545455,-118.834388438017
+Kern High,Bakersfield High,1241 G Street Bakersfield CA 93301-5173,8.4,ppb,TRUE,tested,Bakersfield,Kern County,35.369604,-119.022495
+Kern High,Centennial High School,8601 Hageman Rd Bakersfield CA 93312,NA,NA,FALSE,tested,Bakersfield,Kern County,35.39823,-119.102332
+Kern High,East Bakersfield High,2200 Quincy Street Bakersfield CA 93306-4036,NA,NA,FALSE,tested,Bakersfield,Kern County,35.379843,-118.967271
+Kern High,Foothill High,501 Park Drive Bakersfield CA 93306-6017,NA,NA,FALSE,tested,NA,Kern County,35.365373,-118.918574
+Kern High,Frontier High,6401 Allen Road Bakersfield CA 93314-9250,NA,NA,FALSE,tested,Bakersfield,Kern County,35.415579,-119.145483
+Kern High,Golden Valley High,801 Hosking Avenue Bakersfield CA 93307-5818,NA,NA,NA,not tested,Bakersfield,Kern County,35.281365,-119.004351
+Kern High,Highland High,2900 Royal Scots Way Bakersfield CA 93306-2819,NA,NA,FALSE,tested,Bakersfield,Kern County,35.401115,-118.931064
+Kern High,Independence High,8001 Old River Road Bakersfield CA 93311-9752,NA,NA,FALSE,tested,Bakersfield,Kern County,35.2826272487562,-119.10993997512401
+Kern High,Liberty High,925 Jewetta Avenue Bakersfield CA 93312-4683,NA,NA,FALSE,tested,Bakersfield,Kern County,35.363187,-119.12801
+Kern High,Mira Monte High,1800 South Fairfax Road Bakersfield CA 93307-8520,NA,NA,FALSE,tested,Bakersfield,Kern County,35.3387704646465,-118.932113010101
+Kern High,North High,300 Galaxy Avenue Bakersfield CA 93308-1722,NA,NA,NA,not tested,NA,NA,NA,NA
+Kern High,Nueva Continuation High,8600 Palm Avenue Lamont CA 93241-2212,NA,NA,FALSE,tested,NA,Kern County,35.2579775050505,-118.909254787879
+Kern High,Ridgeview High,8501 Stine Road Bakersfield CA 93313-9782,NA,NA,FALSE,tested,Bakersfield,Kern County,35.2754759777778,-119.056767
+Kern High,ROC-Alternative Education-Bakersfield Adult School,2727 F Street Bakersfield CA 93301,NA,NA,FALSE,tested,Bakersfield,Kern County,35.3841855102041,-119.023575938776
+Kern High,Ruggenburg Special Education School,610 Ansol Ln  Bakersfield CA 93306,NA,NA,FALSE,tested,NA,Kern County,35.3673819591837,-118.926532877551
+Kern High,Shafter High,526 Mannel Avenue Shafter CA 93263-1810,NA,NA,FALSE,tested,NA,NA,NA,NA
+Kern High,South High,1101 Planz Road Bakersfield CA 93304-6150,NA,NA,FALSE,tested,Bakersfield,Kern County,35.3248453571429,-119.014492
+Kern High,Stockdale High,2800 Buena Vista Road Bakersfield CA 93311-9791,NA,NA,FALSE,tested,Bakersfield,Kern County,35.3294229310345,-119.127844862069
+Kern High,Tierra Del Sol Continuation High,3700 East Belle Terrace Bakersfield CA 93307-6832,NA,NA,FALSE,tested,Bakersfield,Kern County,35.3458740253165,-118.988069113924
+Kern High,Vista Continuation High,200 P Street Bakersfield CA 93304-3051,NA,NA,FALSE,tested,Bakersfield,Kern County,35.358031,-119.011766
+Kern High,Vista West Continuation High,7115 Rosedale Highway Bakersfield CA 93308-5845,NA,NA,FALSE,tested,Bakersfield,Kern County,35.3832892090858,-119.081202325613
+Kern High,West High,1200 New Stine Road Bakersfield CA 93309-3534,NA,NA,FALSE,tested,Bakersfield,Kern County,35.344113,-119.061037

@@ -1,3 +1,4 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Dunsmuir Joint Union High School Distirct,Dunsmuir High School,"5805 High School Way  dunsmuir, CA  96025",NA,NA,NA,exempt,Dunsmuir,Siskiyou County,41.210414,-122.275896
-Dunsmuir Joint Union High School Distirct,Dunsmuir High School,"5805 High School Way  dunsmuir, CA  96025",NA,NA,NA,exempt,Dunsmuir,Siskiyou County,41.210414,-122.275896
+Elverta Joint Elementary,Alpha Charter,8920 Elwyn Avenue Elverta CA 95626-9580,NA,NA,FALSE,tested,NA,Sacramento County,38.7306154707972,-121.466631311089
+Elverta Joint Elementary,Alpha Technology Middle,8920 Elwyn Avenue Elverta CA 95626-9217,NA,NA,NA,not tested,NA,Sacramento County,38.7306154707972,-121.466631311089
+Elverta Joint Elementary,Elverta Elementary,7900 Eloise Avenue Elverta CA 95626-9217,NA,NA,FALSE,tested,NA,Sacramento County,38.7122664242424,-121.463698090909

@@ -62,10 +62,12 @@ h4, p {
 }
 
 #credits {
-  font-size: 12px;
-  margin-bottom: 12px;
-  position: absolute;
-  bottom: 15px;
+  font-size: 12px !important;
+  margin-bottom: 20px;
+  margin-top: 65%;
+  position: relative;
+  display: block;
+  bottom: 20px;
 }
 
 .center {
@@ -92,10 +94,36 @@ h4, p {
   width: 90%;
   text-align: left;
 }
-
-.dropdown {
-
+#school-visualizer {
+  position: relative;
+  padding: 15%;
 }
+
+#school-lead-result {
+  font-weight: bold;
+}
+
+#school-name {
+  font-weight: bold;
+}
+
+body {
+  text-align:center;
+  min-height:95vh;
+  margin:0;
+  padding:0;
+  border-bottom: 5vh solid $color;
+  font-family: "Myriad Pro","Arial",sans;
+  font-size:24px;
+}
+.dropdown {
+  background: rgb(84, 95, 96);
+  line-height: 5;
+  border: lightslategrey;
+  color: rgb(240,240,240);
+  width: 95%;
+}
+ 
 
 /* map styling */
 #map {
@@ -193,18 +221,6 @@ h4, p {
   border-color: #A9A9A9;
 }
 
-
-@media (max-width: 700px) {
-  .data {
-    width: 100%;
-  }
-  
-  .map {
-    width: 100%;
-    z-index: 2;
-  }
-}
-
 .cluster-pie text{
   stroke: white;
 }
@@ -235,4 +251,49 @@ h4, p {
   max-width: 150px;
   position: relative;
   width: 80%;
+}
+
+@media (max-width: 700px) {
+
+  #top-section {
+    background: rgb(210, 218, 219);
+    height: auto !important;
+  }
+
+  .data {
+    height: auto;
+    width: 100%;
+  }
+
+  .dropdown {
+    color: black;
+  }
+
+  #credits {
+    text-align: center;
+  }
+
+  #content {
+    height: 300px !important;
+  }
+
+  #img {
+    padding: 10px;
+  }
+
+  #dashboard select {
+    background: white;
+  }
+
+  #school-image {
+    height: 50px;
+  }
+
+  #map {
+    height: 400px !important;
+    margin: 20px;
+    position: relative;
+    width: 100%;
+    width: calc(100% - 40px);
+  }
 }

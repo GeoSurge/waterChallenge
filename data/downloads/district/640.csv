@@ -1,2 +1,3 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Pleasanton Unified,Henry P. Mohr Elementary,3300 Dennis Drive Pleasanton CA 94588-8377,NA,NA,FALSE,tested,,Alameda County,37.6921492,-121.860393211723
+San Benito High,San Andreas Continuation High,191 Alvarado Street Hollister CA 95023-4043,NA,NA,FALSE,tested,NA,San Benito County,36.853974,-121.396207
+San Benito High,San Benito High/San Benito Adult,1220 Monterey St Hollister CA 95023-4708,NA,NA,NA,not tested,NA,San Benito County,36.84214,-121.404313

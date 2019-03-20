@@ -34,7 +34,7 @@ San Diego Unified,Challenger Middle,10810 Parkdale Avenue San Diego CA 92126-259
 San Diego Unified,Charter School of San Diego,10170 Huennekens St San Diego CA 92121-2964,NA,NA,NA,not tested,San Diego,San Diego County,32.902766,-117.184084
 San Diego Unified,Cherokee Point Elementary,3735 38th Street San Diego CA 92105-2414,NA,NA,FALSE,tested,San Diego,San Diego County,32.746769,-117.111806
 San Diego Unified,Chesterton Elementary,7335 Wheatley Street San Diego CA 92111-5824,5.154999999999999,ppb,TRUE,tested,San Diego,San Diego County,32.79333,-117.162849
-NA,"Child's Primary, The",3811 Mt. Acadia Boulevard San Diego CA 92111,6.76,ppb,TRUE,tested,San Diego,San Diego County,32.811171,-117.18071
+Private,"Child's Primary, The",3811 Mt. Acadia Boulevard San Diego CA 92111,6.76,ppb,TRUE,tested,San Diego,San Diego County,32.811171,-117.18071
 San Diego Unified,Chollas/Mead Elementary,401 North 45th Street San Diego CA 92102-4732,7.73,ppb,TRUE,tested,San Diego,San Diego County,32.7048687,-117.0979672
 San Diego Unified,City Heights Preparatory Charter,3770 Altadena Avenue San Diego CA 92105-3007,NA,NA,NA,not tested,San Diego,San Diego County,32.746641,-117.085707
 San Diego Unified,Clairemont High,4150 Ute Drive San Diego CA 92117-5853,NA,NA,FALSE,tested,San Diego,San Diego County,32.807012,-117.203035
@@ -68,7 +68,7 @@ San Diego Unified,Emerson Elementary,3510 Newton Avenue San Diego CA 92113-3118,
 South Bay Union,Emory Elementary,1915 Coronado Avenue San Diego CA 92154-2021,NA,NA,FALSE,tested,San Diego,San Diego County,32.575662,-117.091608
 San Diego Unified,Empower Charter,2230 East Jewett Street San Diego CA 92111-6013,NA,NA,NA,not tested,San Diego,San Diego County,32.785814,-117.172658
 San Diego Unified,Encanto Elementary,822 65th Street San Diego CA 92114-2818,5.73,ppb,TRUE,tested,San Diego,San Diego County,32.714535,-117.058052
-NA,English French Learning Academy,3219 Clairemont Mesa Boulevard San Diego CA 92117,NA,NA,FALSE,tested,San Diego,San Diego County,32.830619,-117.216093
+Private,English French Learning Academy,3219 Clairemont Mesa Boulevard San Diego CA 92117,NA,NA,FALSE,tested,San Diego,San Diego County,32.830619,-117.216093
 San Diego Unified,Ericson Elementary,11174 Westonhill Drive San Diego CA 92126-1943,NA,NA,FALSE,tested,San Diego,San Diego County,32.92775,-117.136964
 San Diego Unified,Euclid Elementary,4166 Euclid Avenue San Diego CA 92105-1910,6.65,ppb,TRUE,tested,San Diego,San Diego County,32.752196,-117.093156
 San Diego Unified,Evangeline Roberts Institute of Learning,6785 Imperial Avenue San Diego CA 92114-1103,NA,NA,NA,not tested,San Diego,San Diego County,32.710869,-117.051676
@@ -86,7 +86,7 @@ San Diego Unified,Garfield High,1255 16th Street San Diego CA 92101-4759,NA,NA,F
 South Bay Union,George Nicoloff Elementary,1777 Howard Avenue San Ysidro CA 92173-1235,NA,NA,FALSE,tested,San Diego,San Diego County,32.5659912,-117.0667302
 South Bay Union,George Nicoloff North,1777 Howard Avenue San Ysidro CA 92173-1235,NA,NA,NA,not tested,San Diego,San Diego County,32.5659912,-117.0667302
 South Bay Union,George Nicoloff South,1777 Howard Ave San Ysidro CA 92173-1235,NA,NA,NA,not tested,San Diego,San Diego County,32.5659912,-117.0667302
-San Diego Unified,Golden Hill K-8,1240 33rd Street San Diego CA 92102-2409,NA,NA,FALSE,tested,San Diego,San Diego County,32.7182202013353,-117.123278136223
+San Diego Unified,Golden Hill K-8,1240 33rd Street San Diego CA 92102-2409,NA,NA,FALSE,tested,San Diego,San Diego County,32.7182202013353,-117.12327813622301
 San Diego Unified,Gompers Preparatory Academy,1005 47th Street San Diego CA 92102-3626,NA,NA,FALSE,tested,San Diego,San Diego County,32.716096,-117.091366
 San Diego Unified,Grant K-8,1425 Washington Place San Diego CA 92103-1792,NA,NA,FALSE,tested,San Diego,San Diego County,32.749181,-117.175613
 San Diego Unified,Hage Elementary,9750 Galvin Avenue San Diego CA 92126-4823,NA,NA,FALSE,tested,San Diego,San Diego County,32.9205682945602,-117.122225662301
@@ -155,7 +155,7 @@ San Diego Unified,Madison High,4833 Doliva Drive San Diego CA 92117-3211,NA,NA,F
 San Diego Unified,Magnolia Science Academy San Diego,6365 Lake Atlin Avenue San Diego CA 92119-3206,NA,NA,NA,not tested,San Diego,San Diego County,32.796716,-117.011759078319
 San Diego Unified,Mann Middle,4345 54th Street San Diego CA 92115-5336,8.145,ppb,TRUE,tested,San Diego,San Diego County,32.756588,-117.077393
 Sweetwater Union High,Mar Vista Academy,1267 Thermal Avenue San Diego CA 92154-2802,NA,NA,NA,not tested,San Diego,San Diego County,32.574883,-117.095952
-NA,Maranatha Christian School,9050 Maranatha Drive San Diego CA 92127,NA,NA,FALSE,tested,San Diego,San Diego County,33.023794,-117.13691
+Private,Maranatha Christian School,9050 Maranatha Drive San Diego CA 92127,NA,NA,FALSE,tested,San Diego,San Diego County,33.023794,-117.13691
 San Diego Unified,Marcy School,2716 Marcy Ave San Diego CA 92113,NA,NA,FALSE,tested,San Diego,San Diego County,32.69799065,-117.136145762628
 San Diego Unified,Marshall Elementary,3550 Altadena Avenue San Diego CA 92105-3698,NA,NA,FALSE,tested,San Diego,San Diego County,32.7424548101005,-117.086460016257
 San Diego Unified,Marshall Middle,9700 Avenue of Nations San Diego CA 92131-2135,NA,NA,FALSE,tested,San Diego,San Diego County,32.89629935,-117.099360705095
@@ -171,7 +171,7 @@ San Diego Unified,Miller Elementary,4343 Shields Street San Diego CA 92124-2933,
 San Diego Unified,Mira Mesa High,10510 Reagan Road San Diego CA 92126-3275,NA,NA,FALSE,tested,San Diego,San Diego County,32.910639,-117.141525
 San Diego Unified,Miramar Ranch Elementary,10770 Red Cedar Drive San Diego CA 92131-1204,NA,NA,FALSE,tested,San Diego,San Diego County,32.9093915112206,-117.098623564284
 San Diego Unified,Mission Bay High,2475 Grand Avenue San Diego CA 92109-4825,NA,NA,FALSE,tested,San Diego,San Diego County,32.7991984,-117.2340992
-NA,Mission Bay Montessori Academy,2640 Soderblom Avenue San Diego CA 92122,NA,NA,FALSE,tested,San Diego,San Diego County,32.8435009,-117.2295797
+Private,Mission Bay Montessori Academy,2640 Soderblom Avenue San Diego CA 92122,NA,NA,FALSE,tested,San Diego,San Diego County,32.8435009,-117.2295797
 San Diego County Office of Education,Monarch,1625 Newton Avenue San Diego CA 92113-1012,NA,NA,NA,not tested,San Diego,San Diego County,32.7029547892635,-117.150464909774
 Sweetwater Union High,Montgomery Adult,3240 Palm Avenue San Diego CA 92154-1507,NA,NA,NA,not tested,San Diego,San Diego County,32.5838899974895,-117.064303073102
 Sweetwater Union High,Montgomery Middle,1051 Picador Boulevard San Diego CA 92154-3548,7.165,ppb,TRUE,tested,San Diego,San Diego County,32.576755,-117.055404693385
@@ -206,7 +206,7 @@ San Diego Unified,Porter Elementary North,445 South 47th Street San Diego CA 921
 San Diego Unified,Preuss School UCSD,9500 Gilman Drive La Jolla CA 92093-0536,NA,NA,NA,not tested,San Diego,San Diego County,32.8769762,-117.241736
 Poway Unified,Rancho Bernardo High,13010 Paseo Lucido San Diego CA 92128-4499,NA,NA,NA,not tested,San Diego,San Diego County,32.996963,-117.067666
 La Mesa-Spring Valley,Rancho Elementary,8845 Noeline Avenue Spring Valley CA 91977-5716,NA,NA,NA,not tested,San Diego,San Diego County,32.704318,-117.015568
-La Mesa-Spring Valley School District,Rancho Elementary School,"8845 Noeline Ave, Spring Valley, CA 91977",NA,NA,NA,exempt,San Diego,San Diego County,32.704318,-117.015568
+La Mesa-Spring Valley,Rancho Elementary School,"8845 Noeline Ave, Spring Valley, CA 91977",NA,NA,NA,exempt,San Diego,San Diego County,32.704318,-117.015568
 San Diego Unified,Riley/New Dawn,5650 Mount Ackerly Drive San Diego CA 92111-4016,NA,NA,FALSE,tested,San Diego,San Diego County,32.810658,-117.179351
 San Diego Unified,Rodriguez Elementary,825 South 31st Street San Diego CA 92113-2525,NA,NA,FALSE,tested,San Diego,San Diego County,32.6978589287945,-117.127210587844
 San Diego Unified,Rolando Park Elementary,6620 Marlowe Drive San Diego CA 92115-6740,NA,NA,FALSE,tested,San Diego,San Diego County,32.7465232,-117.0547728
@@ -217,13 +217,13 @@ San Diego Unified,Ross Elementary,7470 Bagdad Street San Diego CA 92111-4317,NA,
 San Diego Unified,Rowan Elementary,1755 Rowan Street San Diego CA 92105-5631,NA,NA,FALSE,tested,San Diego,San Diego County,32.72363,-117.112172
 Del Mar Union Elementary,Sage Canyon,5290 Harvest Run Drive San Diego CA 92130-4875,NA,NA,FALSE,tested,San Diego,San Diego County,32.92617,-117.203542
 San Diego Unified,San Diego Business/Leadership,1405 Park Boulevard San Diego CA 92101-4722,NA,NA,FALSE,tested,San Diego,San Diego County,32.7200043972613,-117.15375105081
-San Diego Community College,San Diego Continuing Education,4343 Ocean View Boulevard San Diego CA 92113-1915,NA,NA,NA,not tested,San Diego,San Diego County,32.7004217044846,-117.101618501001
+San Carlos Elementary,San Diego Continuing Education,4343 Ocean View Boulevard San Diego CA 92113-1915,NA,NA,NA,not tested,San Diego,San Diego County,32.7004217044846,-117.101618501001
 San Diego Unified,San Diego Cooperative Charter,7260 Linda Vista Road San Diego CA 92111-6128,6.06,ppb,TRUE,tested,San Diego,San Diego County,32.791457,-117.166858
 San Diego Unified,San Diego Cooperative Charter 2 North,3550 Logan Ave San Diego CA 92113,NA,NA,FALSE,tested,San Diego,San Diego County,32.698091,-117.118052
 San Diego Unified,San Diego Cooperative Charter School 2,3550 Logan Avenue San Diego CA 92113-2712,6.42,ppb,TRUE,tested,San Diego,San Diego County,32.698091,-117.118052
 San Diego County Office of Education,San Diego County Community,210 W Ash St San Diego CA 92101-3409,NA,NA,NA,not tested,San Diego,San Diego County,32.72014,-117.16511
 San Diego County Office of Education,San Diego County Court,2801 Meadow Lark Drive San Diego CA 92123,NA,NA,NA,not tested,San Diego,San Diego County,32.79345,-117.154248
-NA,San Diego French–American School,6550 Soledad Mountain Road La Jolla CA 92037,NA,NA,FALSE,tested,San Diego,San Diego County,32.8350901580437,-117.248331638653
+Private,San Diego French–American School,6550 Soledad Mountain Road La Jolla CA 92037,NA,NA,FALSE,tested,San Diego,San Diego County,32.8350901580437,-117.248331638653
 San Diego Unified,San Diego Global Vision Academy,3430 School Street San Diego CA 92116-3423,NA,NA,FALSE,tested,San Diego,San Diego County,32.762397507543,-117.119072795747
 San Diego Unified,San Diego Global Vision Academy Middle,3430 School St San Diego CA 92116-3423,NA,NA,NA,not tested,San Diego,San Diego County,32.762397507543,-117.119072795747
 San Diego Unified,San Diego International Studies,1405 Park Boulevard San Diego CA 92101-4722,NA,NA,NA,not tested,San Diego,San Diego County,32.7200043972613,-117.15375105081
@@ -247,9 +247,9 @@ Solana Beach Elementary,Solana Highlands Elementary,3520 Long Run Drive San Dieg
 Solana Beach Elementary,Solana Pacific Elementary,3901 Townsgate Drive San Diego CA 92130-2584,NA,NA,NA,not tested,San Diego,San Diego County,32.952719,-117.229058
 Sweetwater Union High,Southwest Senior High,1685 Hollister Street San Diego CA 92154-4548,NA,NA,FALSE,tested,San Diego,San Diego County,32.568056,-117.081321
 San Diego Unified,Spreckels Elementary,6033 Stadium Street San Diego CA 92122-3399,NA,NA,FALSE,tested,San Diego,San Diego County,32.849999,-117.212187
-NA,Springall Academy,6460 Boulder Lake Avenue San Diego CA 92119,NA,NA,FALSE,tested,San Diego,San Diego County,32.798694,-117.019231
+Private,Springall Academy,6460 Boulder Lake Avenue San Diego CA 92119,NA,NA,FALSE,tested,San Diego,San Diego County,32.798694,-117.019231
 San Diego Unified,Standley Middle,6298 Radcliffe Drive San Diego CA 92122-3330,NA,NA,FALSE,tested,San Diego,San Diego County,32.85224135,-117.207365542857
-NA,Stella Maris Academy,7654 Herschel Avenue La Jolla CA 92037,NA,NA,FALSE,tested,San Diego,San Diego County,32.843585,-117.272567
+Private,Stella Maris Academy,7654 Herschel Avenue La Jolla CA 92037,NA,NA,FALSE,tested,San Diego,San Diego County,32.843585,-117.272567
 Sweetwater Union High,"Stephen W. Hawkings II Science, Technology, Engineering, Art and Math Charter",2710 Iris Avenue San Diego CA 92154-3338,NA,NA,NA,not tested,San Diego,San Diego County,32.5691095,-117.0646919
 Poway Unified,Sundance Elementary,8944 Twin Trails Drive San Diego CA 92129-2334,NA,NA,NA,not tested,San Diego,San Diego County,32.9611928778159,-117.133755057029
 South Bay Union,Sunnyslope Elementary,2500 Elm Avenue San Diego CA 92154-1498,NA,NA,FALSE,tested,San Diego,San Diego County,32.581216,-117.079739
@@ -259,8 +259,8 @@ San Diego Unified,Sunset View Elementary,4365 Hill Street San Diego CA 92107-419
 Del Mar Union Elementary,Sycamore Ridge,5333 Old Carmel Valley Road San Diego CA 92130-2650,NA,NA,FALSE,tested,San Diego,San Diego County,32.9576874,-117.1942299
 San Diego Unified,Taft Middle,9191 Gramercy Drive San Diego CA 92123-4015,6.29,ppb,TRUE,tested,San Diego,San Diego County,32.80167,-117.129402
 South Bay Union,Teofilo Mendoza,2050 Coronado Avenue San Diego CA 92154-2034,NA,NA,FALSE,tested,San Diego,San Diego County,32.57814735,-117.089612872277
-NA,The Cambridge School,12855 Black Mountain Road San Diego CA 92129,NA,NA,FALSE,tested,San Diego,San Diego County,32.952274,-117.128765
-NA,The Children's School,2225 Torrey Pines Lane La Jolla CA 92037,NA,NA,FALSE,tested,San Diego,San Diego County,32.849534,-117.253477
+Private,The Cambridge School,12855 Black Mountain Road San Diego CA 92129,NA,NA,FALSE,tested,San Diego,San Diego County,32.952274,-117.128765
+Private,The Children's School,2225 Torrey Pines Lane La Jolla CA 92037,NA,NA,FALSE,tested,San Diego,San Diego County,32.849534,-117.253477
 San Diego Unified,The O'Farrell Charter,6130 Skyline Drive San Diego CA 92114-5620,NA,NA,FALSE,tested,San Diego,San Diego County,32.702541,-117.064835
 SBE - Thrive Public,Thrive Public,4260 54th Street San Diego CA 92115-6009,NA,NA,FALSE,tested,San Diego,San Diego County,32.7541710596328,-117.07951542018
 San Diego Unified,Toler Elementary,3350 Baker Street San Diego CA 92117-6017,NA,NA,FALSE,tested,San Diego,San Diego County,32.801387,-117.209275

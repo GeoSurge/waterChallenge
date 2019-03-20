@@ -1,11 +1,8 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Buckeye Union Elementary,Blue Oak Elementary,2391 Merrychase Drive Cameron Park CA 95682-9094,7,ppb,TRUE,tested,,,,
-Buckeye Union Elementary,Buckeye Elementary,4561 Buckeye Road Shingle Springs CA 95682-9503,9,ppb,TRUE,tested,,El Dorado County,38.6687002563008,-120.915846765535
-Buckeye Union Elementary,California Montessori Project-Shingle Springs Campus,4645 Buckeye Road Shingle Springs CA 95682-9505,NA,NA,NA,not tested,,El Dorado County,38.6690282620101,-120.907462995576
-Buckeye Union Elementary,Camerado Springs Middle,2480 Merrychase Drive Cameron Park CA 95682-9093,NA,NA,FALSE,tested,,,,
-Buckeye Union Elementary,Charter Montessori Blue Oak Campus,2391 Merrychase Dr Cameron Park CA 95682-9094,NA,NA,FALSE,tested,,,,
-Buckeye Union Elementary,Oak Meadow Elementary,7701 Silva Valley Parkway El Dorado Hills CA 95762-7729,NA,NA,FALSE,tested,,,,
-Buckeye Union Elementary,Rising Sun Montessori,7006 Rossmore Lane El Dorado Hills CA 95762-7126,NA,NA,NA,not tested,,,,
-Buckeye Union Elementary,Rolling Hills Middle,7141 Silva Valley Parkway El Dorado Hills CA 95762-7862,NA,NA,NA,not tested,,,,
-Buckeye Union Elementary,Silva Valley Elementary,3001 Golden Eagle Lane El Dorado Hills CA 95762-7500,NA,NA,FALSE,tested,,,,
-Buckeye Union Elementary,William Brooks Elementary,3610 Park Drive El Dorado Hills CA 95762-4544,NA,NA,FALSE,tested,,El Dorado County,38.6559342,-121.073374
+Buena Park Elementary,Arthur F. Corey Elementary,7351 Holder Street Buena Park CA 90620-1608,5.3,ppb,TRUE,tested,Buena Park,Orange County,33.8555087755102,-118.019979
+Buena Park Elementary,Buena Park Junior High,6931 Orangethorpe Avenue Buena Park CA 90620-1350,NA,NA,FALSE,tested,Buena Park,Orange County,33.858981,-118.012749
+Buena Park Elementary,Carl E. Gilbert Elementary,7255 Eighth Street Buena Park CA 90621-2203,8.1,ppb,TRUE,tested,NA,NA,NA,NA
+Buena Park Elementary,Charles G. Emery Elementary,8600 Somerset Street Buena Park CA 90621-1402,NA,NA,FALSE,tested,Buena Park,Orange County,33.8844450030327,-117.983275151995
+Buena Park Elementary,Gordon H. Beatty Elementary,8201 Country Club Drive Buena Park CA 90621-1529,NA,NA,FALSE,tested,Buena Park,Orange County,33.883937,-117.988927
+Buena Park Elementary,James A. Whitaker Elementary,8401 Montana Street Buena Park CA 90621-3629,NA,NA,FALSE,tested,NA,NA,NA,NA
+Buena Park Elementary,Mabel L. Pendleton Elementary,7101 Stanton Avenue Buena Park CA 90621-3825,5.9,ppb,TRUE,tested,Buena Park,Orange County,33.85767295,-117.994675361216

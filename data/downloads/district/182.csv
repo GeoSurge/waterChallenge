@@ -1,6 +1,9 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Corona-Norco Unified,Corona Vista High,1154 Tenth Street Corona CA 92882-3901,NA,NA,NA,not tested,,,,
-Corona-Norco Unified,Corona-Norco Adult,300  Buena Vista Avenue Corona CA 92882-1937,NA,NA,NA,not tested,Corona,Riverside County,33.8503648,-117.5816805
-Corona-Norco Unified,Corona-Norco Alternative,185 Magnolia Avenue Corona CA 92879-3329,NA,NA,NA,not tested,Corona,Riverside County,33.8634921,-117.5466156
-Corona-Norco Unified,Dr. Bernice Jameson Todd Academy,25105 Mayhew Canyon Road Corona CA 92883-3166,NA,NA,NA,not tested,,,,
-Corona-Norco Unified,Temescal Valley Elementary,22950 Claystone Avenue Corona CA 92883-7151,NA,NA,NA,not tested,,,,
+Del Norte County Unified,Bess Maxwell Elementary,1124 El Dorado Street Crescent City CA 95531-2111,NA,NA,NA,not tested,Crescent City,Del Norte County,41.7666604747475,-124.209083767677
+Del Norte County Unified,Crescent Elk Middle,994 G Street Crescent City CA 95531-3417,NA,NA,NA,not tested,Crescent City,Del Norte County,41.7562161836735,-124.20319855102
+Del Norte County Unified,Del Norte High,1301 El Dorado Street Crescent City CA 95531-2110,NA,NA,NA,not tested,Crescent City,Del Norte County,41.7684864918145,-124.209390348155
+Del Norte County Unified,Joe Hamilton Elementary,1050 E Street Crescent City CA 95531-3423,NA,NA,NA,not tested,Crescent City,Del Norte County,41.7558876326531,-124.205547
+Del Norte County Unified,Mary Peacock Elementary,1720 Arlington Crescent City CA 95331-8331,NA,NA,NA,not tested,NA,NA,NA,NA
+Del Norte County Unified,Mountain Elementary,55 Azalea Lane Gasquet CA 95543,NA,NA,NA,not tested,NA,Del Norte County,41.846817137889,-123.961797591672
+Del Norte County Unified,Pine Grove Elementary,900 Pine Grove Road Crescent City CA 95531-8948,NA,NA,NA,not tested,NA,NA,NA,NA
+Del Norte County Unified,Sunset High,2500 Elk Valley Cross Road Crescent City CA 95531-8461,NA,NA,NA,not tested,NA,NA,NA,NA

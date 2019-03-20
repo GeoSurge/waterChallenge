@@ -1,3 +1,4 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Kingsburg Elementary Charter,Rafer Johnson Junior High,1300 Stroud Avenue Kingsburg CA 93631-1000,NA,NA,NA,not tested,,Fresno County,36.5250724241597,-119.553476747478
-Kingsburg Elementary Charter,Roosevelt Elementary,1185 Tenth Street Kingsburg CA 93631-2100,NA,NA,NA,not tested,,,,
+Lemoore Union High,Jamison (Donald C.) High (Continuation),351 East Bush Street Lemoore CA 93245-3601,NA,NA,FALSE,tested,NA,Kings County,36.2982125074578,-119.772359246901
+Lemoore Union High,Lemoore High,101 East Bush Street Lemoore CA 93245-3601,11,ppb,TRUE,tested,NA,Kings County,36.298223,-119.77882
+Lemoore Union High,Lemoore Middle College High,555 College Avenue Lemoore CA 93245-9248,13,ppb,TRUE,tested,NA,Kings County,36.2944061632653,-119.821676

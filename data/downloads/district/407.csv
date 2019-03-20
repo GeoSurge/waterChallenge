@@ -1,7 +1,6 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Lammersville Joint Unified,Altamont Elementary,452 West Saint Francis Avenue Mountain House CA 95391-1190,NA,NA,NA,not tested,,,,
-Lammersville Joint Unified,Bethany Elementary,570 Escuela Drive Mountain House CA 95391-2051,NA,NA,NA,not tested,,San Joaquin County,37.7730021,-121.549961063836
-Lammersville Joint Unified,Lammersville Elementary,16555 West Von Sosten Road Tracy CA 95304-7220,NA,NA,NA,not tested,,,,
-Lammersville Joint Unified,Mountain House High,1090 South Central Parkway Mountain House CA 95391-1353,NA,NA,NA,not tested,,,,
-Lammersville Joint Unified,Sebastian Questa Elementary,543 North Montebello Street Mountain House CA 95391,NA,NA,NA,not tested,,San Joaquin County,37.7858341,-121.5518387
-Lammersville Joint Unified,Wicklund Elementary,300 East Legacy Drive Mountain House CA 95391-1016,NA,NA,NA,not tested,,,,
+Los Gatos Union Elementary,Blossom Hill Elementary,16400 Blossom Hill Road Los Gatos CA 95032-3553,NA,NA,FALSE,tested,NA,Santa Clara County,37.2357007,-121.9629608
+Los Gatos Union Elementary,Daves Avenue Elementary,17770 Daves Avenue Los Gatos CA 95030-3218,NA,NA,FALSE,tested,NA,NA,NA,NA
+Los Gatos Union Elementary,Lexington Elementary,19700 Old Santa Cruz Highway Los Gatos CA 95033,NA,NA,FALSE,tested,NA,NA,NA,NA
+Los Gatos Union Elementary,Louise Van Meter Elementary,16445 Los Gatos Boulevard Los Gatos CA 95032-5524,NA,NA,FALSE,tested,NA,Santa Clara County,37.2382642,-121.9617309
+Los Gatos Union Elementary,Raymond J. Fisher Middle,19195 Fisher Avenue Los Gatos CA 95032-4510,NA,NA,FALSE,tested,NA,Santa Clara County,37.2325357731811,-121.967057091946

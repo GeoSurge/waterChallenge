@@ -1,13 +1,7 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-East Whittier City Elementary,Ceres Elementary,10601 South Ceres Avenue Whittier CA 90604-1655,12,ppb,TRUE,tested,,Los Angeles County,33.934221,-118.028939
-East Whittier City Elementary,East Whittier Middle,14421 East Whittier Boulevard Whittier CA 90605-2188,NA,NA,FALSE,tested,La Habra,Orange County,33.9391171,-117.9447152
-East Whittier City Elementary,Evergreen Elementary,12915 East Helmer Drive Whittier CA 90602-3232,10.4,ppb,TRUE,tested,Whittier,Los Angeles County,33.9632923731076,-118.041670627856
-East Whittier City Elementary,Granada Middle,15337 Lemon Drive Whittier CA 90604-3251,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.9233967356266,-118.002488053892
-East Whittier City Elementary,Hillview Middle,10931 South Stamy Road Whittier CA 90604-2225,NA,NA,FALSE,tested,,Los Angeles County,33.9329415243902,-118.00617
-East Whittier City Elementary,La Colima Elementary,11225 Miller Road Whittier CA 90604-1952,NA,NA,FALSE,tested,,Los Angeles County,33.9299154705882,-118.020485764706
-East Whittier City Elementary,Laurel Elementary,13550 Lambert Road Whittier CA 90605-2423,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.956389,-118.035477
-East Whittier City Elementary,Leffingwell Elementary,10625 South Santa Gertrudes Whittier CA 90603-2441,NA,NA,FALSE,tested,,,,
-East Whittier City Elementary,Mulberry Elementary,14029 East Mulberry Drive Whittier CA 90605-3169,NA,NA,FALSE,tested,,,,
-East Whittier City Elementary,Murphy Ranch Elementary,16021 Janine Drive Whittier CA 90603-1527,NA,NA,NA,not tested,Whittier,Los Angeles County,33.9465699334663,-117.98781436306
-East Whittier City Elementary,Orchard Dale Elementary,10625 South Cole Road Whittier CA 90604-1539,8.4,ppb,TRUE,tested,,,,
-East Whittier City Elementary,Scott Avenue Elementary,11701 Scott Avenue Whittier CA 90604-3245,NA,NA,FALSE,tested,,Los Angeles County,33.9275362634952,-118.000397229553
+Escalon Unified,Dent Elementary,1998 Yosemite Avenue Escalon CA 95320-1845,NA,NA,NA,not tested,NA,San Joaquin County,37.798341,-120.989266
+Escalon Unified,El Portal Middle,805 First Street Escalon CA 95320-1508,NA,NA,NA,not tested,NA,NA,NA,NA
+Escalon Unified,Escalon Charter Academy,1520 Yosemite Avenue Escalon CA 95320-1753,NA,NA,NA,not tested,NA,San Joaquin County,37.7985314489796,-120.994298428571
+Escalon Unified,Escalon High,1528 East Yosemite Avenue Escalon CA 95320-1753,NA,NA,NA,not tested,NA,NA,NA,NA
+Escalon Unified,Farmington Elementary,25233 East Highway 4 Farmington CA 95230-0068,NA,NA,NA,not tested,NA,NA,NA,NA
+Escalon Unified,Vista High (Continuation),1520 Yosemite Ave. Escalon CA 95320-1753,NA,NA,NA,not tested,NA,San Joaquin County,37.7985314489796,-120.994298428571

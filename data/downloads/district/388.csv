@@ -1,7 +1,7 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Konocti Unified,Carle (William C.) High (Continuation),9345 Winchester Street Lower Lake CA 95457-0309,NA,NA,FALSE,tested,,Lake County,38.9149917774496,-122.603967835763
-Konocti Unified,East Lake,13050 High Valley Road Clearlake Oaks CA 95423-0577,NA,NA,NA,not tested,,Lake County,39.028546,-122.67223
-Konocti Unified,Highlands Academy,13050 High Valley Rd Clearlake Oaks CA 95423-0577,NA,NA,NA,not tested,,Lake County,39.028546,-122.67223
-Konocti Unified,Lower Lake Elementary,9240 Lake Street Lower Lake CA 95457-0719,NA,NA,FALSE,tested,,Lake County,38.918346,-122.610154
-Konocti Unified,Lower Lake High,9430 A Lake Street Lower Lake CA 95457-0799,NA,NA,NA,not tested,,,,
-Konocti Unified,Pomo,3350 Acacia Street Clearlake CA 95422-7110,NA,NA,NA,not tested,Clearlake,Lake County,38.9720438600123,-122.6498879428
+Lindsay Unified,Cairns High School,533 E Honolulu Lindsay CA 93247,NA,NA,NA,not tested,NA,NA,NA,NA
+Lindsay Unified,Jefferson Elementary,333 North Westwood Avenue Lindsay CA 93247-1801,NA,NA,NA,not tested,Lindsay,Tulare County,36.20443915,-119.102937435647
+Lindsay Unified,John J. Cairns Continuation,290 N Harvard Lindsay CA 93247-2304,NA,NA,NA,not tested,Lindsay,Tulare County,36.2069465626853,-119.082459674904
+Lindsay Unified,Kennedy Elementary,1701 East Tulare Road Lindsay CA 93247-2262,NA,NA,NA,not tested,Lindsay,Tulare County,36.21193635,-119.072013001562
+Lindsay Unified,Lindsay Senior High,1849 East Tulare Road Lindsay CA 93247-9711,NA,NA,NA,not tested,Lindsay,Tulare County,36.21189365,-119.066886758001
+Lindsay Unified,Reagan Elementary,340 North Harvard Lindsay CA 93247-2219,NA,NA,NA,not tested,Lindsay,Tulare County,36.2079613596608,-119.082486381373

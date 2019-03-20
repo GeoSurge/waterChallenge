@@ -1,15 +1,8 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Bellflower Unified,Albert Baxter Elementary,14929 Cerritos Avenue Bellflower CA 90706-2827,NA,NA,FALSE,tested,,Los Angeles County,33.8979986378544,-118.139973608102
-Bellflower Unified,Bellflower High,15301 South McNab Avenue Bellflower CA 90706-4101,8.9,ppb,TRUE,tested,,,,
-Bellflower Unified,Craig Williams Elementary,6144 North Clark Avenue Lakewood CA 90712-1211,NA,NA,FALSE,tested,,,,
-Bellflower Unified,Ernie Pyle Elementary,14500 South Woodruff Avenue Bellflower CA 90706-3237,15,ppb,TRUE,tested,,,,
-Bellflower Unified,Esther Lindstrom Elementary,5900 North Canehill Street Lakewood CA 90713-1251,7.6899999999999995,ppb,TRUE,tested,,,,
-Bellflower Unified,Frank E. Woodruff Elementary,15332 South Eucalyptus Street Bellflower CA 90706-3706,13,ppb,TRUE,tested,,,,
-Bellflower Unified,Intensive Learning Center,4718 East Michelson Street Lakewood CA 90712-1851,5.74,ppb,TRUE,tested,,,,
-Bellflower Unified,Las Flores Home Education Independent Study Academy,10039 East Palm Street Bellflower CA 90706-6013,8.4,ppb,TRUE,tested,,,,
-Bellflower Unified,Mayfair High,6000 North Woodruff Avenue Lakewood CA 90713-1124,5.36,ppb,TRUE,tested,,,,
-Bellflower Unified,Ramona Elementary,9351 East Laurel Street Bellflower CA 90706-5615,NA,NA,FALSE,tested,,,,
-Bellflower Unified,Somerset Continuation High,9242 East Laurel Street Bellflower CA 90706-7607,NA,NA,FALSE,tested,,,,
-Bellflower Unified,Stephen Foster Elementary,5223 East Bigelow Street Lakewood CA 90712-2023,11.6,ppb,TRUE,tested,,,,
-Bellflower Unified,Thomas Jefferson Elementary,10027 East Rose Street Bellflower CA 90706-6916,NA,NA,FALSE,tested,,,,
-Bellflower Unified,Washington Elementary,9725 East Jefferson Street Bellflower CA 90706-3615,NA,NA,FALSE,tested,,,,
+Belmont-Redwood Shores Elementary,Central Elementary,525 Middle Road Belmont CA 94002-2130,NA,NA,NA,not tested,Belmont,San Mateo County,37.5237533745905,-122.282387486137
+Belmont-Redwood Shores Elementary,Cipriani Elementary,2525 Buena Vista Belmont CA 94002-1454,NA,NA,FALSE,tested,NA,NA,NA,NA
+Belmont-Redwood Shores Elementary,Fox Elementary,3100 Saint James Road Belmont CA 94002-2956,NA,NA,NA,not tested,Belmont,San Mateo County,37.507815,-122.321761
+Belmont-Redwood Shores Elementary,Nesbit Elementary,500 Biddulph Way Belmont CA 94002-2711,NA,NA,NA,not tested,Belmont,San Mateo County,37.525707,-122.274586
+Belmont-Redwood Shores Elementary,Ralston Intermediate,2675 Ralston Avenue Belmont CA 94002-1216,NA,NA,NA,not tested,Belmont,San Mateo County,37.5151144,-122.2838483
+Belmont-Redwood Shores Elementary,Redwood Shores Elementary,225 Shearwater Parkway Redwood City CA 94065-7449,NA,NA,FALSE,tested,Redwood City,San Mateo County,37.5433285,-122.2462674
+Belmont-Redwood Shores Elementary,Sandpiper Elementary,801 Redwood Shores Parkway Redwood City CA 94065-2279,NA,NA,FALSE,tested,Redwood City,San Mateo County,37.530382,-122.24563

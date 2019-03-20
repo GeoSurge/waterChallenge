@@ -1,3 +1,5 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Stone Corral Elementary,Crescent Valley Public Charter,"309 West Main Street, Suite 110 Visalia CA 93291-6257",NA,NA,NA,not tested,,,,
-Stone Corral Elementary,Stone Corral Elementary,15590 Avenue 383 Visalia CA 93292-9545,NA,NA,NA,not tested,,,,
+Wheatland,Bear River,100 Wheatland Park Drive Wheatland CA 95692-9286,NA,NA,FALSE,tested,NA,NA,NA,NA
+Wheatland,Lone Tree Elementary,123 Beale Highway Beale Air Force Base CA 95903,NA,NA,NA,not tested,NA,NA,NA,NA
+Wheatland,Wheatland Child Development Center,711 West Olive St Wheatland CA 95692,NA,NA,FALSE,tested,NA,NA,NA,NA
+Wheatland,Wheatland Elementary,111 Hooper Street Wheatland CA 95692-8215,5.4,ppb,TRUE,tested,NA,Yuba County,39.0110501484848,-121.428225490179

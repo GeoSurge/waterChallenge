@@ -1,7 +1,4 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-San Joaquin County Office of Education,"John F. Cruikshank, Jr.",2707 Transworld Drive Stockton CA 95206-3948,NA,NA,NA,not tested,Stockton,San Joaquin County,37.906898750694,-121.22875362555
-San Joaquin County Office of Education,one.Charter,2707 Transworld Dr Stockton CA 95206-3948,NA,NA,NA,not tested,Stockton,San Joaquin County,37.906898750694,-121.22875362555
-San Joaquin County Office of Education,River Islands Technology Academy II,1175 Marina Drive Lathrop CA 95330-8543,NA,NA,NA,not tested,Lathrop,San Joaquin County,37.7995458,-121.3188311
-San Joaquin County Office of Education,San Joaquin Building Futures Academy,3100 Monte Diablo Avenue Stockton CA 95203-1108,NA,NA,NA,not tested,Stockton,San Joaquin County,37.9545612,-121.342491074837
-San Joaquin County Office of Education,San Joaquin County Community,2707 Transworld D Stockton CA 95206-3948,NA,NA,NA,not tested,,,,
-San Joaquin County Office of Education,San Joaquin County Special Education,2707 Transworld Dr. Stockton CA 95206-3948,NA,NA,NA,not tested,Stockton,San Joaquin County,37.906898750694,-121.22875362555
+Solano County Office of Education,Golden Hills Education Center,2460 Clay Bank Road Fairfield CA 94533,NA,NA,FALSE,tested,Fairfield,Solano County,38.2735795882353,-122.006436558824
+Solano County Office of Education,Irene Larsen Center,1707 California Drive Vacaville CA 95687,NA,NA,FALSE,tested,Vacaville,Solano County,38.3333769740071,-121.977052131863
+Solano County Office of Education,TC McDaniel School,1895 Woolner Avenue  Fairfield CA 94533,NA,NA,FALSE,tested,Fairfield,Solano County,38.245275,-122.062508

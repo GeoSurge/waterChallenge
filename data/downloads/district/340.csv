@@ -1,6 +1,4 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Hilmar Unified,Colony Basic Skills Alternative High,20384 Geer Avenue Hilmar CA 95324-9722,NA,NA,NA,not tested,,Merced County,37.397087,-120.809335
-Hilmar Unified,Elim Elementary,7677 North Lander Avenue Hilmar CA 95324-9338,NA,NA,FALSE,tested,,Merced County,37.430408,-120.8497894
-Hilmar Unified,Hilmar High,7807 North Lander Avenue Hilmar CA 95324-9398,NA,NA,FALSE,tested,,Merced County,37.430408,-120.8497894
-Hilmar Unified,Hilmar Middle,7528 North Scholar Way Hilmar CA 95324-9655,NA,NA,FALSE,tested,,Merced County,37.3970826,-120.8592634
-Hilmar Unified,Irwin High (Continuation),20384 Geer Ave Hilmar CA 95324-9398,NA,NA,NA,not tested,,Merced County,37.397087,-120.809335
+Keyes Union,Barbara Spratling Middle,5277 Washington Road Hughson CA 95326-9112,NA,NA,FALSE,tested,NA,NA,NA,NA
+Keyes Union,Keyes Elementary,4400 Maud Avenue Keyes CA 95328,5.6,ppb,TRUE,tested,NA,Stanislaus County,37.553416,-120.909543
+Keyes Union,Keyes to Learning Charter,5709 Ninth Street Keyes CA 95328,8.2,ppb,TRUE,tested,NA,NA,NA,NA

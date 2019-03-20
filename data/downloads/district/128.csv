@@ -1,9 +1,6 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Center Joint Unified,Arthur S. Dudley Elementary,8000 Aztec Way Antelope CA 95843-4486,NA,NA,FALSE,tested,,Sacramento County,38.7139397297297,-121.381709945946
-Center Joint Unified,Center High,3111 Center Court Lane Antelope CA 95843-9111,NA,NA,FALSE,tested,,,,
-Center Joint Unified,Cyril Spinelli Elementary,3401 Scotland Dr Antelope CA 95843-2226,7.8,ppb,TRUE,tested,,,,
-Center Joint Unified,Global Youth Charter,3243 Center Court Lane Antelope CA 95843-9111,NA,NA,FALSE,tested,,,,
-Center Joint Unified,McClellan High (Continuation),8725 Watt Avenue Antelope CA 95843-9116,10,ppb,TRUE,tested,,,,
-Center Joint Unified,North Country Elementary,3901 Little Rock Drive Antelope CA 95843-6231,9,ppb,TRUE,tested,,,,
-Center Joint Unified,Oak Hill Elementary,3909 North Loop Boulevard Antelope CA 95843-4539,NA,NA,FALSE,tested,,,,
-Center Joint Unified,Wilson C. Riles Middle,4747 PFE Road Roseville CA 95747-9776,NA,NA,FALSE,tested,Roseville,Placer County,38.7292325,-121.3215896
+Central Union High,Central Union High,1001 Brighton Avenue El Centro CA 92243-3110,NA,NA,FALSE,tested,NA,NA,NA,NA
+Central Union High,Central Union High School District Office,351 W Ross Ave El Centro CA 92243,NA,NA,NA,not tested,El Centro,Imperial County,32.7814068979592,-115.551371591837
+Central Union High,Desert Oasis High (Continuation),1302 South Third St El Centro CA 92243-6604,NA,NA,FALSE,tested,NA,NA,NA,NA
+Central Union High,Phoenix Rising High,351 1/2 Ross Ave. El Centro CA 92243-6604,NA,NA,FALSE,tested,NA,NA,NA,NA
+Central Union High,Southwest High,2001 Ocotillo Drive El Centro CA 92243-9451,NA,NA,FALSE,tested,El Centro,Imperial County,32.777308,-115.578517

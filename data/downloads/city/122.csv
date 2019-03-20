@@ -1,20 +1,24 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Armona Union Elementary,Crossroads Charter,418 West 8th Street Hanford CA 93230-4536,NA,NA,FALSE,tested,Hanford,Kings County,36.3269188709677,-119.651449774194
-Hanford Joint Union High,Earl F. Johnson High (Continuation),1201 North Douty Hanford CA 93230-2156,89,ppb,TRUE,tested,Hanford,Kings County,36.338061,-119.645928
-Hanford Joint Union High,Hanford Adult,905 Campus Drive Hanford CA 93230,10,ppb,TRUE,tested,Hanford,Kings County,36.3338461037151,-119.663173054641
-Hanford Joint Union High,Hanford Community Day,120 East Grangeville Boulevard Hanford CA 93230-3067,NA,NA,FALSE,tested,Hanford,Kings County,36.3427077755102,-119.64479055102
-Hanford Elementary,Hanford Elementary Community Day,601 West Florinda St Hanford CA 93230-3628,NA,NA,NA,not tested,Hanford,Kings County,36.3347712019861,-119.654411679748
-Hanford Joint Union High,Hanford High,120 East Grangeville Boulevard Hanford CA 93230-3067,NA,NA,NA,not tested,Hanford,Kings County,36.3427077755102,-119.64479055102
-Hanford Joint Union High,Hanford West High,1150 West Lacey Boulevard Hanford CA 93230-3575,66,ppb,TRUE,tested,Hanford,Kings County,36.3280724285714,-119.662622897959
-Kings County Office of Education,J. C. Montgomery,1450 Forum Drive Hanford CA 93230-4334,NA,NA,NA,not tested,Hanford,Kings County,36.330837882097,-119.667933657602
-Hanford Elementary,Jefferson Charter Academy,511 West Malone Street Hanford CA 93230-2827,8.55,ppb,TRUE,tested,Hanford,Kings County,36.3389150753317,-119.652354317522
-Hanford Elementary,John F. Kennedy Junior High,1000 East Florinda Street Hanford CA 93232,5.1,ppb,TRUE,tested,Hanford,Kings County,36.334851,-119.63613
-Hanford Elementary,Joseph M. Simas,1875 Fitzgerald Hanford CA 93230-7906,12,ppb,TRUE,tested,Hanford,Kings County,36.3519256,-119.6684581
-Kings County ROP,Kings County ROP,1144 West Lacey Boulevard Hanford CA 93230-5956,NA,NA,NA,not tested,Hanford,Kings County,36.3280728571429,-119.662596510204
-Kings County Office of Education,Kings County SELPA Preschool,11835 11th Avenue Hanford CA 93230,NA,NA,NA,not tested,Hanford,Kings County,36.2620297,-119.6548641
-Hanford Elementary,Lincoln Elementary,832 South Harris Street Hanford CA 93230-5436,5.7,ppb,TRUE,tested,Hanford,Kings County,36.3162291666667,-119.642705
-Hanford Elementary,Martin Luther King Jr. Elementary,820 Hume Avenue Hanford CA 93230-6309,5.4,ppb,TRUE,tested,Hanford,Kings County,36.305587,-119.663867
-Hanford Elementary,Monroe Elementary,300 Monroe Drive Hanford CA 93230-1729,NA,NA,FALSE,tested,Hanford,Kings County,36.3500728989899,-119.649187070707
-Pioneer Union Elementary,Pioneer Middle,101 West Pioneer Way Hanford CA 93230-9677,280,ppb,TRUE,tested,Hanford,Kings County,36.3705371,-119.6530887
-Hanford Elementary,Roosevelt Elementary,870 Davis Street Hanford CA 93230-5612,5.9,ppb,TRUE,tested,Hanford,Kings County,36.3176248163265,-119.657745357143
-Hanford Elementary,Woodrow Wilson Junior High,601 West Florinda Street Hanford CA 93230-3629,7,ppb,TRUE,tested,Hanford,Kings County,36.3347712019861,-119.654411679748
+Hawthorne,Bud Carson Middle,13838 South Yukon Avenue Hawthorne CA 90250-7716,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.9329015,-118.3348931
+Los Angeles Unified,Cimarron Avenue Elementary,11559 Cimarron Avenue Hawthorne CA 90250-1914,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.928894346025,-118.315212562113
+LAUSD,CIMARRON ELEMENTARY,"11559 CIMARRON AVE, HAWTHORNE,      CA 90250",NA,NA,NA,exempt,Hawthorne,Los Angeles County,33.928894346025,-118.315212562113
+Wiseburn Unified,Da Vinci Communications High,12495 Isis Avenue Hawthorne CA 90250-4147,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.919205755102,-118.374436204082
+Wiseburn Unified,Da Vinci Design,12501 Isis Avenue Hawthorne CA 90250-4149,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.918945,-118.374434
+Wiseburn Unified,Da Vinci Innovation Academy,13500 Aviation Blvd. Hawthorne CA 90250-6462,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.8955706,-118.3786916
+Wiseburn Unified,Da Vinci Science,13500 Aviation Boulevard Hawthorne CA 90250-6462,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.8955706,-118.3786916
+Wiseburn Unified,Dana Middle School,5504 W. 135th St.  Hawthorne CA 90250,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.909370932509,-118.376605804227
+Los Angeles Unified,Executive Preparatory Academy of Finance,2506 West Imperial Highway Hawthorne CA 90250-1953,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.930875,-118.3560959
+Centinela Valley Union High,Hawthorne High,4859 West El Segundo Boulevard Hawthorne CA 90250-4204,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.9164066,-118.3542953
+Hawthorne,Hawthorne Middle,4366 West 129th Street Hawthorne CA 90250-5211,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.9152234117647,-118.351338882353
+Hawthorne,Jefferson,4091 West 139th Street Hawthorne CA 90250-7303,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.9051682916667,-118.346330166667
+Wiseburn Unified,Juan De Anza Elementary,12110 Hindry Avenue Hawthorne CA 90250-3403,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.9027845,-118.3730663
+Lawndale Elementary,Kit Carson Elementary,3530 West 147th Street Hawthorne CA 90250-8518,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.898207375,-118.33364425
+Hawthorne,Kornblum,3620 West El Segundo Boulevard Hawthorne CA 90250-4819,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.9164066,-118.3542953
+Inglewood Unified,Morningside High School,10500 South Yukon Avenue Inglewood CA 90303-2003,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.940688,-118.335061
+Wiseburn Unified,Peter Burnett Elementary,5403 W. 138th St.  Hawthorne CA 90250,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.90662475,-118.374372
+Hawthorne,Prairie Vista Middle,13600 South Prairie Avenue Hawthorne CA 90250-7306,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.9314635,-118.3439013
+Hawthorne,Ramona,4617 West 136th Street Hawthorne CA 90250-5735,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.9086223,-118.3641893
+Los Angeles County Office of Education,Renaissance County Community,14600 Cerise Avenue Hawthorne CA 90250-8526,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.899387,-118.332901
+Hawthorne,Washington,4339 West 129th Street Hawthorne CA 90250-5210,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.9153931764706,-118.350625235294
+Inglewood Unified,Worthington Elementary,11101 South Yukon Avenue Inglewood CA 90303-2728,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.9342722,-118.335678318922
+Hawthorne,Zela Davis,13435 South Yukon Avenue Hawthorne CA 90250-6228,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.9329015,-118.3348931

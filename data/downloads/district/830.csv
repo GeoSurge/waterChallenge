@@ -1,5 +1,3 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-South Monterey County Joint Union High,Greenfield High,225 South El Camino Real Greenfield CA 93927-6312,NA,NA,NA,not tested,Greenfield,Monterey County,36.3212228367347,-121.243798571429
-South Monterey County Joint Union High,King City High,720 Broadway Street King City CA 93930-3311,NA,NA,FALSE,tested,King City,Monterey County,36.2088201836735,-121.133137489796
-South Monterey County Joint Union High,Pinnacle Academy Charter,760 Broadway St. King City CA 93930,NA,NA,NA,not tested,King City,Monterey County,36.2092185510204,-121.132606469388
-South Monterey County Joint Union High,Portola-Butler Continuation High,760 Broadway Street King City CA 93930-3311,NA,NA,FALSE,tested,King City,Monterey County,36.2092185510204,-121.132606469388
+Wasco Union High,Wasco High,1900 Seventh Street Wasco CA 93280-0250,NA,NA,FALSE,tested,NA,NA,NA,NA
+Wasco Union High,Wasco Independence High,1445 Poso Drive Wasco CA 93280-2353,7.3,ppb,TRUE,tested,NA,Kern County,35.587025,-119.347111

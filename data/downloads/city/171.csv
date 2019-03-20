@@ -1,21 +1,18 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Lynwood Unified,Cesar Chavez Middle,3898 Abbott Road Lynwood CA 90262-2106,NA,NA,FALSE,tested,Lynwood,Los Angeles County,33.9359929181409,-118.20411324699
-Lynwood Unified,Helen Keller Elementary,3521 Palm Avenue Lynwood CA 90262-5127,NA,NA,FALSE,tested,Lynwood,Los Angeles County,33.9136184035057,-118.207641982954
-Lynwood Unified,Hosler Middle,11300 Spruce Street Lynwood CA 90262-3629,5.95,ppb,TRUE,tested,Lynwood,Los Angeles County,33.926292,-118.203181
-Lynwood Unified,Lincoln Elementary,11031 State Street Lynwood CA 90262-2454,NA,NA,FALSE,tested,Lynwood,Los Angeles County,33.93798,-118.2152777
-Lynwood Unified,Lindbergh Elementary,3300 Cedar Avenue Lynwood CA 90262-4850,5.1,ppb,TRUE,tested,Lynwood,Los Angeles County,33.918932,-118.212836
-NA,Lynwood Academic Academy,3919 Carlin Avenue Lynwood CA 90262,8.2,ppb,TRUE,tested,Lynwood,Los Angeles County,33.9130735814312,-118.201312831212
-Lynwood Unified,Lynwood Adult,11277 Atlantic Avenue Lynwood CA 90262-5106,NA,NA,FALSE,tested,Lynwood,Los Angeles County,33.923971476261,-118.186446866068
-Lynwood Unified,Lynwood Alternative,11387 Bullis Road Lynwood CA 90262-3660,NA,NA,FALSE,tested,Lynwood,Los Angeles County,33.926462425538,-118.199918018209
-Lynwood Unified,Lynwood High,4050 East Imperial Highway Lynwood CA 90262-2853,NA,NA,FALSE,tested,Lynwood,Los Angeles County,33.9307093,-118.1829726
-Lynwood Unified,Lynwood Middle,12124 Bullis Road Lynwood CA 90262-5106,5.1,ppb,TRUE,tested,Lynwood,Los Angeles County,33.916554788533,-118.204413048277
-Lynwood Unified,Mark Twain Elementary,12315 Thorson Avenue Lynwood CA 90262-5243,NA,NA,FALSE,tested,Lynwood,Los Angeles County,33.9130107142857,-118.197487428571
-Los Angeles Unified,Montara Avenue Elementary,10018 Montara Avenue South Gate CA 90280-5605,NA,NA,FALSE,tested,Lynwood,Los Angeles County,33.9446836,-118.217834897591
-LAUSD,MONTARA ELEMENTARY,"10018 MONTARA AVE, SOUTH GATE,     CA 90280",NA,NA,NA,exempt,Lynwood,Los Angeles County,33.9446836,-118.217834897591
-Lynwood Unified,Pathway Independent Study,11300 Wright Road Lynwood CA 90262-3126,NA,NA,FALSE,tested,Lynwood,Los Angeles County,33.921341,-118.180454
-Lynwood Unified,Rosa Parks Elementary,3900 Agnes Street Lynwood CA 90262-4415,NA,NA,FALSE,tested,Lynwood,Los Angeles County,33.91708,-118.201576
-Lynwood Unified,Vista High,11300 Wright Rd. Lynwood CA 90262-3126,5.6,ppb,TRUE,tested,Lynwood,Los Angeles County,33.921341,-118.180454
-Lynwood Unified,Washington Elementary,4225 Sanborn Avenue Lynwood CA 90262-2998,NA,NA,FALSE,tested,Lynwood,Los Angeles County,33.9243251459051,-118.190044138987
-Compton Unified,Whaley Middle,14401 South Gibson Avenue Compton CA 90221-2514,NA,NA,FALSE,tested,Lynwood,Los Angeles County,33.9026378888889,-118.189356888889
-Lynwood Unified,Will Rogers Elementary,11220 Duncan Avenue Lynwood CA 90262-3041,NA,NA,FALSE,tested,Lynwood,Los Angeles County,33.92417865972,-118.182913392927
-Lynwood Unified,Wilson Elementary,11700 School Street Lynwood CA 90262-4348,NA,NA,FALSE,tested,Lynwood,Los Angeles County,33.920692,-118.20708
+Madera Unified,Alpha Elementary,900 Stadium Road Madera CA 93637-5700,NA,NA,NA,not tested,Madera,Madera County,36.9501163,-120.0650894
+Private,Crossroads Christian School,17755 Road 26 Madera CA 93638,NA,NA,FALSE,tested,Madera,Madera County,37.0399816,-120.0744516
+Madera Unified,Furman (Duane E.) High (Independent Study Program),955 West Pecan Avenue Madera CA 93637-6168,NA,NA,NA,not tested,Madera,Madera County,36.9383331,-120.0831199
+Madera Unified,James Madison Elementary,109 Stadium Road Madera CA 93637-5389,NA,NA,NA,not tested,Madera,Madera County,36.9503387071695,-120.064971
+Madera Unified,James Monroe Elementary,1819 North Lake Street Madera CA 93638-1640,NA,NA,NA,not tested,Madera,Madera County,36.9831929183673,-120.056064
+Madera Unified,John Adams Elementary,1822 National Avenue Madera CA 93637-4344,NA,NA,NA,not tested,Madera,Madera County,36.9581916060189,-120.080534983786
+Madera Unified,Lincoln Elementary,650 Liberty Lane Madera CA 93637-2687,NA,NA,NA,not tested,Madera,Madera County,36.962651,-120.103583
+Madera Unified,Madera Adult,955 West Pecan Avenue Madera CA 93637-6206,NA,NA,NA,not tested,Madera,Madera County,36.9383331,-120.0831199
+Madera Unified,Madera High,200 South L Street Madera CA 93637-4650,NA,NA,NA,not tested,Madera,Madera County,36.955101,-120.064993
+Madera Unified,Madera South High,755 West Pecan Avenue Madera CA 93637,NA,NA,NA,not tested,Madera,Madera County,36.9383331,-120.0831199
+Madera Unified,Martin Luther King Jr. Middle,601 Lilly Street Madera CA 93638-3903,NA,NA,NA,not tested,Madera,Madera County,36.964288,-120.047144
+Madera Unified,Millview Elementary,1609 Clinton Street Madera CA 93638-1901,NA,NA,NA,not tested,Madera,Madera County,36.9709392727273,-120.040402766234
+Madera Unified,Mountain Vista Educational Center,955 West Pecan Avenue Madera CA 93637-6168,NA,NA,NA,not tested,Madera,Madera County,36.9383331,-120.0831199
+Madera Unified,Parkwood Elementary,1150 East Pecan Avenue Madera CA 93637-6256,NA,NA,NA,not tested,Madera,Madera County,36.9382951,-120.0512841
+Madera Unified,Sherman Thomas Charter,101 West Adell Street Madera CA 93638-0877,NA,NA,NA,not tested,Madera,Madera County,36.9828523,-120.0701033
+Madera Unified,Sherman Thomas Charter High,26303 Adell Street Madera CA 93638-0835,NA,NA,NA,not tested,Madera,Madera County,36.9843068,-120.039706
+Madera Unified,Thomas Jefferson Middle,1407 Sunset Avenue Madera CA 93637-2901,NA,NA,NA,not tested,Madera,Madera County,36.960201770479,-120.076175367728

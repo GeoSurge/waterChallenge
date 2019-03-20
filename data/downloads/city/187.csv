@@ -1,14 +1,8 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Montebello Unified,Applied Technology Center,1200 West Mines Avenue Montebello CA 90640-5538,NA,NA,NA,not tested,Montebello,Los Angeles County,34.00464465,-118.116344372461
-Montebello Unified,Eastmont Intermediate,400 North Bradshawe Avenue Montebello CA 90640-1562,NA,NA,NA,not tested,Montebello,Los Angeles County,34.019875,-118.1435241
-Montebello Unified,Greenwood Elementary,900 South Greenwood Avenue Montebello CA 90640-5816,NA,NA,NA,not tested,Montebello,Los Angeles County,33.9971617751051,-118.118002201722
-Montebello Unified,La Merced Elementary,724 North Poplar Avenue Montebello CA 90640-2760,NA,NA,FALSE,tested,Montebello,Los Angeles County,34.0210993902439,-118.095904609756
-Montebello Unified,La Merced Intermediate,215 East Avenida de la Merced Montebello CA 90640-2799,NA,NA,FALSE,tested,Montebello,Los Angeles County,34.0231085725887,-118.098185276372
-Los Angeles Unified,Maple Primary Center,3601 South Maple Avenue Los Angeles CA 90011-2619,NA,NA,NA,not tested,Montebello,Los Angeles County,34.0084499,-118.1176355
-LAUSD,MAPLE PRIMARY CENTER (FRMR:JEFFERSON NEW PC #6),"3601 SOUTH MAPLE AVENUE, LOS ANGELES, CA 90011",NA,NA,NA,exempt,Montebello,Los Angeles County,34.0084499,-118.1176355
-LAUSD,MAPLE STATE PRE-SCHOOL,"3601 S MAPLE AVENUE, LOS ANGELES, CA 90011",NA,NA,NA,exempt,Montebello,Los Angeles County,34.0084499,-118.1176355
-Los Angeles Unified,Santee Education Complex,1921 South Maple Avenue Los Angeles CA 90011-1036,NA,NA,NA,not tested,Montebello,Los Angeles County,34.0084499,-118.1176355
-LAUSD,SANTEE EDUCATION COMPLEX,"1921 S MAPLE AVE, LOS ANGELES, CA 90011",NA,NA,NA,exempt,Montebello,Los Angeles County,34.0084499,-118.1176355
-Montebello Unified,Schurr Community Adult,820 North Wilcox Avenue Montebello CA 90640-1808,NA,NA,FALSE,tested,Montebello,Los Angeles County,34.028520302284,-118.124074020738
-Montebello Unified,Schurr High,820 North Wilcox Avenue Montebello CA 90640-1808,NA,NA,NA,not tested,Montebello,Los Angeles County,34.028520302284,-118.124074020738
-Montebello Unified,Vail High (Continuation),1230 South Vail Avenue Montebello CA 90640-6312,NA,NA,NA,not tested,Montebello,Los Angeles County,33.9937499591837,-118.129349795918
+Big Sur Unified,Big Sur Charter,304 Foam Street Monterey CA 93940-3119,NA,NA,NA,not tested,Monterey,Monterey County,36.6111679166667,-121.898599166667
+Monterey Peninsula Unified,Foothill Elementary,1700 Via Casoli Monterey CA 93940-6442,NA,NA,FALSE,tested,Monterey,Monterey County,36.5777267920494,-121.855128013238
+Monterey Peninsula Unified,La Mesa Elementary,1 La Mesa Way Monterey CA 93940-4894,NA,NA,FALSE,tested,Monterey,Monterey County,36.58165,-121.879046
+Monterey Peninsula Unified,Monte Vista,251 Soledad Drive Monterey CA 93940-4848,NA,NA,FALSE,tested,Monterey,Monterey County,36.5890326919612,-121.907810185843
+Monterey Peninsula Unified,Monterey High,101 Herrmann Drive Monterey CA 93940-2538,6,ppb,TRUE,tested,Monterey,Monterey County,36.5951152,-121.90018196619
+Private,Trinity Christian High School,601 East Franklin Street Monterey CA 93940,NA,NA,FALSE,tested,Monterey,Monterey County,36.599119,-121.888798
+Monterey Peninsula Unified,Walter Colton,100 Toda Vista Drive Monterey CA 93940-4237,6,ppb,TRUE,tested,Monterey,Monterey County,36.591627,-121.91333

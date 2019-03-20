@@ -1,8 +1,5 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Ross Valley Elementary,Brookside Elementary,116 Butterfield Road San Anselmo CA 94960-1562,NA,NA,FALSE,tested,,Marin County,37.9909700437772,-122.576741221505
-Ross Valley Elementary,Deer Park Elementary School,199 Porteous Ave Fairfax CA 94930,6,ppb,TRUE,tested,,Marin County,37.976366,-122.590639
-Ross Valley Elementary,Hidden Valley Elementary,46 Green Valley Court San Anselmo CA 94960-1112,NA,NA,FALSE,tested,,,,
-Ross Valley Elementary,Manor Elementary,150 Oak Manor Drive Fairfax CA 94930-1013,NA,NA,FALSE,tested,,Marin County,37.9985972218467,-122.594014057247
-Ross Valley Elementary,Red Hill Intermediate School,100 Shaw Dr. San Anselmo CA 94960,11,ppb,TRUE,tested,,Marin County,37.979965,-122.564948
-Ross Valley Elementary,Wade Thomas Elementary,150 Ross Avenue San Anselmo CA 94960-2941,NA,NA,FALSE,tested,,Marin County,37.9711290469024,-122.566575770429
-Ross Valley Elementary,White Hill Middle,101 Glen Drive Fairfax CA 94930-1338,NA,NA,FALSE,tested,,Marin County,38.0022927904263,-122.605828916676
+Savanna Elementary,Cerritos Elementary,3731 Cerritos Anaheim CA 92804-4603,NA,NA,NA,not tested,Anaheim,Orange County,33.8104975,-117.9589687
+Savanna Elementary,Hansen Elementary,1300 South Knott Anaheim CA 92804-4711,NA,NA,NA,not tested,NA,NA,NA,NA
+Savanna Elementary,Holder Elementary,9550 Holder Street Buena Park CA 90620-4209,NA,NA,NA,not tested,Buena Park,Orange County,33.82354815,-118.01825570187
+Savanna Elementary,Twila Reid Elementary,720 South Western Anaheim CA 92804-3831,NA,NA,NA,not tested,NA,NA,NA,NA

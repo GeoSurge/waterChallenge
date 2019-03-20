@@ -1,17 +1,14 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Paradise Unified,Achieve Charter School of Paradise Inc.,771 Elliott Road Paradise CA 95969-3913,NA,NA,NA,not tested,,Butte County,39.7595708770694,-121.621328993661
-Paradise Unified,Cedarwood Elementary,6400 Columbine Rd Magalia CA 95954-9152,6.62,ppb,TRUE,tested,,,,
-Paradise Unified,Children's Community Charter,6830 Pentz Road Paradise CA 95969-2902,NA,NA,NA,not tested,,Butte County,39.7835259691026,-121.579459092572
-Paradise Unified,HomeTech Charter,7126 Skyway Paradise CA 95969-3271,NA,NA,NA,not tested,,Butte County,39.744167,-121.65058
-Paradise Unified,Honey Run Academy Elementary,622 Pearson Road Paradise CA 95969-5133,NA,NA,NA,not tested,,Butte County,39.752153135083,-121.608521055945
-Paradise Unified,Honey Run Academy Secondary,622 Pearson Paradise CA 95969-5133,NA,NA,NA,not tested,,Butte County,39.752153135083,-121.608521055945
-Paradise Unified,Paradise Adult,622 Pearson Rd Paradise CA 95969-5132,NA,NA,NA,not tested,,Butte County,39.752153135083,-121.608521055945
-Paradise Unified,Paradise Charter Middle,6473 Clark Rd Paradise CA 95969-3501,NA,NA,NA,not tested,,Butte County,39.7724304129002,-121.595886201483
-Paradise Unified,Paradise eLearning Charter Academy,5911 Maxwell Drive Paradise CA 95969-4023,NA,NA,NA,not tested,,Butte County,39.7620704859627,-121.612496748827
-Paradise Unified,Paradise Elementary,588 Pearson Rd Paradise CA 95969-5193,NA,NA,NA,not tested,,Butte County,39.752141,-121.611716
-Paradise Unified,Paradise Intermediate,5657 Recreation Dr Paradise CA 95969-5194,NA,NA,NA,not tested,,Butte County,39.75073285,-121.613180741937
-Paradise Unified,Paradise Senior High,5911 Maxwell Dr Paradise CA 95969-4023,NA,NA,NA,not tested,,Butte County,39.7620704859627,-121.612496748827
-Paradise Unified,Paradise Unified Special Education,6696 Clark Road Paradise CA 95969-2834,NA,NA,NA,not tested,,Butte County,39.778896436822,-121.589751369497
-Paradise Unified,Pine Ridge,13878 Compton Dr Magalia CA 95954-9430,NA,NA,FALSE,tested,,Butte County,39.81407,-121.603084
-Paradise Unified,Ponderosa Elementary,6593 Pentz Rd Paradise CA 95969-3632,NA,NA,NA,not tested,,Butte County,39.7753530588681,-121.57967871962
-Paradise Unified,Ridgeview High (Continuation),13665 Skyway Magalia CA 95954-0640,NA,NA,FALSE,tested,,Butte County,39.806148,-121.57763
+Riverside County Office of Education,Casa Blanca Head Start,7711 Casa Blanca St Riverside CA 92504,NA,NA,FALSE,tested,Riverside,Riverside County,33.9317374131098,-117.407610373911
+Riverside County Office of Education,Come Back Kids,3939 13th Street Riverside CA 92501-3505,NA,NA,NA,not tested,Riverside,Riverside County,33.9785465214527,-117.380547194579
+Riverside County Office of Education,Gateway College and Career Academy,4800 Magnolia Avenue Riverside CA 92506-1201,NA,NA,NA,not tested,Riverside,Riverside County,33.9715852315892,-117.38456890132
+Riverside County Office of Education,Grindstaff School (RCOE),9825 County Farm Rd. Riverside CA Riverside,NA,NA,FALSE,tested,Riverside,Riverside County,33.9200675435201,-117.454501365536
+Riverside County Office of Education,"Imagine Schools, Riverside County",84-090 Avenue 50 Coachella CA 92236-9663,NA,NA,FALSE,tested,NA,NA,NA,NA
+Riverside County Office of Education,Preschool Grasp,3939 13th Street B Riverside CA 92502-0868,NA,NA,NA,not tested,Riverside,Riverside County,33.9785465214527,-117.380547194579
+Riverside County Office of Education,Regional Learning Center,6511 Arlington Avenue Riverside CA 92504,NA,NA,FALSE,tested,Riverside,Riverside County,33.9459831587846,-117.440818240048
+Riverside County Office of Education,River Springs Charter,43466 Business Park Drive Temecula CA 92590-5526,NA,NA,NA,not tested,Temecula,Riverside County,33.4978094084434,-117.161589671652
+Riverside County Office of Education,Riverside County Community,3939 13th Street C Riverside CA 92501-3505,NA,NA,NA,not tested,Riverside,Riverside County,33.9785465214527,-117.380547194579
+Riverside County Office of Education,Riverside County Education Academy,13730 Perris Boulevard Moreno Valley CA 92553-4302,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.9217549878181,-117.226298
+Riverside County Office of Education,Riverside County Juvenile Court,3939 13th Street D Riverside CA 92502-0868,NA,NA,NA,not tested,Riverside,Riverside County,33.9785465214527,-117.380547194579
+Riverside County Office of Education,Riverside County Office of Education,1193 W. Wilson Street Banning CA 92220,28,ppb,TRUE,tested,NA,NA,NA,NA
+Riverside County Office of Education,Riverside County Special Education,3939 13th Street E Riverside CA 92502-0868,NA,NA,NA,not tested,Riverside,Riverside County,33.9785465214527,-117.380547194579

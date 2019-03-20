@@ -1,5 +1,3 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Oroville Union High,Las Plumas High,2380 Las Plumas Avenue Oroville CA 95966-7305,NA,NA,NA,not tested,,Butte County,39.480425,-121.539593
-Oroville Union High,Oroville High,1535 Bridge Street Oroville CA 95966-5060,NA,NA,NA,not tested,Oroville,Butte County,39.513164,-121.545061
-Oroville Union High,Oroville High Community Day,2120 Second Street Oroville CA 95965-3415,NA,NA,NA,not tested,,,,
-Oroville Union High,Prospect High (Continuation),2060 Second Street Oroville CA 95965-3497,NA,NA,NA,not tested,,,,
+Red Bluff Joint Union High,Red Bluff High,1260 Union Street Red Bluff CA 96080-3121,NA,NA,NA,not tested,Red Bluff,Tehama County,40.180248,-122.239456
+Red Bluff Joint Union High,Salisbury High (Continuation),1050 Kimball Rd Red Bluff CA 96080-2502,NA,NA,NA,not tested,Red Bluff,Tehama County,40.1574053695484,-122.240512772708

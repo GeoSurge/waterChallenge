@@ -1,2 +1,5 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-North Cow Creek Elementary,North Cow Creek Elementary,10619 Swede Creek Road Palo Cedro CA 96073-9742,NA,NA,FALSE,tested,,Shasta County,40.5928576530612,-122.231770244898
+Pierce Joint Unified,Arbuckle Elementary,701 Hall Street Arbuckle CA 95912-0100,NA,NA,FALSE,tested,NA,Colusa County,39.0162314236547,-122.060703652614
+Pierce Joint Unified,Grand Island Elementary,551 Leven Street Grimes CA 95950-0030,7.8,ppb,TRUE,tested,NA,NA,NA,NA
+Pierce Joint Unified,Lloyd G. Johnson Junior High,938 Wildwood Road Arbuckle CA 95912-9714,NA,NA,FALSE,tested,NA,Colusa County,39.011793,-122.056001
+Pierce Joint Unified,Pierce High,960 Wildwood Road Arbuckle CA 95912-9714,NA,NA,FALSE,tested,NA,Colusa County,39.0120038333333,-122.056014933333

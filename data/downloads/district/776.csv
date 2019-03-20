@@ -1,3 +1,2 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Sausalito Marin City,Bayside Martin Luther King Jr. Academy,200 Phillips Drive Sausalito CA 94965-1194,NA,NA,FALSE,tested,,,,
-Sausalito Marin City,Willow Creek Academy,636 Nevada Street Sausalito CA 94965-1654,NA,NA,FALSE,tested,,Marin County,37.8640937,-122.5021955
+Tehama County ROP,Tehama County ROP,1135 Lincoln Street Red Bluff CA 96080-3125,NA,NA,NA,not tested,Red Bluff,Tehama County,40.1779286262626,-122.244595545455

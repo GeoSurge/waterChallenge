@@ -1,9 +1,3 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Coalinga-Huron Unified,Annie E. Cheney Kindergarten,149 Adams Street Coalinga CA 93210-2927,NA,NA,NA,not tested,,,,
-Coalinga-Huron Unified,Cambridge High,516 Baker Street Coalinga CA 93210-2927,NA,NA,NA,not tested,Coalinga,Fresno County,36.1451568367347,-120.359921408163
-Coalinga-Huron Unified,Coalinga High,750 Van Ness Avenue Coalinga CA 93210-1541,NA,NA,NA,not tested,,,,
-Coalinga-Huron Unified,Coalinga Middle,265 Cambridge Avenue Coalinga CA 93210-1255,NA,NA,NA,not tested,Coalinga,Fresno County,36.1509138222222,-120.360723088889
-Coalinga-Huron Unified,Henry F. Bishop Elementary,1501 Sunset Avenue Coalinga CA 93210-1359,NA,NA,NA,not tested,,,,
-Coalinga-Huron Unified,Huron Elementary,36131 N Street Huron CA 93234,NA,NA,FALSE,tested,Huron,Fresno County,36.2013075,-120.096658
-Coalinga-Huron Unified,Huron Middle,16875 Fourth Street Huron CA 93234,NA,NA,FALSE,tested,,,,
-Coalinga-Huron Unified,Nell Dawson Elementary,1303 Sunset Avenue Coalinga CA 93210-2927,NA,NA,NA,not tested,,,,
+Contra Costa County ROP,Contra Costa County ROP,77 Santa Barbara Road Pleasant Hill CA 94523-4215,NA,NA,NA,not tested,NA,Contra Costa County,37.9354578928571,-122.070308321429
+Contra Costa County ROP,Liberty Transitions,850 Second Street  Brentwood CA 94513,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.9385882,-121.6996169

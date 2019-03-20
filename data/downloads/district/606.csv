@@ -1,21 +1,5 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Palm Springs Unified,Agua Caliente Elementary,30-800 San Luis Rey Plaza Cathedral City CA 92234-6045,NA,NA,NA,not tested,,,,
-Palm Springs Unified,Bella Vista Elementary,65750 Avenida Jalisco Desert Hot Springs CA 92240-1674,NA,NA,NA,not tested,Desert Hot Springs,Riverside County,33.9814462,-116.512132
-Palm Springs Unified,Cabot Yerxa Elementary,67067 Desert View Desert Hot Springs CA 92240-4103,NA,NA,NA,not tested,,,,
-Palm Springs Unified,Cathedral City Elementary,69300 Converse Road Cathedral City CA 92234-7040,NA,NA,NA,not tested,,Riverside County,33.7906751564995,-116.453292243711
-Palm Springs Unified,Cathedral City High,69250 Dinah Shore Drive Cathedral City CA 92234-4713,NA,NA,NA,not tested,,Riverside County,33.8015564650582,-116.453113894325
-Palm Springs Unified,Della S. Lindley Elementary,31-495 Robert Road Thousand Palms CA 92276-3343,NA,NA,NA,not tested,,,,
-Palm Springs Unified,Desert Hot Springs High,65850 Pierson Boulevard Desert Hot Springs CA 92240-3000,NA,NA,NA,not tested,,,,
-Palm Springs Unified,James Workman Middle,69 300 30th Avenue Cathedral City CA 92234-4921,NA,NA,NA,not tested,,,,
-Palm Springs Unified,Katherine Finchy Elementary,777 East Tachevah Drive Palm Springs CA 92262-4903,NA,NA,NA,not tested,Palm Springs,Riverside County,33.837531,-116.538991232314
-Palm Springs Unified,Landau Elementary,30310 Landau Boulevard Cathedral City CA 92234-5200,NA,NA,NA,not tested,,Riverside County,33.8287757897738,-116.47549257102
-Palm Springs Unified,Mt. San Jacinto High,30800 Landau Boulevard Cathedral City CA 92234-5159,NA,NA,NA,not tested,,Riverside County,33.826060767076,-116.475497882147
-Palm Springs Unified,Nellie N. Coffman Middle,34-603 Plumley Road Cathedral City CA 92234-6326,NA,NA,NA,not tested,,,,
-Palm Springs Unified,Painted Hills Middle,9250 Sonora Drive Desert Hot Springs CA 92240-1585,NA,NA,NA,not tested,Desert Hot Springs,Riverside County,33.9828029,-116.5214391
-Palm Springs Unified,Rancho Mirage Elementary,42-985 Indian Trail Road Rancho Mirage CA 92270-4104,NA,NA,NA,not tested,,,,
-Palm Springs Unified,Rancho Mirage High,31001 Rattler Road Rancho Mirage CA 92270-2702,NA,NA,NA,not tested,,Riverside County,33.8261659,-116.4321599
-Palm Springs Unified,Raymond Cree Middle,1011 Vista Chino Palm Springs CA 92262-3207,NA,NA,FALSE,tested,Palm Springs,Riverside County,33.844915,-116.5019535
-Palm Springs Unified,Rio Vista Elementary,67 700 Verona Road Cathedral City CA 92234-5508,NA,NA,NA,not tested,,,,
-Palm Springs Unified,Sunny Sands Elementary,69 310 McCallum Way Cathedral City CA 92234-2997,NA,NA,NA,not tested,,,,
-Palm Springs Unified,Two Bunch Palms Elementary,14250 West Drive Desert Hot Springs CA 92240-5655,NA,NA,NA,not tested,Desert Hot Springs,Riverside County,33.9454593893263,-116.510049375221
-Palm Springs Unified,Vista del Monte Elementary,2744 North Via Miraleste Palm Springs CA 92262-2274,NA,NA,NA,not tested,,,,
+Richland Union Elementary,Golden Oak Elementary,190 South Wall Shafter CA 93263,NA,NA,FALSE,tested,NA,NA,NA,NA
+Richland Union Elementary,Redwood Elementary,331 North Shafter Avenue Shafter CA 93263-1967,NA,NA,FALSE,tested,NA,Kern County,35.5024912653061,-119.27838077551
+Richland Union Elementary,Richland Junior High,331 Shafter Avenue Shafter CA 93263-1967,NA,NA,FALSE,tested,NA,Kern County,35.529151,-119.277852
+Richland Union Elementary,Sequoia Elementary,500 East Fresno Avenue Shafter CA 93263-9404,NA,NA,FALSE,tested,NA,Kern County,35.51442,-119.30478600000001

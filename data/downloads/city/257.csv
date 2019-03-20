@@ -1,6 +1,6 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
 San Bernardino City Unified,Allred Childcare,303 S K Street San Bernardino CA 92410,NA,NA,NA,not tested,San Bernardino,San Bernardino County,34.096338,-117.307558
-NA,Aquinas High School,2772 Sterling Avenue San Bernardino CA 92404,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.1134827,-117.2436785
+Private,Aquinas High School,2772 Sterling Avenue San Bernardino CA 92404,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.1134827,-117.2436785
 San Bernardino City Unified,Arrowhead Elementary,3825 Mountain View Avenue San Bernardino CA 92405-2329,8,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.1802454,-117.2873148
 San Bernardino City Unified,Arrowview Middle,2299 North G Street San Bernardino CA 92405-3631,5.2,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.136844,-117.298557
 San Bernardino City Unified,Arroyo Valley High,1881 West Baseline Street San Bernardino CA 92411-1650,NA,NA,NA,not tested,San Bernardino,San Bernardino County,34.121269,-117.328463888686

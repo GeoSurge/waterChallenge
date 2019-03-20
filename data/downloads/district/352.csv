@@ -1,6 +1,5 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Imperial Unified,Ben Hulse Elementary,303 South D Street Imperial CA 92251-1433,NA,NA,NA,not tested,Imperial,Imperial County,32.8445602644213,-115.576181193624
-Imperial Unified,Frank M. Wright Middle,885 North Imperial Avenue Imperial CA 92251-1105,NA,NA,NA,not tested,El Centro,Imperial County,32.8003449653167,-115.569821002093
-Imperial Unified,Imperial Ave. Holbrook High,322 North Imperial Avenue Imperial CA 92251-1267,NA,NA,NA,not tested,Imperial,Imperial County,32.8498214503752,-115.56987315097
-Imperial Unified,Imperial High,517 West Barioni Boulevard Imperial CA 92251-1452,NA,NA,NA,not tested,Imperial,Imperial County,32.8474022142857,-115.575154928571
-Imperial Unified,T. L. Waggoner Elementary,627 Joshua Tree Street Imperial CA 92251-8917,NA,NA,NA,not tested,Imperial,Imperial County,32.8221548753354,-115.591876095691
+La Canada Unified,La Canada Elementary,4540 Encinas Drive La Canada CA 91011-2217,NA,NA,NA,not tested,NA,Los Angeles County,34.20936,-118.206053
+La Canada Unified,La Canada High,4463 Oak Grove Drive La Canada CA 91011-3738,NA,NA,NA,not tested,NA,Los Angeles County,34.1934920667286,-118.17820462635
+La Canada Unified,Palm Crest Elementary,5025 Palm Drive La Canada CA 91011-1518,NA,NA,NA,not tested,NA,Los Angeles County,34.221701481366,-118.217658602306
+La Canada Unified,Paradise Canyon Elementary,471 Knight Way La Canada CA 91011-2725,NA,NA,NA,not tested,NA,Los Angeles County,34.2081103815332,-118.187862456538

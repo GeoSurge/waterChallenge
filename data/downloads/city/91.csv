@@ -1,7 +1,6 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Paso Robles Joint Unified,George H. Flamson Middle,655 24th Street Paso Robles CA 93446-1444,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.6391254,-120.6932194
-Paso Robles Joint Unified,Georgia Brown Elementary,525 36th Street Paso Robles CA 93447-7010,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.651413,-120.6956166
-Paso Robles Joint Unified,Marie Bauer/Glen Speck School,401 17th St Paso Robles CA 93446,7.5,ppb,TRUE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.6326384,-120.6945996
-Paso Robles Joint Unified,Pat Butler Elementary,700 Nicklaus Street Paso Robles CA 93446-3415,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.610783,-120.673846817168
-NA,Saint Rose Catholic School,900 Tucker Avenue Paso Robles CA 93446,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.6254612,-120.6726263
-Paso Robles Joint Unified,Virginia Peterson Elementary,2501 Beechwood Drive Paso Robles CA 93446-4730,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.60036965,-120.655643751438
+El Segundo Unified,Arena High (Continuation),630 Arena Street El Segundo CA 90245-3036,NA,NA,FALSE,tested,El Segundo,Los Angeles County,33.9239211836735,-118.412268612245
+El Segundo Unified,Center Street Elementary,700 Center Street El Segundo CA 90245-3207,NA,NA,FALSE,tested,El Segundo,Los Angeles County,33.926161,-118.404748
+El Segundo Unified,El Segundo High,640 Main Street El Segundo CA 90245-3057,NA,NA,FALSE,tested,El Segundo,Los Angeles County,33.9247393,-118.414152562436
+El Segundo Unified,El Segundo Middle,332 Center Street El Segundo CA 90245-4047,NA,NA,FALSE,tested,El Segundo,Los Angeles County,33.920689,-118.403670920119
+El Segundo Unified,Richmond Street Elementary,615 Richmond Street El Segundo CA 90245-2283,NA,NA,FALSE,tested,El Segundo,Los Angeles County,33.92405465,-118.418332579528

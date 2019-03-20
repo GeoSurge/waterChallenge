@@ -1,7 +1,8 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Salida Union Elementary,Dena Boer,4801 Gold Valley Road Salida CA 95368-9742,NA,NA,FALSE,tested,,Stanislaus County,37.698808,-121.083246
-Salida Union Elementary,Great Valley Academy - Salida,5901 Sisk Road Modesto CA 95356-8870,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.6871469,-121.0571432
-Salida Union Elementary,Mildred Perkins Elementary,3920 Blue Bird Dr. Modesto CA 95356-0254,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.696395,-121.058545
-Salida Union Elementary,Salida Elementary,4519 Finney Road Salida CA 95368-9333,NA,NA,FALSE,tested,,Stanislaus County,37.7039110625412,-121.086692244956
-Salida Union Elementary,Salida Middle School - Vella Campus,5041 Toomes Road Salida CA 95368-9447,NA,NA,FALSE,tested,,Stanislaus County,37.7118015,-121.0959165
-Salida Union Elementary,Sisk Elementary,5337 Sugar Creek Lane Salida CA 95368-9042,NA,NA,FALSE,tested,,Stanislaus County,37.7158998163265,-121.080953142857
+Scott Valley Unified,Etna Community Day,220 Collier Way Etna CA 96027-9576,NA,NA,NA,not tested,Etna,Siskiyou County,41.459379,-122.895668
+Scott Valley Unified,Etna Elementary,220 Collier Wy Etna CA 96027-0490,NA,NA,NA,not tested,Etna,Siskiyou County,41.459379,-122.895668
+Scott Valley Unified,Etna Union High,400 Howell Avenue Etna CA 96027-0721,NA,NA,NA,not tested,Etna,Siskiyou County,41.459376,-122.898418
+Scott Valley Unified,Fort Jones Elementary,11501 Mathews Street Fort Jones CA 96032,NA,NA,NA,not tested,Fort Jones,Siskiyou County,41.6037750855165,-122.845652629893
+Scott Valley Unified,Scott River High,450 Campus Way B Etna CA 96027,NA,NA,NA,not tested,NA,NA,NA,NA
+Scott Valley Unified,Scott Valley Adult,450 Campus Way Etna CA 96027-0059,NA,NA,NA,not tested,NA,NA,NA,NA
+Scott Valley Unified,Scott Valley Junior High,237 Butte Street Fort Jones CA 96032-0607,NA,NA,NA,not tested,Fort Jones,Siskiyou County,41.609119,-122.842254

@@ -1,5 +1,2 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Hillsborough City Elementary,Crocker Middle,2600 Ralston Avenue Hillsborough CA 94010-6544,NA,NA,FALSE,tested,,San Mateo County,37.5661713774458,-122.362775200742
-Hillsborough City Elementary,North Hillsborough,545 Eucalyptus Avenue Hillsborough CA 94010-6400,NA,NA,FALSE,tested,,San Mateo County,37.5688120192502,-122.36127843671
-Hillsborough City Elementary,South Hillsborough,303 El Cerrito Avenue Hillsborough CA 94010-6817,NA,NA,FALSE,tested,,San Mateo County,37.5628771799184,-122.337453578153
-Hillsborough City Elementary,West Hillsborough,376 Barbara Way Hillsborough CA 94010-6760,8.03,ppb,TRUE,tested,,San Mateo County,37.5493349292824,-122.368029780575
+Kernville Union Elementary,Kernville Elementary,13550 Sierra Way Kernville CA 93238,NA,NA,FALSE,tested,NA,NA,NA,NA

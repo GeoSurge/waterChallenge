@@ -1,7 +1,14 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-San Gabriel Unified,Coolidge Elementary,421 North Mission Drive San Gabriel CA 91775-2731,NA,NA,NA,not tested,,,,
-San Gabriel Unified,Del Mar High,312 South Del Mar Avenue San Gabriel CA 91776-1356,NA,NA,NA,not tested,,,,
-San Gabriel Unified,Gabrielino High,1327 South San Gabriel Boulevard San Gabriel CA 91776-3308,NA,NA,NA,not tested,San Gabriel,Los Angeles County,34.0840180665736,-118.09086154759
-San Gabriel Unified,Jefferson Middle,1372 East Las Tunas Drive San Gabriel CA 91776-1791,NA,NA,NA,not tested,San Gabriel,Los Angeles County,34.1034686,-118.0812706
-San Gabriel Unified,Options for Youth San Gabriel,405 South San Gabriel Boulevard Suite A San Gabriel CA 91776-1966,NA,NA,NA,not tested,,,,
-San Gabriel Unified,Wilson Elementary,8317 East Sheffield Road San Gabriel CA 91775-1799,NA,NA,FALSE,tested,,,,
+Snowline Joint Unified,Baldy Mesa Elementary,10376 Baldy Mesa Road Phelan CA 92329-6000,NA,NA,FALSE,tested,NA,NA,NA,NA
+Snowline Joint Unified,Chaparral High,9258 Malpaso Road Phelan CA 92329-6000,NA,NA,NA,not tested,NA,San Bernardino County,34.4183220232663,-117.57691916423
+Snowline Joint Unified,Eagle Summit Community Day,3919 Nielson Road Phelan CA 92371-8675,NA,NA,NA,not tested,NA,San Bernardino County,34.4189706358616,-117.573469777662
+Snowline Joint Unified,Heritage,9542 Wilson Ranch Road Phelan CA 92371-7298,NA,NA,FALSE,tested,NA,NA,NA,NA
+Snowline Joint Unified,Phelan Elementary,4167 Phelan Road Phelan CA 92371-3902,NA,NA,NA,not tested,NA,San Bernardino County,34.4262500892029,-117.571432952043
+Snowline Joint Unified,Pinon Hills Elementary,878 Mono Road Pinon Hills CA 92372,NA,NA,FALSE,tested,NA,San Bernardino County,34.4498523,-117.627455
+Snowline Joint Unified,Pinon Mesa Middle,9298 Sheep Creek Road Phelan CA 92329-6000,NA,NA,FALSE,tested,NA,San Bernardino County,34.418928,-117.572535
+Snowline Joint Unified,Quail Valley Middle,10058 Arrowhead Road Phelan CA 92371-5506,NA,NA,FALSE,tested,NA,San Bernardino County,34.4091552,-117.5550487
+Snowline Joint Unified,Serrano High,9292 Sheep Creek Road Phelan CA 92329-6000,NA,NA,FALSE,tested,NA,San Bernardino County,34.418811245246,-117.572535467019
+Snowline Joint Unified,Snowline Adult,4075 Nielson Road Phelan CA 92371,NA,NA,NA,not tested,NA,San Bernardino County,34.418969,-117.572640176471
+Snowline Joint Unified,Snowline Virtual,9298 Sheep Creek Road Phelan CA 92371-8588,NA,NA,NA,not tested,NA,San Bernardino County,34.418928,-117.572535
+Snowline Joint Unified,Vista Verde Elementary,13403 Vista Verde Drive Victorville CA 92393-1218,NA,NA,FALSE,tested,NA,NA,NA,NA
+Snowline Joint Unified,Wrightwood Elementary,1175 State Highway 2 Wrightwood CA 92397,NA,NA,FALSE,tested,NA,NA,NA,NA

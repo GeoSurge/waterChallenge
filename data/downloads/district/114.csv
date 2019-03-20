@@ -1,8 +1,12 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Campbell Union High,Boynton High,901 Boynton Avenue San Jose CA 95117-2006,NA,NA,FALSE,tested,San José,Santa Clara County,37.310173,-121.966056
-Campbell Union High,Branham High,1570 Branham Lane San Jose CA 95118-2201,6.4,ppb,TRUE,tested,San José,Santa Clara County,37.2564419339259,-121.896076323778
-Campbell Union High,Camden Community Day,2223 Camden Avenue San Jose CA 95124-2027,NA,NA,NA,not tested,San José,Santa Clara County,37.263766,-121.937817
-Campbell Union High,Del Mar High,1224 Del Mar Avenue San Jose CA 95128-3529,NA,NA,FALSE,tested,San José,Santa Clara County,37.3032833602815,-121.930279379591
-Campbell Union High,Leigh High,5210 Leigh Avenue San Jose CA 95124-5616,NA,NA,FALSE,tested,,Santa Clara County,37.2432334883992,-121.922564691112
-Campbell Union High,Prospect High,18900 Prospect Road Saratoga CA 95070-3435,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.29131785,-121.99983615542
-Campbell Union High,Westmont High,4805 Westmont Avenue Campbell CA 95008-5725,NA,NA,FALSE,tested,,Santa Clara County,37.2712266,-121.9807789
+Carlsbad Unified,Aviara Oaks Elementary,6900 Ambrosia Lane Carlsbad CA 92009-2430,NA,NA,NA,not tested,Carlsbad,San Diego County,33.101104559633,-117.276366972477
+Carlsbad Unified,Buena Vista Elementary,1330 Buena Vista Way Carlsbad CA 92008-1535,NA,NA,FALSE,tested,Carlsbad,San Diego County,33.168797,-117.342657912543
+Carlsbad Unified,Calavera Hills Elementary,4100 Tamarack Avenue Carlsbad CA 92008-7101,NA,NA,NA,not tested,Carlsbad,San Diego County,33.1499363,-117.3412066
+Carlsbad Unified,Carlsbad High,3557 Monroe Street B Carlsbad CA 92008-2729,NA,NA,FALSE,tested,Carlsbad,San Diego County,33.1623891364635,-117.32700991592
+Carlsbad Unified,Hope Elementary,3010 Tamarack Avenue Carlsbad CA 92008-2430,NA,NA,FALSE,tested,Carlsbad,San Diego County,33.169678,-117.303104
+Carlsbad Unified,Jefferson Elementary,3743 Jefferson Street Carlsbad CA 92008-3336,NA,NA,FALSE,tested,Carlsbad,San Diego County,33.163296,-117.347221
+Carlsbad Unified,Kelly Elementary,4885 Kelly Drive Carlsbad CA 92008-3734,NA,NA,FALSE,tested,Carlsbad,San Diego County,33.1493542263387,-117.311346177366
+Carlsbad Unified,Magnolia Elementary,1905 Magnolia Avenue Carlsbad CA 92008-2632,16.35,ppb,TRUE,tested,Carlsbad,San Diego County,33.1600610763636,-117.326672756782
+Carlsbad Unified,Pacific Rim Elementary,1100 Camino de las Ondas Carlsbad CA 92009-3400,NA,NA,NA,not tested,NA,NA,NA,NA
+Carlsbad Unified,Poinsettia Elementary,2445 Mica Road Carlsbad CA 92009-1733,NA,NA,NA,not tested,Carlsbad,San Diego County,33.1184473145235,-117.253905203322
+Carlsbad Unified,Valley Middle,1645 Magnolia Avenue Carlsbad CA 92008-2626,NA,NA,FALSE,tested,Carlsbad,San Diego County,33.1588363183904,-117.329341846886

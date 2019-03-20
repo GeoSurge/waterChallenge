@@ -1,4 +1,5 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Penn Valley Union Elementary,Ready Springs Elementary,10862 Spenceville Road Penn Valley CA 95946-9625,NA,NA,FALSE,tested,,Nevada County,39.134316,-121.236191
-Penn Valley Union Elementary,Vantage Point Charter,10862 Spenceville Rd Penn Valley CA 95946-9625,26,ppb,TRUE,tested,,Nevada County,39.134316,-121.236191
-Penn Valley Union Elementary,Williams Ranch Elementary,14804 Pleasant Valley Road Penn Valley CA 95946-9722,NA,NA,FALSE,tested,,,,
+Roseland,Roseland Charter,100 Sebastopol Road Santa Rosa CA 95407-6928,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.430893,-122.723722
+Roseland,Roseland Creek Elementary,1683 Burbank Avenue Santa Rosa CA 95407-5903,NA,NA,NA,not tested,NA,Sonoma County,38.4207164387755,-122.734313612245
+Roseland,Roseland Elementary,950 Sebastopol Road Santa Rosa CA 95407-6829,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4291607907849,-122.731032084079
+Roseland,Sheppard Elementary,1777 West Avenue Santa Rosa CA 95407-7449,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4200201557875,-122.727894280611

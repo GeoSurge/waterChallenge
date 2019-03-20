@@ -1,3 +1,7 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Livermore Valley Joint Unified School District,Arroyo Mocho School,1040 Florence Rd Livermore CA 94550,NA,NA,FALSE,tested,Livermore,Alameda County,37.6696284236321,-121.775205444749
-Livermore Valley Joint Unified School District,Lawrence Elementary School,2451 Portola Avenue Livermore CA 94551,NA,NA,FALSE,tested,Livermore,Alameda County,37.6900872,-121.770633
+McFarland Unified,Browning Road Elementary,410 East Perkins McFarland CA 93250-1230,NA,NA,NA,not tested,NA,Kern County,35.6817870816326,-119.222147489796
+McFarland Unified,Kern Avenue Elementary,356 West Kern Avenue McFarland CA 93250-1351,NA,NA,NA,not tested,NA,Kern County,35.6781084285714,-119.231468
+McFarland Unified,McFarland High,259 West Sherwood Avenue McFarland CA 93250-1519,NA,NA,NA,not tested,NA,Kern County,35.6743312244898,-119.230082959184
+McFarland Unified,McFarland Independent,599 Fifth Street McFarland CA 93250-1174,NA,NA,NA,not tested,NA,NA,NA,NA
+McFarland Unified,McFarland Middle,405 Mast Avenue McFarland CA 93250-1125,NA,NA,NA,not tested,NA,Kern County,35.6691478367347,-119.231981540816
+McFarland Unified,San Joaquin High (Continuation),599 Fifth St McFarland CA 93250-1174,NA,NA,NA,not tested,NA,NA,NA,NA

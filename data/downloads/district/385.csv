@@ -1,3 +1,7 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Klamath-Trinity Joint Unified,Orleans Elementary,38016 Highway 96 Orleans CA 95556-0130,NA,NA,NA,not tested,,,,
-Klamath-Trinity Joint Unified,Trinity Valley Elementary,730 North Highway 96 Willow Creek CA 95573-1229,NA,NA,NA,not tested,,,,
+Liberty Union High,Freedom High,1050 Neroly Road Oakley CA 94561-3843,NA,NA,NA,not tested,NA,Contra Costa County,37.9834837,-121.7431514
+Liberty Union High,Heritage High,101 American Ave Brentwood CA 94513-4604,NA,NA,NA,not tested,Brentwood,Contra Costa County,37.9180043,-121.75887350000001
+Liberty Union High,Independence High,929 Second Street Brentwood CA 94513-1137,NA,NA,NA,not tested,Brentwood,Contra Costa County,37.9385882,-121.6996169
+Liberty Union High,La Paloma High (Continuation),400 Ghiggeri Way Brentwood CA 94513-5314,NA,NA,NA,not tested,NA,NA,NA,NA
+Liberty Union High,Liberty Adult Education,929 Second Street Brentwood CA 94513-1137,NA,NA,NA,not tested,Brentwood,Contra Costa County,37.9385882,-121.6996169
+Liberty Union High,Liberty High,850 Second Street Brentwood CA 94513-1132,NA,NA,NA,not tested,Brentwood,Contra Costa County,37.9385882,-121.6996169

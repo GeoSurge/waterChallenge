@@ -1,11 +1,10 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Newhall,Dr. J. Michael McGrath Elementary,21501 Deputy Jake Way Newhall CA 91321-4687,NA,NA,NA,not tested,,,,
-Newhall,Meadows Elementary,25577 North Fedala Road Valencia CA 91355-2536,NA,NA,NA,not tested,Santa Clarita,Los Angeles County,34.39133415,-118.554931599405
-Newhall,Newhall Elementary,24607 North Walnut Street Newhall CA 91321-1751,NA,NA,NA,not tested,,,,
-Newhall,Oak Hills Elementary,26730 Old Rock Road Valencia CA 91381-0775,NA,NA,NA,not tested,,,,
-Newhall,Old Orchard Elementary,25141 North Avenida Rondel Valencia CA 91355-3205,NA,NA,NA,not tested,,,,
-Newhall,Peachland Avenue Elementary,24800 Peachland Avenue Newhall CA 91321-3430,NA,NA,NA,not tested,Santa Clarita,Los Angeles County,34.3744862941935,-118.545625081887
-Newhall,Pico Canyon Elementary,25255 Pico Canyon Road Stevenson Ranch CA 91381-1658,NA,NA,NA,not tested,,Los Angeles County,34.3790519,-118.5664991
-Newhall,Stevenson Ranch Elementary,25820 North Carroll Lane Stevenson Ranch CA 91381-1100,NA,NA,NA,not tested,,,,
-Newhall,Valencia Valley Elementary,23601 Carrizo Drive Valencia CA 91355-2182,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.407669,-118.544291
-Newhall,Wiley Canyon Elementary,24240 La Glorita Circle Newhall CA 91321-2304,NA,NA,NA,not tested,Santa Clarita,Los Angeles County,34.3765025267897,-118.559843023564
+Perris Elementary,Clearwater Elementary,1640 Murrieta Road Perris CA 92571,NA,NA,NA,not tested,Perris,Riverside County,33.8027219,-117.2089922
+Perris Elementary,Enchanted Hills Elementary,1357 Mount Baldy Street Perris CA 92570-1884,NA,NA,FALSE,tested,Perris,Riverside County,33.7846827619849,-117.256481262396
+Perris Elementary,Good Hope Elementary,24050 Theda Street Perris CA 92570-7526,NA,NA,FALSE,tested,NA,NA,NA,NA
+Perris Elementary,Innovative Horizons Charter,1461 North A Street Perris CA 92570-1968,7.2,ppb,TRUE,tested,Perris,Riverside County,33.7996613240727,-117.234696912734
+Perris Elementary,Palms Elementary,255 East Jarvis Perris CA 92571-2825,NA,NA,FALSE,tested,Perris,Riverside County,33.7919512036784,-117.225516055531
+Perris Elementary,Perris Elementary,500 A Street Perris CA 92571-1956,5.2,ppb,TRUE,tested,Perris,Riverside County,33.78144,-117.234862
+Perris Elementary,Railway Elementary,555 Alpine Drive Perris CA 92570-6216,NA,NA,FALSE,tested,Perris,Riverside County,33.7611424,-117.2338364
+Perris Elementary,Rob Reiner Children & Families Center,2221 South A Street Perris CA 92570-9318,NA,NA,FALSE,tested,NA,NA,NA,NA
+Perris Elementary,Sky View Elementary,625 Mildred Street Perris CA 92570-3930,NA,NA,FALSE,tested,Perris,Riverside County,33.7956387,-117.2216817

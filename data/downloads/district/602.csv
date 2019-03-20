@@ -1,9 +1,9 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Pacifica,Cabrillo Elementary,601 Crespi Drive Pacifica CA 94044-3430,NA,NA,NA,not tested,Pacifica,San Mateo County,37.5982519389676,-122.498213526761
-Pacifica,Ingrid B. Lacy Middle,1427 Palmetto Avenue Pacifica CA 94044-2284,NA,NA,NA,not tested,Pacifica,San Mateo County,37.6378737,-122.4915646
-Pacifica,Linda Mar Educational Center,830 Rosita Road Pacifica CA 94044-4114,NA,NA,NA,not tested,Pacifica,San Mateo County,37.58570410085,-122.497431561139
-Pacifica,Ocean Shore Elementary,411 Oceana Boulevard Pacifica CA 94044-1901,NA,NA,NA,not tested,Pacifica,San Mateo County,37.6504905,-122.4896963
-Pacifica,Ortega Elementary,1283 Terra Nova Boulevard Pacifica CA 94044-4341,NA,NA,NA,not tested,Pacifica,San Mateo County,37.58783365,-122.478596504193
-Pacifica,Pacifica Independent Home Study,830 Rosita Road Pacifica CA 94044-4114,NA,NA,NA,not tested,Pacifica,San Mateo County,37.58570410085,-122.497431561139
-Pacifica,Sunset Ridge Elementary,340 Inverness Drive Pacifica CA 94044-2029,NA,NA,NA,not tested,Pacifica,San Mateo County,37.6532138,-122.4798904
-Pacifica,Vallemar Elementary,377 Reina del Mar Avenue Pacifica CA 94044-3052,NA,NA,NA,not tested,Pacifica,San Mateo County,37.6138076876342,-122.485933294261
+Reef-Sunset Unified,Avenal Elementary,500 South First Avenue Avenal CA 93204-1501,NA,NA,NA,not tested,NA,NA,NA,NA
+Reef-Sunset Unified,Avenal High,601 Mariposa Street Avenal CA 93204-1413,NA,NA,NA,not tested,NA,NA,NA,NA
+Reef-Sunset Unified,Reef Sunset Middle,608 North First Avenue Avenal CA 93204-1071,NA,NA,NA,not tested,NA,NA,NA,NA
+Reef-Sunset Unified,Reef-Sunset Adult Education,205 North Park Avenue Avenal CA 93204-1425,NA,NA,NA,not tested,Avenal,Kings County,36.009495,-120.125394
+Reef-Sunset Unified,Reef-Sunset Primary Community Day,500 South First Street Avenal CA 93204-1558,NA,NA,NA,not tested,NA,NA,NA,NA
+Reef-Sunset Unified,Reef-Sunset Secondary Community Day,861 Monterey Street Avenal CA 93204-1425,NA,NA,NA,not tested,Avenal,Kings County,36.0080676734694,-120.124890408163
+Reef-Sunset Unified,Sunrise High (Continuation),209 North Park Avenue Avenal CA 93204-1425,NA,NA,NA,not tested,Avenal,Kings County,36.0095137689868,-120.125390314765
+Reef-Sunset Unified,Tamarack Elementary,1000 Union Avenue Avenal CA 93204-2046,NA,NA,NA,not tested,NA,NA,NA,NA

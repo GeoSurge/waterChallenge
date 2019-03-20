@@ -1,11 +1,6 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Fremont Unified School District,American High,"36300 Fremont Blvd, Fremont, CA 94536",NA,NA,NA,exempt,Fremont,Alameda County,37.565347,-122.016483505976
-Fremont Unified School District,Ardenwood Elementary,"33955 Emilia Ln, Fremont, CA 94555",NA,NA,NA,exempt,Fremont,Alameda County,37.5731681834559,-122.052285077273
-Fremont Unified School District,Azeveda Elementary,"39450 Royal Palm Dr, Fremont, CA 94538",NA,NA,NA,exempt,Fremont,Alameda County,37.5309015000245,-121.993932148958
-Fremont Unified School District,Centerville Junior High,"37720 Fremont Blvd, Fremont, CA 94536",NA,NA,NA,exempt,Fremont,Alameda County,37.555767,-122.002575475
-Fremont Unified School District,Forest Park Elementary,"34400 Maybird Cir, Fremont, CA 94555",NA,NA,NA,exempt,Fremont,Alameda County,37.5612847210315,-122.051632006164
-Fremont Unified School District,Irvington High,"41800 Blacow Rd, Fremont, CA 94538",NA,NA,NA,exempt,Fremont,Alameda County,37.5359788,-121.9974553
-Fremont Unified School District,Leitch Elementary,"47100 Fernald St, Fremont, CA 94539",NA,NA,NA,exempt,Fremont,Alameda County,37.48761645,-121.922657258549
-Fremont Unified School District,Niles Elementary,"37141 2nd St, Fremont, CA 94536",NA,NA,NA,exempt,Fremont,Alameda County,37.5770356666667,-121.984622
-Fremont Unified School District,Vallejo Mill Elementary,"38569 Canyon Heights Dr, Fremont, CA 94536",NA,NA,NA,exempt,Fremont,Alameda County,37.57559515,-121.96055745
-Fremont Unified School District,Warm Springs Elementary,"47370 Warm Springs Blvd, Fremont, CA 94539",NA,NA,NA,exempt,Fremont,Alameda County,37.4970244,-121.9342068
+Golden Plains Unified,Cantua Elementary,29288 West Clarkson Cantua Creek CA 93608,NA,NA,NA,not tested,NA,NA,NA,NA
+Golden Plains Unified,Helm Elementary,13883 South Lassen Avenue Helm CA 93627-9900,NA,NA,NA,not tested,NA,Fresno County,36.53315055,-120.099579153673
+Golden Plains Unified,San Joaquin Elementary,8535 South Ninth San Joaquin CA 93660,NA,NA,FALSE,tested,NA,NA,NA,NA
+Golden Plains Unified,Tranquillity Elementary,6116 South Daniels Tranquillity CA 93668-0520,NA,NA,NA,not tested,NA,NA,NA,NA
+Golden Plains Unified,Tranquillity High,6052 Juanche Street Tranquillity CA 93668,NA,NA,NA,not tested,NA,Fresno County,36.6459347,-120.253201738002

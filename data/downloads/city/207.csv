@@ -1,7 +1,7 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
 Tustin Unified,A. G. Currie Middle,1402 Sycamore Ave. Tustin CA 92780-6233,NA,NA,FALSE,tested,Orange,Orange County,33.727177,-117.826807
 Orange Unified,California Elementary,1080 North California Street Orange CA 92867-5810,NA,NA,FALSE,tested,Orange,Orange County,33.8057021,-117.842699328779
-Orange Unified,Cambridge Elementary,425 North Cambridge Orange CA 92866-1149,8.86,ppb,TRUE,tested,Orange,Orange County,33.7937812801941,-117.844269467601
+Orange Unified,Cambridge Elementary,425 North Cambridge Orange CA 92866-1149,8.86,ppb,TRUE,tested,Orange,Orange County,33.793781280194104,-117.844269467601
 Orange Unified,Esplanade Elementary,381 North Esplanade Street Orange CA 92869-2909,NA,NA,FALSE,tested,Orange,Orange County,33.79411435,-117.808437408176
 Orange Unified,Handy Elementary,860 North Handy Street Orange CA 92867-7243,7.59,ppb,TRUE,tested,Orange,Orange County,33.80126215,-117.82862061352
 Garden Grove Unified,James Irvine Intermediate,10552 Hazard Avenue Garden Grove CA 92843-5109,NA,NA,FALSE,tested,Orange,Orange County,33.7522246968183,-117.94529726889
@@ -21,7 +21,7 @@ Orange Unified,Prospect Elementary,379 North Virage Street Orange CA 92869-2856,
 Orange Unified,Richland Continuation High,615 North Lemon Street Orange CA 92867-6611,NA,NA,FALSE,tested,Orange,Orange County,33.7970161,-117.854811430806
 Orange Unified,ROP-Career Education,250 South Yorba Street Orange CA 92869,NA,NA,NA,not tested,Orange,Orange County,33.7851895944691,-117.827161575035
 Garden Grove Unified,Rosita Elementary,4726 Hazard Avenue Santa Ana CA 92703-2537,NA,NA,NA,not tested,Orange,Orange County,33.7523471277701,-117.932063132633
-NA,Salem Lutheran,6411 East Frank Lane Orange CA 92869,5.05,ppb,TRUE,tested,Orange,Orange County,33.812260896532,-117.784848095955
+Private,Salem Lutheran,6411 East Frank Lane Orange CA 92869,5.05,ppb,TRUE,tested,Orange,Orange County,33.812260896532,-117.784848095955
 Orange Unified,Santiago Middle,515 North Rancho Santiago Boulevard Orange CA 92869-2724,5.5649999999999995,ppb,TRUE,tested,Orange,Orange County,33.79554735,-117.798896046913
 Orange Unified,Sycamore Elementary,340 North Main Street Orange CA 92868-2408,NA,NA,FALSE,tested,Orange,Orange County,33.79239875,-117.868103985356
 Westminster,Warner Middle,14171 Newland Street Westminster CA 92683-4503,NA,NA,FALSE,tested,Orange,Orange County,33.7562534722222,-117.981141722222

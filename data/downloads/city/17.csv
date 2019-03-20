@@ -1,3 +1,4 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Placer Union High,Placer High,275 Orange Street Auburn CA 95603-5115,NA,NA,FALSE,tested,Auburn,Placer County,38.8951946,-121.070032646942
-Placer Union High,Placer School for Adults,390 Finley Street Auburn CA 95603-5217,NA,NA,NA,not tested,Auburn,Placer County,38.8960804169452,-121.068026931623
+Reef-Sunset Unified,Reef-Sunset Adult Education,205 North Park Avenue Avenal CA 93204-1425,NA,NA,NA,not tested,Avenal,Kings County,36.009495,-120.125394
+Reef-Sunset Unified,Reef-Sunset Secondary Community Day,861 Monterey Street Avenal CA 93204-1425,NA,NA,NA,not tested,Avenal,Kings County,36.0080676734694,-120.124890408163
+Reef-Sunset Unified,Sunrise High (Continuation),209 North Park Avenue Avenal CA 93204-1425,NA,NA,NA,not tested,Avenal,Kings County,36.0095137689868,-120.125390314765

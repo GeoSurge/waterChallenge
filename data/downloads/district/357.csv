@@ -1,5 +1,9 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Jamul-Dulzura Union Elementary,Greater San Diego Academy,13881 Campo Road Jamul CA 91935-3208,NA,NA,NA,not tested,,San Diego County,32.7188197533433,-116.878766947398
-Jamul-Dulzura Union Elementary,Jamul Intermediate,14545 Lyons Valley Road Jamul CA 91935-3324,NA,NA,NA,not tested,,San Diego County,32.7300021271653,-116.855385648302
-Jamul-Dulzura Union Elementary,Jamul Primary,14567 Lyons Valley Road Jamul CA 91935-3324,NA,NA,NA,not tested,,San Diego County,32.7300274987195,-116.854937291285
-Jamul-Dulzura Union Elementary,Oak Grove Middle,14344 Olive Vista Drive Jamul CA 91935-3223,NA,NA,NA,not tested,,San Diego County,32.723145,-116.861659
+Laguna Beach Unified,El Morro Elementary,8681 North Coast Highway Laguna Beach CA 92651-1032,NA,NA,NA,not tested,Laguna Beach,Orange County,33.5481001,-117.7993626
+Laguna Beach Unified,El Morro Elementary,"8681 N Coast Hwy, Laguna Beach, CA 92651",NA,NA,NA,exempt,Laguna Beach,Orange County,33.5481001,-117.7993626
+Laguna Beach Unified,Laguna Beach High,625 Park Avenue Laguna Beach CA 92651-2340,NA,NA,NA,not tested,Laguna Beach,Orange County,33.5403719,-117.776068823868
+Laguna Beach Unified,Laguna Beach High School,"625 Park Ave, Laguna Beach, CA 92651",NA,NA,NA,exempt,Laguna Beach,Orange County,33.5403719,-117.776068823868
+Laguna Beach Unified,Thurston Middle,2100 Park Avenue Laguna Beach CA 92651-2240,NA,NA,NA,not tested,Laguna Beach,Orange County,33.549112513952,-117.76416603634
+Laguna Beach Unified,Thurston Middle School,"2100 Park Ave, Laguna Beach, CA 92651",NA,NA,NA,exempt,Laguna Beach,Orange County,33.549112513952,-117.76416603634
+Laguna Beach Unified,Top of the World Elementary,21601 Tree Top Lane Laguna Beach CA 92651-2099,NA,NA,NA,not tested,NA,NA,NA,NA
+Laguna Beach Unified,Top of the World Elementary,"21601 Treetop Ln, Laguna Beach, CA 92651",NA,NA,NA,exempt,Laguna Beach,Orange County,33.5451405,-117.751971

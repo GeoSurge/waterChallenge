@@ -1,15 +1,27 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-ABC Unified,ABC Adult,12254 Cuesta Drive Cerritos CA 90703-2801,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8788952692819,-118.071267626995
-ABC Unified,Bragg Elementary,11501 Bos Street Cerritos CA 90703-6742,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8561773,-118.089484853092
-ABC Unified,Carmenita Middle,13435 East 166th Street Cerritos CA 90703-2301,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8803779,-118.0715417
-Los Angeles Unified,District Offices,16700 Norwalk Blvd Cerritos  CA 90703,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8796992929293,-118.072593878788
-ABC Unified,Gahr (Richard) High,11111 Artesia Boulevard Cerritos CA 90703-2533,NA,NA,NA,not tested,Cerritos,Los Angeles County,33.87487315,-118.096358047446
-ABC Unified,Gonsalves (Joe A.) Elementary,13650 Park Street Cerritos CA 90703-1413,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8786370408163,-118.041281897959
-ABC Unified,Haskell (Pliny Fisk) Middle,11525 Del Amo Boulevard Cerritos CA 90703-7404,NA,NA,NA,not tested,Cerritos,Los Angeles County,33.84809565,-118.087857409609
-ABC Unified,Leal (Frank C.) Elementary,12920 Droxford Street Cerritos CA 90703-6068,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8610743877551,-118.056688632653
-ABC Unified,Nixon (Patricia) Elementary,19600 Jacob Avenue Cerritos CA 90703-7526,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.852771,-118.07646
-Los Angeles Unified,Nutritional Services 083,12255 Cuesta Drive Cerritos CA 90703,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8790755559573,-118.071317445012
-ABC Unified,Stowers(Cecil B.) Elementary,13350 Beach Street Cerritos CA 90703-1331,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8764334872129,-118.047498649998
-ABC Unified,Tracy (Wilbur) High (Continuation),12222 Cuesta Drive Cerritos CA 90703-2801,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.878939816422,-118.072013662108
-ABC Unified,Whitney (Gretchen) High,16800 Shoemaker Avenue Cerritos CA 90703-1244,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8777826,-118.053554538212
-ABC Unified,Wittmann (Helen) Elementary,16801 Yvette Avenue Cerritos CA 90703-1245,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.878112,-118.057171
+Chico Unified,Academy for Change,290 East Avenue Chico CA 95926-1122,NA,NA,NA,not tested,Chico,Butte County,39.7586287666101,-121.858362427726
+Chico Unified,Bidwell Junior High,2376 North Avenue Chico CA 95926-1434,NA,NA,FALSE,tested,Chico,Butte County,39.7569814,-121.836975729878
+Chico Unified,Blue Oak Charter,450 West East Avenue Chico CA 95926-7238,NA,NA,NA,not tested,Chico,Butte County,39.7557809555193,-121.863193723572
+Butte County Office of Education,Butte County Community School - LEAD,2345 Fair Street Chico CA 95928-6749,NA,NA,NA,not tested,Chico,Butte County,39.7167771701196,-121.815303848508
+Chico Unified,Center for Alternative Learning,290 East Ave Chico CA 95926-1122,NA,NA,NA,not tested,Chico,Butte County,39.7586287666101,-121.858362427726
+Chico Unified,Chapman Elementary,1071 East 16th Street Chico CA 95928-6207,NA,NA,FALSE,tested,Chico,Butte County,39.7260442857143,-121.815723428571
+Chico Unified,Chico Country Day,102 West 11th Street Chico CA 95928-6006,NA,NA,NA,not tested,Chico,Butte County,39.7234946,-121.8333109
+Chico Unified,Chico High,901 Esplanade Chico CA 95926-3908,NA,NA,FALSE,tested,Chico,Butte County,39.73631,-121.844622
+Chico Unified,Chico Junior High,280 Memorial Way Chico CA 95926-3921,8.2,ppb,TRUE,tested,Chico,Butte County,39.7335036262626,-121.839331383838
+Chico Unified,Citrus Avenue Elementary,1350 Citrus Avenue Chico CA 95926-3219,NA,NA,FALSE,tested,Chico,Butte County,39.7384218108108,-121.852230756757
+Chico Unified,Fair View High (Continuation),290 East Ave. Chico CA 95926-1122,NA,NA,FALSE,tested,Chico,Butte County,39.7586287666101,-121.858362427726
+Chico Unified,Hooker Oak Elementary,1238 Arbutus Avenue Chico CA 95926-3586,NA,NA,FALSE,tested,Chico,Butte County,39.7433284547409,-121.837160443902
+Chico Unified,Inspire School of Arts and Sciences,335 West Sacramento Avenue Chico CA 95926-3908,NA,NA,FALSE,tested,Chico,Butte County,39.7351009387755,-121.848630367347
+Chico Unified,Little Chico Creek Elementary,2090 Amanda Way Chico CA 95928-3700,NA,NA,FALSE,tested,Chico,Butte County,39.733627600581,-121.798825064512
+Chico Unified,Loma Vista,2404 Marigold Avenue Chico CA 95926-1615,NA,NA,FALSE,tested,Chico,Butte County,39.7642387,-121.8152684
+Chico Unified,Marigold Elementary,2446 Marigold Avenue Chico CA 95926-1697,NA,NA,FALSE,tested,Chico,Butte County,39.7642387,-121.8152684
+Chico Unified,Marsh (Harry M.) Junior High,2253 Humboldt Road Chico CA 95928-9132,NA,NA,FALSE,tested,Chico,Butte County,39.739052,-121.799303
+Chico Unified,McManus (John A.) Elementary,988 East Avenue Chico CA 95926-1398,NA,NA,FALSE,tested,Chico,Butte County,39.7610169242793,-121.839320754287
+Chico Unified,Neal Dow Elementary,1420 Neal Dow Avenue Chico CA 95926-2441,NA,NA,FALSE,tested,Chico,Butte County,39.7492982222222,-121.833250814815
+Private,Notre Dame School,435 Hazel Street Chico CA 95928,NA,NA,FALSE,tested,Chico,Butte County,39.7256123061224,-121.843036632653
+Chico Unified,Oakdale,290 East Av Chico CA 95926-1122,NA,NA,NA,not tested,Chico,Butte County,39.7586287666101,-121.858362427726
+Chico Unified,Pleasant Valley High,1475 East Avenue Chico CA 95926-1699,NA,NA,FALSE,tested,Chico,Butte County,39.7610943061225,-121.81856977551
+Chico Unified,Rosedale Elementary,100 Oak Street Chico CA 95928-5046,NA,NA,FALSE,tested,Chico,Butte County,39.724058,-121.851349
+Chico Unified,Shasta Elementary,169 Leora Court Chico CA 95926-0252,NA,NA,FALSE,tested,Chico,Butte County,39.7803364777095,-121.88365579577
+Chico Unified,Sherwood Montessori,1071 East 16th St. Chico CA 95926-2009,NA,NA,FALSE,tested,Chico,Butte County,39.7260442857143,-121.815723428571
+Chico Unified,Sierra View Elementary,1598 Hooker Oak Avenue Chico CA 95926-2961,NA,NA,FALSE,tested,Chico,Butte County,39.75087225,-121.812739034716
