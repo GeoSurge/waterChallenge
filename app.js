@@ -483,15 +483,19 @@ function filterTableByPropertyValue(property, value) {
   var tableBody = document.getElementById('table-body');
   tableBody.innerHTML = 'loading'; // clears
   var url = 'data/downloads/' + property + '/' + value + '.csv';
-  loadCSVFromURL(url, function(rows) {
-    var tableBodyInnerHTML = '';
-    rows.forEach(function(row) {
-      var category = getCategory({ medianResult: row.medianResult, status: row.status });
-      var leadLevel = getLeadLevelDisplay(row);
-      tableBodyInnerHTML += '<tr><td><span class="inline-block circle ' + category + '"></span><span> ' + leadLevel + ' </span></td><td> ' + row.schoolName + ' </td><td> ' + row.district + ' </td><td> ' + row.schoolAddress + ' </td></tr>';
-      tableBody.innerHTML = tableBodyInnerHTML;
+  if (property == 'county' && value == 18) {
+    tableBody.innerHTML = '<div>The data for Los Angeles County is too large to display in this table. Please download it instead.</div>';
+  } else {
+    loadCSVFromURL(url, function(rows) {
+      var tableBodyInnerHTML = '';
+      rows.forEach(function(row) {
+        var category = getCategory({ medianResult: row.medianResult, status: row.status });
+        var leadLevel = getLeadLevelDisplay(row);
+        tableBodyInnerHTML += '<tr><td><span class="inline-block circle ' + category + '"></span><span> ' + leadLevel + ' </span></td><td> ' + row.schoolName + ' </td><td> ' + row.district + ' </td><td> ' + row.schoolAddress + ' </td></tr>';
+        tableBody.innerHTML = tableBodyInnerHTML;
+      });
     });
-  });
+  }
   document.getElementById('download-table').href = url;
 }
 
@@ -609,3 +613,18 @@ function onChangeSchoolDropdown() {
     }
   }
 }
+
+
+// preload schoolName-index after 10 seconds
+setTimeout(function() {
+  loadIndex("schoolName", function() {
+    console.log("loaded index of school names");
+  });
+}, 10000);
+
+// preload cooccurrences after 10 seconds
+setTimeout(function() {
+  loadCooccurrences("county-to-schoolName", function() {
+    console.log("loaded cooccurrences of county-to-schoolName");
+  });
+}, 10000)
