@@ -1,10 +1,9 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Perris Elementary,Clearwater Elementary,1640 Murrieta Road Perris CA 92571,NA,NA,NA,not tested,Perris,Riverside County,33.8027219,-117.2089922
-Perris Elementary,Enchanted Hills Elementary,1357 Mount Baldy Street Perris CA 92570-1884,NA,NA,FALSE,tested,Perris,Riverside County,33.7846827619849,-117.256481262396
-Perris Elementary,Good Hope Elementary,24050 Theda Street Perris CA 92570-7526,NA,NA,FALSE,tested,NA,NA,NA,NA
-Perris Elementary,Innovative Horizons Charter,1461 North A Street Perris CA 92570-1968,7.2,ppb,TRUE,tested,Perris,Riverside County,33.7996613240727,-117.234696912734
-Perris Elementary,Palms Elementary,255 East Jarvis Perris CA 92571-2825,NA,NA,FALSE,tested,Perris,Riverside County,33.7919512036784,-117.225516055531
-Perris Elementary,Perris Elementary,500 A Street Perris CA 92571-1956,5.2,ppb,TRUE,tested,Perris,Riverside County,33.78144,-117.234862
-Perris Elementary,Railway Elementary,555 Alpine Drive Perris CA 92570-6216,NA,NA,FALSE,tested,Perris,Riverside County,33.7611424,-117.2338364
-Perris Elementary,Rob Reiner Children & Families Center,2221 South A Street Perris CA 92570-9318,NA,NA,FALSE,tested,NA,NA,NA,NA
-Perris Elementary,Sky View Elementary,625 Mildred Street Perris CA 92570-3930,NA,NA,FALSE,tested,Perris,Riverside County,33.7956387,-117.2216817
+Pacifica,Cabrillo Elementary,601 Crespi Drive Pacifica CA 94044-3430,NA,NA,NA,not tested,Pacifica,San Mateo County,37.5982519389676,-122.498213526761
+Pacifica,Ingrid B. Lacy Middle,1427 Palmetto Avenue Pacifica CA 94044-2284,NA,NA,NA,not tested,Pacifica,San Mateo County,37.6378737,-122.4915646
+Pacifica,Linda Mar Educational Center,830 Rosita Road Pacifica CA 94044-4114,NA,NA,NA,not tested,Pacifica,San Mateo County,37.58570410085,-122.497431561139
+Pacifica,Ocean Shore Elementary,411 Oceana Boulevard Pacifica CA 94044-1901,NA,NA,NA,not tested,Pacifica,San Mateo County,37.6504905,-122.4896963
+Pacifica,Ortega Elementary,1283 Terra Nova Boulevard Pacifica CA 94044-4341,NA,NA,NA,not tested,Pacifica,San Mateo County,37.58783365,-122.478596504193
+Pacifica,Pacifica Independent Home Study,830 Rosita Road Pacifica CA 94044-4114,NA,NA,NA,not tested,Pacifica,San Mateo County,37.58570410085,-122.497431561139
+Pacifica,Sunset Ridge Elementary,340 Inverness Drive Pacifica CA 94044-2029,NA,NA,NA,not tested,Pacifica,San Mateo County,37.6532138,-122.4798904
+Pacifica,Vallemar Elementary,377 Reina del Mar Avenue Pacifica CA 94044-3052,NA,NA,NA,not tested,Pacifica,San Mateo County,37.6138076876342,-122.485933294261

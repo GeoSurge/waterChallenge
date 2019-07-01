@@ -1,17 +1,29 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-El Centro Elementary,Ballington Academy for the Arts and Sciences,1525 West Main Street El Centro CA 92243-2211,NA,NA,NA,not tested,El Centro,Imperial County,32.7927569663914,-115.571547780969
-El Centro Elementary,De Anza Magnet,1530 South Waterman Avenue El Centro CA 92243-4142,NA,NA,FALSE,tested,El Centro,Imperial County,32.7784806,-115.575131392135
-El Centro Elementary,Desert Garden Elementary,1900 South Sixth Street El Centro CA 92243-4463,NA,NA,FALSE,tested,NA,NA,NA,NA
-El Centro Elementary,El Centro Elementary School District Office,1256 Broadwy El Centro CA 92243,6.6,ppb,TRUE,tested,NA,NA,NA,NA
-El Centro Elementary,Harding Elementary,950 South Seventh Street El Centro CA 92243-3919,NA,NA,FALSE,tested,NA,NA,NA,NA
-El Centro Elementary,Hedrick Elementary School,550 South Waterman Avenue El Centro CA 92243-3139,NA,NA,NA,not tested,El Centro,Imperial County,32.787992,-115.575492739455
-El Centro Elementary,Home School Science Center,2370 W Main St El Centro CA 92243,NA,NA,NA,not tested,El Centro,Imperial County,32.7929361598722,-115.582206349858
-El Centro Elementary,Imagine Schools at Imperial Valley,1150 North Imperial Avenue El Centro CA 92243-1740,NA,NA,NA,not tested,El Centro,Imperial County,32.8031178227687,-115.569767647473
-El Centro Elementary,Kennedy Middle,900 North Sixth Street El Centro CA 92243-1803,14.5,ppb,TRUE,tested,NA,NA,NA,NA
-El Centro Elementary,Lincoln Elementary,200 North Twelfth Street El Centro CA 92243-2346,NA,NA,FALSE,tested,NA,NA,NA,NA
-El Centro Elementary,Margaret Hedrick Elementary,550 South Waterman Avenue El Centro CA 92243,NA,NA,FALSE,tested,El Centro,Imperial County,32.787992,-115.575492739455
-El Centro Elementary,Martin Luther King Jr. Elementary,1950 Villa Avenue El Centro CA 92243-1268,NA,NA,FALSE,tested,El Centro,Imperial County,32.8048954,-115.57745426228
-El Centro Elementary,McKinley Elementary,1177 North Eighth Street El Centro CA 92243-1721,NA,NA,FALSE,tested,NA,NA,NA,NA
-El Centro Elementary,Sunflower Elementary,2450 Main Street El Centro CA 92243-3577,NA,NA,FALSE,tested,Newport Beach,Orange County,33.614761,-117.9220856
-El Centro Elementary,Washington Elementary,223 South First Street El Centro CA 92243-2799,8.2,ppb,TRUE,tested,NA,NA,NA,NA
-El Centro Elementary,Wilson Jr. High,600 South Wilson El Centro CA 92243-2799,16.5,ppb,TRUE,tested,El Centro,Imperial County,32.786875,-115.566859
+East Side Union High,ACE Charter High,1776 Educational Park Dr. San Jose CA 95133-1703,NA,NA,NA,not tested,San José,Santa Clara County,37.369855,-121.8594963
+East Side Union High,Alpha Cindy Avitia High,1601 Cunningham Avenue San Jose CA 95122-2314,NA,NA,NA,not tested,San José,Santa Clara County,37.326578,-121.834505
+East Side Union High,Andrew P. Hill High,3200 Senter Road San Jose CA 95111-1332,NA,NA,FALSE,tested,San José,Santa Clara County,37.293375,-121.833037
+East Side Union High,Apollo High,1835 Cunningham Avenue San Jose CA 95122-1712,NA,NA,NA,not tested,San José,Santa Clara County,37.33208455,-121.829672667465
+East Side Union High,B. Roberto Cruz Leadership Academy,14271 Story R San Jose CA 95127-3823,NA,NA,NA,not tested,NA,NA,NA,NA
+East Side Union High,Calero High,420 Calero Avenue San Jose CA 95123-4240,NA,NA,FALSE,tested,San José,Santa Clara County,37.2424612216916,-121.826904885065
+East Side Union High,East Bay Regional Occupation Center/Agency (ROC/P),1900 Third Street Room 23 Alameda CA 94501-1851,NA,NA,NA,not tested,NA,NA,NA,NA
+East Side Union High,Escuela Popular Accelerated Family Learning,467 North White Road San Jose CA 95127-1936,NA,NA,NA,not tested,San José,Santa Clara County,37.3784730855592,-121.838321533431
+East Side Union High,"Escuela Popular/Center for Training and Careers, Family Learning",149 North White Road San Jose CA 95127-1612,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.3658911,-121.8280622
+East Side Union High,Evergreen Valley High,3300 Quimby Road San Jose CA 95148-3122,NA,NA,FALSE,tested,San José,Santa Clara County,37.3238527,-121.8087368
+East Side Union High,Foothill High,230 Pala Avenue San Jose CA 95127-1862,NA,NA,FALSE,tested,San José,Santa Clara County,37.3680986237336,-121.838727782904
+East Side Union High,Independence High,1776 Educational Park Drive San Jose CA 95133-1703,7.7,ppb,TRUE,tested,San José,Santa Clara County,37.369855,-121.8594963
+East Side Union High,James Lick High,57 North White Road San Jose CA 95127-1933,NA,NA,FALSE,tested,San José,Santa Clara County,37.368753,-121.83075
+East Side Union High,KIPP San Jose Collegiate,1790 Educational Park Drive San Jose CA 95133-1703,NA,NA,FALSE,tested,San José,Santa Clara County,37.3687379,-121.8607277
+East Side Union High,Latino College Preparatory Academy,14271 Story Rd San Jose CA 95127-3823,NA,NA,NA,not tested,San José,Santa Clara County,37.3595739,-121.816315604078
+East Side Union High,Luis Valdez Leadership Academy,1855 Lucretia Ave San Jose CA 95122-3730,NA,NA,NA,not tested,San José,Santa Clara County,37.3199485,-121.851015133072
+East Side Union High,Mt. Pleasant High,1750 South White Road San Jose CA 95127-4760,NA,NA,FALSE,tested,San José,Santa Clara County,37.3474165,-121.805967718941
+East Side Union High,Oak Grove High,285 Blossom Hill Road San Jose CA 95123-2048,NA,NA,FALSE,tested,San José,Santa Clara County,37.2512147,-121.83076
+East Side Union High,Pegasus High,1776 Educational Park Drive C San Jose CA 95133-1703,NA,NA,NA,not tested,NA,NA,NA,NA
+East Side Union High,Phoenix High,6150 Snell Rd San Jose CA 95123-4740,NA,NA,NA,not tested,NA,NA,NA,NA
+East Side Union High,Piedmont Hills High,1377 Piedmont Road San Jose CA 95132-2497,12,ppb,TRUE,tested,San José,Santa Clara County,37.40163675,-121.851329117938
+East Side Union High,San Jose Conservation Corps Charter,1560 Berger Drive San Jose CA 95112-2703,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.3726410493757,-121.896915279599
+East Side Union High,San Jose Conservation Corps Charter School – Senter Rd,2650 Senter Rd.  San Jose CA 95111,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.2941603,-121.8340908
+East Side Union High,Santa Teresa High,6150 Snell Road San Jose CA 95123-4740,NA,NA,FALSE,tested,NA,NA,NA,NA
+East Side Union High,Silver Creek High,3434 Silver Creek Road San Jose CA 95121-1845,NA,NA,FALSE,tested,San José,Santa Clara County,37.3041546624726,-121.808217730499
+East Side Union High,Summit Public School: Rainier,1750 South White Rd. San Jose CA 95127-4760,NA,NA,NA,not tested,San José,Santa Clara County,37.3474165,-121.805967718941
+East Side Union High,William C. Overfelt High,1835 Cunningham Avenue San Jose CA 95122-1712,NA,NA,FALSE,tested,San José,Santa Clara County,37.33208455,-121.829672667465
+East Side Union High,Yerba Buena High,1855 Lucretia Avenue San Jose CA 95122-3730,NA,NA,FALSE,tested,San José,Santa Clara County,37.3199485,-121.851015133072

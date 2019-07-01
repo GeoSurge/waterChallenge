@@ -1,3 +1,5 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Taft Union High,Buena Vista High (Continuation),900 North 10th Street Taft CA 93268-2202,NA,NA,NA,not tested,Taft,Kern County,35.146018516129,-119.465042209677
-Taft Union High,Taft Union High,701 Wildcat Way Taft CA 93268-2319,NA,NA,NA,not tested,NA,NA,NA,NA
+Standard Elementary,Highland Elementary,2900 Barnett Street Bakersfield CA 93308-1439,NA,NA,NA,not tested,NA,NA,NA,NA
+Standard Elementary,Standard Elementary,115 East Minner Avenue Bakersfield CA 93308-3552,NA,NA,NA,not tested,NA,NA,NA,NA
+Standard Elementary,Standard Middle,1222 North Chester Avenue Bakersfield CA 93308-3521,NA,NA,NA,not tested,NA,Kern County,35.4448919,-119.0239929
+Standard Elementary,Wingland Elementary,701 Douglas Street Bakersfield CA 93308-2385,NA,NA,NA,not tested,NA,Kern County,35.426827,-119.040527

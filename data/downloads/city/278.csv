@@ -1,32 +1,16 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-William S. Hart Union High,Academy of the Canyons,26455 Rockwell Canyon Road Santa Clarita CA 91355-1803,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.4081668564124,-118.567916922489
-William S. Hart Union High,Arroyo Seco Junior High,27171 North Vista Delgado Drive Valencia CA 91354-2244,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.4396762,-118.5382814
-William S. Hart Union High,Bowman (Jereann) High (Continuation),21508 Centre Pointe Parkway Santa Clarita CA 91350-2947,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.4128953,-118.5005126
-Saugus Union,Bridgeport Elementary,23670 Newhall Ranch Road Santa Clarita CA 91355-1640,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.4428887,-118.5753464
-William S. Hart Union High,Canyon High,19300 West Nadal Street Canyon Country CA 91351-1253,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.429794257527,-118.472161508739
-Sulphur Springs Union,Canyon Springs Community Elementary,19059 Vicci Street Canyon Country CA 91351-3380,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.4191181833784,-118.468214294454
-Saugus Union,Cedarcreek Elementary,27792 Camp Plenty Road Canyon Country CA 91351-2099,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.4251475,-118.476162647059
-Saugus Union,Emblem Academy,22635 Espuella Drive Saugus CA 91350-2370,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.4290732660639,-118.532587981831
-Sulphur Springs Union,Golden Oak Community,25201 Via Princessa Santa Clarita CA 91321-1429,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.3992208,-118.5327523
-Saugus Union,Highlands Elementary,27332 Catala Avenue Saugus CA 91350-2146,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.4412783265572,-118.523979319028
-Saugus Union,James Foster Elementary,22500 Pamplico Drive Saugus CA 91350-3667,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.451964,-118.529646
-William S. Hart Union High,La Mesa Junior High,26623 May Way Santa Clarita CA 91351-5577,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.408623,-118.4809711
-William S. Hart Union High,Learning Post High (Alternative),26455 Rockwell Canyon Rd Santa Clarita CA 91355-1803,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.4081668564124,-118.567916922489
-Sulphur Springs Union,Leona H. Cox Community Elementary,18643 Oakmoor Canyon Country CA 91351-2936,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.4269008686869,-118.459509262626
-Newhall,Meadows Elementary,25577 North Fedala Road Valencia CA 91355-2536,NA,NA,NA,not tested,Santa Clarita,Los Angeles County,34.39133415,-118.554931599405
-Sulphur Springs Union,Mint Canyon Community Elementary,16400 Sierra Highway Canyon Country CA 91351-1414,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.4056268,-118.4647824
-William S. Hart Union High,Mission View Public,26334 Citrus Street Santa Clarita CA 91355-5323,NA,NA,NA,not tested,Santa Clarita,Los Angeles County,34.416062,-118.553233
-Saugus Union,North Park Elementary,23335 West Sunset Hills Drive Valencia CA 91355-4917,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.4530469,-118.5504109
-Newhall,Peachland Avenue Elementary,24800 Peachland Avenue Newhall CA 91321-3430,NA,NA,NA,not tested,Santa Clarita,Los Angeles County,34.3744862941935,-118.545625081887
-William S. Hart Union High,Placerita Junior High,25015 North Newhall Avenue Newhall CA 91321-1098,7.5,ppb,TRUE,tested,Santa Clarita,Los Angeles County,34.3897536540909,-118.540909447742
-Saugus Union,Rio Vista Elementary,20417 Cedarcreek Street Canyon Country CA 91351-6670,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.4254434016693,-118.492493231992
-Saugus Union,Rosedell Elementary,27853 Urbandale Avenue Saugus CA 91350-1914,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.4470873007506,-118.506307407885
-Saugus Union,Santa Clarita Elementary,27177 Seco Canyon Road Saugus CA 91350-1550,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.4442885317993,-118.53454837152
-William S. Hart Union High,Saugus High,21900 Centurion Way Saugus CA 91350-1607,6.1,ppb,TRUE,tested,Santa Clarita,Los Angeles County,34.443711,-118.51863
-William S. Hart Union High,Sequoia School,21445 Centre Pointe Parkway Santa Clarita CA 91350-2684,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.4136675261001,-118.514336055753
-William S. Hart Union High,Sierra Vista Junior High,19425 West Stillmore Street Canyon Country CA 91351-2750,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.4184861428605,-118.47434200051
-Saugus Union,Skyblue Mesa Elementary,28040 Hardesty Avenue Canyon Country CA 91351-1116,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.433401,-118.482754
-William S. Hart Union High,Valencia High,27801 North Dickason Drive Valencia CA 91355-1208,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.439115,-118.563179
-Newhall,Valencia Valley Elementary,23601 Carrizo Drive Valencia CA 91355-2182,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.407669,-118.544291
-Newhall,Wiley Canyon Elementary,24240 La Glorita Circle Newhall CA 91321-2304,NA,NA,NA,not tested,Santa Clarita,Los Angeles County,34.3765025267897,-118.559843023564
-William S. Hart Union High,William S. Hart High,24825 North Newhall Avenue Newhall CA 91321-1576,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.3840554,-118.5361332
+San Rafael City Elementary,Bahia Vista Elementary,125 Bahia Way San Rafael CA 94901-4502,NA,NA,FALSE,tested,San Rafael,Marin County,37.966624237562,-122.498272306981
+San Rafael City Elementary,Coleman Elementary,800 Belle Ave San Rafael CA 94901-2227,NA,NA,FALSE,tested,San Rafael,Marin County,37.979424,-122.519334
+San Rafael City Elementary,Glenwood Elementary,25 Castlewood Dr San Rafael CA 94901-2524,NA,NA,FALSE,tested,San Rafael,Marin County,37.9855876088732,-122.476919683168
+San Rafael City Elementary,James B. Davidson Middle,280 Woodland Ave San Rafael CA 94901-5046,NA,NA,FALSE,tested,San Rafael,Marin County,37.9649415469143,-122.526732849128
+San Rafael City Elementary,Laurel Dell Elementary,225 Woodland Ave San Rafael CA 94901-6017,NA,NA,FALSE,tested,San Rafael,Marin County,37.9647774107595,-122.52689351962
+Marin County ROP,Marin County ROP,1111 Las Gallinas Avenue San Rafael CA 94913-1843,NA,NA,NA,not tested,San Rafael,Marin County,38.0133614080118,-122.549526681731
+Marin County Office of Education,Marin County Special Education,1111 Las Gallinas Ave San Rafael CA 94913-1843,NA,NA,NA,not tested,San Rafael,Marin County,38.0133614080118,-122.549526681731
+Private,Mark Day School,39 Trellis Drive San Rafael CA 94903,NA,NA,FALSE,tested,San Rafael,Marin County,38.006975,-122.5548784142
+Dixie Elementary,Miller Creek Middle,2255 Las Gallinas Avenue San Rafael CA 94903-1699,NA,NA,FALSE,tested,San Rafael,Marin County,38.0063203,-122.5444299
+San Rafael City High,San Rafael Adult Education,310 Nova Albion Way San Rafael CA 94903,NA,NA,NA,not tested,San Rafael,Marin County,37.9993591367103,-122.55155287578
+San Rafael City High,San Rafael High,185 Mission Ave San Rafael CA 94901,NA,NA,FALSE,tested,San Rafael,Marin County,37.97022995,-122.513690632926
+San Rafael City Elementary,Short Elementary,35 Marin Street San Rafael CA 94901-4960,NA,NA,FALSE,tested,San Rafael,Marin County,37.9664665102041,-122.535484306122
+San Rafael City Elementary,Sun Valley Elementary,75 Happy Ln San Rafael CA 94901-1020,NA,NA,FALSE,tested,San Rafael,Marin County,37.9857598120891,-122.550021903207
+San Rafael City High,Terra Linda High,320 Nova Albion Way San Rafael CA 94903-3523,NA,NA,FALSE,tested,San Rafael,Marin County,37.999317566846,-122.551432649212
+Dixie Elementary,Vallecito Elementary,50 Nova Albion Way San Rafael CA 94903-3556,NA,NA,FALSE,tested,San Rafael,Marin County,38.0078087606722,-122.549399612316

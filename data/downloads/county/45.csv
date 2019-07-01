@@ -11,6 +11,7 @@ San Francisco Unified,Brown Jr. (Willie L) Middle,2055 Silver Avenue San Francis
 San Francisco Unified,Bryant Elementary,2641 25th Street San Francisco CA 94110-3514,5.61,ppb,TRUE,tested,SF,SF,37.7519012653061,-122.40467944898
 San Francisco Unified,Buena Vista/ Horace Mann K-8,3351 23rd Street San Francisco CA 94110-3031,5.5,ppb,TRUE,tested,SF,SF,37.7532961,-122.420204953644
 San Francisco Unified,Burton (Phillip and Sala) Academic High,400 Mansell Street San Francisco CA 94134-1829,NA,NA,FALSE,tested,SF,SF,37.720649,-122.405238
+Private,Cambridge International Preparatory School,501 Cambridge St. San Francisco CA 94134,NA,NA,FALSE,tested,SF,SF,37.7250306,-122.416856485965
 San Francisco Unified,Carver (George Washington) Elementary,1360 Oakdale Avenue San Francisco CA 94124-2724,5.17,ppb,TRUE,tested,SF,SF,37.7323861632653,-122.386299
 San Francisco Unified,Chavez (Cesar) Elementary,825 Shotwell Street San Francisco CA 94110-3212,NA,NA,FALSE,tested,SF,SF,37.75483745,-122.415164222922
 Private,Children's Day School,333 Dolores Street San Francisco CA 94110,NA,NA,FALSE,tested,SF,SF,37.763864,-122.426128
@@ -117,6 +118,7 @@ San Francisco Unified,Presidio Early Education,387 Moraga Ave. San Francisco CA 
 San Francisco Unified,Presidio Middle,450 30th Avenue San Francisco CA 94121-1766,NA,NA,FALSE,tested,SF,SF,37.78088185,-122.489626625632
 San Francisco Unified,Redding Elementary,1421 Pine Street San Francisco CA 94109-4719,11.9,ppb,TRUE,tested,SF,SF,37.7896941020408,-122.419254081633
 San Francisco Unified,Revere (Paul) Elementary,555 Tompkins Avenue San Francisco CA 94110-6144,NA,NA,FALSE,tested,SF,SF,37.7371336326531,-122.413144734694
+Private,Rise University Preparatory,1224 Fairfax Avenue San Francisco CA 94124,NA,NA,FALSE,tested,SF,SF,37.7388455,-122.382214339196
 San Francisco Unified,"Rodriguez, Zaida T. Early Education",421 Bartlett St. San Francisco CA 94110,NA,NA,FALSE,tested,SF,SF,37.750179877551,-122.419258469388
 San Francisco Unified,Rooftop Elementary,443 Burnett Avenue San Francisco CA 94131-1330,NA,NA,FALSE,tested,SF,SF,37.7544379359157,-122.443866383639
 San Francisco Unified,Roosevelt Middle,460 Arguello Boulevard San Francisco CA 94118-2505,NA,NA,FALSE,tested,SF,SF,37.7822833513514,-122.458835405405
@@ -150,7 +152,7 @@ Private,St. Anthony–Immaculate Conception,299 Precita Avenue San Francisco CA 
 Private,St. Brendan Elementary,940 Laguna Honda Boulevard San Francisco CA 94127,7.35,ppb,TRUE,tested,SF,SF,37.74313045,-122.455866582127
 Private,St. Finn Barr Catholic School,419 Hearst Avenue San Francisco CA 94112,NA,NA,FALSE,tested,SF,SF,37.7306145306122,-122.447090938776
 Private,St. Gabriel Elementary,2550 41st Avenue San Francisco CA 94116,NA,NA,FALSE,tested,SF,SF,37.7392025714286,-122.498961836735
-Private,St. Ignatius College Preparatory,2001 37th Avenue San Francisco CA 94116,15,ppb,TRUE,tested,SF,SF,37.7469292,-122.496393781523
+Private,St. Ignatius College Preparatory,2001 37th Avenue San Francisco CA 94116,9.05,ppb,TRUE,tested,SF,SF,37.7469292,-122.496393781523
 Private,St. James School,321 Fair Oaks Street San Francisco CA 94110,5.9,ppb,TRUE,tested,SF,SF,37.7513565,-122.423659929017
 Private,St. John Elementary School,925 Chenery Street San Francisco CA 94131,9.6,ppb,TRUE,tested,SF,SF,37.7351842653306,-122.437652356607
 Private,St. Paul's,1690 Church Street San Francisco CA 94131,NA,NA,FALSE,tested,SF,SF,37.7440348,-122.426878
@@ -175,6 +177,7 @@ Private,The Bay School of San Francisco,35 Keyes Avenue San Francisco CA 94129,N
 Private,The Brandeis School of San Francisco,655 Brotherhood Way San Francisco CA 94132,NA,NA,FALSE,tested,SF,SF,37.7121814,-122.472238100879
 San Francisco Unified,The New School of San Francisco,2929 19th Street San Francisco CA 94110-2019,NA,NA,NA,not tested,SF,SF,37.76027005,-122.4113497
 Private,Town School for Boys,2750 Jackson Street San Francisco CA 94115,5.6,ppb,TRUE,tested,SF,SF,37.7920428,-122.440147583344
+San Francisco Unified,Tule Elk Park Children Center,2110 Greenwich Street San Francisco CA 94123,5.5,ppb,TRUE,tested,SF,SF,37.7992056530612,-122.43453022449
 San Francisco Unified,Tule Elk Park Children Center,2110 Greenwich St San Francisco CA 94123,NA,NA,NA,not tested,SF,SF,37.7992056530612,-122.43453022449
 San Francisco Unified,Ulloa Elementary,2650 42nd Avenue San Francisco CA 94116-2714,NA,NA,FALSE,tested,SF,SF,37.7370866,-122.499370202202
 Private,Urban School of San Francisco,1563 Page Street San Francisco CA 94117,NA,NA,FALSE,tested,SF,SF,37.7708181,-122.446320301048

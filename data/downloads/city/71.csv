@@ -1,16 +1,19 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-LAUSD,54th Street Elementary,"5501 S.Eileen Ave, Los Angeles, CA 90043",NA,NA,NA,exempt,Covina,Los Angeles County,34.0851544,-117.9104175
-Covina-Valley Unified,Barranca Elementary,727 South Barranca Avenue Covina CA 91723-3665,12,ppb,TRUE,tested,Covina,Los Angeles County,34.0861146,-117.8813437
-Covina-Valley Unified,Ben Lomond Elementary,621 East Covina Boulevard Covina CA 91722-2959,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0995018163265,-117.87816344898
-Charter Oak Unified,Cedargrove Elementary,1209 North Glendora Avenue Covina CA 91724-1506,5.2,ppb,TRUE,tested,Covina,Los Angeles County,34.0997108446319,-117.863902384883
-Charter Oak Unified,Charter Oak High,1430 East Covina Boulevard Covina CA 91724-1651,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0994152,-117.8626877
-Covina-Valley Unified,Covina High,463 South Hollenbeck Avenue Covina CA 91723-2955,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0814773308649,-117.899036258277
-Los Angeles Unified,Fifty-Fourth Street Elementary,5501 South Eileen Avenue Los Angeles CA 90043-2255,NA,NA,NA,not tested,Covina,Los Angeles County,34.0851544,-117.9104175
-Azusa Unified,Gladstone High,1340 North Enid Covina CA 91722-1214,NA,NA,FALSE,tested,Covina,Los Angeles County,34.091794,-117.9144782
-Charter Oak Unified,Glen Oak Elementary,1000 North Sunflower Ave Covina CA 91724-2307,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0982035490196,-117.846270843137
-Covina-Valley Unified,Lark Ellen Elementary,4555 North Lark Ellen Avenue Covina CA 91722-3134,NA,NA,NA,not tested,Covina,Los Angeles County,34.0949015887184,-117.916667647112
-Covina-Valley Unified,Las Palmas Middle,641 North Lark Ellen Avenue Covina CA 91722-3463,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0907729636761,-117.916683716282
-Covina-Valley Unified,Merwin Elementary,16125 Cypress Covina CA 91722-2236,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0957384,-117.9055833
-Covina-Valley Unified,Sierra Vista Middle,777 East Puente Street Covina CA 91723-2826,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0825668,-117.8835181
-Private,Sonrise Christian,1220 East Ruddock Street Covina CA 91724,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0897449390295,-117.865392203647
-Charter Oak Unified,Stone Ridge Academy,1115 East Puente St Covina CA 91724,NA,NA,NA,not tested,Covina,Los Angeles County,34.08346885,-117.867729793367
+Newport-Mesa Unified,Back Bay High,390 Monte Vista Ave. Costa Mesa CA 92627-1495,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6533360468569,-117.890350146098
+Newport-Mesa Unified,College Park Elementary,2380 Notre Dame Road Costa Mesa CA 92626-6400,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6607317198058,-117.911449296737
+Newport-Mesa Unified,Costa Mesa High,2650 Fairview Road Costa Mesa CA 92626-5537,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6935729,-117.9078134
+Newport-Mesa Unified,Estancia High,2323 Placentia Avenue Costa Mesa CA 92627-3305,5.5,ppb,TRUE,tested,Costa Mesa,Orange County,33.6576161317226,-117.932249770733
+Newport-Mesa Unified,Everett A. Rea Elementary,661 Hamilton Street Costa Mesa CA 92627-2678,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6506177596161,-117.926248891913
+Newport-Mesa Unified,Harper,425 East 18th Street Costa Mesa CA 92627-3161,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6320017244833,-117.907186978715
+Newport-Mesa Unified,Heinz Kaiser Elementary,2130 Santa Ana Avenue Costa Mesa CA 92627-1826,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.644801,-117.903576384615
+Newport-Mesa Unified,Killybrooke Elementary,3155 Killybrooke Lane Costa Mesa CA 92626-2613,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6857525260517,-117.913962111868
+Newport-Mesa Unified,Lindberg School,220 23rd St. Costa Mesa CA 92627,10.9,ppb,TRUE,tested,Costa Mesa,Orange County,33.6510789274472,-117.900384012959
+Newport-Mesa Unified,Maude B. Davis Elementary,1050 Arlington Drive Costa Mesa CA 92626-5626,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6689515545232,-117.90606042934
+Newport-Mesa Unified,Paularino Elementary,1060 Paularino Avenue Costa Mesa CA 92626-2849,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.682477,-117.900941166273
+Newport-Mesa Unified,Pomona Elementary,2051 Pomona Avenue Costa Mesa CA 92627-2921,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6489390039586,-117.927617783851
+Newport-Mesa Unified,Sonora Elementary,966 Sonora Road Costa Mesa CA 92626-5710,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6753881920934,-117.895921226739
+Newport-Mesa Unified,Victoria Elementary,1025 Victoria Street Costa Mesa CA 92627-3929,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6522414857143,-117.941984657143
+Private,Waldorf School of Orange County,2350 Canyon Drive Costa Mesa CA 92627,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6589319398597,-117.940720221641
+Newport-Mesa Unified,Whittier Elementary,1800 Whittier Avenue Costa Mesa CA 92627-4558,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.641141,-117.940532
+Newport-Mesa Unified,Wilson Elementary,801 Wilson Street Costa Mesa CA 92627-3333,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6563005,-117.9042346
+Newport-Mesa Unified,Woodland Elementary,2025 Garden Lane Costa Mesa CA 92627-2113,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6422014146341,-117.902840317073

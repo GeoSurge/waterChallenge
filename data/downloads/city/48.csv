@@ -1,15 +1,41 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-ABC Unified,ABC Adult,12254 Cuesta Drive Cerritos CA 90703-2801,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8788952692819,-118.071267626995
-ABC Unified,Bragg Elementary,11501 Bos Street Cerritos CA 90703-6742,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8561773,-118.089484853092
-ABC Unified,Carmenita Middle,13435 East 166th Street Cerritos CA 90703-2301,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8803779,-118.0715417
-Los Angeles Unified,District Offices,16700 Norwalk Blvd Cerritos  CA 90703,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8796992929293,-118.072593878788
-ABC Unified,Gahr (Richard) High,11111 Artesia Boulevard Cerritos CA 90703-2533,NA,NA,NA,not tested,Cerritos,Los Angeles County,33.87487315,-118.096358047446
-ABC Unified,Gonsalves (Joe A.) Elementary,13650 Park Street Cerritos CA 90703-1413,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8786370408163,-118.041281897959
-ABC Unified,Haskell (Pliny Fisk) Middle,11525 Del Amo Boulevard Cerritos CA 90703-7404,NA,NA,NA,not tested,Cerritos,Los Angeles County,33.84809565,-118.087857409609
-ABC Unified,Leal (Frank C.) Elementary,12920 Droxford Street Cerritos CA 90703-6068,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8610743877551,-118.056688632653
-ABC Unified,Nixon (Patricia) Elementary,19600 Jacob Avenue Cerritos CA 90703-7526,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.852771,-118.07646
-Los Angeles Unified,Nutritional Services 083,12255 Cuesta Drive Cerritos CA 90703,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8790755559573,-118.071317445012
-ABC Unified,Stowers(Cecil B.) Elementary,13350 Beach Street Cerritos CA 90703-1331,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8764334872129,-118.047498649998
-ABC Unified,Tracy (Wilbur) High (Continuation),12222 Cuesta Drive Cerritos CA 90703-2801,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.878939816422,-118.072013662108
-ABC Unified,Whitney (Gretchen) High,16800 Shoemaker Avenue Cerritos CA 90703-1244,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8777826,-118.053554538212
-ABC Unified,Wittmann (Helen) Elementary,16801 Yvette Avenue Cerritos CA 90703-1245,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.878112,-118.057171
+LAUSD,232ND PLACE ELEMENTARY,"23240 ARCHIBALD AVE, CARSON,         CA 90745",NA,NA,NA,exempt,Carson,Los Angeles County,33.8145333877551,-118.282616142857
+Los Angeles Unified,Academies of Education and Empowerment at Carson High,22328 South Main St Carson CA 90745-4525,NA,NA,NA,not tested,Carson,Los Angeles County,33.8579675,-118.276641
+Los Angeles Unified,Academy of Medical Arts at Carson High,22328 S Main Street Carson CA 90745-4525,NA,NA,NA,not tested,Carson,Los Angeles County,33.8579675,-118.276641
+Los Angeles Unified,Ambler Avenue Elementary,319 East Sherman Drive Carson CA 90746-1158,NA,NA,NA,not tested,Carson,Los Angeles County,33.8775367606282,-118.271396859852
+LAUSD,AMBLER ELEMENTARY,"319 E SHERMAN DR, CARSON,         CA 90746",NA,NA,NA,exempt,Carson,Los Angeles County,33.8775367606282,-118.271396859852
+Los Angeles Unified,Andrew Carnegie Middle,21820 Bonita Street Carson CA 90745-3404,NA,NA,NA,not tested,Carson,Los Angeles County,33.8304797574564,-118.2592216904
+Los Angeles Unified,Annalee Avenue Elementary,19410 South Annalee Avenue Carson CA 90746-2687,NA,NA,NA,not tested,Carson,Los Angeles County,33.8547726158257,-118.252870944056
+LAUSD,BONITA ELEMENTARY,"21929 BONITA ST, CARSON,         CA 90745",NA,NA,NA,exempt,Carson,Los Angeles County,33.8289115764325,-118.259404988458
+Los Angeles Unified,Bonita Street Elementary,21929 Bonita Street Carson CA 90745-3406,NA,NA,NA,not tested,Carson,Los Angeles County,33.8289115764325,-118.259404988458
+Los Angeles Unified,Broadacres Avenue Elementary,19424 South Broadacres Avenue Carson CA 90746-2710,NA,NA,NA,not tested,Carson,Los Angeles County,33.8545054629879,-118.240186580874
+LAUSD,BROADACRES ELEMENTARY,"19424 S BROADACRES AVE, CARSON,         CA 90746",NA,NA,NA,exempt,Carson,Los Angeles County,33.8545054629879,-118.240186580874
+LAUSD,CARNEGIE MIDDLE SCHOOL,"21820 BONITA ST, CARSON,         CA 90745",NA,NA,NA,exempt,Carson,Los Angeles County,33.8304797574564,-118.2592216904
+Los Angeles Unified,Caroldale Learning Community,22424 Caroldale Avenue Carson CA 90745-3654,NA,NA,NA,not tested,Carson,Los Angeles County,33.8222323061224,-118.283818183673
+LAUSD,CAROLDALE LEARNING COMMUNITY,"22424 CAROLDALE AVE, CARSON,         CA 90745",NA,NA,NA,exempt,Carson,Los Angeles County,33.8222323061224,-118.283818183673
+Private,Carson Christian School,17705 Central Avenue Carson CA 90746,NA,NA,FALSE,tested,Carson,Los Angeles County,33.8558209,-118.2484873
+LAUSD,CARSON ELEMENTARY,"161 E CARSON ST, CARSON,         CA 90745",NA,NA,NA,exempt,Carson,Los Angeles County,33.8317379,-118.2159446
+LAUSD,CARSON SENIOR HIGH,"22328 S MAIN ST, CARSON,         CA 90745",NA,NA,NA,exempt,Carson,Los Angeles County,33.8579675,-118.276641
+Los Angeles Unified,Carson Senior High,22328 South Main Street Carson CA 90745-4525,NA,NA,NA,not tested,Carson,Los Angeles County,33.8579675,-118.276641
+Los Angeles Unified,Carson Street Elementary,161 East Carson Street Carson CA 90745-2772,NA,NA,NA,not tested,Carson,Los Angeles County,33.8317379,-118.2159446
+Los Angeles Unified,Catskill Avenue Elementary,23536 Catskill Avenue Carson CA 90745-5412,NA,NA,NA,not tested,Carson,Los Angeles County,33.8124076073213,-118.271179950703
+LAUSD,CATSKILL ELEMENTARY,"23536 CATSKILL AVE, CARSON,         CA 90745",NA,NA,NA,exempt,Carson,Los Angeles County,33.8124076073213,-118.271179950703
+LAUSD,CURTISS MIDDLE SCHOOL,"1254 E HELMICK ST, CARSON,         CA 90746",NA,NA,NA,exempt,Carson,Los Angeles County,33.8515827142857,-118.249341
+LAUSD,DEL AMO ELEMENTARY,"21228 WATER ST, CARSON,         CA 90745",NA,NA,NA,exempt,Carson,Los Angeles County,33.8364927059998,-118.240831984446
+Los Angeles Unified,Del Amo Elementary,21228 Water Street Carson CA 90745-1849,NA,NA,NA,not tested,Carson,Los Angeles County,33.8364927059998,-118.240831984446
+LAUSD,DOLORES EARLY EDUCATION CENTR,"22309 CATSKILL AVE, CARSON,         CA 90745",NA,NA,NA,exempt,Carson,Los Angeles County,33.8241121875,-118.2713105625
+LAUSD,DOLORES ELEMENTARY,"22526 DOLORES ST, CARSON,         CA 90745",NA,NA,NA,exempt,Carson,Los Angeles County,33.821769428992,-118.27225076484
+Los Angeles Unified,Dolores Street Elementary,22526 Dolores Street Carson CA 90745-3810,NA,NA,NA,not tested,Carson,Los Angeles County,33.821769428992,-118.27225076484
+Los Angeles Unified,Eagle Tree Continuation,22628 South Main Street Carson CA 90745-4514,NA,NA,NA,not tested,Carson,Los Angeles County,33.8579675,-118.276641
+LAUSD,FRIES AVE ELEMENTARY SCHOOL,"1301 FRIES AVE, WILMINGTON,     CA 90744",NA,NA,NA,exempt,Carson,Los Angeles County,33.8025232,-118.2659026
+Los Angeles Unified,Fries Avenue Elementary,1301 Fries Avenue Wilmington CA 90744-2510,NA,NA,NA,not tested,Carson,Los Angeles County,33.8025232,-118.2659026
+Los Angeles Unified,Glenn Hammond Curtiss Middle,1254 East Helmick Street Carson CA 90746-3164,NA,NA,NA,not tested,Carson,Los Angeles County,33.8515827142857,-118.249341
+Los Angeles Unified,Leapwood Avenue Elementary,19302 Leapwood Avenue Carson CA 90746-1954,NA,NA,NA,not tested,Carson,Los Angeles County,33.8560754620288,-118.261658091527
+LAUSD,LEAPWOOD ELEMENTARY,"19302 LEAPWOOD AVE, CARSON,         CA 90746",NA,NA,NA,exempt,Carson,Los Angeles County,33.8560754620288,-118.261658091527
+Los Angeles Unified,Magnolia Science Academy 3,1254 East Helmick St Carson CA 90746-3164,NA,NA,NA,not tested,Carson,Los Angeles County,33.8515827142857,-118.249341
+LAUSD,MAGNOLIA SCIENCE ACADEMY 3 @ CURTISS MS,"1254 E HELMICK ST, CARSON,         CA 90746",NA,NA,NA,exempt,Carson,Los Angeles County,33.8515827142857,-118.249341
+Los Angeles Unified,Stephen M. White Middle,22102 South Figueroa Street Carson CA 90745-4404,NA,NA,NA,not tested,Carson,Los Angeles County,33.8432096,-118.2850716
+Los Angeles Unified,Towne Avenue Elementary,18924 Towne Avenue Carson CA 90746-2165,NA,NA,NA,not tested,Carson,Los Angeles County,33.8587525515879,-118.267876210328
+LAUSD,TOWNE ELEMENTARY,"18924 TOWNE AVE, CARSON,         CA 90746",NA,NA,NA,exempt,Carson,Los Angeles County,33.8587525515879,-118.267876210328
+Los Angeles Unified,Two Hundred Thirty-Second Place,23240 Archibald Avenue Carson CA 90745-5117,NA,NA,NA,not tested,Carson,Los Angeles County,33.8145333877551,-118.282616142857
+LAUSD,WHITE MIDDLE SCHOOL,"22102 S FIGUEROA ST, CARSON,         CA 90745",NA,NA,NA,exempt,Carson,Los Angeles County,33.8432096,-118.2850716

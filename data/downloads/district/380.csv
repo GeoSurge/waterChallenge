@@ -1,8 +1,7 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Lemon Grove,Lemon Grove Academy Elementary,7885 Golden Avenue Lemon Grove CA 91945,NA,NA,FALSE,tested,Lemon Grove,San Diego County,32.7418482325659,-117.028459000829
-Lemon Grove,Lemon Grove Academy for the Sciences and Humanities,7866 Lincoln Street Lemon Grove CA 91945-2542,NA,NA,FALSE,tested,Lemon Grove,San Diego County,32.7382249705882,-117.029315117647
-Lemon Grove,Monterey Heights Elementary,7550 Canton Drive Lemon Grove CA 91945-2515,NA,NA,FALSE,tested,Lemon Grove,San Diego County,32.722212067296,-117.033495714316
-Lemon Grove,Mt. Vernon Elementary,8350 Mount Vernon Street Lemon Grove CA 91945-3336,NA,NA,FALSE,tested,Lemon Grove,San Diego County,32.7319280566999,-117.020446527466
-Lemon Grove,San Altos Elementary,1750 Madera Street Lemon Grove CA 91945-2515,NA,NA,FALSE,tested,Lemon Grove,San Diego County,32.726681,-117.042671
-Lemon Grove,San Miguel Elementary,7059 San Miguel Avenue Lemon Grove CA 91945-2515,NA,NA,FALSE,tested,Lemon Grove,San Diego County,32.7351105026342,-117.045535530508
-Lemon Grove,Vista La Mesa Academy,3900 Violet Street La Mesa CA 91941-7542,NA,NA,FALSE,tested,La Mesa,San Diego County,32.748522,-117.045
+Lammersville Joint Unified,Altamont Elementary,452 West Saint Francis Avenue Mountain House CA 95391-1190,NA,NA,NA,not tested,NA,NA,NA,NA
+Lammersville Joint Unified,Bethany Elementary,570 Escuela Drive Mountain House CA 95391-2051,NA,NA,NA,not tested,NA,San Joaquin County,37.7730021,-121.549961063836
+Lammersville Joint Unified,Lammersville Elementary,16555 West Von Sosten Road Tracy CA 95304-7220,12,ppb,TRUE,tested,NA,NA,NA,NA
+Lammersville Joint Unified,Mountain House High,1090 South Central Parkway Mountain House CA 95391-1353,NA,NA,NA,not tested,NA,NA,NA,NA
+Lammersville Joint Unified,Sebastian Questa Elementary,543 North Montebello Street Mountain House CA 95391,NA,NA,NA,not tested,NA,San Joaquin County,37.7858341,-121.5518387
+Lammersville Joint Unified,Wicklund Elementary,300 East Legacy Drive Mountain House CA 95391-1016,NA,NA,NA,not tested,NA,NA,NA,NA

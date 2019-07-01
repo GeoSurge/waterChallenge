@@ -1,4 +1,3 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Armona Union Elementary,Armona Elementary,14045 Pimo Street Armona CA 93202-0368,7.95,ppb,TRUE,tested,NA,Kings County,36.3125636413319,-119.710416618342
-Armona Union Elementary,Crossroads Charter,418 West 8th Street Hanford CA 93230-4536,NA,NA,FALSE,tested,Hanford,Kings County,36.3269188709677,-119.651449774194
-Armona Union Elementary,Parkview Middle,11075 C Street Armona CA 93202-0368,9.9,ppb,TRUE,tested,NA,Kings County,36.3122859897959,-119.707118
+Arena Union Elementary,Arena Elementary,20 School Street Point Arena CA 95468-0020,NA,NA,NA,not tested,Point Arena,Mendocino County,38.9117946995116,-123.692830413588
+Arena Union Elementary,Pacific Community Charter,10 Lake Street Point Arena CA 95468,NA,NA,NA,not tested,Point Arena,Mendocino County,38.9131757695696,-123.692897003041

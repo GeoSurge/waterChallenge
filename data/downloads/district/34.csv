@@ -1,5 +1,3 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Arvin Union,Bear Mountain Elementary,1501 Hood Street Arvin CA 93203-1413,NA,NA,NA,not tested,NA,Kern County,35.2035,-118.840172
-Arvin Union,El Camino Real Elementary,911 El Camino Real Road Arvin CA 93203-9451,NA,NA,NA,not tested,NA,Kern County,35.1870646,-118.8359692
-Arvin Union,Haven Drive Middle,341 Haven Drive Arvin CA 93203-1413,NA,NA,NA,not tested,NA,Kern County,35.2053763265306,-118.827347163265
-Arvin Union,Sierra Vista Elementary,300 Franklin Street Arvin CA 93203-1413,NA,NA,NA,not tested,NA,Kern County,35.2019,-118.827535
+Aromas/San Juan Unified,Aromas,365 Vega Street Aromas CA 95004-0216,6.9,ppb,TRUE,tested,NA,Monterey County,36.8896740612245,-121.644161081633
+Aromas/San Juan Unified,San Juan,100 Nyland Drive San Juan Bautista CA 95045-9573,NA,NA,NA,not tested,San Juan Bautista,San Benito County,36.841408,-121.533877

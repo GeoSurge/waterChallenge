@@ -1,10 +1,8 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Whittier City Elementary,Abraham Lincoln Elementary School,12620 Broadway Whittier CA 90601,NA,NA,NA,not tested,Whittier,Los Angeles County,33.9862586,-118.0417634
-Whittier City Elementary,Christian Sorensen Elementary,11493 East Rosehedge Drive Whittier CA 90606-1996,6.8,ppb,TRUE,tested,Pico Rivera,Los Angeles County,33.9922839,-118.0867092
-Whittier City Elementary,Daniel Phelan Elementary,7150 South Cully Avenue Whittier CA 90606-1718,NA,NA,FALSE,tested,NA,NA,NA,NA
-Whittier City Elementary,Katherine Edwards Middle,6812 South Norwalk Boulevard Whittier CA 90606-1740,NA,NA,FALSE,tested,NA,Los Angeles County,33.983159,-118.070576
-Whittier City Elementary,Mill Elementary,4030 South Workman Mill Road Whittier CA 90601-1795,NA,NA,FALSE,tested,Whittier,Los Angeles County,34.0021373,-118.0562563
-Whittier City Elementary,Wallen L. Andrews Elementary,1010 South Caraway Drive Whittier CA 90601-1121,NA,NA,FALSE,tested,NA,NA,NA,NA
-Whittier City Elementary,West Whittier Elementary,6411 South Norwalk Boulevard Whittier CA 90606-1598,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.9862491818182,-118.067535772727
-Whittier City Elementary,Whittier Area Community Day,5777 Lockheed Avenue Whittier CA 90606-1030,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.9952113062891,-118.064718627828
-Whittier City Elementary,Whittier Independent Study,5777 Lockheed Ave Whittier CA 90606-1030,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.9952113062891,-118.064718627828
+Walnut Creek Elementary,Buena Vista Elementary,2355 San Juan Avenue Walnut Creek CA 94597-3099,NA,NA,FALSE,tested,NA,Contra Costa County,37.9115115074233,-122.068627394924
+Walnut Creek Elementary,Indian Valley Elementary,551 Marshall Drive Walnut Creek CA 94598-4908,NA,NA,FALSE,tested,NA,Contra Costa County,37.9021211956522,-122.033482467391
+Walnut Creek Elementary,Murwood Elementary,2050 Vanderslice Avenue Walnut Creek CA 94596-5923,NA,NA,FALSE,tested,NA,Contra Costa County,37.8827979,-122.0465007
+Walnut Creek Elementary,Parkmead Elementary,1920 Magnolia Way Walnut Creek CA 94595-1715,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.1455587,-117.4499865
+Walnut Creek Elementary,Tice Creek,1847 Newell Avenue Walnut Creek CA 94595-1452,NA,NA,FALSE,tested,NA,Contra Costa County,37.8932287,-122.0569591
+Walnut Creek Elementary,Walnut Creek Intermediate,2425 Walnut Boulevard Walnut Creek CA 94597-3836,NA,NA,FALSE,tested,NA,Contra Costa County,37.9112324,-122.0590616
+Walnut Creek Elementary,Walnut Heights Elementary,4064 Walnut Boulevard Walnut Creek CA 94596-5463,NA,NA,FALSE,tested,NA,Contra Costa County,37.8946958948063,-122.038518776463

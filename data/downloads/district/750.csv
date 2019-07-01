@@ -1,5 +1,4 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Standard Elementary,Highland Elementary,2900 Barnett Street Bakersfield CA 93308-1439,NA,NA,NA,not tested,NA,NA,NA,NA
-Standard Elementary,Standard Elementary,115 East Minner Avenue Bakersfield CA 93308-3552,NA,NA,NA,not tested,NA,NA,NA,NA
-Standard Elementary,Standard Middle,1222 North Chester Avenue Bakersfield CA 93308-3521,NA,NA,NA,not tested,NA,Kern County,35.4448919,-119.0239929
-Standard Elementary,Wingland Elementary,701 Douglas Street Bakersfield CA 93308-2385,NA,NA,NA,not tested,NA,Kern County,35.426827,-119.040527
+Solano County Office of Education,Golden Hills Education Center,2460 Clay Bank Road Fairfield CA 94533,NA,NA,FALSE,tested,Fairfield,Solano County,38.2735795882353,-122.006436558824
+Solano County Office of Education,Irene Larsen Center,1707 California Drive Vacaville CA 95687,NA,NA,FALSE,tested,Vacaville,Solano County,38.3333769740071,-121.977052131863
+Solano County Office of Education,TC McDaniel School,1895 Woolner Avenue  Fairfield CA 94533,NA,NA,FALSE,tested,Fairfield,Solano County,38.245275,-122.062508

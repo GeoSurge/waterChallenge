@@ -1,31 +1,23 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Rialto Unified,Bemis Elementary,774 East Etiwanda Avenue Rialto CA 92376-4508,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.1141721366329,-117.356009750431
-Fontana Unified,Birch High (Continuation),7930 Locust Avenue Fontana CA 92336-2871,8.5,ppb,TRUE,tested,Rialto,San Bernardino County,34.109913123088504,-117.40980158594
-Rialto Unified,"Bloomington Christian School, East Campus",955 S. Bloomington Ave. Bloomington CA 92316,NA,NA,NA,not tested,Rialto,San Bernardino County,34.0769077477621,-117.388616750195
-San Bernardino County Office of Education,Bob Murphy Community School,149 N. Arrowhead Ave. Rialto CA 92376,NA,NA,NA,not tested,Rialto,San Bernardino County,34.0999281632653,-117.386737
-Rialto Unified,Casey Elementary,219 North Eucalyptus Avenue Rialto CA 92376-6025,NA,NA,NA,not tested,Rialto,San Bernardino County,34.1021447645659,-117.357180616923
-Rialto Unified,Charlotte N. Werner Elementary,1050 West Rialto Avenue Rialto CA 92376-9007,NA,NA,NA,not tested,Rialto,San Bernardino County,34.099592,-117.391440758077
-Colton Joint Unified,Crestmore Elementary,18870 Jurupa Avenue Bloomington CA 92316-3133,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.0486100531763,-117.392744436761
-Rialto Unified,Dunn Elementary,830 North Lilac Avenue Rialto CA 92376-4098,NA,NA,NA,not tested,Rialto,San Bernardino County,34.1147122514701,-117.37926463897401
-Rialto Unified,Edward Fitzgerald Elementary,2568 West Terra Vista Drive Rialto CA 92377-3698,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.1666168507865,-117.42569014397
-Rialto Unified,Eisenhower Senior High,1321 North Lilac Avenue Rialto CA 92376-3201,6.050000000000001,ppb,TRUE,tested,Rialto,San Bernardino County,34.1246647152014,-117.379088539072
-Rialto Unified,Elizabeth T. Hughbanks Elementary,2241 North Apple Avenue Rialto CA 92377-4615,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.14177525,-117.378987128447
-Rialto Unified,Ethel Kucera Middle,2140 West Buena Vista Drive Rialto CA 92377-4837,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.1613975643436,-117.41523173387
-Rialto Unified,Frisbie Middle,1442 North Eucalyptus Avenue Rialto CA 92376-2913,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.125884009016,-117.357450668571
-Rialto Unified,Helen L. Dollahan Elementary,1060 West Etiwanda Avenue Rialto CA 92376-4769,NA,NA,NA,not tested,Rialto,San Bernardino County,34.114126885578,-117.391431991666
-Rialto Unified,Henry Elementary,470 East Etiwanda Avenue Rialto CA 92376-4446,NA,NA,NA,not tested,Rialto,San Bernardino County,34.1141641764255,-117.362261467524
-Colton Joint Unified,Joe Baca,1640 South Lilac Avenue Bloomington CA 92316-2123,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.070125880834,-117.379101
-Fontana Unified,Locust Elementary,7420 Locust Avenue Fontana CA 92336-2307,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.1192902228531,-117.409795447092
-Fontana Unified,Maple Elementary,751 South Maple Avenue Fontana CA 92335-6076,5.4,ppb,TRUE,tested,Rialto,San Bernardino County,34.0902210545455,-117.405128
-Rialto Unified,Morgan Elementary,1571 North Sycamore Avenue Rialto CA 92376-3665,5.7,ppb,TRUE,tested,Rialto,San Bernardino County,34.1282025712393,-117.365993593985
-Rialto Unified,Myers Elementary,975 North Meridian Avenue Rialto CA 92376-3771,NA,NA,NA,not tested,Rialto,San Bernardino County,34.1179200769231,-117.348494538462
-Rialto Unified,Preston Elementary,1750 North Willow Avenue Rialto CA 92376-2758,5.5,ppb,TRUE,tested,Rialto,San Bernardino County,34.1317790214711,-117.37497
-Rialto Unified,Rialto High,595 South Eucalyptus Avenue Rialto CA 92376-7207,NA,NA,NA,not tested,Rialto,San Bernardino County,34.0955501,-117.3572894
-Rialto Unified,Rialto Middle,1262 West Rialto Avenue Rialto CA 92376-5828,NA,NA,NA,not tested,Rialto,San Bernardino County,34.0995850539492,-117.395747726027
-Colton Joint Unified,Ruth Grimes Elementary,1609 Spruce Avenue Bloomington CA 92316-2120,5.3,ppb,TRUE,tested,Rialto,San Bernardino County,34.072306,-117.3877637
-Rialto Unified,Sam V. Curtis Elementary,451 South Lilac Avenue Rialto CA 92376-2016,NA,NA,NA,not tested,Rialto,San Bernardino County,34.0933817581737,-117.378968382126
-Rialto Unified,Samuel W. Simpson Elementary,1050 South Lilac Avenue Rialto CA 92376-7826,NA,NA,NA,not tested,Rialto,San Bernardino County,34.0823676703375,-117.379124998774
-Rialto Unified,Trapp Elementary,2750 North Riverside Avenue Rialto CA 92377-3983,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.1423986,-117.3769814
-Fontana Unified,Virginia Primrose Elementary,751 North Maple Avenue Fontana CA 92336-4802,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.1095488635414,-117.405211
-Rialto Unified,Wilmer Amina Carter High,2630 North Linden Avenue Rialto CA 92377-8446,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.1465737,-117.403231725496
-Rialto Unified,Zupanic High,266 West Randall Avenue Rialto CA 92376-6926,NA,NA,NA,not tested,Rialto,San Bernardino County,34.0851207094268,-117.366681673377
+Redlands Unified,Barbara Phelps Community School,1812 West Park Ave. Redlands CA 92373,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.0593890970162,-117.21618536133
+Redlands Unified,Citrus Valley High,800 West Pioneer Avenue Redlands CA 92374-1509,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.08278435,-117.194482060887
+Redlands Unified,Clement Middle,501 East Pennsylvania Avenue Redlands CA 92374-2496,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.0737601085035,-117.176795057304
+Colton-Redlands-Yucaipa ROP,Colton-Redlands-Yucaipa ROP,1214 Indiana Court Redlands CA 92374-2896,NA,NA,NA,not tested,Redlands,San Bernardino County,34.0698671444771,-117.20569974395
+Redlands Unified,Cope Middle,1000 West Cypress Avenue Redlands CA 92373-5722,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.040675,-117.188833
+Redlands Unified,Crafton Elementary,311 North Wabash Avenue Redlands CA 92374-4261,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.0489924835238,-117.138859377189
+Redlands Unified,Franklin Elementary,850 East Colton Avenue Redlands CA 92374-3635,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.0628102,-117.1237862
+Redlands Unified,Grove,200 Nevada Street Redlands CA 92373-5385,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.0535522,-117.2162376
+Redlands Unified,Judson & Brown Elementary,1401 East Pennsylvania Avenue Redlands CA 92374-4734,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.073607,-117.156175
+Redlands Unified,Kimberly Elementary,301 West South Avenue Redlands CA 92373-7039,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.0340019286369,-117.166569829835
+Redlands Unified,Kingsbury Elementary,600 Cajon Street Redlands CA 92373-5938,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.047246,-117.176464
+Redlands Unified,Lugonia Elementary,202 East Pennsylvania Avenue Redlands CA 92374-2344,5.7,ppb,TRUE,tested,Redlands,San Bernardino County,34.073584,-117.180613816261
+Redlands Unified,McKinley Elementary,645 West Olive Avenue Redlands CA 92373-5167,8.4,ppb,TRUE,tested,Redlands,San Bernardino County,34.0497191677024,-117.187831769747
+Redlands Unified,Mentone Elementary,1320 Crafton Avenue Mentone CA 92359-1318,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.0705814984507,-117.121742496513
+Redlands Unified,Mission Elementary,10568 California Street Redlands CA 92373-6239,NA,NA,NA,not tested,Redlands,San Bernardino County,34.0685529,-117.2263085
+Redlands Unified,Mission School,10568 California St Redlands CA 92373,NA,NA,NA,not tested,Redlands,San Bernardino County,34.0685529,-117.2263085
+Redlands Unified,Moore Middle,1550 East Highland Avenue Redlands CA 92374-5518,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.051947893276,-117.150850648746
+Redlands Unified,Orangewood High (Continuation),515 Texas Street Redlands CA 92374-3071,9.4,ppb,TRUE,tested,Redlands,San Bernardino County,34.0598918366467,-117.191474701313
+Redlands Unified,Redlands East Valley High,31000 East Colton Avenue Redlands CA 92374-8290,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.0628,-117.1287
+Redlands Unified,Redlands Senior High,840 East Citrus Avenue Redlands CA 92374-5399,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.0554563094313,-117.172735484794
+Private,Sacred Heart Academy,215 South Eureka Street Redlands CA 92373,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.0521955614245,-117.182768795164
+Redlands Unified,Smiley Elementary,1210 West Cypress Avenue Redlands CA 92373-5726,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.0388633288662,-117.19209299771

@@ -1,13 +1,9 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Oxnard,Christa McAuliffe Elementary,3300 West Via Marina Avenue Oxnard CA 93035-2440,NA,NA,FALSE,tested,Oxnard,Ventura County,34.1884198823529,-119.214829235294
-Oxnard,Elm Street Elementary,450 East Elm Street Oxnard CA 93033-3646,NA,NA,NA,not tested,Oxnard,Ventura County,34.1826603685306,-119.17215462858
-Oxnard,Emilie Ritchen Elementary,2200 Cabrillo Way Oxnard CA 93030-3106,NA,NA,FALSE,tested,Oxnard,Ventura County,34.2155435151515,-119.201599888889
-Oxnard,Juan Lagunas Soria Elementary,3101 Dunkirk Drive Oxnard CA 93035-1203,NA,NA,NA,not tested,Oxnard,Ventura County,34.1970798,-119.211625485596
-Oxnard,Kamala Elementary,634 West Kamala Street Oxnard CA 93033-3407,NA,NA,FALSE,tested,Oxnard,Ventura County,34.1786478888889,-119.184331525253
-Oxnard,Marina West Elementary,2501 Carob Street Oxnard CA 93035-3334,NA,NA,FALSE,tested,Oxnard,Ventura County,34.183961,-119.204701
-Oxnard,McKinna Elementary,1611 South J Street Oxnard CA 93033-3110,14,ppb,TRUE,tested,Oxnard,Ventura County,34.183698836447,-119.189156531566
-Oxnard,Norman R. Brekke Elementary,"1400 Martin Luther King, Junior Drive Oxnard CA 93030-7600",NA,NA,NA,not tested,NA,NA,NA,NA
-Oxnard,"Richard B. Haydock, Middle",647 West Hill Street Oxnard CA 93033-3199,6.2,ppb,TRUE,tested,Oxnard,Ventura County,34.186095,-119.206767
-Oxnard,"Robert J. Frank, Middle",701 North Juanita Avenue Oxnard CA 93030-7442,NA,NA,FALSE,tested,Oxnard,Ventura County,34.2077755095949,-119.168630460305
-Oxnard,San Miguel,2400 South J Street Oxnard CA 93030-4431,NA,NA,FALSE,tested,Oxnard,Ventura County,34.1775496643836,-119.186148952055
-Oxnard,Thurgood Marshall Elementary,2900 Thurgood Marshall Drive Oxnard CA 93036-6349,NA,NA,FALSE,tested,Oxnard,Ventura County,34.221578,-119.209346
+Oakley Union Elementary,Almond Grove Elementary,5000 Amaryllis Street Oakley CA 94561-2206,NA,NA,NA,not tested,NA,Contra Costa County,37.9748181,-121.7252476
+Oakley Union Elementary,Delta Vista Middle,4901 Frank Hengel Way Oakley CA 94561-3712,NA,NA,NA,not tested,NA,Contra Costa County,37.990899,-121.689527
+Oakley Union Elementary,Gehringer Elementary,100 Simoni Ranch Road Oakley CA 94561-2713,NA,NA,NA,not tested,NA,NA,NA,NA
+Oakley Union Elementary,Iron House Elementary,4801 Frank Hengel Way Oakley CA 94561-4617,NA,NA,NA,not tested,NA,Contra Costa County,37.9975789,-121.6952259
+Oakley Union Elementary,Laurel Elementary,1141 Laurel Road Oakley CA 94561-5906,NA,NA,NA,not tested,NA,Contra Costa County,37.983203,-121.716456
+Oakley Union Elementary,O'Hara Park Middle,1100 O'Hara Avenue Oakley CA 94561-3502,NA,NA,NA,not tested,NA,Contra Costa County,37.9878949999106,-121.714105492075
+Oakley Union Elementary,Oakley Elementary,501 Norcross Lane Oakley CA 94561-2189,NA,NA,NA,not tested,NA,Contra Costa County,37.994983,-121.716284
+Oakley Union Elementary,Vintage Parkway Elementary,1000 Vintage Parkway Oakley CA 94561-3161,NA,NA,NA,not tested,NA,Contra Costa County,38.004461,-121.719848

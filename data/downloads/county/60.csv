@@ -1,7 +1,8 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
 Marysville Joint Unified,Anna McKenney Intermediate,1904 Huston Marysville CA 95901-3932,NA,NA,NA,not tested,NA,Yuba County,39.1576436669461,-121.571542136509
+Camptonville Elementary,Camptonville Elementary,16585 School Street Camptonville CA 95922-0278,NA,NA,FALSE,tested,,Yuba County,39.454337,-121.046684
 Plumas Lake Elementary,Cobblestone Elementary,1718 Churchill Way Plumas Lake CA 95961-9144,NA,NA,NA,not tested,NA,Yuba County,39.002627,-121.5497154
-Camptonville Union Elementary School,CORE Charter School,321 16th Street Marysville CA 95901,NA,NA,NA,not tested,NA,Yuba County,39.1527952,-121.5885046
+Camptonville Elementary,CORE Charter School,321 16th Street Marysville CA 95901,NA,NA,NA,not tested,NA,Yuba County,39.1527952,-121.5885046
 Marysville Joint Unified,Covillaud Elementary,628 F Street Marysville CA 95901-5405,NA,NA,NA,not tested,NA,Yuba County,39.1415484855519,-121.592391589789
 Marysville Joint Unified,Ella Elementary,4850 Olivehurst Avenue Olivehurst CA 95961-4230,NA,NA,NA,not tested,NA,Yuba County,39.09400215,-121.552575108214
 Yuba County Office of Education,Harry P B Carden,1023 14th Street Marysville CA 95901-4149,NA,NA,NA,not tested,NA,Yuba County,39.1497134895865,-121.599767751685

@@ -1,46 +1,8 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Santa Ana Unified,Adams Elementary,2130 South Raitt Street Santa Ana CA 92704-5001,NA,NA,FALSE,tested,Santa Ana,Orange County,33.719,-117.896176
-Santa Ana Unified,Advanced Learning Academy,335 East Walnut Avenue Santa Ana CA 92701,NA,NA,FALSE,tested,NA,NA,NA,NA
-Santa Ana Unified,Carl Harvey Elementary,1635 South Center Street Santa Ana CA 92704-4111,6.2,ppb,TRUE,tested,Santa Ana,Orange County,33.7252181277068,-117.89806622306
-Santa Ana Unified,Century High,1401 South Grand Avenue Santa Ana CA 92705-4408,NA,NA,FALSE,tested,Santa Ana,Orange County,33.7091563,-117.8518628
-Santa Ana Unified,Cesar E. Chavez High,2128 South Cypress Santa Ana CA 92707-3244,NA,NA,FALSE,tested,NA,NA,NA,NA
-Santa Ana Unified,Community Day Intermediate and High,804 N Fairview Street Santa Ana CA 92703,NA,NA,NA,not tested,Santa Ana,Orange County,33.7544,-117.9026
-Santa Ana Unified,Diamond Elementary,1450 South Center Street Santa Ana CA 92704-3660,NA,NA,FALSE,tested,Santa Ana,Orange County,33.728023126782404,-117.898244266032
-Santa Ana Unified,Edward B. Cole Academy,333 East Walnut Street Santa Ana CA 92701-5928,NA,NA,FALSE,tested,Santa Ana,Orange County,33.744509,-117.86463
-Santa Ana Unified,El Sol Santa Ana Science and Arts Academy,1010 North Broadway Street Santa Ana CA 92701-3408,NA,NA,NA,not tested,NA,NA,NA,NA
-Santa Ana Unified,Franklin Elementary,210 West Cubbon Santa Ana CA 92701-5649,NA,NA,FALSE,tested,NA,NA,NA,NA
-Santa Ana Unified,Frederick Remington Elementary,1325 East Fourth Street Santa Ana CA 92701-5111,NA,NA,FALSE,tested,NA,NA,NA,NA
-Santa Ana Unified,Fremont Elementary,1930 West 10th Street Santa Ana CA 92703-2045,NA,NA,FALSE,tested,Santa Ana,Orange County,33.7533299266462,-117.895924212555
-Santa Ana Unified,Garfield Elementary,850 East Brown Street Santa Ana CA 92701-3902,NA,NA,FALSE,tested,NA,NA,NA,NA
-Santa Ana Unified,George Washington Carver Elementary,1401 West Santa Ana Boulevard Santa Ana CA 92703-3708,NA,NA,FALSE,tested,Santa Ana,Orange County,33.7479482,-117.8869213
-Santa Ana Unified,Gerald P. Carr Intermediate,2120 West Edinger Street Santa Ana CA 92704-4106,NA,NA,FALSE,tested,NA,NA,NA,NA
-Santa Ana Unified,Gonzalo Felicitas Mendez Fundamental Intermediate,2000 North Bristol Santa Ana CA 92706-2451,NA,NA,FALSE,tested,NA,NA,NA,NA
-Santa Ana Unified,Hector G. Godinez,3002 Centennial Road Santa Ana CA 92704-3904,NA,NA,FALSE,tested,NA,NA,NA,NA
-Santa Ana Unified,Heroes Elementary,1111 Civic Center Drive Santa Ana CA 92703-2229,NA,NA,FALSE,tested,NA,NA,NA,NA
-Santa Ana Unified,Hoover Elementary,408 East Santa Clara Avenue Santa Ana CA 92706-2957,NA,NA,FALSE,tested,NA,NA,NA,NA
-Santa Ana Unified,Independent Study Program,2802 S Flower St Santa Ana CA 92707,NA,NA,NA,not tested,Santa Ana,Orange County,33.7090755870381,-117.876934812019
-Santa Ana Unified,Jefferson Elementary,1522 West Adams Street Santa Ana CA 92704-5798,NA,NA,FALSE,tested,Santa Ana,Orange County,33.711933,-117.891153
-Santa Ana Unified,John F. Kennedy Elementary,1300 East McFadden Santa Ana CA 92705-4104,NA,NA,FALSE,tested,NA,NA,NA,NA
-Santa Ana Unified,John Muir Fundamental Elementary,1951 North Mabury Santa Ana CA 92705-1854,NA,NA,FALSE,tested,NA,NA,NA,NA
-Santa Ana Unified,Julia C. Lathrop Intermediate,1111 South Broadway Santa Ana CA 92707-1205,NA,NA,FALSE,tested,Santa Ana,Orange County,33.734173,-117.869714
-Santa Ana Unified,Manuel Esqueda Elementary,2240 South Main Street Santa Ana CA 92707-3264,NA,NA,FALSE,tested,Santa Ana,Orange County,33.6970645,-117.8681703
-Santa Ana Unified,Martin Elementary,939 West Wilshire Santa Ana CA 92707-1142,NA,NA,FALSE,tested,NA,NA,NA,NA
-Santa Ana Unified,Martin Luther King Jr. Elementary,1001 South Graham Lane Santa Ana CA 92703-4726,NA,NA,FALSE,tested,NA,NA,NA,NA
-Santa Ana Unified,McFadden Intermediate,2701 South Raitt Santa Ana CA 92704-5599,NA,NA,FALSE,tested,NA,NA,NA,NA
-Santa Ana Unified,Middle College High,1530 West 17th Street Santa Ana CA 92706-3398,NA,NA,NA,not tested,Santa Ana,Orange County,33.7599640659907,-117.89000664545
-Santa Ana Unified,Mitchell Child Development,3001 West Harvard Santa Ana CA 92704-3913,NA,NA,FALSE,tested,NA,NA,NA,NA
-Santa Ana Unified,Monroe Elementary,417 East Central Avenue Santa Ana CA 92707-3501,NA,NA,FALSE,tested,Santa Ana,Orange County,33.7139921593766,-117.863931187007
-Santa Ana Unified,Nova Academy,1010 West 17th Street Santa Ana CA 92706-3504,NA,NA,NA,not tested,Santa Ana,Orange County,33.7599699611006,-117.877907521827
-Santa Ana Unified,OCSA,1010 North Main Street Santa Ana CA 92701-3608,NA,NA,NA,not tested,Santa Ana,Orange County,33.7536087142857,-117.867709
-Santa Ana Unified,Orange County Educational Arts Academy,825 North Broadway Santa Ana CA 92701-3423,NA,NA,NA,not tested,Santa Ana,Orange County,33.7521971834164,-117.869605535761
-Santa Ana Unified,REACH Academy,804 North Fairview Road Santa Ana CA 92703-1840,NA,NA,FALSE,tested,NA,NA,NA,NA
-Santa Ana Unified,Santa Ana High,520 West Walnut Santa Ana CA 92701-5559,NA,NA,FALSE,tested,NA,NA,NA,NA
-Santa Ana Unified,Santiago Elementary,2212 North Baker Street Santa Ana CA 92706-1999,NA,NA,FALSE,tested,Santa Ana,Orange County,33.7648244942888,-117.882577510618
-Santa Ana Unified,Sierra Preparatory Academy,2021 North Grand Avenue Santa Ana CA 92705-1751,7,ppb,TRUE,tested,Santa Ana,Orange County,33.7627899553596,-117.851754963932
-Santa Ana Unified,Theodore Roosevelt Elementary,501 South Halladay Santa Ana CA 92701-6114,NA,NA,FALSE,tested,NA,NA,NA,NA
-Santa Ana Unified,Valley High,1801 South Greenville Street Santa Ana CA 92704-4005,NA,NA,FALSE,tested,Santa Ana,Orange County,33.723019,-117.901475
-Santa Ana Unified,Walker Elementary,811 East Bishop Street Santa Ana CA 92701-6205,NA,NA,FALSE,tested,Santa Ana,Orange County,33.740849,-117.857667934067
-Santa Ana Unified,Wallace R. Davis Elementary,1405 French Street Santa Ana CA 92701-2414,NA,NA,FALSE,tested,Santa Ana,Orange County,33.7568967532884,-117.863900629085
-Santa Ana Unified,Washington Elementary,910 West Anahurst Place Santa Ana CA 92707-2501,NA,NA,FALSE,tested,Santa Ana,Orange County,33.71723945,-117.875498930415
-Santa Ana Unified,Willard Intermediate,1342 North Ross Santa Ana CA 92706-3816,NA,NA,FALSE,tested,NA,NA,NA,NA
-Santa Ana Unified,Wilson Elementary,1317 North Baker Street Santa Ana CA 92706-3457,NA,NA,FALSE,tested,Santa Ana,Orange County,33.7560356706781,-117.882632480554
+San Joaquin County Office of Education,"John F. Cruikshank, Jr.",2707 Transworld Drive Stockton CA 95206-3948,NA,NA,NA,not tested,Stockton,San Joaquin County,37.906898750694,-121.22875362555
+San Joaquin County Office of Education,one.Charter,2707 Transworld Dr Stockton CA 95206-3948,NA,NA,NA,not tested,Stockton,San Joaquin County,37.906898750694,-121.22875362555
+San Joaquin County Office of Education,River Islands Technology Academy II,1175 Marina Drive Lathrop CA 95330-8543,NA,NA,NA,not tested,Lathrop,San Joaquin County,37.7995458,-121.3188311
+San Joaquin County Office of Education,San Joaquin Building Futures Academy,3100 Monte Diablo Avenue Stockton CA 95203-1108,NA,NA,NA,not tested,Stockton,San Joaquin County,37.9545612,-121.342491074837
+San Joaquin County Office of Education,San Joaquin County Community,2707 Transworld D Stockton CA 95206-3948,NA,NA,NA,not tested,NA,NA,NA,NA
+San Joaquin County Office of Education,San Joaquin County Special Education,2707 Transworld Dr. Stockton CA 95206-3948,NA,NA,NA,not tested,Stockton,San Joaquin County,37.906898750694,-121.22875362555
+San Joaquin County Office of Education,Venture Academy,2829 Transworld Drive Stockton CA 95206-3950,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9076065008119,-121.230580248738

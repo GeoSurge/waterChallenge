@@ -1,18 +1,16 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Cupertino Union,Abraham Lincoln Elementary,21710 McClellan Road Cupertino CA 95014-4054,6.3,ppb,TRUE,tested,Cupertino,Santa Clara County,37.31494445,-122.054055543415
-Cupertino Union,C. B. Eaton Elementary,20220 Suisun Drive Cupertino CA 95014-4428,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.314792250000004,-122.026189594375
-Fremont Union High,Cupertino High,10100 Finch Avenue Cupertino CA 95014-3411,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.32076165,-122.008954023319
-Cupertino Union,Cupertino Middle,1650 South Bernardo Ave. Sunnyvale CA 94087-5256,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.34007595,-122.05810354039
-Cupertino Union,Cupertino Middle,1650 South Bernardo Avenue Sunnyvale CA 94087-5256,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.34007595,-122.05810354039
-Cupertino Union,D. J. Sedgwick Elementary,19200 Phil Lane Cupertino CA 95014-3566,NA,NA,NA,not tested,Cupertino,Santa Clara County,37.3153599,-122.00851375683
-Cupertino Union,Garden Gate Elementary,10500 Ann Arbor Avenue Cupertino CA 95014-1661,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.33151935,-122.044798792772
-Fremont Union High,Homestead High,21370 Homestead Road Cupertino CA 95014-0203,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.3364109,-122.04801905545
-Cupertino Union,John F. Kennedy Middle,821 Bubb Road Cupertino CA 95014-4938,NA,NA,NA,not tested,Cupertino,Santa Clara County,37.3107131,-122.052769980381
-Fremont Union High,Monta Vista High,21840 McClellan Road Cupertino CA 95014-4055,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.31491205,-122.056726500299
-Cupertino Union,Murdock-Portal Elementary,1188 Wunderlich Drive San Jose CA 95129-3163,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.3045691627047,-121.999366812423
-Cupertino Union,Sam H. Lawson Middle,10401 Vista Drive Cupertino CA 95014-2081,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.32937025,-122.027168700195
-Cupertino Union,Stevens Creek Elementary,10300 Ainsworth Drive Cupertino CA 95014-1099,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.32765645,-122.06363933192
-Cupertino Union,Warren E. Hyde Middle,19325 Bollinger Road Cupertino CA 95014-4657,NA,NA,NA,not tested,Cupertino,Santa Clara County,37.31137645,-122.011565021962
-Cupertino Union,West Valley Elementary,1635 Belleville Way Sunnyvale CA 94087-3926,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.3388960816131,-122.061048832413
-Cupertino Union,William Faria Elementary,10155 Barbara Lane Cupertino CA 95014-2901,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.3212587,-122.039904599999
-Cupertino Union,William Regnart Elementary,1170 Yorkshire Drive Cupertino CA 95014-4963,NA,NA,NA,not tested,Cupertino,Santa Clara County,37.3039769,-122.0473889
+LAUSD,54th Street Elementary,"5501 S.Eileen Ave, Los Angeles, CA 90043",NA,NA,NA,exempt,Covina,Los Angeles County,34.0851544,-117.9104175
+Covina-Valley Unified,Barranca Elementary,727 South Barranca Avenue Covina CA 91723-3665,12,ppb,TRUE,tested,Covina,Los Angeles County,34.0861146,-117.8813437
+Covina-Valley Unified,Ben Lomond Elementary,621 East Covina Boulevard Covina CA 91722-2959,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0995018163265,-117.87816344898
+Charter Oak Unified,Cedargrove Elementary,1209 North Glendora Avenue Covina CA 91724-1506,5.2,ppb,TRUE,tested,Covina,Los Angeles County,34.0997108446319,-117.863902384883
+Charter Oak Unified,Charter Oak High,1430 East Covina Boulevard Covina CA 91724-1651,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0994152,-117.8626877
+Covina-Valley Unified,Covina High,463 South Hollenbeck Avenue Covina CA 91723-2955,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0814773308649,-117.899036258277
+Los Angeles Unified,Fifty-Fourth Street Elementary,5501 South Eileen Avenue Los Angeles CA 90043-2255,5.1,ppb,TRUE,tested,Covina,Los Angeles County,34.0851544,-117.9104175
+Azusa Unified,Gladstone High,1340 North Enid Covina CA 91722-1214,NA,NA,FALSE,tested,Covina,Los Angeles County,34.091794,-117.9144782
+Charter Oak Unified,Glen Oak Elementary,1000 North Sunflower Ave Covina CA 91724-2307,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0982035490196,-117.846270843137
+Covina-Valley Unified,Lark Ellen Elementary,4555 North Lark Ellen Avenue Covina CA 91722-3134,NA,NA,NA,not tested,Covina,Los Angeles County,34.0949015887184,-117.916667647112
+Covina-Valley Unified,Las Palmas Middle,641 North Lark Ellen Avenue Covina CA 91722-3463,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0907729636761,-117.916683716282
+Covina-Valley Unified,Merwin Elementary,16125 Cypress Covina CA 91722-2236,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0957384,-117.9055833
+Covina-Valley Unified,Sierra Vista Middle,777 East Puente Street Covina CA 91723-2826,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0825668,-117.8835181
+Private,Sonrise Christian,1220 East Ruddock Street Covina CA 91724,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0897449390295,-117.865392203647
+Charter Oak Unified,Stone Ridge Academy,1115 East Puente St Covina CA 91724,NA,NA,NA,not tested,Covina,Los Angeles County,34.08346885,-117.867729793367

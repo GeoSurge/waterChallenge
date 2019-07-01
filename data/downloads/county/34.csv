@@ -6,6 +6,7 @@ Sacramento City Unified,Albert Einstein Middle,9325 Mirandy Drive Sacramento CA 
 San Juan Unified,Albert Schweitzer Elementary,4350 Glenridge Drive Carmichael CA 95608-2043,NA,NA,FALSE,tested,NA,Sacramento County,38.6425584208075,-121.300276287382
 Sacramento City Unified,Alice Birney Waldorf-Inspired,6251 13th Street Sacramento CA 95831-1861,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.512902,-121.510019
 Elverta Joint Elementary,Alpha Charter,8920 Elwyn Avenue Elverta CA 95626-9580,NA,NA,FALSE,tested,NA,Sacramento County,38.7306154707972,-121.466631311089
+Elverta Joint Elementary,Alpha Charter,8920 Elwyn Avenue Elverta CA 95626-9217,NA,NA,FALSE,tested,NA,Sacramento County,38.7306154707972,-121.466631311089
 Elverta Joint Elementary,Alpha Technology Middle,8920 Elwyn Avenue Elverta CA 95626-9217,NA,NA,NA,not tested,NA,Sacramento County,38.7306154707972,-121.466631311089
 Natomas Unified,American Lakes Elementary,2800 Stonecreek Drive Sacramento CA 95833-1634,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.618274,-121.493922
 Sacramento City Unified,American Legion High (Continuation),3801 Broadway Sacramento CA 95817-3399,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.547563,-121.464956
@@ -70,6 +71,7 @@ San Juan Unified,Del Campo High,4925 Dewey Dr. Fair Oaks CA 95628-4402,NA,NA,FAL
 San Juan Unified,Del Dayo Elementary,1301 McClaren Drive Carmichael CA 95608-6119,NA,NA,NA,not tested,NA,Sacramento County,38.587997,-121.337683
 Twin Rivers Unified,Del Paso Heights Elementary,590 Morey Avenue Sacramento CA 95838-3332,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6347016842875,-121.452924825051
 San Juan Unified,Del Paso Manor Elementary,2700 Maryal Drive Sacramento CA 95821-6621,NA,NA,FALSE,tested,NA,Sacramento County,38.612711,-121.369335
+Natomas Unified,Discovery High,3401 Fong Ranch Road Sacramento CA 95834-1797,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6369719,-121.4892512
 Twin Rivers Unified,Dry Creek Elementary,1230 G Street Rio Linda CA 95673-4414,NA,NA,FALSE,tested,NA,Sacramento County,38.6800004102564,-121.437038641026
 San Juan Unified,Dyer-Kelly Elementary,2236 Edison Avenue Sacramento CA 95821-1607,NA,NA,NA,not tested,Sacramento,Sacramento County,38.6227100294118,-121.412421441176
 San Juan Unified,Earl Legette Elementary,4623 Kenneth Avenue Fair Oaks CA 95628-6242,NA,NA,FALSE,tested,NA,Sacramento County,38.649454,-121.244259142857
@@ -103,7 +105,7 @@ Elk Grove Unified,Florin Elementary,7300 Kara Drive Sacramento CA 95828-3509,NA,
 Elk Grove Unified,Florin High,7956 Cottonwood Lane Sacramento CA 95828-5404,NA,NA,FALSE,tested,NA,Sacramento County,38.4736092856412,-121.390390341317
 Folsom-Cordova Unified,Folsom Cordova K-8 Community Charter,4420 Monhegan Way Mather CA 95655-3025,5.1,ppb,TRUE,tested,NA,Sacramento County,38.5457259042493,-121.286720120245
 Folsom-Cordova Unified,Folsom High,1655 Iron Point Road Folsom CA 95630-3053,NA,NA,FALSE,tested,NA,Sacramento County,38.6499814095701,-121.158925075017
-Folsom-Cordova Unified,Folsom Hills Elementary,106 Manseau Drive Folsom CA 95630-5233,26,ppb,TRUE,tested,NA,Sacramento County,38.686733828762,-121.12824154201
+Folsom-Cordova Unified,Folsom Hills Elementary,106 Manseau Drive Folsom CA 95630-5233,NA,NA,FALSE,tested,NA,Sacramento County,38.686733828762,-121.12824154201
 Folsom-Cordova Unified,Folsom Lake High,955 Riley Street Folsom CA 95630-3002,NA,NA,FALSE,tested,NA,Sacramento County,38.6717745593152,-121.170411541502
 Folsom-Cordova Unified,Folsom Middle,500 Blue Ravine Road Folsom CA 95630-3403,NA,NA,FALSE,tested,NA,Sacramento County,38.6732044,-121.1482189
 Folsom-Cordova Unified,Folsom-Cordova Adult,10850 Gadsten Way Rancho Cordova CA 95670-5102,NA,NA,NA,not tested,Rancho Cordova,Sacramento County,38.6073336825056,-121.280482412376
@@ -122,13 +124,14 @@ San Juan Unified,"General Davie, Jr. Primary Center",1500 Dom Way Sacramento CA 
 Sacramento City Unified,Genevieve Didion,6490 Harmon Drive Sacramento CA 95831-1049,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.509258,-121.5500872
 Sacramento City Unified,George Washington Carver School of Arts and Science,10101 Systems Parkway Sacramento CA 95827-3007,NA,NA,FALSE,tested,Rancho Cordova,Sacramento County,38.5648692,-121.3167883
 Robla Elementary,Glenwood Elementary,201 Jessie Avenue Sacramento CA 95838-2500,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6440358461538,-121.463664846154
-Folsom-Cordova Unified,Gold Ridge Elementary,735 Halidon Way Folsom CA 95630-8402,27,ppb,TRUE,tested,NA,Sacramento County,38.6494646049208,-121.132752778269
+Folsom-Cordova Unified,Gold Ridge Elementary,735 Halidon Way Folsom CA 95630-8402,NA,NA,FALSE,tested,NA,Sacramento County,38.6494646049208,-121.132752778269
 San Juan Unified,Gold River Discovery Center K-8,2200 Roaring Camp Drive Gold River CA 95670-7677,7.6,ppb,TRUE,tested,NA,Sacramento County,38.624404,-121.245613
 Sacramento City Unified,Golden Empire Elementary,9045 Canberra Drive Sacramento CA 95826-4414,NA,NA,FALSE,tested,NA,Sacramento County,38.541312875,-121.36619625
 San Juan Unified,Grand Oaks Elementary,7901 Rosswood Drive Citrus Heights CA 95621-1246,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.7102180806137,-121.300523202123
 Twin Rivers Unified,Grant Union High,1400 Grand Avenue Sacramento CA 95838-3624,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.636462,-121.4352285
 San Juan Unified,Green Oaks Fundamental Elementary,7145 Filbert Avenue Orangevale CA 95662-2716,NA,NA,FALSE,tested,NA,Sacramento County,38.697123,-121.215772
 San Juan Unified,Greer Elementary,2301 Hurley Way Sacramento CA 95825-3516,NA,NA,FALSE,tested,NA,Sacramento County,38.588915,-121.410565
+Natomas Unified,H. Allen Hight Elementary,3200 North Park Drive Sacramento CA 95835-1896,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6652254260546,-121.531900393812
 Sacramento City Unified,H. W. Harkness Elementary,2147 54th Avenue Sacramento CA 95822-4108,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.5023208965517,-121.488045862069
 Twin Rivers Unified,Hagginwood Elementary,1418 Palo Verde Avenue Sacramento CA 95815-1417,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.623399,-121.434257
 Twin Rivers Unified,Harmon Johnson Elementary,577 Las Palmas Avenue Sacramento CA 95815-2040,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6187973673469,-121.452922530612
@@ -139,10 +142,12 @@ Twin Rivers Unified,Hazel Strauch Elementary,3141 Northstead Drive Sacramento CA
 Elk Grove Unified,Helen Carr Castello Elementary,9850 Fire Poppy Drive Elk Grove CA 95757-2851,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.407329,-121.440852
 Twin Rivers Unified,Heritage Peak Charter,6450 20th Street Rio Linda CA 95673-3718,5.5,ppb,TRUE,tested,Sacramento,Sacramento County,38.6848049865772,-121.419749147651
 Elk Grove Unified,Herman Leimbach Elementary,8101 Grandstaff Drive Sacramento CA 95823-5312,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.46387,-121.424065
+Natomas Unified,Heron,5151 Banfield Drive Sacramento CA 95835-1421,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.673873,-121.510298
 Sacramento City Unified,Hiram W. Johnson High,6879 14th Avenue Sacramento CA 95820-3431,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.5396847744361,-121.423950661654
 Sacramento City Unified,Hollywood Park Elementary,4915 Harte Way Sacramento CA 95822-2110,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.5301092057926,-121.490633342233
 San Juan Unified,Howe Avenue Elementary,2404 Howe Avenue Sacramento CA 95825-0132,NA,NA,NA,not tested,NA,Sacramento County,38.608256,-121.415158
 Sacramento City Unified,Hubert H. Bancroft Elementary,2929 Belmar Street Sacramento CA 95826-3604,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.5531992,-121.38735672
+Natomas Unified,Inderkum High,2500 New Market Drive Sacramento CA 95835-2238,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.658194,-121.521008
 Elk Grove Unified,Isabelle Jackson Elementary,8351 Cutler Way Sacramento CA 95828-5719,NA,NA,FALSE,tested,NA,Sacramento County,38.4619093888581,-121.396348399381
 Sacramento City Unified,Isador Cohen Elementary,9025 Salmon Falls Drive Sacramento CA 95826-2425,5.3,ppb,TRUE,tested,NA,Sacramento County,38.560617,-121.3688525
 Elk Grove Unified,James A. McKee Elementary,8701 Halverson Drive Elk Grove CA 95624-1628,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.419564,-121.378969
@@ -175,6 +180,7 @@ Elk Grove Unified,Las Flores High (Alternative),5900 Bamford Drive Sacramento CA
 San Juan Unified,Laurel Ruff Transition,5325 Garfield Avenue Sacramento CA 95841-3103,NA,NA,NA,not tested,NA,Sacramento County,38.6610545745478,-121.337209282911
 Sacramento City Unified,Leataata Floyd Elementary,401 McClatchy Way Sacramento CA 95818-2806,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.5622573,-121.512655807149
 Sacramento City Unified,Leonardo Da Vinci,4701 Joaquin Way Sacramento CA 95822-2120,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.5308251,-121.489376071583
+Natomas Unified,Leroy Greene Academy,2950 West River Drive Sacramento CA 95833-3767,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6077881824115,-121.538125773152
 Galt Joint Union High,Liberty Ranch High,12945 Marengo Road Galt CA 95632-8422,NA,NA,NA,not tested,Galt,Sacramento County,38.2852468347729,-121.282544433056
 San Juan Unified,Lichen K-8,8319 Lichen Drive Citrus Heights CA 95621-1123,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.7190424081633,-121.305411612245
 San Juan Unified,Louis Pasteur Fundamental Middle,8935 Elm Avenue Orangevale CA 95662-3522,NA,NA,FALSE,tested,NA,Sacramento County,38.6930609552888,-121.223675639341
@@ -202,8 +208,12 @@ Elk Grove Unified,Monterey Trail High,8661 Power Inn Road Elk Grove CA 95624-346
 Private,Montessori Country Day,7575 Rush River Dr Sacramento CA 95831,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.4843805833333,-121.532943541667
 Private,Montessori Project Orangevale campus,6545 Beech Ave Orangevale CA 95662,NA,NA,FALSE,tested,NA,Sacramento County,38.6847919952908,-121.230318680691
 Twin Rivers Unified,Morey Avenue Early Childhood Development,155 Morey Avenue Sacramento CA 95838-3219,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6348558770492,-121.465015778689
+Natomas Unified,Natomas Charter,4600 Blackrock Drive Sacramento CA 95835-1250,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.65833,-121.495039
 Natomas Unified,Natomas Gateways Middle,3301 Fong Ranch Road Sacramento CA 95834-1719,NA,NA,NA,not tested,Sacramento,Sacramento County,38.627566,-121.493849
+Natomas Unified,Natomas High,3301 Fong Ranch Rd Sacramento CA 95834-1719,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.627566,-121.493849
+Natomas Unified,Natomas Middle,3200 North Park Dr Sacramento CA 95835-1896,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6652254260546,-121.531900393812
 Natomas Unified,Natomas Pacific Pathways Prep,3700 Del Paso Road Sacramento CA 95834-9606,NA,NA,NA,not tested,Sacramento,Sacramento County,38.655539,-121.550644
+Natomas Unified,Natomas Park Elementary,4700 Crest Drive Sacramento CA 95835-1251,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.660443,-121.504028
 Folsom-Cordova Unified,Navigator Elementary,10679 Bear Hollow Drive Rancho Cordova CA 95670-6350,NA,NA,FALSE,tested,Rancho Cordova,Sacramento County,38.574151,-121.285846
 Sacramento City Unified,New Joseph Bonnheim (NJB) Community Charter,7300 Marin Avenue Sacramento CA 95820-3551,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.534042,-121.418866
 Sacramento City Unified,New Technology High,1400 Dickson Street Sacramento CA 95822-3437,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.518879,-121.50464
@@ -218,7 +228,7 @@ Folsom-Cordova Unified,Oak Chan Elementary,101 Prewett Drive Folsom CA 95630-680
 Sacramento City Unified,Oak Park Preparatory Academy,2315 34th Street Sacramento CA 95817-1211,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.5570501,-121.466106166009
 Twin Rivers Unified,Oakdale Elementary,3708 Myrtle Avenue North Highlands CA 95660-5204,NA,NA,FALSE,tested,NA,Sacramento County,38.6539769795918,-121.377912163265
 San Juan Unified,Oakview Community Elementary,7229 Beech Avenue Orangevale CA 95662-2420,NA,NA,FALSE,tested,NA,Sacramento County,38.6969207234043,-121.230116234043
-Dry Creek Joint Elementary,Olive Grove Elementary,7926 Firestone Way Antelope CA 95843-4633,NA,NA,NA,not tested,NA,Sacramento County,38.7109648371051,-121.341648859843
+Dry Creek Joint Elementary,Olive Grove Elementary,7926 Firestone Way Antelope CA 95843-4633,NA,NA,FALSE,tested,NA,Sacramento County,38.7109648371051,-121.341648859843
 San Juan Unified,Options for Youth-San Juan,5825 Windmill Way Carmichael CA 95608-1300,NA,NA,NA,not tested,NA,Sacramento County,38.6480434545455,-121.329008767677
 Twin Rivers Unified,Orchard Elementary,1040 Q Street Rio Linda CA 95673-1532,NA,NA,FALSE,tested,NA,Sacramento County,38.6981461010101,-121.441949222222
 San Juan Unified,Ottomon Way Elementary,9460 Ottomon Way Orangevale CA 95662-2845,NA,NA,FALSE,tested,NA,Sacramento County,38.69773,-121.202845
@@ -280,14 +290,15 @@ Sacramento City Unified,Sol Aureus College Preparatory,6620 Gloria Drive Sacrame
 Private,St. Francis Catholic High School,5900 Elvas Avenue Sacramento CA 95819,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.564991,-121.432261
 Sacramento City Unified,St. HOPE Public School 7,5201 Strawberry Lane Sacramento CA 95820-4815,13.1,ppb,TRUE,tested,Sacramento,Sacramento County,38.527921,-121.467183
 Twin Rivers Unified,St. Lawrence Elementary School,4325 Don Julio Blvd North Highlands CA 95660,NA,NA,NA,not tested,NA,Sacramento County,38.6887553829409,-121.364775809978
+Natomas Unified,STAR Academy,4004 Gloster Way Sacramento CA 95834,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6421219724182,-121.514264434268
 San Juan Unified,Starr King K-8,4848 Cottage Way Carmichael CA 95608-5612,NA,NA,NA,not tested,NA,Sacramento County,38.6028013180561,-121.3531682221
 Elk Grove Unified,Stone Lake Elementary,9673 Lakepoint Drive Elk Grove CA 95758-3615,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.4098488982086,-121.465025713504
 Sacramento City Unified,Success Academy,2221 Matson Dr Sacramento CA 95822,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.4863994285714,-121.48705422449
 Elk Grove Unified,Sunrise Elementary,11821 Cobble Brook Drive Rancho Cordova CA 95742-8008,NA,NA,FALSE,tested,Rancho Cordova,Sacramento County,38.5555682,-121.237609873867
 San Juan Unified,Sunrise Tech Center,7322 Sunrise Boulevard Citrus Heights CA 95610-3000,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.699272,-121.2716545
 Sacramento City Unified,Susan B. Anthony Elementary,7864 Detroit Boulevard Sacramento CA 95832-1500,8.8,ppb,TRUE,tested,Sacramento,Sacramento County,38.4716163678451,-121.466631460666
-Folsom-Cordova Unified,Sutter Middle,715 Riley Street Folsom CA 95630-3053,NA,NA,FALSE,tested,NA,Sacramento County,38.6743448165351,-121.173324650195
 Sacramento City Unified,Sutter Middle,3150 I Street Sacramento CA 95816-4422,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.5740119090909,-121.463837040404
+Folsom-Cordova Unified,Sutter Middle,715 Riley Street Folsom CA 95630-3053,NA,NA,FALSE,tested,NA,Sacramento County,38.6743448165351,-121.173324650195
 Sacramento City Unified,Sutterville Elementary,4967 Monterey Way Sacramento CA 95822-2618,5.4,ppb,TRUE,tested,Sacramento,Sacramento County,38.5297959795918,-121.501511959184
 San Juan Unified,Sylvan Middle,7137 Auburn Boulevard Citrus Heights CA 95610-3824,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.6978956698113,-121.290429471698
 Elk Grove Unified,T. R. Smedberg Middle,8239 Kingsbridge Drive Sacramento CA 95829-6040,NA,NA,FALSE,tested,NA,Sacramento County,38.459133385428,-121.348508925946
@@ -301,12 +312,13 @@ San Juan Unified,Thomas Kelly Elementary,6301 Moraga Drive Carmichael CA 95608-1
 Elk Grove Unified,Toby Johnson Middle,10099 Franklin High Road Elk Grove CA 95757-5951,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.391054,-121.433183
 San Juan Unified,Trajan Elementary,6601 Trajan Drive Orangevale CA 95662-3220,NA,NA,FALSE,tested,NA,Sacramento County,38.686887,-121.249779
 San Juan Unified,Twin Lakes Elementary,5515 Main Avenue Orangevale CA 95662-5314,NA,NA,FALSE,tested,NA,Sacramento County,38.6794283,-121.2032828
+Natomas Unified,Two Rivers Elementary,3201 West River Drive Sacramento CA 95833-3768,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6079417107588,-121.538224157
 Elk Grove Unified,Valley High,6300 Ehrhardt Avenue Sacramento CA 95823-5637,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.454738,-121.427822
 San Juan Unified,Valley Oaks,3555 Auburn Boulevard Sacramento CA 95821-2005,NA,NA,NA,not tested,Sacramento,Sacramento County,38.6377305454545,-121.381680636364
 Galt Joint Union Elementary,Valley Oaks Elementary,21 C Street Galt CA 95632-1825,NA,NA,NA,not tested,Galt,Sacramento County,38.2515564264275,-121.309177688796
 Galt Joint Union Elementary,Vernon E. Greer Elementary,248 West A Street Galt CA 95632-2449,NA,NA,NA,not tested,Galt,Sacramento County,38.2546245625,-121.3194106875
 Twin Rivers Unified,Village Elementary,6845 Larchmont Drive North Highlands CA 95660-3506,NA,NA,FALSE,tested,NA,Sacramento County,38.6915185293983,-121.370039239709
-San Juan Unified,Visions In Education,5030 El Camino Avenue Carmichael CA 95608-4650,NA,NA,NA,not tested,NA,Sacramento County,38.6099585,-121.347075363636
+San Juan Unified,Visions In Education,5030 El Camino Avenue Carmichael CA 95608-4650,NA,NA,FALSE,tested,NA,Sacramento County,38.6099585,-121.347075363636
 Folsom-Cordova Unified,Vista del Lago High,1970 Broadstone Parkway Folsom CA 95630-8335,NA,NA,FALSE,tested,NA,Sacramento County,38.658389259607,-121.114488598093
 Twin Rivers Unified,Vista Nueva Career and Technology High,2035 North Avenue Sacramento CA 95838-3129,NA,NA,NA,not tested,Sacramento,Sacramento County,38.640050625,-121.418933958333
 Folsom-Cordova Unified,W. E. Mitchell Middle,2100 Zinfandel Drive Rancho Cordova CA 95670-5228,NA,NA,FALSE,tested,Rancho Cordova,Sacramento County,38.61086,-121.275823
@@ -314,7 +326,8 @@ Folsom-Cordova Unified,Walnutwood High (Independent Study),10850 Gadsten Wy Ranc
 Twin Rivers Unified,Warren A. Allison Elementary,4315 Don Julio Boulevard North Highlands CA 95660-3838,NA,NA,FALSE,tested,NA,Sacramento County,38.6887048232865,-121.364890061664
 Sacramento City Unified,Washington Elementary,520 18th St Sacramento CA 95814,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.5826498333333,-121.480396833333
 Sacramento City Unified,West Campus,5022 58th Street Sacramento CA 95820-5610,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.5285491946309,-121.438818483221
-Washington Unified,Westfield Village Elementary,508 Poplar Street West Sacramento CA 95691-2555,NA,NA,NA,not tested,Galt,Sacramento County,38.260285885906,-121.30560214094
+Washington Unified,Westfield Village Elementary,508 Poplar Street West Sacramento CA 95691-2555,NA,NA,FALSE,tested,Galt,Sacramento County,38.260285885906,-121.30560214094
+Natomas Unified,Westlake Charter,2680 Mabry Dr Sacramento CA 95835,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6762887031259,-121.526699681489
 Natomas Unified,Westlake Charter Middle,1985 Pebblewood Dr Sacramento CA 95833,NA,NA,NA,not tested,Sacramento,Sacramento County,38.6213511755763,-121.503594319776
 Folsom-Cordova Unified,White Rock Elementary,10487 White Rock Road Rancho Cordova CA 95670-5530,NA,NA,FALSE,tested,Rancho Cordova,Sacramento County,38.5856986621939,-121.299102719179
 San Juan Unified,Whitney Avenue Elementary,4248 Whitney Avenue Sacramento CA 95821-3253,NA,NA,NA,not tested,NA,Sacramento County,38.6284261020408,-121.365248795918
@@ -323,6 +336,7 @@ San Juan Unified,Will Rogers Middle,4924 Dewey Drive Fair Oaks CA 95628-4403,NA,
 Sacramento City Unified,William Land Elementary,2120 12th Street Sacramento CA 95818-1428,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.5667867682927,-121.496252939024
 Private,William Lee College Prep,3300 Stockton Blvd. Sacramento CA  95820,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.544382,-121.45263
 San Juan Unified,Winston Churchill Middle,4900 Whitney Avenue Carmichael CA 95608-2937,NA,NA,NA,not tested,NA,Sacramento County,38.628209,-121.349812
+Natomas Unified,Witter Ranch Elementary,3790 Poppy Hill Way Sacramento CA 95834-1030,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.636279,-121.532456
 Sacramento City Unified,Woodbine Elementary,2500 52nd Avenue Sacramento CA 95822-4023,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.5044865555556,-121.480765343434
 Twin Rivers Unified,Woodlake Elementary,700 Southgate Road Sacramento CA 95815-3895,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.603108,-121.452223
 Twin Rivers Unified,Woodridge Elementary,5761 Brett Drive Sacramento CA 95842-3161,NA,NA,FALSE,tested,NA,Sacramento County,38.6730135,-121.352962

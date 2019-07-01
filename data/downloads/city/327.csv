@@ -1,25 +1,10 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Visalia Unified,Annie R. Mitchell,2121 East Laura Avenue Visalia CA 93292-1407,NA,NA,NA,not tested,Visalia,Tulare County,36.3100941,-119.268252273931
-Visalia Unified,Charter Home School Academy,211 West Tulare Avenue Visalia CA 93277-4813,NA,NA,NA,not tested,Visalia,Tulare County,36.3200420877193,-119.294200596491
-Visalia Unified,Cottonwood Creek Elementary,4222 South Dans Street Visalia CA 93277-7964,NA,NA,NA,not tested,Visalia,Tulare County,36.2925929,-119.324794199659
-Visalia Unified,Crestwood Elementary,3001 West Whitendale Avenue Visalia CA 93277-6077,NA,NA,NA,not tested,Visalia,Tulare County,36.3033359,-119.323839802329
-Visalia Unified,El Diamante High,5100 West Whitendale Avenue Visalia CA 93277-5604,NA,NA,NA,not tested,Visalia,Tulare County,36.3070186,-119.347191830454
-Visalia Unified,Green Acres Middle,1147 North Mooney Boulevard Visalia CA 93291-3224,NA,NA,NA,not tested,Visalia,Tulare County,36.33937495,-119.315657558328
-Visalia Unified,Highland Elementary,701 North Stevenson Street Visalia CA 93291-4811,NA,NA,NA,not tested,Visalia,Tulare County,36.3357188,-119.300741121964
-Visalia Unified,Houston Elementary,1200 North Giddings Street Visalia CA 93291-2851,NA,NA,NA,not tested,Visalia,Tulare County,36.34089335,-119.304439575313
-Visalia Unified,Hurley Elementary,6600 West Hurley Avenue Visalia CA 93291-8812,NA,NA,NA,not tested,Visalia,Tulare County,36.3355281,-119.364421854153
-Visalia Unified,Manuel F. Hernandez,2133 North Leila Street Visalia CA 93291-8453,NA,NA,NA,not tested,Visalia,Tulare County,36.3482106,-119.329318042443
-Tulare County Office of Education,Midcounty Community School,2101 N. Shirk Rd. Visalia CA 93291,NA,NA,NA,not tested,Visalia,Tulare County,36.346116,-119.367812
-Visalia Unified,Mt. Whitney High,900 South Conyer Street Visalia CA 93277-2535,NA,NA,NA,not tested,Visalia,Tulare County,36.3222194,-119.29849980275
-Visalia Unified,Oak Grove Elementary,4445 West Ferguson Avenue Visalia CA 93291-9216,NA,NA,NA,not tested,Visalia,Tulare County,36.3478779,-119.339688432666
-Visalia Unified,Redwood High,1001 West Main Street Visalia CA 93291-5919,NA,NA,NA,not tested,Visalia,Tulare County,36.3282767,-119.30327216429
-Visalia Unified,Ridgeview Middle,3315 North Akers Street Visalia CA 93291,NA,NA,NA,not tested,Visalia,Tulare County,36.3385262,-119.3498458
-Visalia Unified,River Bend,1800 North Lovers Lane Visalia CA 93292-3198,NA,NA,NA,not tested,Visalia,Tulare County,36.3446124,-119.259978199024
-Visalia Unified,Sequoia High,901 North Mooney Boulevard Visalia CA 93291-3228,NA,NA,NA,not tested,Visalia,Tulare County,36.33723605,-119.315618993709
-Visalia Unified,Shannon Ranch Elementary,3637 North Ranch Street Visalia CA 93291-8106,NA,NA,NA,not tested,Visalia,Tulare County,36.3618046,-119.320567368095
-Tulare County Office of Education,Special Education,6200 South Mooney Blvd Visalia CA 93277,NA,NA,NA,not tested,Visalia,Tulare County,36.2802823,-119.3133915
-Visalia Unified,Sycamore Valley Academy,4230 West Tulare Avenue Visalia CA 93277-8300,NA,NA,NA,not tested,Visalia,Tulare County,36.3201367537688,-119.337717713568
-Tulare County Office of Education,Valley Life Charter,3737 West Walnut Avenue Visalia CA 93277-3947,NA,NA,NA,not tested,Visalia,Tulare County,36.3127369842079,-119.332208366779
-Private,Valley Life Charter School Akers Campus,3737 S. Akers St. Visalia CA 93277,NA,NA,NA,not tested,Visalia,Tulare County,36.2948854,-119.3494049
-Visalia Unified,Valley Oak Middle,2000 North Lovers Lane Visalia CA 93292-3104,NA,NA,NA,not tested,Visalia,Tulare County,36.3457354,-119.259544715138
-Visalia Unified,Visalia Technical Early College,2245 South Linwood Visalia CA 93277-5753,NA,NA,NA,not tested,Visalia,Tulare County,36.3489102,-119.340946
+Upland Unified,Baldy View Elementary,979 West 11th Street Upland CA 91786-3765,NA,NA,FALSE,tested,Upland,San Bernardino County,34.1034114777717,-117.665569889623
+Upland Unified,Cabrillo Elementary,1562 West 11th Street Upland CA 91786-4149,NA,NA,FALSE,tested,Upland,San Bernardino County,34.1031858552352,-117.68017385949
+Upland Unified,Foothill Knolls Elementary,1245 Veterans Court Upland CA 91786-3450,NA,NA,FALSE,tested,Upland,San Bernardino County,34.108961851496,-117.634715121631
+Upland Unified,Magnolia Elementary,465 West 15th Street Upland CA 91786-2282,NA,NA,FALSE,tested,Upland,San Bernardino County,34.1178099761294,-117.656956177355
+Upland Unified,Sierra Vista Elementary,253 East 14th Street Upland CA 91786-3249,NA,NA,FALSE,tested,Upland,San Bernardino County,34.1143618358057,-117.647994419089
+Upland Unified,Upland Elementary,444 East 11th Street Upland CA 91786-4860,NA,NA,FALSE,tested,Upland,San Bernardino County,34.1033219220671,-117.645723101826
+Upland Unified,Upland High,565 West 11th Street Upland CA 91786-4660,10,ppb,TRUE,tested,Upland,San Bernardino County,34.10528765,-117.659845225348
+Upland Unified,Upland Junior High,444 East 11th St. Upland CA 91785-1239,NA,NA,FALSE,tested,Upland,San Bernardino County,34.1033219220671,-117.645723101826
+Upland Unified,Valencia Elementary,541 West 22nd Street Upland CA 91784-8914,NA,NA,FALSE,tested,Upland,San Bernardino County,34.1433886099614,-117.657743072263

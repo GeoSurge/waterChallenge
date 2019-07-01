@@ -1,43 +1,19 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Capistrano Unified,Aliso Niguel High,28000 Wolverine Way Aliso Viejo CA 92656-3385,NA,NA,FALSE,tested,Aliso Viejo,Orange County,33.5632975,-117.719641059703
-Capistrano Unified,Aliso Viejo Middle,111 Park Avenue Aliso Viejo CA 92656-2847,NA,NA,FALSE,tested,Aliso Viejo,Orange County,33.5795978623721,-117.713799098523
-Capistrano Unified,Bernice Ayer Middle,1271 Sarmentoso San Clemente CA 92673,NA,NA,NA,not tested,San Clemente,Orange County,33.4748012,-117.6219002
-Capistrano Unified,Bridges Community Day,31576 El Camino Real San Juan Capistrano CA 92675-2631,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.5052502857143,-117.662888857143
-Capistrano Unified,California Preparatory Academy,32972 Calle Perfecto San Juan Capistrano CA 92675-4706,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.4833285841786,-117.672726830678
-Capistrano Unified,Canyon Vista Elementary,27800 Oak View Drive Aliso Viejo CA 92656-6244,NA,NA,NA,not tested,Aliso Viejo,Orange County,33.5625285,-117.7349394
-Capistrano Unified,Capistrano Connections Academy,33272 Valle Road San Juan Capistrano CA 92675-4842,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.4885541387536,-117.662917426877
-Capistrano Unified,Capistrano Valley High,26301 Via Escolar Mission Viejo CA 92692-3999,NA,NA,FALSE,tested,San Juan Capistrano,Orange County,33.542536,-117.673115
-Capistrano Unified,Capistrano Virtual/Home,32972 Calle Perfect San Juan Capistrano CA 92675-4706,NA,NA,NA,not tested,NA,NA,NA,NA
-Capistrano Unified,Clarence Lobo Elementary,200 Avenida Vista Montana San Clemente CA 92672-9400,NA,NA,NA,not tested,San Clemente,Orange County,33.437782,-117.597571
-Capistrano Unified,Community Roots Academy,23431 Knollwood P-31 Aliso Viejo CA 92656,NA,NA,FALSE,tested,NA,NA,NA,NA
-Capistrano Unified,Concordia Elementary,3120 Avenida del Presidente San Clemente CA 92672-4517,NA,NA,NA,not tested,San Clemente,Orange County,33.4031264469094,-117.59764471536501
-Capistrano Unified,Dana Hills High,33333 Golden Lantern Dana Point CA 92629-1840,NA,NA,NA,not tested,NA,NA,NA,NA
-Capistrano Unified,Del Obispo Elementary,25591 Camino del Avion San Juan Capistrano CA 92675-4328,NA,NA,NA,not tested,NA,NA,NA,NA
-Capistrano Unified,Don Juan Avila Elementary,26278 Wood Canyon Drive Aliso Viejo CA 92656-8060,NA,NA,FALSE,tested,Aliso Viejo,Orange County,33.5620222416638,-117.734664198965
-Capistrano Unified,Don Juan Avila Middle,26278 Wood Canyon Dr Aliso Viejo CA 92656-8060,NA,NA,NA,not tested,Aliso Viejo,Orange County,33.5620222416638,-117.734664198965
-Capistrano Unified,George White Elementary,25422 Chapparosa Park Drive Laguna Niguel CA 92677-5715,NA,NA,NA,not tested,NA,NA,NA,NA
-Capistrano Unified,Harold Ambuehl Elementary,28001 San Juan Creek Road San Juan Capistrano CA 92675-3321,NA,NA,NA,not tested,NA,NA,NA,NA
-Capistrano Unified,Hidden Hills Elementary,25142 Hidden Hills Road Laguna Niguel CA 92677-8894,NA,NA,NA,not tested,Laguna Niguel,Orange County,33.52883,-117.68743
-Capistrano Unified,John Malcom Elementary,32261 Charles Avenue Laguna Niguel CA 92677-4258,NA,NA,NA,not tested,NA,NA,NA,NA
-Capistrano Unified,Journey,27102 Foxborough Aliso Viejo CA 92656-3377,NA,NA,FALSE,tested,Aliso Viejo,Orange County,33.5670806050735,-117.719504628039
-Capistrano Unified,Junipero Serra High,31422 Camino Capistrano San Juan Capistrano CA 92675-2600,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.5058531159122,-117.664602300873
-Capistrano Unified,Kinoshita Elementary,2 Via Positiva San Juan Capistrano CA 92675-4318,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.4901435,-117.6767169
-Capistrano Unified,Laguna Niguel Elementary,27922 Niguel Heights Boulevard Laguna Niguel CA 92677-7204,NA,NA,NA,not tested,Laguna Niguel,Orange County,33.5567484,-117.704511359245
-Capistrano Unified,Las Palmas Elementary,1101 Calle Puente San Clemente CA 92672-5019,NA,NA,NA,not tested,San Clemente,Orange County,33.428656925,-117.623683675
-Capistrano Unified,Marblehead Elementary,2410 Via Turqueza San Clemente CA 92673-3912,NA,NA,NA,not tested,San Clemente,Orange County,33.4506967997906,-117.620401492424
-Capistrano Unified,Marco Forster Middle,25601 Camino del Avion San Juan Capistrano CA 92675-4330,NA,NA,NA,not tested,NA,NA,NA,NA
-Capistrano Unified,Marian Bergeson Elementary,25302 Rancho Niguel Road Laguna Niguel CA 92677-7300,NA,NA,NA,not tested,Laguna Niguel,Orange County,33.55300825,-117.688218399213
-Capistrano Unified,Moulton Elementary,29851 Highlands Avenue Laguna Niguel CA 92677-2008,NA,NA,FALSE,tested,Laguna Niguel,Orange County,33.526064,-117.720891
-Capistrano Unified,Niguel Hills Middle,29070 Paseo Escuela Laguna Niguel CA 92677,NA,NA,FALSE,tested,Laguna Niguel,Orange County,33.5392365,-117.6870313
-Capistrano Unified,Oak Grove Elementary,22705 Sanborn Aliso Viejo CA 92656-6055,NA,NA,FALSE,tested,Aliso Viejo,Orange County,33.5750809127513,-117.735562182423
-Capistrano Unified,Palisades Elementary,26462 Via Sacramento Capistrano Beach CA 92624-1399,NA,NA,NA,not tested,Dana Point,Orange County,33.4611535527427,-117.667986394321
-Capistrano Unified,Richard Henry Dana Elementary,24242 La Cresta Dr Dana Point CA 92629-2561,NA,NA,NA,not tested,Dana Point,Orange County,33.4691136897333,-117.706106334554
-Capistrano Unified,Richard Henry Dana Exceptional Needs,24242 La Cresta Drive Dana Point CA 92629-2561,NA,NA,NA,not tested,Dana Point,Orange County,33.4691136897333,-117.706106334554
-Capistrano Unified,San Clemente High,700 Avenido Pico San Clemente CA 92673-5681,NA,NA,NA,not tested,NA,NA,NA,NA
-Capistrano Unified,San Juan Elementary,31642 El Camino Real San Juan Capistrano CA 92675-2616,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.5027013875234,-117.661791000525
-Capistrano Unified,San Juan Hills High,29211 Stallion Ridge San Juan Capistrano CA 92675-3639,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.4992621,-117.6214189
-Capistrano Unified,Shorecliffs Middle,240 Via Socorro San Clemente CA 92672-3714,NA,NA,NA,not tested,San Clemente,Orange County,33.441359,-117.637986
-Capistrano Unified,Truman Benedict Elementary,1251 Sarmentoso San Clemente CA 92673,NA,NA,NA,not tested,San Clemente,Orange County,33.4748012,-117.6219002
-Capistrano Unified,Viejo Elementary,26782 Via Grande Mission Viejo CA 92691-6133,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.5715429823452,-117.668816326834
-Capistrano Unified,Vista del Mar Elementary,1130 Avenue Talega San Clemente CA 92673,NA,NA,NA,not tested,San Clemente,Orange County,33.4681297985062,-117.596672130116
-Capistrano Unified,Wood Canyon Elementary,23431 Knollwood Aliso Viejo CA 92656-4240,NA,NA,FALSE,tested,Aliso Viejo,Orange County,33.5535398,-117.7220088
+Campbell Union,Blackford Elementary,1970 Willow Street San Jose CA 95125-5241,NA,NA,FALSE,tested,San José,Santa Clara County,37.3115382,-121.895046
+Campbell Union,Blackford Elementary (Blackford Preschool),1970 Willow St San Jose CA 	95125-5241,NA,NA,FALSE,tested,San José,Santa Clara County,37.3115382,-121.895046
+Campbell Union,Campbell Middle,295 West Cherry Lane Campbell CA 95008-3417,NA,NA,FALSE,tested,NA,NA,NA,NA
+Campbell Union,Capri Elementary,850 Chapman Avenue Campbell CA 95008-6807,NA,NA,FALSE,tested,NA,NA,NA,NA
+Campbell Union,Capri Elementary (Capri Preschool),850 Chapman Ave Campbell CA 95008-6807,NA,NA,FALSE,tested,NA,NA,NA,NA
+Campbell Union,Castlemont Elementary,3040 East Payne Avenue Campbell CA 95008-0136,NA,NA,FALSE,tested,NA,NA,NA,NA
+Campbell Union,Forest Hill Elementary,4450 McCoy Avenue San Jose CA 95130-2117,NA,NA,FALSE,tested,NA,Santa Clara County,37.2763856919937,-121.980683236875
+Campbell Union,Forest Hill Elementary (Forest Hill Preschool),4450 McCoy Ave San Jose CA 95130-2117,NA,NA,FALSE,tested,NA,Santa Clara County,37.2763856919937,-121.980683236875
+Campbell Union,Lynhaven Elementary,881 South Cypress Avenue San Jose CA 95117-2508,6,ppb,TRUE,tested,San José,Santa Clara County,37.3112146363636,-121.959861
+Campbell Union,Marshall Lane Elementary,14114 Marilyn Lane Saratoga CA 95070-5646,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.2642,-121.996502
+Campbell Union,Marshall Lane Elementary (Marshall Lane Preschool),14114 Marilyn Ln Saratoga CA 95070-5646,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.2642,-121.996502
+Campbell Union,Monroe Middle,1055 South Monroe Street San Jose CA 95128-3150,NA,NA,FALSE,tested,San José,Santa Clara County,37.3090003697083,-121.94358596837
+Campbell Union,Rolling Hills Middle,1585 More Avenue Los Gatos CA 95030-1094,NA,NA,FALSE,tested,NA,Santa Clara County,37.2546685,-121.9867358
+Campbell Union,Rosemary Elementary,401 West Hamilton Avenue Campbell CA 95008-0509,NA,NA,FALSE,tested,NA,Santa Clara County,37.2942641312161,-121.957261714419
+Campbell Union,Rosemary Family Learning Center (Rosemary Preschool),401 West Hamilton Ave Campbell CA 95008-0509,NA,NA,FALSE,tested,NA,Santa Clara County,37.2942641312161,-121.957261714419
+Campbell Union,Sherman Oaks Elementary,1800 Fruitdale Avenue San Jose CA 95128-4970,NA,NA,FALSE,tested,San José,Santa Clara County,37.30981615,-121.924835974323
+Campbell Union,Sherman Oaks Elementary (Sherman Oaks Preschool),1800 Fruitdale Ave San Jose CA 95128-4970,NA,NA,FALSE,tested,San José,Santa Clara County,37.30981615,-121.924835974323
+Campbell Union,Village,825 West Parr Avenue Campbell CA 95008-6803,NA,NA,FALSE,tested,NA,Santa Clara County,37.2646829,-121.96507901733101

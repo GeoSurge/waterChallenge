@@ -1,6 +1,12 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Centralia Elementary,George B. Miller Elementary,7751 Furman Road La Palma CA 90623-1536,NA,NA,NA,not tested,La Palma,Orange County,33.850226335893304,-118.033051482649
-Anaheim Union High,John F. Kennedy High,8281 Walker Street La Palma CA 90623-2126,NA,NA,FALSE,tested,La Palma,Orange County,33.8420971136099,-118.037233469291
-Centralia Elementary,Los Coyotes Elementary,8122 Moody Street La Palma CA 90623-2046,NA,NA,NA,not tested,La Palma,Orange County,33.8447130077873,-118.04604872987
-Cypress Elementary,Steve Luther Elementary,4631 La Palma Ave La Palma CA 90623-1620,NA,NA,NA,not tested,La Palma,Orange County,33.8463549,-118.0410879
-Anaheim Union High,Walker Junior High,8132 Walker Street La Palma CA 90623-2097,9.9,ppb,TRUE,tested,La Palma,Orange County,33.8430906752175,-118.037044573147
+La Habra City Elementary,Arbolita Elementary,1001 East Brookdale Avenue La Habra CA 90631-3114,NA,NA,FALSE,tested,La Habra,Orange County,33.94374035,-117.936415555335
+East Whittier City Elementary,East Whittier Middle,14421 East Whittier Boulevard Whittier CA 90605-2188,NA,NA,FALSE,tested,La Habra,Orange County,33.9391171,-117.9447152
+Lowell Joint,El Portal Elementary,200 North Nada Street La Habra CA 90631-4451,NA,NA,FALSE,tested,La Habra,Orange County,33.933824,-117.966018
+Fullerton Joint Union High,La Habra High,801 West Highlander Avenue La Habra CA 90631-3720,NA,NA,FALSE,tested,La Habra,Orange County,33.9372651,-117.957040316637
+La Habra City Elementary,Ladera Palma Elementary,2151 East Brookdale Avenue La Habra CA 90631-3267,NA,NA,FALSE,tested,La Habra,Orange County,33.94401215,-117.922231675
+Lowell Joint,Olita Elementary,950 South Briercliff Drive La Habra CA 90631-6223,8.3,ppb,TRUE,tested,La Habra,Orange County,33.9203680756451,-117.973664721684
+Lowell Joint,Rancho-Starbuck Intermediate,16430 Woodbrier Drive Whittier CA 90604-4021,NA,NA,FALSE,tested,La Habra,Los Angeles County,33.92004285,-117.978632199742
+La Habra City Elementary,Sierra Vista Elementary,1800 East Whittier Boulevard La Habra CA 90631-4171,NA,NA,FALSE,tested,La Habra,Orange County,33.9391185,-117.9389394
+Fullerton Joint Union High,Sonora High,401 South Palm Street La Habra CA 90631-5735,NA,NA,FALSE,tested,La Habra,Orange County,33.92810445,-117.926594402695
+La Habra City Elementary,Walnut Elementary,625 North Walnut Street La Habra CA 90631-3711,NA,NA,FALSE,tested,La Habra,Orange County,33.93812795,-117.951662610353
+La Habra City Elementary,Washington Middle,716 East La Habra Boulevard La Habra CA 90631-5530,8.1,ppb,TRUE,tested,La Habra,Orange County,33.93040295,-117.93840602111

@@ -1,12 +1,12 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Gilroy Unified,Antonio Del Buono Elementary,9300 Wren Avenue Gilroy CA 95020-7636,6.8,ppb,TRUE,tested,Gilroy,Santa Clara County,37.029817,-121.587405
-Gilroy Unified,Brownell Middle,7800 Carmel Street Gilroy CA 95020-5043,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.0114677,-121.57757865535
-Gilroy Unified,Christopher High,850 Day Road Gilroy CA 95020-9324,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.039655,-121.60452
-Gilroy Unified,Eliot Elementary,475 Old Gilroy Street Gilroy CA 95020-6214,9.6,ppb,TRUE,tested,Gilroy,Santa Clara County,37.0062875,-121.561900341962
-Gilroy Unified,Gilroy Adult Education,7881 Murray Avenue Gilroy CA 95020,NA,NA,NA,not tested,Gilroy,Santa Clara County,37.0131477226154,-121.56462588094
-Gilroy Unified,Las Animas Elementary,6550 Cimino Street Gilroy CA 95020-3453,NA,NA,FALSE,tested,Gilroy,Santa Clara County,36.9894334,-121.580490275053
-Gilroy Unified,Luigi Aprea Elementary,9225 Calle del Rey Gilroy CA 95020-5043,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.0264199459099,-121.603534448013
-Gilroy Unified,Mt. Madonna High,8750 Hirasaki Court Gilroy CA 95020-7531,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.02017015,-121.594695596438
-Gilroy Unified,Rod Kelley Elementary,8755 Kern Avenue Gilroy CA 95020-4034,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.0212382,-121.592901487465
-Gilroy Unified,Solorsano Middle,7121 Grenache Way Gilroy CA 95020-2500,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.00072795,-121.594621068673
-Gilroy Unified,South Valley Middle,385 IOOF Avenue Gilroy CA 95020-5205,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.0150968549837,-121.565992961122
+Galt Joint Union High,Estrellita Continuation High,12935 Marengo Road Galt CA 95632-1717,NA,NA,NA,not tested,Galt,Sacramento County,38.2856664268183,-121.282555344433
+Galt Joint Union Elementary,Fairsite Preschool & School Readiness Center,902 Caroline Avenue Galt CA 95632,NA,NA,NA,not tested,Galt,Sacramento County,38.2511029183673,-121.299498673469
+Galt Joint Union High,Galt High,145 North Lincoln Way Galt CA 95632-1720,NA,NA,NA,not tested,Galt,Sacramento County,38.2561914229853,-121.300221069763
+Galt Joint Union Elementary,Lake Canyon Elementary,800 Lake Canyon Avenue Galt CA 95632-8166,NA,NA,NA,not tested,Galt,Sacramento County,38.2863247793771,-121.301595171272
+Galt Joint Union High,Liberty Ranch High,12945 Marengo Road Galt CA 95632-8422,NA,NA,NA,not tested,Galt,Sacramento County,38.2852468347729,-121.282544433056
+Galt Joint Union Elementary,Marengo Ranch Elementary,1000 Elk Hills Drive Galt CA 95632-3434,NA,NA,NA,not tested,Galt,Sacramento County,38.2822652894136,-121.29064287924
+Galt Joint Union Elementary,River Oaks Elementary,905 Vintage Oak Avenue Galt CA 95632-3076,NA,NA,NA,not tested,Galt,Sacramento County,38.274479367703,-121.295498575495
+Galt Joint Union Elementary,Robert L. McCaffrey Middle,997 Park Terrace Drive Galt CA 95632-3766,NA,NA,NA,not tested,Galt,Sacramento County,38.2839085345345,-121.287091276861
+Galt Joint Union Elementary,Valley Oaks Elementary,21 C Street Galt CA 95632-1825,NA,NA,NA,not tested,Galt,Sacramento County,38.2515564264275,-121.309177688796
+Galt Joint Union Elementary,Vernon E. Greer Elementary,248 West A Street Galt CA 95632-2449,NA,NA,NA,not tested,Galt,Sacramento County,38.2546245625,-121.3194106875
+Washington Unified,Westfield Village Elementary,508 Poplar Street West Sacramento CA 95691-2555,NA,NA,FALSE,tested,Galt,Sacramento County,38.260285885906,-121.30560214094

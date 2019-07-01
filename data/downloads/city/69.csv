@@ -1,19 +1,28 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Newport-Mesa Unified,Back Bay High,390 Monte Vista Ave. Costa Mesa CA 92627-1495,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6533360468569,-117.890350146098
-Newport-Mesa Unified,College Park Elementary,2380 Notre Dame Road Costa Mesa CA 92626-6400,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6607317198058,-117.911449296737
-Newport-Mesa Unified,Costa Mesa High,2650 Fairview Road Costa Mesa CA 92626-5537,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6935729,-117.9078134
-Newport-Mesa Unified,Estancia High,2323 Placentia Avenue Costa Mesa CA 92627-3305,5.5,ppb,TRUE,tested,Costa Mesa,Orange County,33.6576161317226,-117.932249770733
-Newport-Mesa Unified,Everett A. Rea Elementary,661 Hamilton Street Costa Mesa CA 92627-2678,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6506177596161,-117.926248891913
-Newport-Mesa Unified,Harper,425 East 18th Street Costa Mesa CA 92627-3161,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6320017244833,-117.907186978715
-Newport-Mesa Unified,Heinz Kaiser Elementary,2130 Santa Ana Avenue Costa Mesa CA 92627-1826,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.644801,-117.903576384615
-Newport-Mesa Unified,Killybrooke Elementary,3155 Killybrooke Lane Costa Mesa CA 92626-2613,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6857525260517,-117.913962111868
-Newport-Mesa Unified,Lindberg School,220 23rd St. Costa Mesa CA 92627,10.9,ppb,TRUE,tested,Costa Mesa,Orange County,33.6510789274472,-117.900384012959
-Newport-Mesa Unified,Maude B. Davis Elementary,1050 Arlington Drive Costa Mesa CA 92626-5626,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6689515545232,-117.90606042934
-Newport-Mesa Unified,Paularino Elementary,1060 Paularino Avenue Costa Mesa CA 92626-2849,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.682477,-117.900941166273
-Newport-Mesa Unified,Pomona Elementary,2051 Pomona Avenue Costa Mesa CA 92627-2921,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6489390039586,-117.927617783851
-Newport-Mesa Unified,Sonora Elementary,966 Sonora Road Costa Mesa CA 92626-5710,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6753881920934,-117.895921226739
-Newport-Mesa Unified,Victoria Elementary,1025 Victoria Street Costa Mesa CA 92627-3929,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6522414857143,-117.941984657143
-Private,Waldorf School of Orange County,2350 Canyon Drive Costa Mesa CA 92627,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6589319398597,-117.940720221641
-Newport-Mesa Unified,Whittier Elementary,1800 Whittier Avenue Costa Mesa CA 92627-4558,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.641141,-117.940532
-Newport-Mesa Unified,Wilson Elementary,801 Wilson Street Costa Mesa CA 92627-3333,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6563005,-117.9042346
-Newport-Mesa Unified,Woodland Elementary,2025 Garden Lane Costa Mesa CA 92627-2113,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6422014146341,-117.902840317073
+Corona-Norco Unified,Auburndale Intermediate,1255 River Road Corona CA 92880-1350,5.2,ppb,TRUE,tested,Corona,Riverside County,33.907414,-117.581623
+Corona-Norco Unified,Benjamin Franklin Elementary,2650 Oak Avenue Corona CA 92882-7569,NA,NA,FALSE,tested,Corona,Riverside County,33.852428600934,-117.592773007347
+Corona-Norco Unified,Centennial High,1820 Rimpau Avenue Corona CA 92881-3228,NA,NA,FALSE,tested,Corona,Riverside County,33.8359452,-117.5489876
+Corona-Norco Unified,Cesar Chavez Academy,1150 Paseo Grande Corona CA 92882-6440,NA,NA,FALSE,tested,Corona,Riverside County,33.8705839998871,-117.608589133454
+Corona-Norco Unified,Citrus Hills Intermediate,3211 South Main Street Corona CA 92882-6313,NA,NA,FALSE,tested,Corona,Riverside County,33.837766,-117.57211
+Corona-Norco Unified,Corona Fundamental Intermediate,1230 South Main Street Corona CA 92882-4464,9.1,ppb,TRUE,tested,Corona,Riverside County,33.8423671,-117.5738191
+Corona-Norco Unified,Corona-Norco Adult,300  Buena Vista Avenue Corona CA 92882-1937,NA,NA,NA,not tested,Corona,Riverside County,33.8503648,-117.5816805
+Corona-Norco Unified,Corona-Norco Alternative,185 Magnolia Avenue Corona CA 92879-3329,NA,NA,NA,not tested,Corona,Riverside County,33.8634921,-117.5466156
+Corona-Norco Unified,Coronita Elementary,1757 Via Del Rio Corona CA 92882-3741,NA,NA,FALSE,tested,Corona,Riverside County,33.8738145099617,-117.603807983912
+Corona-Norco Unified,Dwight D. Eisenhower Elementary,3355 Mountain Gate Drive Corona CA 92882-8858,NA,NA,FALSE,tested,Corona,Riverside County,33.838566,-117.5846149
+Corona-Norco Unified,El Cerrito Middle,7610 El Cerrito Road Corona CA 92881-4296,NA,NA,FALSE,tested,Corona,Riverside County,33.8299308,-117.5343507
+Corona-Norco Unified,Foothill Elementary,2601 South Buena Vista Avenue Corona CA 92882-7562,NA,NA,FALSE,tested,Corona,Riverside County,33.8533728331795,-117.581049412827
+Corona-Norco Unified,Garretson Elementary,1650 Garretson Avenue Corona CA 92879-2428,NA,NA,FALSE,tested,Corona,Riverside County,33.8646372,-117.561551
+Corona-Norco Unified,Jefferson Elementary,1040 South Vicentia Avenue Corona CA 92882-4124,NA,NA,FALSE,tested,Corona,Riverside County,33.8718253391245,-117.576037975301
+Corona-Norco Unified,John Adams Elementary,2350 Border Avenue Corona CA 92882-5608,NA,NA,FALSE,tested,Corona,Riverside County,33.8579152190545,-117.604930394779
+Corona-Norco Unified,John Stallings Elementary,1980 Fullerton Avenue Corona CA 92881-3105,NA,NA,FALSE,tested,Corona,Riverside County,33.8374777,-117.5579367
+Corona-Norco Unified,Lee V. Pollard High,185 Magnolia Ave Corona CA 92879-3329,NA,NA,FALSE,tested,Corona,Riverside County,33.8634921,-117.5466156
+Corona-Norco Unified,Lincoln Alternative Elementary,1041 Fullerton Avenue Corona CA 92879-2518,5.1,ppb,TRUE,tested,Corona,Riverside County,33.8696562533786,-117.556962673312
+Corona-Norco Unified,Orange Elementary,1350 Valencia Road Corona CA 92881-0739,NA,NA,FALSE,tested,Corona,Riverside County,33.8351064,-117.563219
+Corona-Norco Unified,Orange Grove High,300 Buena Vista Avenue Corona CA 92882-1937,NA,NA,FALSE,tested,Corona,Riverside County,33.8516063,-117.5814851
+Corona-Norco Unified,Parkridge Elementary,750 Corona Avenue Corona CA 92879-1074,NA,NA,FALSE,tested,Corona,Riverside County,33.89247075,-117.5581195
+Corona-Norco Unified,Prado View Elementary,2800 Ridgeline Drive Corona CA 92882-8734,NA,NA,FALSE,tested,Corona,Riverside County,33.877874,-117.638136
+Alvord Unified,Promenade Elementary,550 Hamilton Drive Corona CA 91719-5851,NA,NA,FALSE,tested,Corona,Riverside County,33.89451045,-117.51453392666
+Corona-Norco Unified,Susan B. Anthony Elementary,2665 Gilbert Avenue Corona CA 92881-8677,NA,NA,FALSE,tested,Corona,Riverside County,33.842842,-117.550653
+Corona-Norco Unified,Vicentia Elementary,2005 South Vicentia Avenue Corona CA 92882-4261,NA,NA,FALSE,tested,Corona,Riverside County,33.859848,-117.577235
+Corona-Norco Unified,William McKinley Elementary,2050 Aztec Lane Corona CA 92879-7858,NA,NA,FALSE,tested,Corona,Riverside County,33.903448,-117.532394
+Corona-Norco Unified,Woodrow Wilson Elementary,1750 Spyglass Drive Corona CA 92883-0696,NA,NA,FALSE,tested,Corona,Riverside County,33.8142590848156,-117.539225707417

@@ -1,25 +1,10 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Private,Assumption,1851 136th Avenue San Leandro CA 94578,9.45,ppb,TRUE,tested,San Leandro,Alameda County,37.7197143469388,-122.136845285714
-San Leandro Unified,Bancroft Middle,1150 Bancroft Avenue San Leandro CA 94577-3863,6.699999999999999,ppb,TRUE,tested,San Leandro,Alameda County,37.7281501919192,-122.148130474747
-San Leandro Unified,Barbara Lee Center for Health and Wellness,2251 Bancroft Ave San Leandro CA 94577,NA,NA,NA,not tested,San Leandro,Alameda County,37.7216733,-122.1454822
-San Leandro Unified,Burrell Pacific Sports Complex,Teagarden Street San Leandro CA 94577,NA,NA,FALSE,tested,San Leandro,Alameda County,37.7073633,-122.1593135
-San Lorenzo Unified,Corvallis Elementary,14790 Corvallis Street San Leandro CA 94579-1174,NA,NA,FALSE,tested,San Leandro,Alameda County,37.6962579765223,-122.151655495355
-San Lorenzo Unified,Dayton Elementary,1500 Dayton Avenue San Leandro CA 94579-1528,NA,NA,FALSE,tested,San Leandro,Alameda County,37.6879118,-122.157208539503
-San Leandro Unified,Garfield Elementary,13050 Aurora Drive San Leandro CA 94577-3159,NA,NA,FALSE,tested,San Leandro,Alameda County,37.704264042752,-122.186136750719
-San Lorenzo Unified,Hesperian Elementary,620 Drew Street San Lorenzo CA 94580-1046,NA,NA,FALSE,tested,San Leandro,Alameda County,37.6939872409369,-122.125209013431
-San Leandro Unified,Jefferson Elementary,14300 Bancroft Avenue San Leandro CA 94578-1727,NA,NA,FALSE,tested,San Leandro,Alameda County,37.71303565,-122.135659097733
-San Leandro Unified,John Muir Middle,1444 Williams Street San Leandro CA 94577-2403,NA,NA,FALSE,tested,San Leandro,Alameda County,37.721329,-122.1508926
-San Leandro Unified,Lincoln High (Continuation),2600 Teagarden Street San Leandro CA 94579-1222,NA,NA,FALSE,tested,San Leandro,Alameda County,37.709039,-122.160271
-San Leandro Unified,Madison Elementary,14751 Juniper Street San Leandro CA 94579-1222,NA,NA,FALSE,tested,San Leandro,Alameda County,37.695629,-122.160449
-San Leandro Unified,McKinley Elementary,2150 East 14th Street San Leandro CA 94577-6025,NA,NA,FALSE,tested,San Leandro,Alameda County,37.7190104836725,-122.147849341045
-San Leandro Unified,Monroe Elementary,3750 Monterey Boulevard San Leandro CA 94578-4116,NA,NA,FALSE,tested,San Leandro,Alameda County,37.6981333939697,-122.146120511201
-San Leandro Unified,Roosevelt Elementary,951 Dowling Boulevard San Leandro CA 94577-2125,NA,NA,FALSE,tested,San Leandro,Alameda County,37.736357922489,-122.146880060838
-San Leandro Unified,San Leandro Adult,14735 Juniper Street San Leandro CA 94577-6108,NA,NA,FALSE,tested,San Leandro,Alameda County,37.6959920437928,-122.160508860651
-San Leandro Unified,San Leandro High,2200 Bancroft Avenue San Leandro CA 94577-6108,5.5,ppb,TRUE,tested,San Leandro,Alameda County,37.7185851,-122.141345506275
-San Leandro Unified,San Leandro High Fred T Korematsu Campus,13701 Bancroft Ave San Leandro CA 94577,NA,NA,FALSE,tested,San Leandro,Alameda County,37.7216733,-122.1454822
-Private,St. Felicitas Catholic School,1650 Manor Boulevard San Leandro CA 94579,NA,NA,FALSE,tested,San Leandro,Alameda County,37.691205625,-122.158639375
-Private,St. Leander,451 Davis Street San Leandro CA 94577,5.35,ppb,TRUE,tested,San Leandro,Alameda County,37.7243741,-122.1594102
-San Leandro Unified,Washington Elementary,250 Dutton Avenue San Leandro CA 94577-2804,8.2,ppb,TRUE,tested,San Leandro,Alameda County,37.7324946233244,-122.156521601829
-San Lorenzo Unified,Washington Manor Middle,1170 Fargo Avenue San Leandro CA 94579-1633,NA,NA,FALSE,tested,San Leandro,Alameda County,37.6888269727242,-122.149191747777
-San Leandro Unified,Wilson Elementary,1300 Williams Street San Leandro CA 94577-2401,NA,NA,FALSE,tested,San Leandro,Alameda County,37.715301,-122.165543
-San Lorenzo Unified,Woodroe Woods,750  Fargo Ave San Leandro CA 94579,8.1,ppb,TRUE,tested,San Leandro,Alameda County,37.6878945519066,-122.141565700354
+Riverside County Office Of Education ROP,Betty Gibbel RLC,1251 Eagle Drive San Jacinto CA 92583,NA,NA,FALSE,tested,San Jacinto,Riverside County,33.8017859,-116.9677295
+San Jacinto Unified,"Clayton A. Record, Jr., Elementary",1600 Malaga Drive San Jacinto CA 92583-2369,NA,NA,FALSE,tested,San Jacinto,Riverside County,33.8063585,-116.9756553
+San Jacinto Unified,Estudillo Elementary,900 Las Rosas Drive San Jacinto CA 92583-4420,NA,NA,FALSE,tested,San Jacinto,Riverside County,33.7796345,-116.9417478
+San Jacinto Unified,Monte Vista Middle,181 North Ramona Boulevard San Jacinto CA 92583-3324,9.3,ppb,TRUE,tested,San Jacinto,Riverside County,33.788302,-116.964041
+San Jacinto Unified,Mountain Heights Academy,1000 Ramona Boulevard San Jacinto CA 92582-2552,NA,NA,FALSE,tested,San Jacinto,Riverside County,33.797636,-116.975642
+San Jacinto Unified,Park Hill Elementary,1157 East Commonwealth Avenue San Jacinto CA 92583-6842,NA,NA,FALSE,tested,San Jacinto,Riverside County,33.7694634416906,-116.942276585749
+San Jacinto Unified,San Jacinto Elementary,136  North Ramona Boulevard San Jacinto CA 92583-3325,NA,NA,FALSE,tested,San Jacinto,Riverside County,33.787541,-116.963349
+San Jacinto Unified,San Jacinto High,500 Idyllwild Drive San Jacinto CA 92583-2615,NA,NA,FALSE,tested,San Jacinto,Riverside County,33.797116,-116.968881
+San Jacinto Unified,San Jacinto Leadership Academy - Magnet,1599 Malaga Drive San Jacinto CA 92583-2369,NA,NA,NA,not tested,San Jacinto,Riverside County,33.8063585,-116.9756553

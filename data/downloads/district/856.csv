@@ -1,3 +1,3 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Wilsona Elementary,Challenger Middle,41725 North 170th St. East Lancaster CA 93535-7124,NA,NA,NA,not tested,NA,NA,NA,NA
-Wilsona Elementary,Vista San Gabriel Elementary,18020 East Avenue O Palmdale CA 93591-3800,NA,NA,NA,not tested,Palmdale,Los Angeles County,34.6165466505613,-117.808836863846
+Waugh Elementary,Corona Creek Elementary,1851 Hartman Lane Petaluma CA 94954-2535,NA,NA,FALSE,tested,Petaluma,Sonoma County,38.273786845894,-122.647664291435
+Waugh Elementary,Meadow Elementary,880 Maria Drive Petaluma CA 94954-6837,NA,NA,FALSE,tested,Petaluma,Sonoma County,38.2651141908102,-122.644128875935

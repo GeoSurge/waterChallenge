@@ -1,3 +1,4 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Tulelake Basin Joint Unified School District,Tulelake Basin Elementary School,461 2nd St. Tulelake CA 96134,NA,NA,NA,not tested,Tulelake,Siskiyou County,41.9544152373737,-121.477843080808
-Tulelake Basin Joint Unified School District,Tulelake High School,850 Main St. Tulelake CA 96134,NA,NA,NA,not tested,Tulelake,Siskiyou County,41.9495295102041,-121.476478387755
+Tehama County Department of Education,Lincoln Street,1125 Lincoln Street Red Bluff CA 96080,NA,NA,NA,not tested,Red Bluff,Tehama County,40.177894030303,-122.244565090909
+Tehama County Department of Education,Tehama County Special Education,900 Palm Street Red Bluff CA 96080-2626,NA,NA,FALSE,tested,Red Bluff,Tehama County,40.181789,-122.249249
+Tehama County Department of Education,Tehama eLearning Academy,"715 Jackson Street, Suite B Red Bluff CA 96080-3771",NA,NA,NA,not tested,NA,NA,NA,NA

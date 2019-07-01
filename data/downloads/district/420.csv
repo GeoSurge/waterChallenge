@@ -1,5 +1,3 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Mammoth Unified,Mammoth Elementary,1500 Meridan Blvd. Mammoth Lakes CA 93546-3209,NA,NA,NA,not tested,NA,NA,NA,NA
-Mammoth Unified,Mammoth High,365 Sierra Park Road Mammoth Lakes CA 93546,NA,NA,NA,not tested,NA,Mono County,37.6408684489796,-118.963827183673
-Mammoth Unified,Mammoth Middle,1600 Meridian Blvd Mammoth Lakes CA 93546-2429,NA,NA,NA,not tested,NA,Mono County,37.6401389,-118.9665946
-Mammoth Unified,Sierra High (Continuation),461 Sierra Park Road Mammoth Lakes CA 93546,NA,NA,NA,not tested,NA,Mono County,37.63850025,-118.962842500112
+Los Angeles Unified ROCP,Los Angeles Unified School District ROCP,333 South Beaudry Avenue Los Angeles CA 90017-1466,NA,NA,NA,not tested,LA,Los Angeles County,34.056482,-118.2576145
+Los Angeles Unified ROCP,Woodlawn Avenue School,6326 Woodlawn Ave Bell CA 90201,NA,NA,NA,not tested,NA,Los Angeles County,33.9781400681452,-118.177648179744

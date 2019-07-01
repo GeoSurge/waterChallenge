@@ -1,3 +1,4 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Tulelake Basin Joint Unified School District,Tulelake Basin Elementary School,461 2nd St. Tulelake CA 96134,NA,NA,NA,not tested,Tulelake,Siskiyou County,41.9544152373737,-121.477843080808
-Tulelake Basin Joint Unified School District,Tulelake High School,850 Main St. Tulelake CA 96134,NA,NA,NA,not tested,Tulelake,Siskiyou County,41.9495295102041,-121.476478387755
+Yolo County Office of Education,Cesar Chavez Community School,255 West Beamer Street Woodland CA 95695-2510,NA,NA,FALSE,tested,Woodland,Yolo County,38.6847833660322,-121.795747617433
+Yolo County Office of Education,Greengate Center for Exception,285 W. Beamer St. Woodland CA 95695,9.6,ppb,TRUE,tested,Woodland,Yolo County,38.6847878175453,-121.797056974665
+Yolo County Office of Education,Yolo County Special Education,1280 Santa Anita Ct. Woodland CA 95776-6127,41,ppb,TRUE,tested,Woodland,Yolo County,38.6960242323509,-121.757963550694

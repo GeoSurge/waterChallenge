@@ -1,14 +1,7 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Paramount Unified,Abraham Lincoln,15324 California Avenue Paramount CA 90723-4378,NA,NA,NA,not tested,Paramount,Los Angeles County,33.8944906839271,-118.158657378128
-Paramount Unified,Alondra Middle,16200 Downey Avenue Paramount CA 90723-5528,NA,NA,NA,not tested,Paramount,Los Angeles County,33.8964047,-118.1514987
-Compton Unified,Dominguez High,15301 South San Jose Avenue Compton CA 90221-3131,5.3,ppb,TRUE,tested,Paramount,Los Angeles County,33.8929526,-118.183110748376
-Paramount Unified,Harry Wirtz Elementary,8535 Contreras Street Paramount CA 90723-4378,NA,NA,NA,not tested,Paramount,Los Angeles County,33.9011352653061,-118.150460061224
-Paramount Unified,Hollydale,5511 Century Boulevard South Gate CA 90280-8114,NA,NA,NA,not tested,Paramount,Los Angeles County,33.9160779387755,-118.171796346939
-Paramount Unified,Howard Tanner,7210 Rosecrans Avenue Paramount CA 90723-2502,NA,NA,NA,not tested,Paramount,Los Angeles County,33.9037613,-118.1463239
-Paramount Unified,Leona Jackson,7220 Jackson Street Paramount CA 90723-4378,NA,NA,NA,not tested,Paramount,Los Angeles County,33.8855846474062,-118.172534354318
-Paramount Unified,Los Cerritos,14626 Gundry Avenue Paramount CA 90723-4378,NA,NA,NA,not tested,Paramount,Los Angeles County,33.902996,-118.176707
-Paramount Unified,Mark Keppel,6630 East Mark Keppel Street Paramount CA 90723-4378,NA,NA,NA,not tested,Paramount,Los Angeles County,33.8932832,-118.180614907323
-Paramount Unified,Paramount Adult,14507 Paramount Blvd. Paramount CA 90723-4378,NA,NA,NA,not tested,Paramount,Los Angeles County,33.9016762405063,-118.160170367089
-Paramount Unified,Paramount Park Middle,14608 Paramount Boulevard Paramount CA 90723-3465,NA,NA,NA,not tested,Paramount,Los Angeles County,33.9008913506494,-118.159965337662
-Paramount Unified,Paramount Unified Community Day,14507 Paramount Boulevard Paramount CA 90723-3419,NA,NA,NA,not tested,Paramount,Los Angeles County,33.9016762405063,-118.160170367089
-Paramount Unified,Theodore Roosevelt,13451 Merkel Avenue Paramount CA 90723-4378,NA,NA,NA,not tested,Paramount,Los Angeles County,33.9113820217619,-118.155554655662
+Palm Springs Unified,Cahuilla Elementary,833 East Mesquite Avenue Palm Springs CA 92264-8414,NA,NA,FALSE,tested,Palm Springs,Riverside County,33.8085403370492,-116.538707999661
+Palm Springs Unified,Cielo Vista Charter,650 South Paseo Dorotea Palm Springs CA 92264-1406,NA,NA,FALSE,tested,Palm Springs,Riverside County,33.811948755102,-116.501736959184
+Palm Springs Unified,Katherine Finchy Elementary,777 East Tachevah Drive Palm Springs CA 92262-4903,NA,NA,FALSE,tested,Palm Springs,Riverside County,33.837531,-116.538991232314
+Private,Palm Springs Community School,1800 E. Vista Chino Palm Springs CA 92262,NA,NA,FALSE,tested,Palm Springs,Riverside County,33.844939,-116.526885
+Palm Springs Unified,Palm Springs High,2401 East Baristo Road Palm Springs CA 92262-7217,6.1,ppb,TRUE,tested,Palm Springs,Riverside County,33.8194837868853,-116.520867098361
+Palm Springs Unified,Raymond Cree Middle,1011 Vista Chino Palm Springs CA 92262-3207,NA,NA,FALSE,tested,Palm Springs,Riverside County,33.844915,-116.5019535

@@ -1,10 +1,10 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Western Placer Unified,First Street,1400 First Street Lincoln CA 95648-1688,NA,NA,FALSE,tested,NA,NA,NA,NA
-Western Placer Unified,Foskett Ranch Elementary,1561 Joiner Parkway Lincoln CA 95648-2969,NA,NA,NA,not tested,Lincoln,Placer County,38.9068283,-121.3175385
-Western Placer Unified,Glen Edwards Middle,204 L Street Lincoln CA 95648-1674,NA,NA,FALSE,tested,Lincoln,Placer County,38.8890128571168,-121.299255
-Western Placer Unified,Horizon Charter,2800 Nicolaus Rd Suite 100 Lincoln CA 95648-1757,NA,NA,FALSE,tested,NA,NA,NA,NA
-Western Placer Unified,Lincoln Crossing Elementary,635 Groveland Lane Lincoln CA 95648-8013,NA,NA,FALSE,tested,Lincoln,Placer County,38.8782131355809,-121.304988705639
-Western Placer Unified,Phoenix High (Continuation),870 J Street Lincoln CA 95648-1757,NA,NA,FALSE,tested,Lincoln,Placer County,38.8962611428571,-121.296731857143
-Western Placer Unified,Sheridan,4730 H Street Sheridan CA 95681-0268,NA,NA,NA,not tested,NA,Placer County,38.9825521302133,-121.373576499757
-Western Placer Unified,Twelve Bridges Elementary,2450 Eastridge Drive Lincoln CA 95648-8282,NA,NA,FALSE,tested,Lincoln,Placer County,38.8462993609775,-121.268643319438
-Western Placer Unified,Twelve Bridges Middle,770 Westview Drive Lincoln CA 95648-7823,NA,NA,FALSE,tested,Lincoln,Placer County,38.8428995,-121.2856328
+Valley Center-Pauma Unified,Lilac,30109 Lilac Road Valley Center CA 92082-3318,NA,NA,FALSE,tested,NA,San Diego County,33.2560817389783,-117.068014878735
+Valley Center-Pauma Unified,Oak Glen High,14172 West Oak Glen Road Valley Center CA 92082-4123,NA,NA,FALSE,tested,NA,NA,NA,NA
+Valley Center-Pauma Unified,Pauma Elementary,33158 Cole Grade Road Pauma Valley CA 92061-9578,NA,NA,NA,not tested,NA,San Diego County,33.315703,-117.00149
+Valley Center-Pauma Unified,Spring Creek Elementary School,4675 Mayette Ave Santa Rosa CA 95405,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.443192096534,-122.667952135091
+Valley Center-Pauma Unified,Valley Center Elementary,28751 Cole Grade Road Valley Center CA 92082-6575,NA,NA,FALSE,tested,NA,San Diego County,33.236019,-117.021447
+Valley Center-Pauma Unified,Valley Center High,31322 Cole Grade Road Valley Center CA 92082-3867,NA,NA,FALSE,tested,NA,San Diego County,33.2803,-117.024659
+Valley Center-Pauma Unified,Valley Center Middle,28102 North Lake Wohlford Road Valley Center CA 92082-6740,NA,NA,FALSE,tested,NA,NA,NA,NA
+Valley Center-Pauma Unified,Valley Center Prep,28751-U Cole Grade Road Valley Center CA 92082,7,ppb,TRUE,tested,NA,San Diego County,33.236019,-117.021447
+Valley Center-Pauma Unified,Valley Center Primary,14249 Fruitvale Road Valley Center CA 92082-5907,NA,NA,FALSE,tested,NA,San Diego County,33.239526,-117.021573

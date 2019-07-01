@@ -1,9 +1,8 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Redding Elementary,Bonny View Elementary,5080 Bidwell Road Redding CA 96001-4255,6.9,ppb,TRUE,tested,Redding,Shasta County,40.5438584395135,-122.378373758234
-Redding Elementary,Cypress Elementary,2150 Civic Center Drive Redding CA 96001-2704,NA,NA,FALSE,tested,Redding,Shasta County,40.5759093484848,-122.380326565657
-Redding Elementary,Juniper,375 Ellis Street Redding CA 96001-3644,NA,NA,FALSE,tested,Redding,Shasta County,40.5634444285714,-122.381893142857
-Redding Elementary,Manzanita Elementary,1240 Manzanita Hills Avenue Redding CA 96001-1348,7.3,ppb,TRUE,tested,Redding,Shasta County,40.5816960657577,-122.411980248561
-Redding Elementary,Sequoia Middle,1805 Sequoia Street Redding CA 96001-1247,NA,NA,FALSE,tested,Redding,Shasta County,40.5832735612245,-122.381207204082
-Redding Elementary,Stellar Charter,5885 E Bonnyview Road Redding CA 96001-4535,NA,NA,FALSE,tested,Redding,Shasta County,40.5317690555556,-122.374369166667
-Redding Elementary,Sycamore Elementary,1926 Sycamore Drive Redding CA 96001-4870,NA,NA,FALSE,tested,Redding,Shasta County,40.5234710801089,-122.388783442501
-Redding Elementary,Turtle Bay,1330 Arboretum Drive Redding CA 96003-3603,NA,NA,FALSE,tested,Redding,Shasta County,40.59745225,-122.383724981363
+Plumas Unified,Chester Elementary,158 Aspen Street Chester CA 96020-0826,NA,NA,NA,not tested,NA,Plumas County,40.3063913693963,-121.231155217572
+Plumas Unified,Chester Junior/Senior High,612 First Street Chester CA 96020-0797,NA,NA,NA,not tested,NA,NA,NA,NA
+Plumas Unified,Greenville Junior/Senior High,117 Grand Street Greenville CA 95947-9630,NA,NA,FALSE,tested,NA,Plumas County,40.1396623402172,-120.945768903102
+Plumas Unified,Indian Valley Elementary,225 Grand Street Greenville CA 95947,NA,NA,FALSE,tested,NA,Plumas County,40.1406206834719,-120.945950218856
+Plumas Unified,Plumas Charter,175 North Mill Creek Quincy CA 95971-9678,15.200000000000001,ppb,TRUE,tested,NA,NA,NA,NA
+Plumas Unified,Quincy Elementary,246 Alder Street Quincy CA 95971-9405,NA,NA,NA,not tested,NA,Plumas County,39.933397935216,-120.945912338304
+Plumas Unified,Quincy Junior/Senior High,6 Quincy Junction Road Quincy CA 95971-9112,NA,NA,NA,not tested,NA,Plumas County,39.9389602880096,-120.937698662952

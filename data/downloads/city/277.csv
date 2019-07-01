@@ -1,28 +1,20 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Santa Clara Unified,Adrian Wilcox High,3250 Monroe Street Santa Clara CA 95051-1153,NA,NA,NA,not tested,Santa Clara,Santa Clara County,37.36503355,-121.984846829821
-Santa Clara Unified,Bowers Elementary,2755 Barkley Avenue Santa Clara CA 95051-2414,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.357262,-121.976179545455
-Santa Clara Unified,Bracher Elementary,2700 Chromite Drive Santa Clara CA 95051-0910,6.8,ppb,TRUE,tested,Santa Clara,Santa Clara County,37.36721,-121.976192
-Santa Clara Unified,Briarwood Elementary,1930 Townsend Avenue Santa Clara CA 95051-2203,NA,NA,NA,not tested,Santa Clara,Santa Clara County,37.35829675,-121.988098234293
-Santa Clara Unified,Buchser Middle,1111 Bellomy Street Santa Clara CA 95050-5433,NA,NA,NA,not tested,Santa Clara,Santa Clara County,37.3465735,-121.9378954
-Santa Clara Unified,C. W. Haman Elementary,865 Los Padres Boulevard Santa Clara CA 95050-5130,NA,NA,NA,not tested,Santa Clara,Santa Clara County,37.3434733532777,-121.964660688517
-Santa Clara Unified,Central Park Elementary School,2720 Sonoma Place Santa Clara CA 95051,NA,NA,NA,not tested,Santa Clara,Santa Clara County,37.34479175,-121.976139832859
-Santa Clara Unified,Don Callejon,4176 Lick Mill Boulevard Santa Clara CA 95054-3585,NA,NA,NA,not tested,Santa Clara,Santa Clara County,37.402638,-121.9536494
-Cupertino Union,Dwight D. Eisenhower Elementary,277 Rodonovan Drive Santa Clara CA 95051-6656,5.4,ppb,TRUE,tested,Santa Clara,Santa Clara County,37.329208997104,-121.989509860546
-Cupertino Union,Happy Days,220 Blake Ave. Santa Clara CA 95051,NA,NA,NA,not tested,Santa Clara,Santa Clara County,37.328334,-121.980090247617
-Santa Clara Unified,Juan Cabrillo Middle,2550 Cabrillo Avenue Santa Clara CA 95051-1803,NA,NA,NA,not tested,Santa Clara,Santa Clara County,37.3596959753176,-121.972970873144
-Santa Clara Unified,Kathryn Hughes Elementary,4949 Calle de Escuela Santa Clara CA 95054-1430,NA,NA,NA,not tested,Santa Clara,Santa Clara County,37.40484,-121.964205
-Santa Clara Unified,Martinson Child Development Center,1350 Hope Drive Santa Clara CA 95054,NA,NA,NA,not tested,Santa Clara,Santa Clara County,37.4006929263364,-121.954244892215
-Santa Clara Unified,Millikin Elementary,615 Hobart Terrace Santa Clara CA 95051-5620,NA,NA,NA,not tested,Santa Clara,Santa Clara County,37.33308485,-121.976951861331
-Santa Clara Unified,Montague Elementary,750 Laurie Avenue Santa Clara CA 95054-2236,NA,NA,NA,not tested,Santa Clara,Santa Clara County,37.3884912855557,-121.947396694153
-Santa Clara Unified,Monticello School,3411 Monroe Street Santa Clara CA 95051,NA,NA,NA,not tested,Santa Clara,Santa Clara County,37.367002,-121.990754387755
-Cupertino Union,Morning Star,220 Blake Avenue Santa Clara CA 95051,NA,NA,NA,not tested,Santa Clara,Santa Clara County,37.328334,-121.980090247617
-Santa Clara Unified,New Valley Continuation High,1875 Lawrence Road Santa Clara CA 95051-2162,NA,NA,NA,not tested,Santa Clara,Santa Clara County,37.3572650346781,-121.995692413997
-Santa Clara Unified,Pomeroy Elementary,1250 Pomeroy Avenue Santa Clara CA 95051-3618,NA,NA,NA,not tested,Santa Clara,Santa Clara County,37.3483602307692,-121.986637
-Santa Clara Unified,Santa Clara Community Day,3450 Brookdale Drive Santa Clara CA 95051-4624,NA,NA,NA,not tested,Santa Clara,Santa Clara County,37.3421041592094,-121.991894803459
-Santa Clara Unified,Santa Clara High,3000 Benton Street Santa Clara CA 95051-3736,NA,NA,NA,not tested,Santa Clara,Santa Clara County,37.346519,-121.982146
-Santa Clara Unified,Scott Lane Elementary,1925 Scott Boulevard Santa Clara CA 95050-3723,NA,NA,NA,not tested,Santa Clara,Santa Clara County,37.3578071916708,-121.959372465065
-Cupertino Union,Sierra School,220 Blake Ave Santa Clara CA 95051,NA,NA,NA,not tested,Santa Clara,Santa Clara County,37.328334,-121.980090247617
-Santa Clara Unified,Sutter Elementary,3200 Forbes Avenue Santa Clara CA 95051-6119,NA,NA,NA,not tested,Santa Clara,Santa Clara County,37.3344397797525,-121.986698623125
-Cupertino Union,Waha Montessori,220 Blake Av. Santa Clara CA 95051,NA,NA,NA,not tested,Santa Clara,Santa Clara County,37.328334,-121.980090247617
-Santa Clara Unified,Westwood Elementary,435 Saratoga Avenue Santa Clara CA 95050-6434,NA,NA,NA,not tested,Santa Clara,Santa Clara County,37.3331721,-121.96017227658
-Santa Clara Unified,Wilson Alternative,1840 Benton St Santa Clara CA 95050-5215,NA,NA,NA,not tested,Santa Clara,Santa Clara County,37.347089728139,-121.955509785376
+San Mateo-Foster City,Abbott Middle,600 36th Avenue San Mateo CA 94403-4101,NA,NA,NA,not tested,San Mateo,San Mateo County,37.529614,-122.308837
+San Mateo-Foster City,Bayside S.T.E.M. ACADEMY,2025 Kehoe Avenue San Mateo CA 94403-1061,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5654690942308,-122.295894165394
+San Mateo-Foster City,Beresford Elementary,300 28th Avenue San Mateo CA 94403-2405,NA,NA,NA,not tested,San Mateo,San Mateo County,37.539123,-122.309286
+San Mateo-Foster City,Borel Middle,425 Barneson Avenue San Mateo CA 94402-3405,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5503207843887,-122.322242562957
+Private,Compass High School,2040 Pioneer Court San Mateo CA 94440,NA,NA,FALSE,tested,San Mateo,San Mateo County,37.5470418901249,-122.312151291915
+San Mateo-Foster City,Fiesta Gardens International Elementary,1001 Bermuda Drive San Mateo CA 94403-1508,NA,NA,NA,not tested,San Mateo,San Mateo County,37.551273,-122.2994
+San Mateo County Office of Education,Gateway Center,35 Tower Road San Mateo CA 94402-4000,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5156188,-122.3341154
+San Mateo Union High,Hillsdale High,3115 Del Monte Street San Mateo CA 94403-3800,8.4,ppb,TRUE,tested,San Mateo,San Mateo County,37.5322051997906,-122.315061292243
+Private,Junipero Serra High School,451 West 20th Avenue San Mateo CA 94403,5.5,ppb,TRUE,tested,San Mateo,San Mateo County,37.5469005,-122.3152434
+San Mateo-Foster City,Laurel Elementary,316 36th Avenue San Mateo CA 94403-4204,NA,NA,NA,not tested,San Mateo,San Mateo County,37.531728940968,-122.303705527655
+San Mateo-Foster City,LEAD Elementary,949 Ocean View Avenue San Mateo CA 94401-3462,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5704009323959,-122.303584289886
+San Mateo-Foster City,Meadow Heights Elementary,2619 Dolores Street San Mateo CA 94403-2644,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5390059042014,-122.317126387828
+San Mateo-Foster City,North Shoreview Montessori Elementary,1301 Cypress Avenue San Mateo CA 94401-2007,NA,NA,NA,not tested,San Mateo,San Mateo County,37.574523,-122.316377
+San Mateo-Foster City,Parkside Elementary,1685 Eisenhower Street San Mateo CA 94402-1045,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5603261939917,-122.296829824551
+San Mateo Union High,San Mateo High,506 North Delaware Street San Mateo CA 94401-1700,NA,NA,FALSE,tested,San Mateo,San Mateo County,37.5760917529282,-122.329722844373
+San Mateo-Foster City,San Mateo Park Elementary,161 Clark Drive San Mateo CA 94402-1002,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5698423554974,-122.342617942306
+Private,St. Timothy School,1515 Dolan Avenue San Mateo CA 94401,9.5,ppb,TRUE,tested,San Mateo,San Mateo County,37.5753090109283,-122.31054286979
+San Mateo-Foster City,Sunnybrae Elementary,1031 South Delaware Street San Mateo CA 94402-1855,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5482289,-122.3047813
+Private,The Carey School,2101 Alameda de las Pulgas San Mateo CA 94403,NA,NA,FALSE,tested,San Mateo,San Mateo County,37.5351825,-122.3104198

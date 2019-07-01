@@ -1,10 +1,7 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Los Altos Elementary,Almond Elementary,550 Almond Avenue Los Altos CA 94022-2312,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.385082,-122.100525543478
-Los Altos Elementary,Ardis G. Egan Junior High,100 West Portola Avenue Los Altos CA 94022-1210,5.2,ppb,TRUE,tested,Los Altos,Santa Clara County,37.3961242,-122.116366380816
-Los Altos Elementary,Covington Elementary,205 Covington Road Los Altos CA 94024-4030,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.370465,-122.107404
-Los Altos Elementary,Gardner Bullis Elementary,25890 Fremont Road Los Altos Hills CA 94022-2617,NA,NA,FALSE,tested,NA,NA,NA,NA
-Los Altos Elementary,Georgina P. Blach Junior High,1120 Covington Road Los Altos CA 94024-5005,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.36386675,-122.081681652979
-Los Altos Elementary,Loyola Elementary,770 Berry Avenue Los Altos CA 94024-5413,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.3613621152209,-122.092284068525
-Los Altos Elementary,Oak Avenue Elementary,1501 Oak Avenue Los Altos CA 94024-5831,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.356843,-122.071846
-Los Altos Elementary,Santa Rita Elementary,700 Los Altos Avenue Los Altos CA 94022-1631,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.775444,-118.125129
-Los Altos Elementary,Springer Elementary,1120 Rose Avenue Mountain View CA 94040-4058,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.3709394,-122.0914759
+Lindsay Unified,Cairns High School,533 E Honolulu Lindsay CA 93247,NA,NA,NA,not tested,NA,NA,NA,NA
+Lindsay Unified,Jefferson Elementary,333 North Westwood Avenue Lindsay CA 93247-1801,NA,NA,NA,not tested,Lindsay,Tulare County,36.20443915,-119.102937435647
+Lindsay Unified,John J. Cairns Continuation,290 N Harvard Lindsay CA 93247-2304,NA,NA,NA,not tested,Lindsay,Tulare County,36.2069465626853,-119.082459674904
+Lindsay Unified,Kennedy Elementary,1701 East Tulare Road Lindsay CA 93247-2262,NA,NA,NA,not tested,Lindsay,Tulare County,36.21193635,-119.072013001562
+Lindsay Unified,Lindsay Senior High,1849 East Tulare Road Lindsay CA 93247-9711,NA,NA,NA,not tested,Lindsay,Tulare County,36.21189365,-119.066886758001
+Lindsay Unified,Reagan Elementary,340 North Harvard Lindsay CA 93247-2219,NA,NA,NA,not tested,Lindsay,Tulare County,36.2079613596608,-119.082486381373

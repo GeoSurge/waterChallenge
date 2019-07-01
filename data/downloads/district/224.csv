@@ -1,17 +1,13 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Etiwanda Elementary,Carleton P. Lightfoot Elementary,6989 Kenyon Way Alta Loma CA 91701-8605,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.1275,-117.550422762339
-Etiwanda Elementary,Caryn Elementary,6290 Sierra Crest View Loop Alta Loma CA 91737-7960,NA,NA,FALSE,tested,NA,NA,NA,NA
-Etiwanda Elementary,Cecilia Lucero Solorio Elementary,15172 Walnut Street Fontana CA 92336-4450,8.3,ppb,TRUE,tested,Fontana,San Bernardino County,34.1286757,-117.4698403
-Etiwanda Elementary,David W. Long Elementary,5383 Bridlepath Drive Fontana CA 92236-0690,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.153477,-117.483701
-Etiwanda Elementary,Day Creek Intermediate,12345 Coyote Drive Etiwanda CA 91739-9031,NA,NA,FALSE,tested,NA,NA,NA,NA
-Etiwanda Elementary,East Heritage Elementary,14250 East Constitution Way Fontana CA 92336-3785,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.1119064419287,-117.497289120497
-Etiwanda Elementary,Etiwanda Colony Elementary,13144 Banyan Street Etiwanda CA 91739-9543,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.1433233549793,-117.51885791849
-Etiwanda Elementary,Etiwanda Intermediate,6925 Etiwanda Avenue Etiwanda CA 91739-8714,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.1279470471446,-117.523406274792
-Etiwanda Elementary,Grapeland Elementary,7171 Etiwanda Avenue Etiwanda CA 91739-9714,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.12369375,-117.522303857203
-Etiwanda Elementary,Heritage Intermediate,13766 South Heritage Circle Fontana CA 92336-2959,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.1213653,-117.4966493
-Etiwanda Elementary,John L. Golden Elementary,12400 Banyan Street Etiwanda CA 91739-9402,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.143317,-117.531532
-Etiwanda Elementary,Perdew Elementary,13051 Miller Avenue Etiwanda CA 91739-9657,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.1132274791667,-117.520562416667
-Etiwanda Elementary,Summit Intermediate,5959 East Avenue Etiwanda CA 91739-2217,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.1358718,-117.5144824
-Etiwanda Elementary,Terra Vista Elementary,7497 Mountain View Drive Rancho Cucamonga CA 91730-7274,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.1171908,-117.55084996069
-Etiwanda Elementary,West Heritage Elementary,13690 West Constitution Way Fontana CA 92336-3884,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.11247325,-117.506207696765
-Etiwanda Elementary,Windrows Elementary,6855 Victoria Park Lane Etiwanda CA 91739-0248,5.2,ppb,TRUE,tested,Rancho Cucamonga,San Bernardino County,34.1272485063384,-117.5300061597
+Encinitas Union Elementary,Capri Elementary,941 Capri Road Encinitas CA 92024-1214,NA,NA,NA,not tested,Encinitas,San Diego County,33.0760018771224,-117.288832459455
+Encinitas Union Elementary,Capri Elementary School," 941 Capri Rd, Encinitas, CA 92024",NA,NA,NA,exempt,Encinitas,San Diego County,33.0760018771224,-117.288832459455
+Encinitas Union Elementary,El Camino Creek Elementary,7885 Paseo Aliso Carlsbad CA 92009-9028,NA,NA,NA,not tested,Carlsbad,San Diego County,33.0770263568538,-117.258967618608
+Encinitas Union Elementary,Flora Vista Elementary,1690 Wandering Road Encinitas CA 92024-2417,NA,NA,NA,not tested,Encinitas,San Diego County,33.056895,-117.252276
+Encinitas Union Elementary,La Costa Heights Elementary,3035 Levante Street Carlsbad CA 92009-8331,NA,NA,NA,not tested,Carlsbad,San Diego County,33.0809196720078,-117.243387041512
+Encinitas Union Elementary,Mission Estancia Elementary,3330 Calle Barcelona Carlsbad CA 92009-9319,NA,NA,NA,not tested,Carlsbad,San Diego County,33.0723301,-117.240137
+Encinitas Union Elementary,Ocean Knoll Elementary,910 Melba Road Encinitas CA 92024-3901,NA,NA,NA,not tested,Encinitas,San Diego County,33.0403032,-117.2722253
+Encinitas Union Elementary,Ocean Knoll Elementary School,"910 Melba Rd.Encinitas, CA 92024",NA,NA,NA,exempt,Encinitas,San Diego County,33.0403032,-117.2722253
+Encinitas Union Elementary,Olivenhain Pioneer Elementary,8000 Calle Acervo Carlsbad CA 92009-8900,NA,NA,NA,not tested,Carlsbad,San Diego County,33.069318,-117.232973
+Encinitas Union Elementary,Park Dale Lane Elementary,2050 Park Dale Lane Encinitas CA 92024-4324,NA,NA,NA,not tested,Encinitas,San Diego County,33.0464195518218,-117.243113753442
+Encinitas Union Elementary,Paul Ecke Central Elementary School,"185 Union St, .Encinitas, CA 92024",NA,NA,NA,exempt,Encinitas,San Diego County,33.0580312727273,-117.298061818182
+Encinitas Union Elementary,Paul Ecke-Central Elementary,185 Union Street Encinitas CA 92024-2119,NA,NA,NA,not tested,Encinitas,San Diego County,33.0580312727273,-117.298061818182

@@ -1,11 +1,11 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Paso Robles Joint Unified,Daniel Lewis Middle,900 Creston Road Paso Robles CA 93447-3002,NA,NA,FALSE,tested,Paso Robles,San Luis Obispo County,35.5724858,-120.5898183
-Paso Robles Joint Unified,George H. Flamson Middle,655 24th Street Paso Robles CA 93446-1444,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.6391254,-120.6932194
-Paso Robles Joint Unified,Georgia Brown Elementary,525 36th Street Paso Robles CA 93447-7010,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.651413,-120.6956166
-Paso Robles Joint Unified,Kermit King Elementary,700 Schoolhouse Circle Paso Robles CA 93446-7001,NA,NA,FALSE,tested,NA,NA,NA,NA
-Paso Robles Joint Unified,Liberty High (Continuation),810 Niblick Road Paso Robles CA 93447-7010,NA,NA,FALSE,tested,NA,San Luis Obispo County,35.61519045,-120.67057124507
-Paso Robles Joint Unified,Marie Bauer/Glen Speck School,401 17th St Paso Robles CA 93446,7.5,ppb,TRUE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.6326384,-120.6945996
-Paso Robles Joint Unified,Paso Robles High,801 Niblick Road Paso Robles CA 93447-7010,NA,NA,FALSE,tested,NA,San Luis Obispo County,35.6159033,-120.6698876
-Paso Robles Joint Unified,Pat Butler Elementary,700 Nicklaus Street Paso Robles CA 93446-3415,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.610783,-120.673846817168
-Paso Robles Joint Unified,Virginia Peterson Elementary,2501 Beechwood Drive Paso Robles CA 93446-4730,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.60036965,-120.655643751438
-Paso Robles Joint Unified,Winifred Pifer Elementary,1350 Creston Road Paso Robles CA 93447-7010,NA,NA,FALSE,tested,Paso Robles,San Luis Obispo County,35.5724858,-120.5898183
+Oxnard Union High,Adolfo Camarillo High,4660 Mission Oaks Boulevard Camarillo CA 93012-5132,NA,NA,NA,not tested,Camarillo,Ventura County,34.2219489259254,-119.005170554405
+Oxnard Union High,"Architecture, Construction & Engineering Charter High (ACE)",570 Airport Way Camarillo CA 93010-8500,NA,NA,NA,not tested,Camarillo,Ventura County,34.208374,-119.076202142857
+Oxnard Union High,Camarillo Academy of Progressive Education,777 Aileen Street Camarillo CA 93010-2959,NA,NA,NA,not tested,Camarillo,Ventura County,34.2259163519536,-119.059498416133
+Oxnard Union High,Channel Islands High,1400 Raiders Way Oxnard CA 93033-5699,NA,NA,FALSE,tested,Oxnard,Ventura County,34.1705618,-119.162355504779
+Oxnard Union High,Condor High,4000 S Rose Ave Oxnard CA 93033,NA,NA,NA,not tested,Oxnard,Ventura County,34.163043,-119.159316
+Oxnard Union High,Frontier High,545 Airport Way Camarillo CA 93010-8581,NA,NA,NA,not tested,Camarillo,Ventura County,34.2084425714286,-119.076395632653
+Oxnard Union High,Hueneme High,500 West Bard Road Oxnard CA 93033-6306,NA,NA,FALSE,tested,Oxnard,Ventura County,34.15909655,-119.182326349802
+Oxnard Union High,Oxnard High,3400 West Gonzales Road Oxnard CA 93036-7768,NA,NA,NA,not tested,Oxnard,Ventura County,34.2193665,-119.1985987
+Oxnard Union High,Pacifica High,600 East Gonzales Road Oxnard CA 93036-8266,NA,NA,FALSE,tested,Oxnard,Ventura County,34.2180988,-119.170997047798
+Oxnard Union High,Rancho Campana High,4235 Mar Vista Drive Camarillo CA 93010,NA,NA,NA,not tested,Camarillo,Ventura County,34.2445857,-119.0143205

@@ -1,41 +1,18 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Santa Rita Union Elementary,Abraham Lincoln Elementary,"850 W 9th St, Santa Rosa, CA 95401",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4415496630226,-122.736069224231
-Santa Rita Union Elementary,Albert F. Biella Elementary,"2140 Jennings Ave, Santa Rosa, CA 95401",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4498565597847,-122.75292543966
-Santa Rita Union Elementary,Brook Hill Elementary,"1850 Vallejo St, Santa Rosa, CA 95404",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4378474572541,-122.693907851034
-Private,Brush Creek Montessori,1569 Brush Creek Rd Santa Rosa CA 95404,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4662300784948,-122.680655331034
-Santa Rosa Elementary,Cesar Chavez Language Academy,2750 West Steele Lane Santa Rosa CA 95403-3236,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4596532752192,-122.74700550689
-Santa Rosa High,Grace High,1700 Fulton Road Santa Rosa CA 95403-1815,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.45999,-122.769542
-Santa Rita Union Elementary,Helen Lehman Elementary,"1700 Jennings Ave, Santa Rosa, CA 95401",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.449675,-122.745082
-Santa Rosa Elementary,Helen M. Lehman Elementary,1700 Jennings Avenue Santa Rosa CA 95401-4556,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.449675,-122.745082
-Santa Rosa High,Herbert Slater Middle,3500 Sonoma Avenue Santa Rosa CA 95405-5414,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.448451,-122.67303
-Santa Rita Union Elementary,Herbert Slater Middle School,"3500 Sonoma Ave, Santa Rosa, CA 95405",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.448451,-122.67303
-Santa Rita Union Elementary,Hidden Valley Elementary,"3435 Bonita Vista Dr, Santa Rosa, CA 95404",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4759413345236,-122.699511013836
-Santa Rosa High,Hilliard Comstock Middle,2750 West Steele Ln Santa Rosa CA 95403-3299,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4596532752192,-122.74700550689
-Santa Rita Union Elementary,Hilliard Comstock Middle School,"2750 W Steele Ln, Santa Rosa, CA 95403",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4596532752192,-122.74700550689
-Santa Rosa Elementary,James Monroe Elementary,2567 Marlow Road Santa Rosa CA 95403-2473,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4568771762267,-122.752206956644
-Santa Rita Union Elementary,James Monroe Elementary,"2567 Marlow Rd, Santa Rosa, CA 95403",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4568771762267,-122.752206956644
-Santa Rosa High,Lawrence Cook Middle,2480 Sebastopol Rd Santa Rosa CA 95407-6728,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4265063653846,-122.746873971154
-Santa Rita Union Elementary,Lawrence Cook Middle School,"2480 Sebastopol Rd, Santa Rosa, CA 95407",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4265063653846,-122.746873971154
-Santa Rosa Elementary,Luther Burbank Elementary,203 South A Street Santa Rosa CA 95401-6302,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4349301984282,-122.715417835372
-Santa Rita Union Elementary,Luther Burbank Elementary,"203 A St, Santa Rosa, CA 95401",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4420427,-122.719497
-Santa Rosa High,Mesa High,1235 Mendocino Avenue Santa Rosa CA 95401-4312,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4518935037103,-122.717563874814
-Santa Rosa High,Montgomery High,1250 Hahman Drive Santa Rosa CA 95405-6934,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.441091,-122.685192
-Santa Rita Union Elementary,Montgomery High School,"1250 Hahman Dr, Santa Rosa, CA 95405",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.441091,-122.685192
-Santa Rosa High,Piner High,1700 Fulton Rd. Santa Rosa CA 95403-1815,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.45999,-122.769542
-Santa Rita Union Elementary,Piner High School,"1700 Fulton Rd, Santa Rosa, CA 95403",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.45999,-122.769542
-Santa Rosa Elementary,Proctor Terrace Elementary,1711 Bryden Lane Santa Rosa CA 95404-3646,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4516682405063,-122.698978
-Santa Rita Union Elementary,Proctor Terrace Elementary,"1711 Bryden Ln, Santa Rosa, CA 95404",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4516682405063,-122.698978
-Santa Rosa High,Rincon Valley Middle,4650 Badger Road Santa Rosa CA 95409-2699,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.482084,-122.672222
-Santa Rita Union Elementary,Rincon Valley Middle School,"4650 Badger Rd, Santa Rosa, CA 95409",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.482084,-122.672222
-Roseland,Roseland Charter,100 Sebastopol Road Santa Rosa CA 95407-6928,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.430893,-122.723722
-Roseland,Roseland Elementary,950 Sebastopol Road Santa Rosa CA 95407-6829,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4291607907849,-122.731032084079
-Santa Rita Union Elementary,Santa Rosa Charter School for the Arts,"756 Humboldt St, Santa Rosa, CA 95404",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4468142000657,-122.714596839273
-Santa Rosa Elementary,Santa Rosa French-American Charter (SRFACS),1350 Sonoma Avenue Santa Rosa CA 95405-6623,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4417433548387,-122.697471516129
-Santa Rita Union Elementary,Santa Rosa French-American Charter School,"1350 Sonoma Ave, Santa Rosa, CA 95405",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4417433548387,-122.697471516129
-Santa Rosa High,Santa Rosa High,1235 Mendocino Ave Santa Rosa CA 95401-4312,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4518935037103,-122.717563874814
-Santa Rita Union Elementary,Santa Rosa High School,"1235 Mendocino Ave, Santa Rosa, CA 95401",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4518935037103,-122.717563874814
-Santa Rosa High,Santa Rosa Middle,500 E Street Santa Rosa CA 95404-4373,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.444909118678,-122.710803668656
-Santa Rita Union Elementary,Santa Rosa Middle School,"500 E St, Santa Rosa, CA 95404",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.444909118678,-122.710803668656
-Roseland,Sheppard Elementary,1777 West Avenue Santa Rosa CA 95407-7449,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4200201557875,-122.727894280611
-Santa Rita Union Elementary,Steele Lane Elementary,"301 Steele Ln, Santa Rosa, CA 95403",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.460548,-122.720485
-Santa Rosa Elementary,Steele Lane Elementary,301 Steele Lane Santa Rosa CA 95403-3148,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.460548,-122.720485
+Santa Cruz City High,Alternative Family Education,840 North Branciforte Avenue Santa Cruz CA 95062-1028,6.6,ppb,TRUE,tested,Santa Cruz,Santa Cruz County,36.9805684310477,-122.014299208516
+Santa Cruz City High,Ark Independent Studies,840 North Branciforte Avenue Santa Cruz CA 95062-1028,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.9805684310477,-122.014299208516
+Santa Cruz City Elementary,Bay View Elementary,1231 Bay Street Santa Cruz CA 95060-4708,NA,NA,FALSE,tested,Santa Cruz,Santa Cruz County,36.9656226400402,-122.039004899297
+Santa Cruz City High,Costanoa Continuation High,840 North Branciforte Avenue Santa Cruz CA 95062-1028,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.9805684310477,-122.014299208516
+Santa Cruz City Elementary,De Laveaga Elementary,1145 Morrissey Boulevard Santa Cruz CA 95065-1498,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.9897425600716,-121.994825246833
+Santa Cruz City Elementary,Gault Elementary,1320 Seabright Avenue Santa Cruz CA 95062-2525,NA,NA,FALSE,tested,Santa Cruz,Santa Cruz County,36.9756449940181,-122.008589305668
+Santa Cruz City High,Harbor High,300 La Fonda Avenue Santa Cruz CA 95062-1431,NA,NA,FALSE,tested,Santa Cruz,Santa Cruz County,36.9868692033249,-121.994696977229
+Santa Cruz City High,Mission Hill Middle,425 King Street Santa Cruz CA 95060-3411,NA,NA,FALSE,tested,Santa Cruz,Santa Cruz County,36.9748363675906,-122.036134679082
+Santa Cruz County Office of Education,Pacific Collegiate Charter,255 Swift Street Santa Cruz CA 95060-6225,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.9526331736176,-122.048088348469
+Santa Cruz City High,Santa Cruz Adult,319 La Fonda Avenue Santa Cruz CA 95062,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.9870641022628,-121.994643618961
+Santa Cruz City Elementary,Santa Cruz City Elementary Alternative Education-Monarch,840 North Branciforte Avenue Santa Cruz CA 95062-1028,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.9805684310477,-122.014299208516
+Santa Cruz County Office of Education,Santa Cruz County Community,400 Encinal Street Santa Cruz CA 95060-2115,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.987073427759,-122.035516225472
+Santa Cruz County Office of Education,Santa Cruz County Court,400 Encinal Street Santa Cruz CA 95060,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.987073427759,-122.035516225472
+Santa Cruz County ROP,Santa Cruz County ROP,400 Encinal Street B Santa Cruz CA 95060-2115,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.987073427759,-122.035516225472
+Santa Cruz County Office of Education,Santa Cruz County Special Education,400 Encinal St. Santa Cruz CA 95060-2115,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.987073427759,-122.035516225472
+Santa Cruz City High,Santa Cruz High,415 Walnut Avenue Santa Cruz CA 95060-3633,24,ppb,TRUE,tested,Santa Cruz,Santa Cruz County,36.9718398566945,-122.033340386652
+Santa Cruz City Elementary,Westlake Elementary,1000 High Street Santa Cruz CA 95060-2596,NA,NA,FALSE,tested,Santa Cruz,Santa Cruz County,36.977915,-122.047988

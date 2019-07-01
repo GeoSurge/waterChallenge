@@ -1,6 +1,9 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Nuview Union,Excel Prep Charter - IE,25560 Alessandro Boulevard Moreno Valley CA 92583-3236,NA,NA,NA,not tested,Moreno Valley,Riverside County,33.917422,-117.216386615385
-Nuview Union,Mountain Shadows Middle,30401 Reservoir Avenue Nuevo CA 92567-9361,NA,NA,NA,not tested,NA,Riverside County,33.8076784,-117.147397
-Nuview Union,Nuview Bridge Early College High,30401 Reservoir Ave Nuevo CA 92567-9361,NA,NA,NA,not tested,NA,Riverside County,33.8076784,-117.147397
-Nuview Union,Nuview Elementary,29680 Lakeview Avenue Nuevo CA 92567-9140,NA,NA,NA,not tested,NA,Riverside County,33.8193473680546,-117.131310041958
-Nuview Union,Valley View Elementary,21220 Maurice Street Nuevo CA 92567-9010,NA,NA,FALSE,tested,NA,Riverside County,33.8103141644973,-117.109440201404
+Nevada County Office of Education,Bitney College Preparatory High,135 Joerschke Drive Grass Valley CA 95945-5249,NA,NA,NA,not tested,NA,NA,NA,NA
+Nevada County Office of Education,Forest Charter - Auburn,11952 Masters Court  Auburn CA 95603,NA,NA,FALSE,tested,NA,Placer County,38.937337189311,-121.096286934413
+Nevada County Office of Education,Forest Charter - Foresthll,23221 Forest Hill Road Foresthill CA 95631,NA,NA,FALSE,tested,NA,Placer County,39.014221281459,-120.837928697407
+Nevada County Office of Education,Forest Charter - Nevada City,470 Searls Avenue Nevada City CA 95959-3030,NA,NA,NA,not tested,Nevada City,Nevada County,39.255202,-121.023546
+Nevada County Office of Education,Forest Charter - Truckee,10725 Pioneer Trl #201 Truckee CA 96161,NA,NA,NA,not tested,NA,NA,NA,NA
+Nevada County Office of Education,Nevada County Special Education,400 Hoover Lane Nevada City CA 95959-2944,NA,NA,NA,not tested,Nevada City,Nevada County,39.253893,-121.031605
+Nevada County Office of Education,Twin Ridges Home Study Charter,111 New Mohawk Road Nevada City CA 95959-3226,NA,NA,NA,not tested,Nevada City,Nevada County,39.2482593663303,-121.016083471786
+Nevada County Office of Education,Yuba River Charter,505 Main Street Nevada City CA 95959-2218,NA,NA,NA,not tested,Nevada City,Nevada County,39.2652902907306,-121.018759347602

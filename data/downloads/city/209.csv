@@ -1,7 +1,6 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Orland Joint Unified,Fairview Elementary,1308 Fairview Street Orland CA 95963-1992,NA,NA,NA,not tested,Orland,Glenn County,39.7382604,-122.1827572
-Orland Joint Unified,North Valley High (Continuation),220 Roosevelt Avenue Orland CA 95963,NA,NA,NA,not tested,Orland,Glenn County,39.75438,-122.191936
-Orland Joint Unified,Orland Community Day,260 Roosevelt Avenue Orland CA 95963-1526,NA,NA,NA,not tested,Orland,Glenn County,39.75438,-122.191936
-Orland Joint Unified,Orland High,101 Shasta Street Orland CA 95963-1426,NA,NA,NA,not tested,Orland,Glenn County,39.7510860067568,-122.191570256757
-Orland Joint Unified,Price Intermediate,1212 Marin Street Orland CA 95963-1641,NA,NA,NA,not tested,Orland,Glenn County,39.7414205833333,-122.19204875
-Glenn County Office of Education,William Finch,607 East Tehama Street Orland CA 95963-1595,NA,NA,NA,not tested,Orland,Glenn County,39.749567,-122.183999
+Ojai Unified,A Place to Grow,414 East Ojai Avenue Ojai CA 93023-2819,NA,NA,FALSE,tested,Ojai,Ventura County,34.4481193822162,-119.242814703966
+Ojai Unified,Chaparral High,114 North Montgomery Ojai CA 93023-2742,7.4,ppb,TRUE,tested,Ojai,Ventura County,34.4482304285714,-119.242924571429
+Ojai Unified,Matilija Junior High,703 El Paseo Road Ojai CA 93023-2499,NA,NA,FALSE,tested,Ojai,Ventura County,34.4459467916047,-119.255441241503
+Ojai Unified,Nordhoff High,1401 Maricopa Highway Ojai CA 93023-3132,NA,NA,FALSE,tested,Ojai,Ventura County,34.44295,-119.267628
+Ojai Unified,Topa Topa Elementary,916 Mountain View Avenue Ojai CA 93023-2032,NA,NA,FALSE,tested,Ojai,Ventura County,34.4575673061224,-119.236103040816

@@ -1,10 +1,7 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Fullerton Joint Union High,Buena Park High,8833 Academy Drive Buena Park CA 90621-3705,NA,NA,FALSE,tested,Buena Park,Orange County,33.86102,-117.98016
-Fullerton Joint Union High,Fullerton School District Nutrition Center,389 W Truslow Fullerton CA 92832,12,ppb,TRUE,tested,Fullerton,Orange County,33.8673635073837,-117.930633052243
-Fullerton Joint Union High,Fullerton Union High,201 East Chapman Avenue Fullerton CA 92832-1925,NA,NA,FALSE,tested,Fullerton,Orange County,33.874068,-117.921946
-Fullerton Joint Union High,La Habra High,801 West Highlander Avenue La Habra CA 90631-3720,NA,NA,FALSE,tested,La Habra,Orange County,33.9372651,-117.957040316637
-Fullerton Joint Union High,La Sierra High (Alternative),951 North State College Boulevard Fullerton CA 92831,NA,NA,FALSE,tested,Fullerton,Orange County,33.8865595974957,-117.889753901115
-Fullerton Joint Union High,La Vista High (Continuation),909 North State College Boulevard Fullerton CA 92831-3013,NA,NA,FALSE,tested,Fullerton,Orange County,33.8780295882353,-117.889768235294
-Fullerton Joint Union High,Sonora High,401 South Palm Street La Habra CA 90631-5735,NA,NA,FALSE,tested,La Habra,Orange County,33.92810445,-117.926594402695
-Fullerton Joint Union High,Sunny Hills High,1801 Warburton Way Fullerton CA 92833-2235,NA,NA,FALSE,tested,Fullerton,Orange County,33.8843344,-117.952649971511
-Fullerton Joint Union High,Troy High,2200 East Dorothy Lane Fullerton CA 92831-3036,NA,NA,FALSE,tested,Fullerton,Orange County,33.881375,-117.895006
+Fremont Union High,Community Day,589 West Fremont Ave Sunnyvale CA 94087-2556,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3527645,-122.037499411599
+Fremont Union High,Cupertino High,10100 Finch Avenue Cupertino CA 95014-3411,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.32076165,-122.008954023319
+Fremont Union High,Fremont High,1279 Sunnyvale-Saratoga Road Sunnyvale CA 94087-2535,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3526070497761,-122.03250461253
+Fremont Union High,Homestead High,21370 Homestead Road Cupertino CA 95014-0203,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.3364109,-122.04801905545
+Fremont Union High,Lynbrook High,1280 Johnson Avenue San Jose CA 95129-4172,NA,NA,FALSE,tested,San José,Santa Clara County,37.3016001207421,-122.006344036533
+Fremont Union High,Monta Vista High,21840 McClellan Road Cupertino CA 95014-4055,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.31491205,-122.056726500299

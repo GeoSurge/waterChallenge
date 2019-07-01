@@ -1,3 +1,5 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Byron Union Elementary,Discovery Bay Elementary,1700 Willow Lake Road Discovery Bay CA 94505-9375,NA,NA,NA,not tested,NA,Contra Costa County,37.901243,-121.602046
-Byron Union Elementary,Timber Point Elementary,40 Newbury Lane Discovery Bay CA 94505-1828,NA,NA,NA,not tested,NA,Contra Costa County,37.9088535,-121.6176752
+Butte County Office of Education,Butte County Community School - LEAD,2345 Fair Street Chico CA 95928-6749,NA,NA,NA,not tested,Chico,Butte County,39.7167771701196,-121.815303848508
+Butte County Office of Education,CORE Butte Charter,260 Cohasset Road Suite 120 Chico CA 95926-2282,NA,NA,NA,not tested,NA,NA,NA,NA
+Butte County Office of Education,Mesa Vista School,2265 6th Street Oroville CA 95965,NA,NA,NA,not tested,Oroville,Butte County,39.526,-121.578816863636
+Butte County Office of Education,Mountain View (Hearthstone) School,2280 6th Street Oroville CA 95965,NA,NA,NA,not tested,Oroville,Butte County,39.5272042040816,-121.578600918367

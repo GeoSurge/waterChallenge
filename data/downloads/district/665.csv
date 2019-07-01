@@ -1,8 +1,10 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-San Mateo Union High,Aragon High,900 Alameda de Las Pulgas San Mateo CA 94402-3357,NA,NA,FALSE,tested,NA,NA,NA,NA
-San Mateo Union High,Burlingame High,1 Mangini Way Burlingame CA 94010-2708,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.582181,-122.3471674
-San Mateo Union High,Design Tech High,1800 Rollins Road Burlingame CA 94010-2205,NA,NA,NA,not tested,Burlingame,San Mateo County,37.5978274018288,-122.379961310625
-San Mateo Union High,Hillsdale High,3115 Del Monte Street San Mateo CA 94403-3800,8.4,ppb,TRUE,tested,San Mateo,San Mateo County,37.5322051997906,-122.315061292243
-San Mateo Union High,Mills High,400 Murchison Drive Millbrae CA 94030-3024,NA,NA,FALSE,tested,Millbrae,San Mateo County,37.5946883176698,-122.388001015798
-San Mateo Union High,Peninsula High,300 Piedmont Avenue San Bruno CA 94019-3906,NA,NA,FALSE,tested,San Bruno,San Mateo County,37.609176988407,-122.430573360337
-San Mateo Union High,San Mateo High,506 North Delaware Street San Mateo CA 94401-1700,NA,NA,FALSE,tested,San Mateo,San Mateo County,37.5760917529282,-122.329722844373
+San Carlos Elementary,Arroyo School,1710 Arroyo Avenue San Carlos CA 94070,NA,NA,FALSE,tested,San Carlos,San Mateo County,37.4989986899234,-122.260503062015
+San Carlos Elementary,Arundel Elementary,200 Arundel Road San Carlos CA 94070-1945,NA,NA,FALSE,tested,San Carlos,San Mateo County,37.503987,-122.273667
+San Carlos Elementary,Brittan Acres Elementary,2000 Belle Avenue San Carlos CA 94070-3730,NA,NA,FALSE,tested,San Carlos,San Mateo County,37.496287,-122.263826
+San Carlos Elementary,Central Middle,757 Cedar Street San Carlos CA 94070-3802,NA,NA,FALSE,tested,San Carlos,San Mateo County,37.5010416868601,-122.262071666635
+San Carlos Elementary,Heather Elementary,2757 Melendy Drive San Carlos CA 94070-3604,NA,NA,FALSE,tested,San Carlos,San Mateo County,37.491661167834,-122.276759696568
+San Carlos Elementary,San Carlos Charter Learning Center,750 Dartmouth Ave. San Carlos CA 94070,NA,NA,FALSE,tested,San Carlos,San Mateo County,37.50860195,-122.286504310745
+San Carlos Elementary,San Diego Continuing Education,4343 Ocean View Boulevard San Diego CA 92113-1915,NA,NA,NA,not tested,San Diego,San Diego County,32.7004217044846,-117.101618501001
+San Carlos Elementary,Tierra Linda Middle,750 Dartmouth Ave San Carlos  CA 94070,NA,NA,FALSE,tested,San Carlos,San Mateo County,37.50860195,-122.286504310745
+San Carlos Elementary,White Oaks Elementary,1901 White Oak Way San Carlos CA 94070-4747,NA,NA,FALSE,tested,San Carlos,San Mateo County,37.492039,-122.253343

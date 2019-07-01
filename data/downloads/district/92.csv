@@ -1,6 +1,8 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Burton Elementary,Burton Elementary,2375 West Morton Street Porterville CA 93257-2557,NA,NA,NA,not tested,NA,NA,NA,NA
-Burton Elementary,Burton Middle,1155 North Elderwood Street Porterville CA 93257-9089,NA,NA,NA,not tested,Porterville,Tulare County,36.0852832,-119.076495367924
-Burton Elementary,Jim Maples Academy,252 North Westwood Porterville CA 93257-2542,NA,NA,NA,not tested,Porterville,Tulare County,36.0712290394737,-119.07100225
-Burton Elementary,Oak Grove Elementary,1873 West Mulberry Avenue Porterville CA 93257-6602,NA,NA,NA,not tested,Porterville,Tulare County,36.08306705,-119.059646250234
-Burton Elementary,William R. Buckley Elementary,2573 West Westfield Avenue Porterville CA 93257-9067,NA,NA,NA,not tested,Porterville,Tulare County,36.0866214,-119.074110392802
+Buena Park Elementary,Arthur F. Corey Elementary,7351 Holder Street Buena Park CA 90620-1608,5.3,ppb,TRUE,tested,Buena Park,Orange County,33.8555087755102,-118.019979
+Buena Park Elementary,Buena Park Junior High,6931 Orangethorpe Avenue Buena Park CA 90620-1350,NA,NA,FALSE,tested,Buena Park,Orange County,33.858981,-118.012749
+Buena Park Elementary,Carl E. Gilbert Elementary,7255 Eighth Street Buena Park CA 90621-2203,8.1,ppb,TRUE,tested,NA,NA,NA,NA
+Buena Park Elementary,Charles G. Emery Elementary,8600 Somerset Street Buena Park CA 90621-1402,NA,NA,FALSE,tested,Buena Park,Orange County,33.8844450030327,-117.983275151995
+Buena Park Elementary,Gordon H. Beatty Elementary,8201 Country Club Drive Buena Park CA 90621-1529,NA,NA,FALSE,tested,Buena Park,Orange County,33.883937,-117.988927
+Buena Park Elementary,James A. Whitaker Elementary,8401 Montana Street Buena Park CA 90621-3629,NA,NA,FALSE,tested,NA,NA,NA,NA
+Buena Park Elementary,Mabel L. Pendleton Elementary,7101 Stanton Avenue Buena Park CA 90621-3825,5.9,ppb,TRUE,tested,Buena Park,Orange County,33.85767295,-117.994675361216

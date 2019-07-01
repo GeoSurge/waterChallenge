@@ -1,15 +1,18 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Redondo Beach Unified,Adams Middle,2600 Ripley Avenue Redondo Beach CA 90278-4555,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.866031,-118.364893
-Redondo Beach Unified,Alta Vista Elementary,815 Knob Hill Avenue Redondo Beach CA 90277-4300,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.8283570939369,-118.378874757543
-Redondo Beach Unified,Beryl Heights Elementary,920 Beryl Street Redondo Beach CA 90277-2236,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.8521850408163,-118.384458346939
-Redondo Beach Unified,Birney Elementary,1600 Green Lane Redondo Beach CA 90278-3656,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.869135,-118.376831
-Hermosa Beach City Elementary,Hermosa View Elementary,1800 Prospect Avenue Hermosa Beach CA 90254-3350,NA,NA,NA,not tested,Redondo Beach,Los Angeles County,33.868596,-118.391471
-Redondo Beach Unified,Jefferson Elementary,600 Harkness Lane Redondo Beach CA 90278-4806,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.86017,-118.381022
-Redondo Beach Unified,Lincoln Elementary,2223 Plant Avenue Redondo Beach CA 90278-2013,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.8809135,-118.3748719
-Redondo Beach Unified,Madison Elementary,2200 MacKay Lane Redondo Beach CA 90278-2509,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.874863,-118.368411
-Redondo Beach Unified,Parras (Nick G.) Middle,200 North Lucia Redondo Beach CA 90277-3220,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.844538,-118.378559
-Redondo Beach Unified,Redondo Beach Learning Academy,1000 Del Amo Street Redondo Beach CA 90277-3934,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.848611,-118.382401
-Redondo Beach Unified,Redondo Union High,631 Vincent Park Redondo Beach CA 90277-3125,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.8446126108009,-118.38392333428
-Private,Riviera Hall Lutheran,330 Palos Verdes Boulevard Redondo Beach CA 90277,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.8150777,-118.3864664
-Redondo Beach Unified,Tulita Elementary,1520 Prospect Avenue Redondo Beach CA 90277-5113,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.8665038438706,-118.389563669792
-Redondo Beach Unified,Washington Elementary,1100 Lilienthal Lane Redondo Beach CA 90278-4557,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.864886,-118.365478
+Capistrano Unified,Arroyo Vista Elementary,23371 Arroyo Vista Rancho Santa Margarita CA 92688-4906,NA,NA,FALSE,tested,Rancho Santa Margarita,Orange County,33.6235588138892,-117.612334146104
+Saddleback Valley Unified,Cielo Vista Elementary,21811 Avenida De Los Fundadores Rancho Santa Margarita CA 92688-5444,NA,NA,FALSE,tested,Rancho Santa Margarita,Orange County,33.64626355,-117.586352611219
+Saddleback Valley Unified,Cielo Vista Elementary,"21811 Ave. De Los Fundadores, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.64626355,-117.586352611219
+Saddleback Valley Unified,Cielo Vista Elementary,"21811 Ave. De Los Fundadores, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.64626355,-117.586352611219
+Capistrano Unified,Las Flores Elementary,25862 Antonio Parkway Rancho Santa Margarita CA 92688-5541,NA,NA,FALSE,tested,Rancho Santa Margarita,Orange County,33.6289202,-117.6021242
+Saddleback Valley Unified,Melinda Heights Elementary,"21001 Rancho Trabuco, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.6559196,-117.6145843
+Saddleback Valley Unified,Melinda Heights Elementary,"21001 Rancho Trabuco, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.6559196,-117.6145843
+Saddleback Valley Unified,Melinda Heights Elementary,21001 Rancho Trabuco Rancho Santa Margarita CA 92688-3444,NA,NA,FALSE,tested,Rancho Santa Margarita,Orange County,33.6559196,-117.6145843
+Saddleback Valley Unified,Rancho Santa Margarita Intermediate,"21931 Alma Aldea, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.64402395,-117.589584272246
+Saddleback Valley Unified,Rancho Santa Margarita Intermediate,"21931 Alma Aldea, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.64402395,-117.589584272246
+Saddleback Valley Unified,Rancho Santa Margarita Intermediate,21931 Alma Aldea Rancho Santa Margarita CA 92688-2342,NA,NA,FALSE,tested,Rancho Santa Margarita,Orange County,33.64402395,-117.589584272246
+Capistrano Unified,Tijeras Creek Elementary,23072 Avenida Empresa Rancho Santa Margarita CA 92688-8533,NA,NA,FALSE,tested,Rancho Santa Margarita,Orange County,33.6282755,-117.6042272
+Trabuco Canyon Water District,Trabuco Elementary,"31052 Trabuco Canyon Rd., Trabuco Canyon, CA 92679",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.657461,-117.5797164
+Trabuco Canyon Water District,Trabuco Elementary,"31052 Trabuco Canyon Rd, Trabuco Canyon, CA 92679",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.657461,-117.5797164
+Saddleback Valley Unified,Trabuco Elementary,31052 Trabuco Canyon Road Trabuco Canyon CA 92678-0277,NA,NA,NA,not tested,Rancho Santa Margarita,Orange County,33.657461,-117.5797164
+Saddleback Valley Unified,Trabuco Mesa Elementary,"21301 Ave. de Las Flores, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.6531852,-117.580081131572
+Saddleback Valley Unified,Trabuco Mesa Elementary,"21301 Ave. de Las Flores, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.6531852,-117.580081131572

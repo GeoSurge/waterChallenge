@@ -1,5 +1,2 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Trabuco Canyon Water District,Robinson Elementary,"21400 Lindsay Dr., Trabuco Canyon, CA 92679",NA,NA,NA,exempt,NA,NA,NA,NA
-Trabuco Canyon Water District,Robinson Elementary,"21400 Lindsay Dr, Trabuco Canyon, CA 92679",NA,NA,NA,exempt,NA,NA,NA,NA
-Trabuco Canyon Water District,Trabuco Elementary,"31052 Trabuco Canyon Rd., Trabuco Canyon, CA 92679",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.657461,-117.5797164
-Trabuco Canyon Water District,Trabuco Elementary,"31052 Trabuco Canyon Rd, Trabuco Canyon, CA 92679",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.657461,-117.5797164
+Sunol Glen Unified,Sunol Glen Elementary,11601 Main Street Sunol CA 94586-9519,NA,NA,FALSE,tested,NA,Alameda County,37.593848,-121.8866082

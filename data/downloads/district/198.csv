@@ -1,4 +1,8 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Durham Unified,Durham Elementary,9421 Putney Drive Durham CA 95938-9426,NA,NA,FALSE,tested,NA,Butte County,39.6460649795918,-121.803129489796
-Durham Unified,Durham High,9455 Putney Drive Durham CA 95938-9426,NA,NA,FALSE,tested,NA,Butte County,39.646250244898,-121.803188122449
-Durham Unified,Durham Intermediate,9416 Putney Drive Durham CA 95938-9426,NA,NA,FALSE,tested,NA,Butte County,39.6460821836735,-121.802915591837
+Duarte Unified,Andres Duarte Elementary,1433 Crestfield Drive Duarte CA 91010-2206,NA,NA,FALSE,tested,Duarte,Los Angeles County,34.1375391818182,-117.951760808081
+Duarte Unified,Beardslee Elementary,1212 East Kellwil Way Duarte CA 91010-3322,6.2,ppb,TRUE,tested,Duarte,Los Angeles County,34.1286219230769,-117.979284
+Duarte Unified,Duarte High,1565 East Central Avenue Duarte CA 91010-2505,NA,NA,FALSE,tested,Duarte,Los Angeles County,34.1359271,-117.9843219
+Duarte Unified,Maxwell Elementary,733 Euclid Avenue Duarte CA 91010-3114,6.3,ppb,TRUE,tested,Duarte,Los Angeles County,34.1283457,-117.9902367
+Duarte Unified,Mt. Olive Innovation and Technology High,1400 Mount Olive Drive Duarte CA 91010-2675,NA,NA,FALSE,tested,Duarte,Los Angeles County,34.1374409184365,-117.955533111615
+Duarte Unified,Royal Oaks Elementary,2499 Royal Oaks Drive Duarte CA 91010-2148,11,ppb,TRUE,tested,Duarte,Los Angeles County,34.143486,-117.951692
+Duarte Unified,Valley View Elementary,237 Melcanyon Road Duarte CA 91010-1528,NA,NA,FALSE,tested,NA,NA,NA,NA

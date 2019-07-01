@@ -1,12 +1,11 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Los Altos Elementary,Almond Elementary,550 Almond Avenue Los Altos CA 94022-2312,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.385082,-122.100525543478
-Los Altos Elementary,Ardis G. Egan Junior High,100 West Portola Avenue Los Altos CA 94022-1210,5.2,ppb,TRUE,tested,Los Altos,Santa Clara County,37.3961242,-122.116366380816
-Santa Clara County Office of Education,Bullis Charter,102 West Portola Avenue Los Altos CA 94022-1210,NA,NA,NA,not tested,Los Altos,Santa Clara County,37.39673,-122.117781
-Los Altos Elementary,Covington Elementary,205 Covington Road Los Altos CA 94024-4030,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.370465,-122.107404
-Los Altos Elementary,Georgina P. Blach Junior High,1120 Covington Road Los Altos CA 94024-5005,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.36386675,-122.081681652979
-Mountain View-Los Altos Union High,Los Altos High,201 Almond Avenue Los Altos CA 94022-2206,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.385071,-122.109264
-Los Altos Elementary,Loyola Elementary,770 Berry Avenue Los Altos CA 94024-5413,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.3613621152209,-122.092284068525
-Cupertino Union,Montclaire Elementary,1160 Street Joseph Avenue Los Altos CA 94024-6755,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.3431326579005,-122.081778981215
-Mountain View-Los Altos Union High,Mountain View High,3535 Truman Avenue Mountain View CA 94040-4559,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.3586027,-122.06715676878
-Los Altos Elementary,Oak Avenue Elementary,1501 Oak Avenue Los Altos CA 94024-5831,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.356843,-122.071846
-Los Altos Elementary,Springer Elementary,1120 Rose Avenue Mountain View CA 94040-4058,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.3709394,-122.0914759
+Los Angeles Unified,Alexander Fleming Middle,25425 Walnut Street Lomita CA 90717-2610,NA,NA,FALSE,tested,Lomita,Los Angeles County,33.7931614661534,-118.311937037565
+LAUSD,ESHELMAN AVE. ELEMENTARY SCHOOL,"25902 ESHELMAN AVE, LOMITA,         CA 90717",NA,NA,NA,exempt,Lomita,Los Angeles County,33.787616,-118.31443
+Los Angeles Unified,Eshelman Avenue Elementary,25902 Eshelman Avenue Lomita CA 90717-3223,NA,NA,FALSE,tested,Lomita,Los Angeles County,33.787616,-118.31443
+LAUSD,FLEMING MIDDLE SCHOOL,"25425 WALNUT ST, LOMITA,         CA 90717",NA,NA,NA,exempt,Lomita,Los Angeles County,33.7931614661534,-118.311937037565
+LAUSD,HARBOR CITY ELEMENTARY,"1508 W 254TH ST, HARBOR CITY,    CA 90710",NA,NA,NA,exempt,Lomita,Los Angeles County,33.7936993265306,-118.302962122449
+Los Angeles Unified,Harbor City Elementary,1508 West 254th Street Harbor City CA 90710-2717,NA,NA,NA,not tested,Lomita,Los Angeles County,33.7936993265306,-118.302962122449
+LAUSD,LOMITA MATH/SCIENCE MAGNET,"2211 W 247TH ST, LOMITA,         CA 90717",NA,NA,NA,exempt,Lomita,Los Angeles County,33.8007615918367,-118.321712897959
+Los Angeles Unified,Lomita Math/Science/Technology Magnet,2211 West 247th Street Lomita CA 90717-1503,6.3,ppb,TRUE,tested,Lomita,Los Angeles County,33.8007615918367,-118.321712897959
+LAUSD,NORMONT ELEMENTARY,"1001 W 253RD ST, HARBOR CITY,    CA 90710",NA,NA,NA,exempt,Lomita,Los Angeles County,33.794792,-118.292899
+Los Angeles Unified,Normont Elementary,1001 West 253rd Street Harbor City CA 90710-3003,NA,NA,NA,not tested,Lomita,Los Angeles County,33.794792,-118.292899

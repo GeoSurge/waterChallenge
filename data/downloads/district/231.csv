@@ -1,10 +1,9 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Fall River Joint Unified,Burney Community Day,20375 Tamarack  Burney CA 96013-4054,NA,NA,FALSE,tested,NA,Shasta County,40.8787465380667,-121.672734811471
-Fall River Joint Unified,Burney Elementary,37403 Toronto Street Burney CA 96013-4381,5.3,ppb,TRUE,tested,NA,NA,NA,NA
-Fall River Joint Unified,Burney Elementary Community Day,20375 Tamarack Ave Burney CA 96013-4054,NA,NA,NA,not tested,NA,Shasta County,40.8787465380667,-121.672734811471
-Fall River Joint Unified,Burney Junior-Senior High,37571 Mountain View Road Burney CA 96013-4350,NA,NA,FALSE,tested,NA,Shasta County,40.8848454285714,-121.64847
-Fall River Joint Unified,Fall River Community Day,44144 A Street McArthur CA 96056-8556,NA,NA,FALSE,tested,NA,Shasta County,41.0512483061224,-121.402249836735
-Fall River Joint Unified,Fall River Elementary,24977 Curve Street Fall River Mills CA 96028-9798,NA,NA,FALSE,tested,NA,Shasta County,41.0065364923503,-121.440878997258
-Fall River Joint Unified,Fall River Junior-Senior High,44215 Walnut Street McArthur CA 96056-8555,NA,NA,FALSE,tested,NA,Shasta County,41.0465915743602,-121.399831008865
-Fall River Joint Unified,Mountain View High (Continuation),20375 Tamarack Avenue Burney CA 96013-4054,NA,NA,FALSE,tested,NA,Shasta County,40.8787465380667,-121.672734811471
-Fall River Joint Unified,Mt. Burney Special Education Center,37577 Mountain View Road Burney CA 96013,NA,NA,FALSE,tested,NA,Shasta County,40.8848275510204,-121.648369285714
+Eureka City Schools,Alice Birney Elementary,717 South Avenue Eureka CA 95503-5041,NA,NA,FALSE,tested,Eureka,Humboldt County,40.777503,-124.17910989899
+Eureka City Schools,Catherine L. Zane Middle,2155 S Street Eureka CA 95501-3140,NA,NA,FALSE,tested,Eureka,Humboldt County,40.7878168888889,-124.148956444444
+Eureka City Schools,Eureka Senior High,1915 J Street Eureka CA 95501-3052,NA,NA,FALSE,tested,Eureka,Humboldt County,40.78977,-124.158785857143
+Eureka City Schools,Grant Elementary,3901 G Street Eureka CA 95503-6009,NA,NA,FALSE,tested,Eureka,Humboldt County,40.771025,-124.16239
+Eureka City Schools,Lafayette Elementary,3100 Park Street Eureka CA 95501-1544,NA,NA,FALSE,tested,NA,NA,NA,NA
+Eureka City Schools,Washington Elementary,3322 Dolbeer Street Eureka CA 95503-5633,NA,NA,FALSE,tested,Eureka,Humboldt County,40.7782134324324,-124.142129324324
+Eureka City Schools,Winship Middle,2500 Cypress Avenue Eureka CA 95503-6213,NA,NA,FALSE,tested,NA,NA,NA,NA
+Eureka City Schools,Zoe Barnum High,216 West Harris Street Eureka CA 95501-4074,NA,NA,FALSE,tested,Eureka,Humboldt County,40.780565,-124.173279

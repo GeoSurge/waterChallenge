@@ -1,5 +1,7 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Riverside County Office Of Education ROP,Betty Gibbel RLC,1251 Eagle Drive San Jacinto CA 92583,NA,NA,FALSE,tested,San Jacinto,Riverside County,33.8017859,-116.9677295
-Riverside County Office Of Education ROP,Perris Head Start,148 Avocado Avenu Perris CA 92571,NA,NA,FALSE,tested,NA,NA,NA,NA
-Riverside County Office Of Education ROP,Riverside County ROP,3939 13th Street F Riverside CA 92502-3505,NA,NA,NA,not tested,Riverside,Riverside County,33.9785465214527,-117.380547194579
-Riverside County Office Of Education ROP,Val Verde RLC,3010 Webster Avenue Perris CA 92571,NA,NA,FALSE,tested,Perris,Riverside County,33.8444774,-117.2438266
+Red Bluff Union Elementary,Bidwell Elementary,1256 Walnut Street Red Bluff CA 96080-3603,NA,NA,FALSE,tested,Red Bluff,Tehama County,40.1730252222222,-122.246483777778
+Red Bluff Union Elementary,Jackson Heights Elementary,225 South Jackson Street Red Bluff CA 96080-3917,NA,NA,FALSE,tested,Red Bluff,Tehama County,40.1674529534884,-122.237722860465
+Red Bluff Union Elementary,Red Bluff Community Day,1050A Dumosa Street Red Bluff CA 96080-3221,NA,NA,FALSE,tested,NA,NA,NA,NA
+Red Bluff Union Elementary,Red Bluff Community Day K-5,695 Kimball Rd Red Bluff CA 96080-4447,NA,NA,FALSE,tested,Red Bluff,Tehama County,40.1571999352227,-122.233826222672
+Red Bluff Union Elementary,Vista Preparatory Academy,1770 South Jackson Street Red Bluff CA 96080-4505,NA,NA,FALSE,tested,Red Bluff,Tehama County,40.157302,-122.237908
+Red Bluff Union Elementary,William M. Metteer Elementary,695 Kimball Road Red Bluff CA 96080-4901,NA,NA,FALSE,tested,Red Bluff,Tehama County,40.1571999352227,-122.233826222672

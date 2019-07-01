@@ -1,5 +1,5 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Humboldt County Office of Education,Eel River Community,2292 Newburg Road Fortuna CA 95540-2814,NA,NA,NA,not tested,NA,Humboldt County,40.5894231136172,-124.142015966124
-Humboldt County Office of Education,Northcoast Performing Arts and Preparatory Academy Middle,285 Bayside Road Arcata CA 95521,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8560315269896,-124.071069330447
-Humboldt County Office of Education,Northcoast Preparatory and Performing Arts Academy,1761 11th Street Arcata CA 95521-5403,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8727448163265,-124.096423183673
-Humboldt County Office of Education,Northern United Charter School Arcata Learning Center,1539 F Street Arcata CA 95521,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8736820601532,-124.082910176173
+Hillsborough City Elementary,Crocker Middle,2600 Ralston Avenue Hillsborough CA 94010-6544,NA,NA,FALSE,tested,NA,San Mateo County,37.5661713774458,-122.36277520074201
+Hillsborough City Elementary,North Hillsborough,545 Eucalyptus Avenue Hillsborough CA 94010-6400,NA,NA,FALSE,tested,NA,San Mateo County,37.5688120192502,-122.36127843671
+Hillsborough City Elementary,South Hillsborough,303 El Cerrito Avenue Hillsborough CA 94010-6817,NA,NA,FALSE,tested,NA,San Mateo County,37.5628771799184,-122.337453578153
+Hillsborough City Elementary,West Hillsborough,376 Barbara Way Hillsborough CA 94010-6760,8.03,ppb,TRUE,tested,NA,San Mateo County,37.5493349292824,-122.368029780575

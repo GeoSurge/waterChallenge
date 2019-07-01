@@ -1,3 +1,6 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Guadalupe Union Elementary,Kermit McKenzie Junior High,4710 West Main Street Guadalupe CA 93434-1788,NA,NA,FALSE,tested,Guadalupe,Santa Barbara County,34.9575929,-120.5772923
-Guadalupe Union Elementary,Mary Buren Elementary,1050 Peralta Street Guadalupe CA 93434-0788,NA,NA,FALSE,tested,Guadalupe,Santa Barbara County,34.9703051632653,-120.567548897959
+Gonzales Unified,Fairview Middle,401 Fourth Street Gonzales CA 93926,NA,NA,NA,not tested,NA,NA,NA,NA
+Gonzales Unified,Gonzales Evening High,650 Elko St Gonzales CA 93926,NA,NA,NA,not tested,Gonzales,Monterey County,36.511435,-121.443416
+Gonzales Unified,Gonzales High,501 Fifth Street Gonzales CA 93926,NA,NA,NA,not tested,NA,NA,NA,NA
+Gonzales Unified,La Gloria Elementary,220 Elko Street Gonzales CA 93926-0238,NA,NA,NA,not tested,Gonzales,Monterey County,36.5080403887097,-121.439667423709
+Gonzales Unified,Somavia High,650 Elko Street Gonzales CA 93926,NA,NA,NA,not tested,Gonzales,Monterey County,36.511435,-121.443416

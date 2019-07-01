@@ -1,30 +1,24 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-LAUSD,135TH STREET ELEMENTARY SCHOOL,"801 W 135TH ST, GARDENA,        CA 90247",NA,NA,NA,exempt,Gardena,Los Angeles County,33.9091663,-118.2919046
-LAUSD,153RD STREET ELEMENTARY,"1605 W 153RD ST, GARDENA,        CA 90247",NA,NA,NA,exempt,Gardena,Los Angeles County,33.8929418367347,-118.304984938776
-LAUSD,156TH STREET ELEMENTARY,"2100 W 156TH ST, GARDENA,        CA 90249",NA,NA,NA,exempt,Gardena,Los Angeles County,33.889199,-118.316135
-LAUSD,ADMINISTRATIVE SITE - ESC-SOUTH (FMR: LOCAL DISTRICT #8),"1208 MAGNOLIA AVE, GARDENA,     CA 90247",NA,NA,NA,exempt,Gardena,Los Angeles County,33.8886198314965,-118.296855449159
-LAUSD,AMESTOY ELEMENTARY,"1048 W 149TH ST, GARDENA,        CA 90247",NA,NA,NA,exempt,Gardena,Los Angeles County,33.896366970621,-118.292906741915
-Los Angeles Unified,Amestoy Elementary,1048 West 149th Street Gardena CA 90247-3008,NA,NA,NA,not tested,Gardena,Los Angeles County,33.896366970621,-118.292906741915
-LAUSD,AMESTOY STATE PRESCHOOL,"1048 W 149TH ST, GARDENA,        CA 90247",NA,NA,NA,exempt,Gardena,Los Angeles County,33.896366970621,-118.292906741915
-LAUSD,CHAPMAN ELEMENTARY,"1947 MARINE AVE, GARDENA,        CA 90249",NA,NA,NA,exempt,Gardena,Los Angeles County,33.894765,-118.312388198099
-Los Angeles Unified,Chapman Elementary,1947 Marine Avenue Gardena CA 90249-3803,NA,NA,NA,not tested,Gardena,Los Angeles County,33.894765,-118.312388198099
-Los Angeles Unified,Denker Avenue Elementary,1620 West 162nd Street Gardena CA 90247-3734,NA,NA,NA,not tested,Gardena,Los Angeles County,33.8836945918367,-118.304775081633
-LAUSD,DENKER ELEMENTARY,"1620 W 162ND ST, GARDENA,        CA 90247",NA,NA,NA,exempt,Gardena,Los Angeles County,33.8836945918367,-118.304775081633
-LAUSD,DOYLE CAREER & TRANSITION CENTER (FRM: SELLERY SPECIAL EDUCATION CENTER),"15805 S BUDLONG AVE, GARDENA,        CA 90247",NA,NA,NA,exempt,Gardena,Los Angeles County,33.8876725028252,-118.295979455501
-Los Angeles County Office of Education,Environmental Charter Middle,812 West 165th Place Gardena CA 90247-5105,NA,NA,NA,not tested,Gardena,Los Angeles County,33.8808066,-118.309161
-LAUSD,GARDENA EARLY EDUCATION CENTER,"1350 WEST 177TH STREET, GARDENA, CA 90248",NA,NA,NA,exempt,Gardena,Los Angeles County,33.8704606363636,-118.294798878788
-LAUSD,GARDENA ELEMENTARY,"647 W GARDENA BLVD, GARDENA,        CA 90247",NA,NA,NA,exempt,Gardena,Los Angeles County,33.8819687,-118.3091638
-Los Angeles Unified,Gardena Elementary,647 West Gardena Boulevard Gardena CA 90247-5021,NA,NA,NA,not tested,Gardena,Los Angeles County,33.8819687,-118.3091638
-LAUSD,GARDENA SENIOR HIGH,"1301 W 182ND ST, GARDENA,        CA 90248",NA,NA,NA,exempt,Gardena,Los Angeles County,33.8662857037267,-118.296902570393
-Los Angeles Unified,Gardena Senior High,1301 West 182nd Street Gardena CA 90248-3322,NA,NA,NA,not tested,Gardena,Los Angeles County,33.8662857037267,-118.296902570393
-LAUSD,GEORGE KIRIYAMA CAS (FRM: GARDENA-CARSON CAS),"18120 S NORMANDIE AVE, GARDENA, CA 90248",NA,NA,NA,exempt,Gardena,Los Angeles County,33.8730366,-118.2988942
-Private,Junipero Serra High School,14830 South Van Ness Avenue Gardena CA 90249,5.5,ppb,TRUE,tested,Gardena,Los Angeles County,33.9164538,-118.3178081
-Los Angeles Unified,Moneta Continuation,1230 West 177th Street Gardena CA 90248-3317,NA,NA,NA,not tested,Gardena,Los Angeles County,33.8704497272727,-118.294568575758
-LAUSD,MONETA CONTINUATION HIGH,"1230 W 177TH ST, GARDENA,        CA 90248",NA,NA,NA,exempt,Gardena,Los Angeles County,33.8704497272727,-118.294568575758
-Los Angeles Unified,One Hundred Fifty-Sixth Street Elementary,2100 West 156th Street Gardena CA 90249-4703,NA,NA,NA,not tested,Gardena,Los Angeles County,33.889199,-118.316135
-Los Angeles Unified,One Hundred Fifty-Third Street,1605 West 153rd Street Gardena CA 90247-3135,NA,NA,NA,not tested,Gardena,Los Angeles County,33.8929418367347,-118.304984938776
-Los Angeles Unified,One Hundred Thirty-Fifth Street Elementary,801 West 135th Street Gardena CA 90247-2154,NA,NA,NA,not tested,Gardena,Los Angeles County,33.9091663,-118.2919046
-LAUSD,PEARY MIDDLE SCHOOL,"1415 W GARDENA BLVD, GARDENA,        CA 90247",NA,NA,NA,exempt,Gardena,Los Angeles County,33.88187625,-118.30040675
-Los Angeles Unified,Purche Avenue Elementary,13210 Purche Avenue Gardena CA 90249-1653,NA,NA,NA,not tested,Gardena,Los Angeles County,33.912461746714,-118.320310017365
-Private,St. Anthony of Padua,1003 West 163rd Street Gardena CA 90247,5.65,ppb,TRUE,tested,Gardena,Los Angeles County,33.8834697394837,-118.291859382277
-LAUSD,YOUTH SRVS - SOUTH,"2100 W 156TH ST, GARDENA,        CA 90249",NA,NA,NA,exempt,Gardena,Los Angeles County,33.889199,-118.316135
+Fullerton Elementary,Acacia Elementary,1200 North Acacia Avenue Fullerton CA 92831-2102,NA,NA,FALSE,tested,Fullerton,Orange County,33.881564,-117.898333
+Fullerton Elementary,Beechwood Elementary,780 Beechwood Avenue Fullerton CA 92835-2777,NA,NA,FALSE,tested,Fullerton,Orange County,33.9012240204082,-117.913868673469
+Fullerton Elementary,Commonwealth Elementary,2200 East Commonwealth Avenue Fullerton CA 92831-4212,NA,NA,FALSE,tested,Fullerton,Orange County,33.870458,-117.893322
+Fullerton Elementary,D. Russell Parks Junior High,1710 Rosecrans Avenue Fullerton CA 92833-1912,NA,NA,FALSE,tested,Fullerton,Orange County,33.8925870164,-117.95252320676
+Fullerton Elementary,Fern Drive Elementary,1400 West Fern Drive Fullerton CA 92833-2331,NA,NA,FALSE,tested,Fullerton,Orange County,33.879717,-117.950959
+Fullerton Joint Union High,Fullerton School District Nutrition Center,389 W Truslow Fullerton CA 92832,12,ppb,TRUE,tested,Fullerton,Orange County,33.8673635073837,-117.930633052243
+Fullerton Joint Union High,Fullerton Union High,201 East Chapman Avenue Fullerton CA 92832-1925,NA,NA,FALSE,tested,Fullerton,Orange County,33.874068,-117.921946
+Fullerton Elementary,Hermosa Drive Elementary,400 East Hermosa Drive Fullerton CA 92835-1654,NA,NA,FALSE,tested,Fullerton,Orange County,33.910129,-117.925059
+Fullerton Joint Union High,La Sierra High (Alternative),951 North State College Boulevard Fullerton CA 92831,NA,NA,FALSE,tested,Fullerton,Orange County,33.8865595974957,-117.889753901115
+Fullerton Joint Union High,La Vista High (Continuation),909 North State College Boulevard Fullerton CA 92831-3013,NA,NA,FALSE,tested,Fullerton,Orange County,33.8780295882353,-117.889768235294
+Fullerton Elementary,Laguna Road Elementary,300 West Laguna Road Fullerton CA 92835-2504,NA,NA,FALSE,tested,Fullerton,Orange County,33.8969291507875,-117.93255654227
+Fullerton Elementary,Maple Elementary,244 East Valencia Drive Fullerton CA 92832-2440,NA,NA,FALSE,tested,Fullerton,Orange County,33.8661560659077,-117.921086986941
+Fullerton Elementary,Nicolas Junior High,1100 West Olive Avenue Fullerton CA 92833-4132,NA,NA,FALSE,tested,Fullerton,Orange County,33.862841,-117.946982
+Fullerton Elementary,Pacific Drive Elementary,1501 West Valencia Drive Fullerton CA 92833-3940,NA,NA,FALSE,tested,Fullerton,Orange County,33.86722235,-117.953194516065
+Fullerton Elementary,Raymond Elementary,517 North Raymond Avenue Fullerton CA 92831-3310,NA,NA,FALSE,tested,Fullerton,Orange County,33.874404,-117.907112
+Fullerton Elementary,Richman Elementary,700 South Richman Avenue Fullerton CA 92832-2724,NA,NA,FALSE,tested,Fullerton,Orange County,33.86483,-117.93297
+Fullerton Elementary,Robert C. Fisler Elementary,1350 Starbuck Street Fullerton CA 92833-5668,NA,NA,FALSE,tested,Fullerton,Orange County,33.8859353990466,-117.962455762968
+Private,Rosary Academy,1340 North Acacia Avenue Fullerton CA 92831,NA,NA,FALSE,tested,Fullerton,Orange County,33.8871689981004,-117.898416464745
+Fullerton Joint Union High,Sunny Hills High,1801 Warburton Way Fullerton CA 92833-2235,NA,NA,FALSE,tested,Fullerton,Orange County,33.8843344,-117.952649971511
+Placentia-Yorba Linda Unified,Topaz Elementary,3232 Topaz Lane Fullerton CA 92831-2609,NA,NA,FALSE,tested,Fullerton,Orange County,33.8860414440503,-117.870068041354
+Fullerton Joint Union High,Troy High,2200 East Dorothy Lane Fullerton CA 92831-3036,NA,NA,FALSE,tested,Fullerton,Orange County,33.881375,-117.895006
+Fullerton Elementary,Valencia Park Elementary,3441 West Valencia Drive Fullerton CA 92833-3131,6.5,ppb,TRUE,tested,Fullerton,Orange County,33.8664844480449,-117.975626491358
+Fullerton Elementary,Woodcrest Elementary,455 West Baker Avenue Fullerton CA 92832-3269,NA,NA,FALSE,tested,Fullerton,Orange County,33.8569155,-117.9450043

@@ -1,6 +1,6 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-King City Union,Chalone Peaks Middle,667 Meyer St King City CA 93930-2919,NA,NA,FALSE,tested,King City,Monterey County,36.2213897,-121.1346625
-King City Union,Del Rey Elementary,502 King Street King City CA 93930-3232,NA,NA,FALSE,tested,King City,Monterey County,36.2154301632653,-121.135151244898
-King City Union,King City Arts Magnet,415 Pearl Street King City CA 93930-2919,NA,NA,FALSE,tested,King City,Monterey County,36.2098055714286,-121.127289
-King City Union,Phoenix Academy Community Day,667 Meyer Street King City CA 93930-3769,NA,NA,NA,not tested,King City,Monterey County,36.2213897,-121.1346625
-King City Union,Santa Lucia Elementary,502 Collins Street King City CA 93930-3233,NA,NA,FALSE,tested,King City,Monterey County,36.2137548571429,-121.132602836735
+Kelseyville Unified,Ed Donaldson Education Center,4500 Konocti Road Kelseyville CA 95451-9320,NA,NA,FALSE,tested,,Lake County,38.9756315770184,-122.829873880134
+Kelseyville Unified,Kelseyville Elementary,5065 Konocti Road Kelseyville CA 95451-0308,NA,NA,FALSE,tested,,Lake County,38.9747317351595,-122.8188799155
+Kelseyville Unified,Kelseyville High,5480 Main Street Kelseyville CA 95451-8943,NA,NA,FALSE,tested,,Lake County,38.975451,-122.831847
+Kelseyville Unified,Mountain Vista Middle,5081 Konocti Road Kelseyville CA 95451-0308,NA,NA,FALSE,tested,,Lake County,38.9747340666694,-122.819469060212
+Kelseyville Unified,Riviera Elementary,10505 Fairway Drive Kelseyville CA 95451-9576,NA,NA,FALSE,tested,NA,NA,NA,NA

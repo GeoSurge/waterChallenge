@@ -1,17 +1,16 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Victor Elementary,Brentwood Elementary,13962 Hook Boulevard Victorville CA 92392-7300,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.521548,-117.359032315789
-Victor Elementary,Challenger School of Sports and Fitness,14777 Hopland Street Victorville CA 92392-1218,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5430646419525,-117.340548102703
-Victor Elementary,Del Rey Elementary,15332 Del Rey Drive Victorville CA 92395-7118,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5296544830958,-117.308705836399
-Victor Elementary,Discovery School of the Arts,13247 Amethyst Road Victorville CA 92392,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.4907919311396,-117.3642316688
-Victor Elementary,Endeavour School of Exploration,12403 Ridgecrest Road Victorville CA 92395-7780,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.4784909445488,-117.278185027726
-Victor Elementary,Green Tree East Elementary,17246 Gibralter Drive Victorville CA 92395-3360,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5064596,-117.286511297086
-Victor Elementary,Irwin Academy of Performing Arts,14907 South Mojave Drive Victorville CA 92395-3952,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5286589083981,-117.338220306559
-Victor Elementary,Liberty Elementary,12900 Amethyst Road Victorville CA 92395-3360,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.486957,-117.364431
-Victor Elementary,Lomitas Elementary,12571 First Avenue Victorville CA 92395-7810,NA,NA,FALSE,tested,NA,NA,NA,NA
-Victor Elementary,Mojave Vista Elementary,16100 Burwood Avenue Victorville CA 92395-9677,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.4798717,-117.3107458
-Victor Elementary,Mountain View Montessori Charter,12900 Amethyst Rd Victorville CA 92392-6393,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.486957,-117.364431
-Victor Elementary,Park View Elementary,13427 Cahuenga Road Victorville CA 92392-9706,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.4944978625683,-117.338660030859
-Victor Elementary,Puesta del Sol Elementary,15887 Academy Street Victorville CA 92392-3348,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5444183921876,-117.315446955785
-Victor Elementary,Sixth Street Prep,15476 Sixth Street Victorville CA 92392-3546,8,ppb,TRUE,tested,NA,NA,NA,NA
-Victor Elementary,Village Elementary,14711 Mojave Drive Victorville CA 92392-4174,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.528491,-117.340539
-Victor Elementary,West Palms Conservatory,14375 Del Gado Road Victorville CA 92392-9360,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.4995068,-117.3426621
+Turlock Unified,Crowell Elementary,118 North Avenue Turlock CA 95382-2410,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.5099790408163,-120.847363816327
+Turlock Unified,Cunningham Elementary,324 West Linwood Avenue Turlock CA 95380-6220,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.4780957890701,-120.855047506613
+Turlock Unified,Dennis G. Earl Elementary,4091 North Olive Avenue Turlock CA 95382-7261,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.5306867,-120.84112669357
+Turlock Unified,eCademy Charter at Crane,1100 Cahill Avenue Turlock CA 95380-4102,6.92,ppb,TRUE,tested,NA,NA,NA,NA
+Turlock Unified,Fusion Charter,2217 Geer Road Turlock CA 95382-2407,NA,NA,NA,not tested,Turlock,Stanislaus County,37.5135164054054,-120.848777165541
+Turlock Unified,John H. Pitman High,2525 West Christofferson Parkway Turlock CA 95382-9509,NA,NA,FALSE,tested,NA,NA,NA,NA
+Turlock Unified,Julien Elementary,1924 East Canal Drive Turlock CA 95380-4222,7.48,ppb,TRUE,tested,Turlock,Stanislaus County,37.5000412525253,-120.826862484848
+Turlock Unified,Marvin A. Dutcher Middle,1441 Colorado Avenue Turlock CA 95380-2709,5.92,ppb,TRUE,tested,Turlock,Stanislaus County,37.5060972011503,-120.835376899075
+Turlock Unified,Osborn Two-Way Immersion Academy,201 North Soderquist Road Turlock CA 95380-3723,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.4940283892617,-120.862359993289
+Turlock Unified,Sandra Tovar Medeiros Elementary,651 West Springer Drive Turlock CA 95382-7314,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.53370445,-120.856631564079
+Turlock Unified,Turlock High,1600 East Canal Drive Turlock CA 95380-4221,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.5000421081081,-120.831606810811
+Turlock Unified,Turlock Junior High,3951 North Walnut Road Turlock CA 95382-9542,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.5280623939394,-120.867056424242
+Turlock Unified,Wakefield Elementary,400 South Avenue Turlock CA 95380-5646,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.4854449090909,-120.851497727273
+Turlock Unified,Walnut Elementary Education Center,4219 North Walnut Road Turlock CA 95382-9678,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.5326107532131,-120.866760524031
+Turlock Unified,Walter M. Brown Elementary,1400 Georgetown Street Turlock CA 95382-0756,NA,NA,FALSE,tested,NA,NA,NA,NA

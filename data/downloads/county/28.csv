@@ -4,6 +4,8 @@ Napa Valley Unified,American Canyon High,3000 Newell Drive American Canyon CA 94
 Napa Valley Unified,American Canyon Middle,300 Benton Way American Canyon CA 94589-4254,NA,NA,FALSE,tested,American Canyon,Napa County,38.169874,-122.267233
 Napa Valley Unified,Bel Aire Park Elementary,3580 Beckworth Drive Napa CA 94558-2846,NA,NA,FALSE,tested,Napa,Napa County,38.3268074,-122.306732257081
 Napa Valley Unified,Browns Valley Elementary,1001 Buhman Avenue Napa CA 94558-5202,NA,NA,FALSE,tested,Napa,Napa County,38.30482125,-122.340498952007
+Calistoga Joint Unified,Calistoga Elementary,1327 Berry Street Calistoga CA 94515-1605,NA,NA,FALSE,tested,Calistoga,Napa County,38.5796038389339,-122.582161200592
+Calistoga Joint Unified,Calistoga Junior-Senior High,1608 Lake Street Calistoga CA 94515-1359,NA,NA,FALSE,tested,Calistoga,Napa County,38.5837965,-122.5808165
 Napa Valley Unified,Canyon Oaks Elementary,475 Silver Oak Trail American Canyon CA 94503-3190,NA,NA,FALSE,tested,American Canyon,Napa County,38.1683389387755,-122.244565163265
 Napa Valley Unified,Donaldson Way Elementary,430 Donaldson Way American Canyon CA 94589-1130,NA,NA,FALSE,tested,American Canyon,Napa County,38.172532,-122.2633551
 Napa Valley Unified,El Centro Elementary,1480 El Centro Avenue Napa CA 94558-1945,NA,NA,FALSE,tested,Napa,Napa County,38.336615,-122.312322
@@ -17,7 +19,7 @@ Napa Valley Unified,Napa Valley Independent Studies,3310 Linda Vista Avenue Napa
 Napa Valley Unified,Napa Valley Language Academy,2700 Kilburn Avenue Napa CA 94558-5623,NA,NA,FALSE,tested,Napa,Napa County,38.29726495,-122.304842984746
 Napa Valley Unified,New Technology High,920 Yount Street Napa CA 94559-1808,NA,NA,FALSE,tested,Napa,Napa County,38.30504915,-122.289113701948
 Napa Valley Unified,Northwood Elementary,2214 Berks Street Napa CA 94558-2714,NA,NA,FALSE,tested,Napa,Napa County,38.3258648,-122.321381167492
-Calistoga Joint Unified,Palisades High (Continuation),1507 Grant Street Calistoga CA 94515-1315,NA,NA,NA,not tested,Calistoga,Napa County,38.5831028553925,-122.577950011425
+Calistoga Joint Unified,Palisades High (Continuation),1507 Grant Street Calistoga CA 94515-1315,NA,NA,FALSE,tested,Calistoga,Napa County,38.5831028553925,-122.577950011425
 Napa Valley Unified,Phillips Elementary,1210 Shetler Avenue Napa CA 94559-4205,NA,NA,FALSE,tested,Napa,Napa County,38.282770122449,-122.263440020408
 Pope Valley Union Elementary,Pope Valley Elementary,6200 Pope Valley Road Pope Valley CA 94567-0167,NA,NA,NA,not tested,NA,Napa County,38.6320122,-122.4490153
 Napa Valley Unified,Pueblo Vista Elementary,1600 Barbara Road Napa CA 94558-4500,NA,NA,FALSE,tested,Napa,Napa County,38.31701645,-122.316347168725

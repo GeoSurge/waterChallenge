@@ -1,9 +1,6 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-La Habra City Elementary,Arbolita Elementary,1001 East Brookdale Avenue La Habra CA 90631-3114,NA,NA,NA,not tested,La Habra,Orange County,33.94374035,-117.936415555335
-La Habra City Elementary,El Cerrito Elementary,1051 North Hillside La Habra CA 90631-2820,NA,NA,NA,not tested,NA,NA,NA,NA
-La Habra City Elementary,Imperial Middle,1450 South Schoolwood Drive La Habra CA 90631-7276,NA,NA,NA,not tested,NA,NA,NA,NA
-La Habra City Elementary,Ladera Palma Elementary,2151 East Brookdale Avenue La Habra CA 90631-3267,NA,NA,NA,not tested,La Habra,Orange County,33.94401215,-117.922231675
-La Habra City Elementary,Las Lomas Elementary,301 Las Lomas Drive La Habra CA 90631-7171,NA,NA,NA,not tested,NA,NA,NA,NA
-La Habra City Elementary,Las Positas Elementary,1400 South Schoolwood Drive La Habra CA 90631-7276,NA,NA,NA,not tested,NA,NA,NA,NA
-La Habra City Elementary,Walnut Elementary,625 North Walnut Street La Habra CA 90631-3711,NA,NA,NA,not tested,La Habra,Orange County,33.93812795,-117.951662610353
-La Habra City Elementary,Washington Middle,716 East La Habra Boulevard La Habra CA 90631-5530,NA,NA,NA,not tested,La Habra,Orange County,33.93040295,-117.93840602111
+King City Union,Chalone Peaks Middle,667 Meyer St King City CA 93930-2919,NA,NA,FALSE,tested,King City,Monterey County,36.2213897,-121.1346625
+King City Union,Del Rey Elementary,502 King Street King City CA 93930-3232,NA,NA,FALSE,tested,King City,Monterey County,36.2154301632653,-121.135151244898
+King City Union,King City Arts Magnet,415 Pearl Street King City CA 93930-2919,NA,NA,FALSE,tested,King City,Monterey County,36.2098055714286,-121.127289
+King City Union,Phoenix Academy Community Day,667 Meyer Street King City CA 93930-3769,NA,NA,NA,not tested,King City,Monterey County,36.2213897,-121.1346625
+King City Union,Santa Lucia Elementary,502 Collins Street King City CA 93930-3233,NA,NA,FALSE,tested,King City,Monterey County,36.2137548571429,-121.132602836735

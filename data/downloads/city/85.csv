@@ -1,12 +1,7 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Ravenswood City Elementary,Aspire East Palo Alto Charter,1286 Runnymede Street East Palo Alto CA 94303-1332,NA,NA,NA,not tested,East Palo Alto,San Mateo County,37.468619,-122.128093
-Ravenswood City Elementary,Aspire East Palo Alto Phoenix Academy,1039 Garden St. East Palo Alto CA 94303,NA,NA,NA,not tested,East Palo Alto,San Mateo County,37.4670250138554,-122.131837078408
-Ravenswood City School,Brentwood Academy,"2086 Clarke Ave, East Palo Alto, CA 94303",NA,NA,NA,exempt,East Palo Alto,San Mateo County,37.4621972300486,-122.134570389119
-Ravenswood City Elementary,Costano Elementary,2695 Fordham Street East Palo Alto CA 94303-1207,NA,NA,NA,not tested,East Palo Alto,San Mateo County,37.4780188,-122.139117148027
-Ravenswood City School,Costanzo School/49ers Academy,"2695 Fordham St, East Palo Alto, CA 94303",NA,NA,NA,exempt,East Palo Alto,San Mateo County,37.4780188,-122.139117148027
-Sequoia Union High,East Palo Alto Academy,1050 Myrtle Street East Palo Alto CA 94303,NA,NA,FALSE,tested,East Palo Alto,San Mateo County,37.4632487127531,-122.131904758728
-Ravenswood City School,Los Robles Academy,"2033 Pulgas Ave, East Palo Alto, CA 94303",NA,NA,NA,exempt,East Palo Alto,San Mateo County,37.4620725637972,-122.130214940564
-Ravenswood City School,McNair Academy,"2033 Pulgas Ave, East Palo Alto, CA 94303",NA,NA,NA,exempt,East Palo Alto,San Mateo County,37.4620725637972,-122.130214940564
-Ravenswood City Elementary,Ravenswood Child Development Center,951 O'Connor Street East Palo Alto CA 94303-2022,NA,NA,NA,not tested,East Palo Alto,San Mateo County,37.4604091,-122.1439868
-Ravenswood City Elementary,Ronald McNair Academy,2033 Pulgas Avenue East Palo Alto CA 94303-2025,NA,NA,NA,not tested,East Palo Alto,San Mateo County,37.4620725637972,-122.130214940564
-Ravenswood City School,The Primary School,"951 O' Connor St, East Palo Alto, CA 94303",NA,NA,NA,exempt,East Palo Alto,San Mateo County,37.4608287106356,-122.133501498457
+Duarte Unified,Andres Duarte Elementary,1433 Crestfield Drive Duarte CA 91010-2206,NA,NA,FALSE,tested,Duarte,Los Angeles County,34.1375391818182,-117.951760808081
+Duarte Unified,Beardslee Elementary,1212 East Kellwil Way Duarte CA 91010-3322,6.2,ppb,TRUE,tested,Duarte,Los Angeles County,34.1286219230769,-117.979284
+Duarte Unified,Duarte High,1565 East Central Avenue Duarte CA 91010-2505,NA,NA,FALSE,tested,Duarte,Los Angeles County,34.1359271,-117.9843219
+Duarte Unified,Maxwell Elementary,733 Euclid Avenue Duarte CA 91010-3114,6.3,ppb,TRUE,tested,Duarte,Los Angeles County,34.1283457,-117.9902367
+Duarte Unified,Mt. Olive Innovation and Technology High,1400 Mount Olive Drive Duarte CA 91010-2675,NA,NA,FALSE,tested,Duarte,Los Angeles County,34.1374409184365,-117.955533111615
+Duarte Unified,Royal Oaks Elementary,2499 Royal Oaks Drive Duarte CA 91010-2148,11,ppb,TRUE,tested,Duarte,Los Angeles County,34.143486,-117.951692

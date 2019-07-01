@@ -1,22 +1,24 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Lynwood Unified,Cesar Chavez Middle,3898 Abbott Road Lynwood CA 90262-2106,NA,NA,FALSE,tested,Lynwood,Los Angeles County,33.9359929181409,-118.20411324699
-Lynwood Unified,Helen Keller Elementary,3521 Palm Avenue Lynwood CA 90262-5127,NA,NA,FALSE,tested,Lynwood,Los Angeles County,33.9136184035057,-118.207641982954
-Lynwood Unified,Hosler Middle,11300 Spruce Street Lynwood CA 90262-3629,5.95,ppb,TRUE,tested,Lynwood,Los Angeles County,33.926292,-118.203181
-Lynwood Unified,Janie P. Abbott Elementary,5260 East Clark Street Lynwood CA 90262-5443,NA,NA,NA,not tested,NA,NA,NA,NA
-Lynwood Unified,Lincoln Elementary,11031 State Street Lynwood CA 90262-2454,NA,NA,FALSE,tested,Lynwood,Los Angeles County,33.93798,-118.2152777
-Lynwood Unified,Lindbergh Elementary,3300 Cedar Avenue Lynwood CA 90262-4850,5.1,ppb,TRUE,tested,Lynwood,Los Angeles County,33.918932,-118.212836
-Lynwood Unified,Lugo Elementary,4345 Pendleton Avenue Lynwood CA 90262-2326,5.45,ppb,TRUE,tested,South Gate,Los Angeles County,33.9325387225296,-118.184453499875
-Lynwood Unified,Lynwood Adult,11277 Atlantic Avenue Lynwood CA 90262-5106,NA,NA,FALSE,tested,Lynwood,Los Angeles County,33.923971476261,-118.186446866068
-Lynwood Unified,Lynwood Alternative,11387 Bullis Road Lynwood CA 90262-3660,NA,NA,FALSE,tested,Lynwood,Los Angeles County,33.926462425538,-118.199918018209
-Lynwood Unified,Lynwood High,4050 East Imperial Highway Lynwood CA 90262-2853,NA,NA,FALSE,tested,Lynwood,Los Angeles County,33.9307093,-118.1829726
-Lynwood Unified,Lynwood Middle,12124 Bullis Road Lynwood CA 90262-5106,5.1,ppb,TRUE,tested,Lynwood,Los Angeles County,33.916554788533,-118.204413048277
-Lynwood Unified,Marco Antonio Firebaugh High,5246 Martin Luther King Boulevard Lynwood CA 90262-3903,NA,NA,FALSE,tested,NA,NA,NA,NA
-Lynwood Unified,Mark Twain Elementary,12315 Thorson Avenue Lynwood CA 90262-5243,NA,NA,FALSE,tested,Lynwood,Los Angeles County,33.9130107142857,-118.197487428571
-Lynwood Unified,Pathway Independent Study,11300 Wright Road Lynwood CA 90262-3126,NA,NA,FALSE,tested,Lynwood,Los Angeles County,33.921341,-118.180454
-Lynwood Unified,Roosevelt Elementary,10835 Mallison Avenue Lynwood CA 90262-2113,5.9,ppb,TRUE,tested,South Gate,Los Angeles County,33.935235,-118.199778
-Lynwood Unified,Rosa Parks Elementary,3900 Agnes Street Lynwood CA 90262-4415,NA,NA,FALSE,tested,Lynwood,Los Angeles County,33.91708,-118.201576
-Lynwood Unified,Thurgood Marshall Elementary,3593 Martin Luther King Boulevard Lynwood CA 90262-2048,NA,NA,FALSE,tested,NA,NA,NA,NA
-Lynwood Unified,Vista High,11300 Wright Rd. Lynwood CA 90262-3126,5.6,ppb,TRUE,tested,Lynwood,Los Angeles County,33.921341,-118.180454
-Lynwood Unified,Washington Elementary,4225 Sanborn Avenue Lynwood CA 90262-2998,NA,NA,FALSE,tested,Lynwood,Los Angeles County,33.9243251459051,-118.190044138987
-Lynwood Unified,Will Rogers Elementary,11220 Duncan Avenue Lynwood CA 90262-3041,NA,NA,FALSE,tested,Lynwood,Los Angeles County,33.92417865972,-118.182913392927
-Lynwood Unified,Wilson Elementary,11700 School Street Lynwood CA 90262-4348,NA,NA,FALSE,tested,Lynwood,Los Angeles County,33.920692,-118.20708
+Los Angeles County Office of Education,Animo City of Champions Charter High,933 S Eighth AVE Inglewood CA 90305,NA,NA,NA,not tested,NA,NA,NA,NA
+Los Angeles County Office of Education,Aspire Antonio Maria Lugo Academy,6100 Carmelita Avenue Huntington Park CA 90255-4138,NA,NA,NA,not tested,NA,Los Angeles County,33.984528,-118.197032
+Los Angeles County Office of Education,Aspire Ollin University Preparatory Academy,2540 East 58th Street Huntington Park CA 90255-2659,NA,NA,FALSE,tested,NA,Los Angeles County,33.9900914081633,-118.226972244898
+Los Angeles County Office of Education,Central Juvenile Hall,1605 Eastlake Avenue Los Angeles CA 90033,NA,NA,NA,not tested,LA,Los Angeles County,34.0648732626263,-118.207824873737
+Los Angeles County Office of Education,East Los Angeles County Community,1260 South Monterey Pass Road Monterey Park CA 91754-3617,NA,NA,NA,not tested,Monterey Park,Los Angeles County,34.0489246423235,-118.160416116664
+Los Angeles County Office of Education,Environmental Charter Middle,812 West 165th Place Gardena CA 90247-5105,NA,NA,NA,not tested,Gardena,Los Angeles County,33.8808066,-118.309161
+Los Angeles County Office of Education,Environmental Charter Middle - Inglewood,3600 West Imperial Highway Inglewood CA 90303-2714,NA,NA,FALSE,tested,Inglewood,Los Angeles County,33.930857,-118.335289
+Los Angeles County Office of Education,"Gonzales, David Camp",1301 North Las Virgenes Road Calabasas CA 91302,NA,NA,NA,not tested,Calabasas,Los Angeles County,34.1470056,-118.6977536
+Los Angeles County Office of Education,Head Start Plaza De La Raza,12830 Columbia Way. Downey CA 90242,NA,NA,FALSE,tested,Downey,Los Angeles County,33.9216971,-118.1341079
+Los Angeles County Office of Education,International Polytechnic High,3801 West Temple Avenue Building 128-16 Pomona CA 91768-2557,NA,NA,NA,not tested,NA,NA,NA,NA
+Los Angeles County Office of Education,Jardin de la Infancia,307 East Seventh Street Los Angeles CA 90014-2209,NA,NA,NA,not tested,NA,NA,NA,NA
+Los Angeles County Office of Education,"Kirby, Dorothy Camp",1500 South McDonnell Avenue City Of Commerce CA 90040,NA,NA,NA,not tested,NA,NA,NA,NA
+Los Angeles County Office of Education,L.A. County High School for the Arts,5151 State University Drive Los Angeles CA 90032-4221,NA,NA,NA,not tested,LA,Los Angeles County,34.0618164,-118.1726781
+Los Angeles County Office of Education,LA's Promise Charter Middle 1,1755 West 52nd St Los Angeles CA 90062-2347,NA,NA,NA,not tested,LA,Los Angeles County,33.9951542898236,-118.307872889154
+Los Angeles County Office of Education,Los Angeles International Charter High,625 Coleman Avenue Los Angeles CA 90042-4903,NA,NA,NA,not tested,LA,Los Angeles County,34.1024095102041,-118.183195489796
+Los Angeles County Office of Education,"Nidorf, Barry J.",16350 Filbert Street Sylmar CA 91342,NA,NA,NA,not tested,LA,Los Angeles County,34.319771624527,-118.484836428901
+Los Angeles County Office of Education,Odyssey Charter,725 West Altadena Drive Altadena CA 91001-4103,5.3,ppb,TRUE,tested,NA,Los Angeles County,34.1990515384615,-118.161114923077
+Los Angeles County Office of Education,Optimist Charter,6957 North Figueroa Street Los Angeles CA 90042-1245,NA,NA,NA,not tested,LA,Los Angeles County,34.114833,-118.184983
+Los Angeles County Office of Education,Pacific Lodge Residential Education Center,4900 Serrania Avenue Woodland Hills CA 91364,NA,NA,NA,not tested,LA,Los Angeles County,34.159099472973,-118.588252675676
+Los Angeles County Office of Education,Phoenix Academy Residential Education Center,11600 Eldrige Avenue Lakeview Terrace CA 91342-6522,NA,NA,NA,not tested,NA,NA,NA,NA
+Los Angeles County Office of Education,Renaissance County Community,14600 Cerise Avenue Hawthorne CA 90250-8526,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.899387,-118.332901
+Los Angeles County Office of Education,Soledad Enrichment Action Charter High,222 North Virgil Avenue Los Angeles CA 90004-3622,NA,NA,NA,not tested,LA,Los Angeles County,34.0755916538462,-118.286704076923
+Los Angeles County Office of Education,Westchester Secondary Charter,8540 La Tijera Blvd Los Angeles CA 90045-4811,NA,NA,NA,not tested,LA,Los Angeles County,33.9565192,-118.4160503

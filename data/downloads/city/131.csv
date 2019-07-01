@@ -1,5 +1,3 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Imperial Unified,Ben Hulse Elementary,303 South D Street Imperial CA 92251-1433,NA,NA,NA,not tested,Imperial,Imperial County,32.8445602644213,-115.576181193624
-Imperial Unified,Imperial Ave. Holbrook High,322 North Imperial Avenue Imperial CA 92251-1267,NA,NA,NA,not tested,Imperial,Imperial County,32.8498214503752,-115.56987315097
-Imperial Unified,Imperial High,517 West Barioni Boulevard Imperial CA 92251-1452,NA,NA,NA,not tested,Imperial,Imperial County,32.8474022142857,-115.575154928571
-Imperial Unified,T. L. Waggoner Elementary,627 Joshua Tree Street Imperial CA 92251-8917,NA,NA,NA,not tested,Imperial,Imperial County,32.8221548753354,-115.591876095691
+Holtville Unified,Holtville High,755 Olive Avenue Holtville CA 92250-1015,NA,NA,NA,not tested,Holtville,Imperial County,32.8156992438655,-115.38525772049
+Holtville Unified,Holtville Junior High,800 Beale Avenue Holtville CA 92250-1404,NA,NA,NA,not tested,Holtville,Imperial County,32.816697,-115.370178

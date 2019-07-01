@@ -1,5 +1,3 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Cotati-Rohnert Park Unified,Lawrence E. Jones Middle,5164 Snyder Lane Rohnert Park CA 94928,NA,NA,NA,not tested,Rohnert Park,Sonoma County,38.3515977906322,-122.685450632059
-Cotati-Rohnert Park Unified,Rancho Cotate High,5450 Snyder Lane Rohnert Park CA 94928-2906,NA,NA,NA,not tested,Rohnert Park,Sonoma County,38.3423384982918,-122.685586137046
-Cotati-Rohnert Park Unified,Technology High,1801 East Cotati Avenue Rohnert Park CA 94928-3613,NA,NA,NA,not tested,Rohnert Park,Sonoma County,38.33908395,-122.67538218386
-Cotati-Rohnert Park Unified,Thomas Page Academy,1075 Madrone Avenue Cotati CA 94931-5130,NA,NA,NA,not tested,Cotati,Sonoma County,38.3291951583873,-122.728339099532
+Corning Union High,Centennial Continuation High,250 East Fig Lane Corning CA 96021-3546,NA,NA,FALSE,tested,Corning,Tehama County,39.9206654951786,-122.168019607303
+Corning Union High,Corning High,643 Blackburn Ave Corning CA 96021-2216,NA,NA,FALSE,tested,Corning,Tehama County,39.9350069078381,-122.172488156762

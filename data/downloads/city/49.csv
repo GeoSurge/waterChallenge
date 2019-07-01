@@ -1,27 +1,15 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Chico Unified,Academy for Change,290 East Avenue Chico CA 95926-1122,NA,NA,NA,not tested,Chico,Butte County,39.7586287666101,-121.858362427726
-Chico Unified,Bidwell Junior High,2376 North Avenue Chico CA 95926-1434,NA,NA,FALSE,tested,Chico,Butte County,39.7569814,-121.836975729878
-Chico Unified,Blue Oak Charter,450 West East Avenue Chico CA 95926-7238,NA,NA,NA,not tested,Chico,Butte County,39.7557809555193,-121.863193723572
-Butte County Office of Education,Butte County Community School - LEAD,2345 Fair Street Chico CA 95928-6749,NA,NA,NA,not tested,Chico,Butte County,39.7167771701196,-121.815303848508
-Chico Unified,Center for Alternative Learning,290 East Ave Chico CA 95926-1122,NA,NA,NA,not tested,Chico,Butte County,39.7586287666101,-121.858362427726
-Chico Unified,Chapman Elementary,1071 East 16th Street Chico CA 95928-6207,NA,NA,FALSE,tested,Chico,Butte County,39.7260442857143,-121.815723428571
-Chico Unified,Chico Country Day,102 West 11th Street Chico CA 95928-6006,NA,NA,NA,not tested,Chico,Butte County,39.7234946,-121.8333109
-Chico Unified,Chico High,901 Esplanade Chico CA 95926-3908,NA,NA,FALSE,tested,Chico,Butte County,39.73631,-121.844622
-Chico Unified,Chico Junior High,280 Memorial Way Chico CA 95926-3921,8.2,ppb,TRUE,tested,Chico,Butte County,39.7335036262626,-121.839331383838
-Chico Unified,Citrus Avenue Elementary,1350 Citrus Avenue Chico CA 95926-3219,NA,NA,FALSE,tested,Chico,Butte County,39.7384218108108,-121.852230756757
-Chico Unified,Fair View High (Continuation),290 East Ave. Chico CA 95926-1122,NA,NA,FALSE,tested,Chico,Butte County,39.7586287666101,-121.858362427726
-Chico Unified,Hooker Oak Elementary,1238 Arbutus Avenue Chico CA 95926-3586,NA,NA,FALSE,tested,Chico,Butte County,39.7433284547409,-121.837160443902
-Chico Unified,Inspire School of Arts and Sciences,335 West Sacramento Avenue Chico CA 95926-3908,NA,NA,FALSE,tested,Chico,Butte County,39.7351009387755,-121.848630367347
-Chico Unified,Little Chico Creek Elementary,2090 Amanda Way Chico CA 95928-3700,NA,NA,FALSE,tested,Chico,Butte County,39.733627600581,-121.798825064512
-Chico Unified,Loma Vista,2404 Marigold Avenue Chico CA 95926-1615,NA,NA,FALSE,tested,Chico,Butte County,39.7642387,-121.8152684
-Chico Unified,Marigold Elementary,2446 Marigold Avenue Chico CA 95926-1697,NA,NA,FALSE,tested,Chico,Butte County,39.7642387,-121.8152684
-Chico Unified,Marsh (Harry M.) Junior High,2253 Humboldt Road Chico CA 95928-9132,NA,NA,FALSE,tested,Chico,Butte County,39.739052,-121.799303
-Chico Unified,McManus (John A.) Elementary,988 East Avenue Chico CA 95926-1398,NA,NA,FALSE,tested,Chico,Butte County,39.7610169242793,-121.839320754287
-Chico Unified,Neal Dow Elementary,1420 Neal Dow Avenue Chico CA 95926-2441,NA,NA,FALSE,tested,Chico,Butte County,39.7492982222222,-121.833250814815
-Private,Notre Dame School,435 Hazel Street Chico CA 95928,NA,NA,FALSE,tested,Chico,Butte County,39.7256123061224,-121.843036632653
-Chico Unified,Oakdale,290 East Av Chico CA 95926-1122,NA,NA,NA,not tested,Chico,Butte County,39.7586287666101,-121.858362427726
-Chico Unified,Pleasant Valley High,1475 East Avenue Chico CA 95926-1699,NA,NA,FALSE,tested,Chico,Butte County,39.7610943061225,-121.81856977551
-Chico Unified,Rosedale Elementary,100 Oak Street Chico CA 95928-5046,NA,NA,FALSE,tested,Chico,Butte County,39.724058,-121.851349
-Chico Unified,Shasta Elementary,169 Leora Court Chico CA 95926-0252,NA,NA,FALSE,tested,Chico,Butte County,39.7803364777095,-121.88365579577
-Chico Unified,Sherwood Montessori,1071 East 16th St. Chico CA 95926-2009,NA,NA,FALSE,tested,Chico,Butte County,39.7260442857143,-121.815723428571
-Chico Unified,Sierra View Elementary,1598 Hooker Oak Avenue Chico CA 95926-2961,NA,NA,FALSE,tested,Chico,Butte County,39.75087225,-121.812739034716
+Ceres Unified,Argus High (Continuation),2555 Lawrence Street Ceres CA 95307-0307,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.5905413,-120.9483146
+Ceres Unified,Blaker-Kinser Junior High,1601 Kinser Road Ceres CA 95307-0307,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.591274,-120.968615
+Ceres Unified,Carroll Fowler Elementary,2611 Garrison Street Ceres CA 95307-2736,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.5987818,-120.9461486
+Ceres Unified,Caswell Elementary,1800 North Central Avenue Ceres CA 95307-1807,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.602541,-120.956885
+Ceres Unified,Central Valley High,4033 Central Avenue Ceres CA 95307-7507,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.579742382917,-120.957015046061
+Ceres Unified,Ceres High,2320 Central Avenue Ceres CA 95307-2502,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.5963941919192,-120.956808383838
+Ceres Unified,Cesar Chavez Junior High,2701 Eastgate Boulevard Ceres CA 95307-5054,7,ppb,TRUE,tested,Ceres,Stanislaus County,37.5944288,-120.9267669
+Ceres Unified,Don Pedro Elementary,2300 Don Pedro Road Ceres CA 95307-4134,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.582869,-120.953424
+Ceres Unified,Hanline Elementary,4231 Central Avenue Ceres CA 95307,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.5769851272163,-120.957052456063
+Ceres Unified,La Rosa Elementary,2800 Eastgate Boulevard Ceres CA 95307-5053,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.5944288,-120.9267669
+Ceres Unified,Lucas Elementary,3500 Rose Avenue Ceres CA 95307-3865,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.597625,-120.943283
+Ceres Unified,Patricia Kay Beaver Elementary,4927 Central Avenue Ceres CA 95307,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.5667974578313,-120.957168012048
+Ceres Unified,Samuel Vaughn Elementary,3618 Helen Perry Road Ceres CA 95307-7456,5.3,ppb,TRUE,tested,Ceres,Stanislaus County,37.6020381,-120.9232051
+Modesto City Elementary,Tuolumne Elementary,707 Herndon Road Modesto CA 95351-4210,NA,NA,NA,not tested,Ceres,Stanislaus County,37.6197205909091,-120.975423

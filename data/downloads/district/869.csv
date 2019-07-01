@@ -1,6 +1,5 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Yuba County Office of Education,Harry P B Carden,1023 14th Street Marysville CA 95901-4149,NA,NA,NA,not tested,NA,Yuba County,39.1497134895865,-121.599767751685
-Yuba County Office of Education,Thomas E. Mathews Community,1010 I Street Marysville CA 95901-5132,NA,NA,NA,not tested,NA,Yuba County,39.14597175483,-121.597617762549
-Yuba County Office of Education,Virginia School,801 Olive St Wheatland CA 95692,NA,NA,FALSE,tested,NA,Yuba County,39.0145612,-121.4177987
-Yuba County Office of Education,Yuba County Career Preparatory Charter,1104 E Street Marysville CA 95901-4825,NA,NA,NA,not tested,NA,Yuba County,39.1470967934554,-121.591640349182
-Yuba County Office of Education,Yuba County Special Education,935 14th Street Marysville CA 95901-4149,NA,NA,NA,not tested,NA,Yuba County,39.1498258273944,-121.598426056232
+Wheatland,Bear River,100 Wheatland Park Drive Wheatland CA 95692-9286,NA,NA,FALSE,tested,NA,NA,NA,NA
+Wheatland,Lone Tree Elementary,123 Beale Highway Beale Air Force Base CA 95903,NA,NA,NA,not tested,NA,NA,NA,NA
+Wheatland,Wheatland Child Development Center,711 West Olive St Wheatland CA 95692,NA,NA,FALSE,tested,NA,NA,NA,NA
+Wheatland,Wheatland Elementary,111 Hooper Street Wheatland CA 95692-8215,5.4,ppb,TRUE,tested,NA,Yuba County,39.0110501484848,-121.428225490179

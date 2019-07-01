@@ -1,7 +1,13 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Salida Union Elementary,Dena Boer,4801 Gold Valley Road Salida CA 95368-9742,NA,NA,FALSE,tested,NA,Stanislaus County,37.698808,-121.083246
-Salida Union Elementary,Great Valley Academy - Salida,5901 Sisk Road Modesto CA 95356-8870,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.6871469,-121.0571432
-Salida Union Elementary,Mildred Perkins Elementary,3920 Blue Bird Dr. Modesto CA 95356-0254,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.696395,-121.058545
-Salida Union Elementary,Salida Elementary,4519 Finney Road Salida CA 95368-9333,NA,NA,FALSE,tested,NA,Stanislaus County,37.7039110625412,-121.086692244956
-Salida Union Elementary,Salida Middle School - Vella Campus,5041 Toomes Road Salida CA 95368-9447,NA,NA,FALSE,tested,NA,Stanislaus County,37.7118015,-121.0959165
-Salida Union Elementary,Sisk Elementary,5337 Sugar Creek Lane Salida CA 95368-9042,NA,NA,FALSE,tested,NA,Stanislaus County,37.7158998163265,-121.080953142857
+Riverside County Office of Education,Come Back Kids,3939 13th Street Riverside CA 92501-3505,NA,NA,NA,not tested,Riverside,Riverside County,33.9785465214527,-117.380547194579
+Riverside County Office of Education,Gateway College and Career Academy,4800 Magnolia Avenue Riverside CA 92506-1201,NA,NA,NA,not tested,Riverside,Riverside County,33.9715852315892,-117.38456890132
+Riverside County Office of Education,Grindstaff School (RCOE),9825 County Farm Rd. Riverside CA Riverside,NA,NA,FALSE,tested,Riverside,Riverside County,33.9200675435201,-117.454501365536
+Riverside County Office of Education,"Imagine Schools, Riverside County",84-090 Avenue 50 Coachella CA 92236-9663,NA,NA,FALSE,tested,NA,NA,NA,NA
+Riverside County Office of Education,Preschool Grasp,3939 13th Street B Riverside CA 92502-0868,NA,NA,NA,not tested,Riverside,Riverside County,33.9785465214527,-117.380547194579
+Riverside County Office of Education,Regional Learning Center,6511 Arlington Avenue Riverside CA 92504,NA,NA,FALSE,tested,Riverside,Riverside County,33.9459831587846,-117.440818240048
+Riverside County Office of Education,River Springs Charter,43466 Business Park Drive Temecula CA 92590-5526,NA,NA,NA,not tested,Temecula,Riverside County,33.4978094084434,-117.161589671652
+Riverside County Office of Education,Riverside County Community,3939 13th Street C Riverside CA 92501-3505,NA,NA,NA,not tested,Riverside,Riverside County,33.9785465214527,-117.380547194579
+Riverside County Office of Education,Riverside County Education Academy,13730 Perris Boulevard Moreno Valley CA 92553-4302,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.9217549878181,-117.226298
+Riverside County Office of Education,Riverside County Juvenile Court,3939 13th Street D Riverside CA 92502-0868,NA,NA,NA,not tested,Riverside,Riverside County,33.9785465214527,-117.380547194579
+Riverside County Office of Education,Riverside County Office of Education,1193 W. Wilson Street Banning CA 92220,28,ppb,TRUE,tested,NA,NA,NA,NA
+Riverside County Office of Education,Riverside County Special Education,3939 13th Street E Riverside CA 92502-0868,NA,NA,NA,not tested,Riverside,Riverside County,33.9785465214527,-117.380547194579

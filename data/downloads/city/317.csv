@@ -1,21 +1,8 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Jefferson Elementary,Anthony C. Traina Elementary,4256 Windsong Drive Tracy CA 95377-8739,NA,NA,NA,not tested,Tracy,San Joaquin County,37.7002966874143,-121.443223463331
-Tracy Joint Unified,Art Freiler,2421 West Lowell Avenue Tracy CA 95376-7300,NA,NA,NA,not tested,Tracy,San Joaquin County,37.747026,-121.452133
-Tracy Joint Unified,Central Elementary,1370 Parker Avenue Tracy CA 95376-3522,NA,NA,NA,not tested,Tracy,San Joaquin County,37.7427832856646,-121.429752834121
-Tracy Joint Unified,Discovery Charter,51 East Beverly PL Tracy CA 95376-3191,NA,NA,NA,not tested,Tracy,San Joaquin County,37.7450641610738,-121.426560395973
-Tracy Joint Unified,Earle E. Williams Middle,1600 Tennis Lane Tracy CA 95376-4017,NA,NA,NA,not tested,Tracy,San Joaquin County,37.7316154027555,-121.445136165385
-Tracy Joint Unified,George Kelly Elementary,535 Mabel Josephine Drive Tracy CA 95377-6645,NA,NA,NA,not tested,Tracy,San Joaquin County,37.7280606874209,-121.46247571853
-Tracy Joint Unified,Gladys Poet-Christian Elementary,1701 South Central Avenue Tracy CA 95376-4017,NA,NA,NA,not tested,Tracy,San Joaquin County,37.7183108,-121.4288284
-Jefferson Elementary,Jefferson,7500 West Linne Road Tracy CA 95304-9278,NA,NA,NA,not tested,Tracy,San Joaquin County,37.69503445,-121.396678909169
-Tracy Joint Unified,Louis J. Villalovoz Elementary,1550 Cypress Drive Tracy CA 95376-4017,NA,NA,NA,not tested,Tracy,San Joaquin County,37.735099,-121.45146
-Tracy Joint Unified,Melville S. Jacobson Elementary,1750 West Kavanagh Avenue Tracy CA 95376-0315,NA,NA,NA,not tested,Tracy,San Joaquin County,37.7574024404083,-121.447404219863
-Tracy Joint Unified,Merrill F. West High,1775 West Lowell Avenue Tracy CA 95376-2200,NA,NA,NA,not tested,Tracy,San Joaquin County,37.7493293,-121.448512054641
-Tracy Joint Unified,Millennium Charter,51 East Beverly Place Tracy CA 95376-3191,NA,NA,NA,not tested,Tracy,San Joaquin County,37.7450641610738,-121.426560395973
-Tracy Joint Unified,Monte Vista Middle,751 West Lowell Avenue Tracy CA 95376-2935,NA,NA,NA,not tested,Tracy,San Joaquin County,37.7480249160021,-121.436611534492
-Jefferson Elementary,Monticello Elementary,1001 Cambridge Place Tracy CA 95377-7500,NA,NA,NA,not tested,Tracy,San Joaquin County,37.707201,-121.437799
-Tracy Joint Unified,North Elementary,2875 Holly Drive Tracy CA 95376-2134,NA,NA,NA,not tested,Tracy,San Joaquin County,37.757403173913,-121.426057086957
-Jefferson Elementary,Tom Hawkins Elementary,475 Darlene Lane Tracy CA 95377-7039,NA,NA,NA,not tested,Tracy,San Joaquin County,37.7053261,-121.419474741247
-Tracy Joint Unified,Tracy Adult,1902 Corral Hollow Road Tracy CA 95376-4017,NA,NA,NA,not tested,Tracy,San Joaquin County,37.74954898,-121.45310475
-Tracy Joint Unified,Tracy High,315 East 11th Street Tracy CA 95376-4017,NA,NA,NA,not tested,Tracy,San Joaquin County,37.7397097,-121.4238381
-Tracy Joint Unified,Wanda Hirsch Elementary,1280 Dove Drive Tracy CA 95376-8362,NA,NA,NA,not tested,Tracy,San Joaquin County,37.7153047959184,-121.441109571429
-Tracy Joint Unified,Willow Community Day,164 West Grant Line Road Tracy CA 95376-2614,NA,NA,NA,not tested,Tracy,San Joaquin County,37.7541740918367,-121.426650918367
+Taft Union High,Buena Vista High (Continuation),900 North 10th Street Taft CA 93268-2202,NA,NA,NA,not tested,Taft,Kern County,35.146018516129,-119.465042209677
+Taft City,Conley Elementary,623 Rose Avenue Taft CA 93268-4127,NA,NA,FALSE,tested,Taft,Kern County,35.1299258571429,-119.458696122449
+Taft City,Jefferson Elementary,318 Taylor Street Taft CA 93268-1714,6.65,ppb,TRUE,tested,Taft,Kern County,35.1548664081633,-119.460000020408
+Taft City,Parkview Elementary,520 A Street Taft CA 93268-3734,NA,NA,FALSE,tested,Taft,Kern County,35.1368036326531,-119.472424387755
+Taft City,Taft Primary,212 Lucard Street Taft CA 93268-3214,NA,NA,FALSE,tested,Taft,Kern County,35.1423855510204,-119.453631306122
+Kern County Office of Education,West Kern Community School,301 North Street Taft CA 93268,NA,NA,NA,not tested,Taft,Kern County,35.140832,-119.455869
+West Park Elementary,West Side ROP,515 9th Street Taft CA 93268-2715,NA,NA,NA,not tested,Taft,Kern County,35.1455469,-119.4641097

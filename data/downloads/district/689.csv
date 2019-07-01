@@ -1,9 +1,2 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Santa Rosa Elementary,Abraham Lincoln Elementary,850 West Ninth Street Santa Rosa CA 95401-5349,NA,NA,NA,not tested,NA,NA,NA,NA
-Santa Rosa Elementary,Cesar Chavez Language Academy,2750 West Steele Lane Santa Rosa CA 95403-3236,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4596532752192,-122.74700550689
-Santa Rosa Elementary,Helen M. Lehman Elementary,1700 Jennings Avenue Santa Rosa CA 95401-4556,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.449675,-122.745082
-Santa Rosa Elementary,James Monroe Elementary,2567 Marlow Road Santa Rosa CA 95403-2473,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4568771762267,-122.752206956644
-Santa Rosa Elementary,Luther Burbank Elementary,203 South A Street Santa Rosa CA 95401-6302,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4349301984282,-122.715417835372
-Santa Rosa Elementary,Proctor Terrace Elementary,1711 Bryden Lane Santa Rosa CA 95404-3646,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4516682405063,-122.698978
-Santa Rosa Elementary,Santa Rosa French-American Charter (SRFACS),1350 Sonoma Avenue Santa Rosa CA 95405-6623,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4417433548387,-122.697471516129
-Santa Rosa Elementary,Steele Lane Elementary,301 Steele Lane Santa Rosa CA 95403-3148,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.460548,-122.720485
+San Pasqual Union Elementary,San Pasqual Union Elementary,15305 Rockwood Road Escondido CA 92027-6700,NA,NA,FALSE,tested,Escondido,San Diego County,33.11129312374,-117.008708147909

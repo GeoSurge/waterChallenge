@@ -1,2 +1,4 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Lucia Mar Unified,Grover Beach Elementary,365 South 10th Street Grover Beach CA 93433-2418,NA,NA,FALSE,tested,Grover Beach,San Luis Obispo County,35.1186115,-120.6186902
+Gonzales Unified,Gonzales Evening High,650 Elko St Gonzales CA 93926,NA,NA,NA,not tested,Gonzales,Monterey County,36.511435,-121.443416
+Gonzales Unified,La Gloria Elementary,220 Elko Street Gonzales CA 93926-0238,NA,NA,NA,not tested,Gonzales,Monterey County,36.5080403887097,-121.439667423709
+Gonzales Unified,Somavia High,650 Elko Street Gonzales CA 93926,NA,NA,NA,not tested,Gonzales,Monterey County,36.511435,-121.443416

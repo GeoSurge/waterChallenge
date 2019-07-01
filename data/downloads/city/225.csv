@@ -1,3 +1,4 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Lucia Mar Unified,Judkins Middle,680 Wadsworth Street Pismo Beach CA 93449-2359,57.75,ppb,TRUE,tested,Pismo Beach,San Luis Obispo County,35.1467869461654,-120.638990163986
-Lucia Mar Unified,Shell Beach Elementary,2100 Shell Beach Road Pismo Beach CA 93449-1800,NA,NA,FALSE,tested,Pismo Beach,San Luis Obispo County,35.15921105,-120.678901425697
+Paso Robles Joint Unified,Daniel Lewis Middle,900 Creston Road Paso Robles CA 93447-3002,NA,NA,FALSE,tested,Paso Robles,San Luis Obispo County,35.5724858,-120.5898183
+Private,Trinity Lutheran School,940 Creston Road Paso Robles CA 93446,NA,NA,FALSE,tested,Paso Robles,San Luis Obispo County,35.5724858,-120.5898183
+Paso Robles Joint Unified,Winifred Pifer Elementary,1350 Creston Road Paso Robles CA 93447-7010,NA,NA,FALSE,tested,Paso Robles,San Luis Obispo County,35.5724858,-120.5898183

@@ -1,10 +1,6 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Garvey Elementary,Bitely (Arlene) Elementary,7501 East Fern Avenue Rosemead CA 91770-2922,NA,NA,NA,not tested,NA,NA,NA,NA
-Garvey Elementary,Emerson (Ralph Waldo) Elementary,7544 East Emerson Place Rosemead CA 91770-2210,NA,NA,NA,not tested,Rosemead,Los Angeles County,34.0662546,-118.1023689
-Garvey Elementary,Garvey (Richard) Intermediate,2720 North Jackson Avenue Rosemead CA 91770-2935,NA,NA,NA,not tested,NA,NA,NA,NA
-Garvey Elementary,Hillcrest Elementary,795 Pepper Street Monterey Park CA 91755-5715,NA,NA,NA,not tested,Monterey Park,Los Angeles County,34.046544,-118.110196
-Garvey Elementary,Monterey Vista Elementary,901 East Graves Avenue Monterey Park CA 91755-4223,NA,NA,NA,not tested,Monterey Park,Los Angeles County,34.055421,-118.110111
-Garvey Elementary,Rice (Eldridge) Elementary,2150 North Angelus Avenue Rosemead CA 91770-3619,NA,NA,NA,not tested,NA,NA,NA,NA
-Garvey Elementary,Sanchez (George I.) Elementary,8470 East Fern Avenue Rosemead CA 91770-3261,NA,NA,NA,not tested,NA,NA,NA,NA
-Garvey Elementary,Temple (Roger W.) Intermediate,8470 East Fern Avenue Rosemead CA 91770-3261,NA,NA,NA,not tested,NA,NA,NA,NA
-Garvey Elementary,Willard (Frances E.) Elementary,3152 North Willard Avenue Rosemead CA 91770-2758,NA,NA,NA,not tested,Rosemead,Los Angeles County,34.0995821,-118.0852778
+Fruitvale Elementary,Columbia Elementary,703 Mondavi Way Bakersfield CA 93312-4356,NA,NA,FALSE,tested,Bakersfield,Kern County,35.36687834,-119.103977006667
+Fruitvale Elementary,Discovery Elementary,7500 Vaquero Avenue Bakersfield CA 93308-6431,NA,NA,FALSE,tested,Bakersfield,Kern County,35.3992606442953,-119.086683838926
+Fruitvale Elementary,Endeavour Elementary,9300 Meacham Road Bakersfield CA 93312-2706,NA,NA,FALSE,tested,Bakersfield,Kern County,35.390812,-119.108182
+Fruitvale Elementary,Fruitvale Junior High,2114 Calloway Drive Bakersfield CA 93312-2706,5.4,ppb,TRUE,tested,Bakersfield,Kern County,35.3790928985842,-119.110104721551
+Fruitvale Elementary,Quailwood Elementary,7301 Remington Avenue Bakersfield CA 93309-1224,NA,NA,FALSE,tested,Bakersfield,Kern County,35.358427,-119.084069

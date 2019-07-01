@@ -1,29 +1,15 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Ventura Unified,Academy of Technology & Leadership at Saticoy,760 Jazmin Avenue Ventura CA 93004-1826,NA,NA,FALSE,tested,Ventura,Ventura County,34.2849339,-119.1591522427
-Ventura Unified,Anacapa Middle,100 South Mills Road Ventura CA 93003-3434,NA,NA,FALSE,tested,Ventura,Ventura County,34.2717437619048,-119.247357222222
-Ventura Unified,Blanche Reynolds Elementary,450 Valmore Ave. Ventura CA 93003-4799,NA,NA,NA,not tested,Ventura,Ventura County,34.265665755102,-119.254244102041
-Ventura Unified,Buena High,5670 Telegraph Road Ventura CA 93003-4204,NA,NA,FALSE,tested,Ventura,Ventura County,34.2774926451613,-119.217528129032
-Ventura Unified,Cabrillo Middle,1426 East Santa Clara Street Ventura CA 93001-3211,NA,NA,FALSE,tested,Ventura,Ventura County,34.2795793793103,-119.279871172414
-Ventura Unified,Citrus Glen Elementary,9655 Darling Road Ventura CA 93004-3778,NA,NA,FALSE,tested,Ventura,Ventura County,34.2770715882353,-119.171627941176
-Ventura Unified,De Anza Academy of Technology and the Arts,2060 Cameron St Ventura CA 93001-1425,NA,NA,FALSE,tested,Ventura,Ventura County,34.301139,-119.292444428571
-Ventura County Office of Education,Dorothy Boswell School,5190 Loma Vista Rd. Ventura CA 93003,NA,NA,NA,not tested,Ventura,Ventura County,34.2799021,-119.225695501525
-Ventura County Office of Education,Douglas Penfield School,640 Jazmin Ave Ventura CA 93004,NA,NA,NA,not tested,Ventura,Ventura County,34.2861396,-119.160838506914
-Ventura Unified,E. P. Foster Elementary,20 Pleasant Place Ventura CA 93001-1326,NA,NA,NA,not tested,Ventura,Ventura County,34.2966535,-119.2965199375
-Ventura Unified,El Camino High,61 Day Road Ventura CA 93023-2037,NA,NA,FALSE,tested,Ventura,Ventura County,34.2773801853837,-119.226808116754
-Ventura Unified,Elmhurst Elementary,5080 Elmhurst Street Ventura CA 93003-3999,NA,NA,NA,not tested,Ventura,Ventura County,34.2723879306931,-119.226309019802
-Ventura Unified,Foothill Technology High,100 Day Road Ventura CA 93003-2040,NA,NA,FALSE,tested,Ventura,Ventura County,34.27902685,-119.225875983562
-Ventura Unified,Juanamaria Elementary,100 South Crocker Avenue Ventura CA 93004-1535,NA,NA,FALSE,tested,Ventura,Ventura County,34.280363,-119.1901315
-Ventura Unified,Junipero Serra Elementary,8880 Halifax Street Ventura CA 93004-2623,NA,NA,FALSE,tested,Ventura,Ventura County,34.2679902244898,-119.173990755102
-Ventura Unified,Lincoln Elementary,1107 East Santa Clara Street Ventura CA 93001-3125,5.7,ppb,TRUE,tested,Ventura,Ventura County,34.2796371836735,-119.283704
-Ventura Unified,Loma Vista Elementary,300 Lynn Drive Ventura CA 93003-1036,NA,NA,FALSE,tested,Ventura,Ventura County,34.279425,-119.250434
-Ventura Unified,Montalvo Elementary,2050 Grand Avenue Ventura CA 93003-6729,NA,NA,NA,not tested,Ventura,Ventura County,34.2556775384615,-119.207628769231
-Ventura Unified,Mound Elementary,455 South Hill Road Ventura CA 93003-4402,NA,NA,FALSE,tested,Ventura,Ventura County,34.27321876,-119.207951153333
-Ventura Unified,Pacific High,501 College Drive Ventura CA 93003-3413,5.5,ppb,TRUE,tested,Ventura,Ventura County,34.2681645895522,-119.241886552239
-Ventura Unified,Pierpont Elementary,1254 Marthas Vineyard Court Ventura CA 93001-4014,NA,NA,FALSE,tested,Ventura,Ventura County,34.2583547681264,-119.271251067591
-Ventura Unified,Poinsettia Elementary,350 North Victoria Avenue Ventura CA 93003-2344,NA,NA,NA,not tested,Ventura,Ventura County,34.284395,-119.215866
-Ventura Unified,Portola Elementary,6700 Eagle Street Ventura CA 93003-0599,NA,NA,FALSE,tested,Ventura,Ventura County,34.265119,-119.203026
-Ventura Unified,Sheridan Way Elementary,573 Sheridan Way Ventura CA 93001-1852,NA,NA,FALSE,tested,Ventura,Ventura County,34.2893050140843,-119.304470057
-Ventura Unified,Ventura High,2 North Catalina Street Ventura CA 93001-3503,NA,NA,FALSE,tested,Ventura,Ventura County,34.278823,-119.268626
-Ventura Unified,Vista Real Public Charter High,5100 Telegraph Rd Ventura CA 93003,NA,NA,NA,not tested,Ventura,Ventura County,34.2765767039106,-119.223742351955
-Ventura Unified,Vista Real Public Charter High,300 E Santa Clara St Ventura CA 93001,NA,NA,NA,not tested,Ventura,Ventura County,34.279434,-119.296031
-Ventura Unified,Will Rogers Elementary,316 Howard Street Ventura CA 93003-4531,NA,NA,FALSE,tested,Ventura,Ventura County,34.2712312173913,-119.263358985507
+Turlock Unified,Crowell Elementary,118 North Avenue Turlock CA 95382-2410,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.5099790408163,-120.847363816327
+Turlock Unified,Cunningham Elementary,324 West Linwood Avenue Turlock CA 95380-6220,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.4780957890701,-120.855047506613
+Turlock Unified,Dennis G. Earl Elementary,4091 North Olive Avenue Turlock CA 95382-7261,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.5306867,-120.84112669357
+Turlock Unified,Fusion Charter,2217 Geer Road Turlock CA 95382-2407,NA,NA,NA,not tested,Turlock,Stanislaus County,37.5135164054054,-120.848777165541
+Stanislaus County Office of Education,John B. Allard,350 North Kilroy Road Turlock CA 95380-9516,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.496501,-120.876183
+Turlock Unified,Julien Elementary,1924 East Canal Drive Turlock CA 95380-4222,7.48,ppb,TRUE,tested,Turlock,Stanislaus County,37.5000412525253,-120.826862484848
+Turlock Unified,Marvin A. Dutcher Middle,1441 Colorado Avenue Turlock CA 95380-2709,5.92,ppb,TRUE,tested,Turlock,Stanislaus County,37.5060972011503,-120.835376899075
+Turlock Unified,Osborn Two-Way Immersion Academy,201 North Soderquist Road Turlock CA 95380-3723,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.4940283892617,-120.862359993289
+Turlock Unified,Sandra Tovar Medeiros Elementary,651 West Springer Drive Turlock CA 95382-7314,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.53370445,-120.856631564079
+Turlock Unified,Turlock High,1600 East Canal Drive Turlock CA 95380-4221,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.5000421081081,-120.831606810811
+Turlock Unified,Turlock Junior High,3951 North Walnut Road Turlock CA 95382-9542,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.5280623939394,-120.867056424242
+Turlock Unified,Wakefield Elementary,400 South Avenue Turlock CA 95380-5646,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.4854449090909,-120.851497727273
+Turlock Unified,Walnut Elementary Education Center,4219 North Walnut Road Turlock CA 95382-9678,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.5326107532131,-120.866760524031
+Mountain View Elementary,Willard F. Payne Elementary,2850 North Mountain View Road El Monte CA 91732-3593,NA,NA,NA,not tested,Turlock,Stanislaus County,37.543972,-120.879111

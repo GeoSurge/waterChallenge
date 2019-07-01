@@ -1,16 +1,32 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-San Bruno Park Elementary,Allen Elementary School,"875 Angus Ave W, San Bruno, CA 94066",NA,NA,NA,exempt,San Bruno,San Mateo County,37.6247679450645,-122.416385399082
-San Bruno Park Elementary,Belle Aire Elementary School,"450 3rd Ave, San Bruno, CA 94066",NA,NA,NA,exempt,San Bruno,San Mateo County,37.6255471746535,-122.40656574893
-San Bruno Park Elementary,El CVrystal Elementary School,"201 Balboa Way, San Bruno, CA 94066",NA,NA,NA,exempt,San Bruno,San Mateo County,37.6139061831562,-122.412623885756
-San Bruno Park Elementary,John Muir Elementary,130 Cambridge Lane San Bruno CA 94066-3998,NA,NA,NA,not tested,San Bruno,San Mateo County,37.613022658709,-122.435423308985
-San Bruno Park Elementary,John Muir Elementary,"130 Cambridge Ln, San Bruno, CA 94066",NA,NA,NA,exempt,San Bruno,San Mateo County,37.613022658709,-122.435423308985
-South San Francisco Unified,Monte Verde Elementary,2551 Street Cloud Drive San Bruno CA 94066-1700,NA,NA,NA,not tested,San Bruno,San Mateo County,37.636723875,-122.452714642857
-South San Francisco Unified,Monte Verde Elementary School,"2551 St Cloud Dr, San Bruno, CA 94066",NA,NA,NA,exempt,San Bruno,San Mateo County,37.636723875,-122.452714642857
-San Bruno Park Elementary,Parkside Intermediate,1801 Niles Avenue San Bruno CA 94066-4197,NA,NA,NA,not tested,San Bruno,San Mateo County,37.6160467324319,-122.420329948587
-San Bruno Park Elementary,Parkside Intermediate School,"1801 Niles Ave, San Bruno, CA 94066",NA,NA,NA,exempt,San Bruno,San Mateo County,37.6160467324319,-122.420329948587
-San Mateo Union High,Peninsula High,300 Piedmont Avenue San Bruno CA 94019-3906,NA,NA,FALSE,tested,San Bruno,San Mateo County,37.609176988407,-122.430573360337
-San Bruno Park Elementary,Portola Elementary,300 Amador Avenue San Bruno CA 94066-2506,NA,NA,NA,not tested,San Bruno,San Mateo County,37.623746,-122.453051
-San Bruno Park Elementary,Portola Elementary School,"300 Amador Ave, San Bruno, CA 94066",NA,NA,NA,exempt,San Bruno,San Mateo County,37.623746,-122.453051
-San Bruno Park Elementary,Rollingwood Elementary,2500 Cottonwood Drive San Bruno CA 94066-2699,NA,NA,NA,not tested,San Bruno,San Mateo County,37.6301752206423,-122.444554256846
-San Bruno Park Elementary,Rollingwood Elementary School,"2500 Cottonwood Dr, San Bruno, CA 94066",NA,NA,NA,exempt,San Bruno,San Mateo County,37.6301752206423,-122.444554256846
-Private,St. Robert,345 Oak Avenue San Bruno CA 94066,NA,NA,FALSE,tested,San Bruno,San Mateo County,37.6171731028115,-122.415637950128
+Roseville Joint Union High,Adelante High (Continuation),350 Atlantic Street Roseville CA 95678-1849,NA,NA,FALSE,tested,Roseville,Placer County,38.7528595469555,-121.28016580093
+Roseville City Elementary,Barbara Chilton Middle,4501 Bob Doyle Drive Roseville CA 95747-9048,NA,NA,FALSE,tested,Roseville,Placer County,38.7771727,-121.372056540904
+Roseville City Elementary,Blue Oaks Elementary,8150 Horncastle Avenue Roseville CA 95747-6773,NA,NA,FALSE,tested,Roseville,Placer County,38.7838252935597,-121.33117063335
+Roseville City Elementary,Bradford Woodbridge Fundamental Elementary,515 Niles Avenue Roseville CA 95678-1543,NA,NA,FALSE,tested,Roseville,Placer County,38.7562328571429,-121.289833571429
+Roseville City Elementary,Catheryn Gates Elementary,1051 Trehowell Drive Roseville CA 95678-6108,NA,NA,FALSE,tested,Roseville,Placer County,38.7758489700681,-121.280849720636
+Dry Creek Joint Elementary,Creekview Ranch,8779 Cook Riolo Road Roseville CA 95747-9258,NA,NA,FALSE,tested,Roseville,Placer County,38.7504229,-121.3370225
+Roseville City Elementary,Crestmont Elementary,1501 Sheridan Avenue Roseville CA 95661-5724,NA,NA,FALSE,tested,Roseville,Placer County,38.721979194702,-121.254155036507
+Roseville City Elementary,Diamond Creek Elementary,3151 Hopscotch Way Roseville CA 95747-7163,NA,NA,FALSE,tested,Roseville,Placer County,38.8074463872997,-121.334165984404
+Eureka Union,Excelsior Elementary,2701 Eureka Road Roseville CA 95661-6447,NA,NA,FALSE,tested,Roseville,Placer County,38.7372661522643,-121.238137967699
+Roseville City Elementary,Ferris Spanger Elementary,699 Shasta Street Roseville CA 95678-1634,NA,NA,FALSE,tested,Roseville,Placer County,38.7582284,-121.2843312
+Roseville City Elementary,Fiddyment Farm,4001 Brick Mason Circle Roseville CA 95747-4218,NA,NA,FALSE,tested,Roseville,Placer County,38.8062106,-121.3576052
+Roseville City Elementary,George A. Buljan Middle,100 Hallissy Drive Roseville CA 95678-5922,NA,NA,FALSE,tested,Roseville,Placer County,38.778811,-121.301087
+Roseville City Elementary,George Cirby Elementary,814 Darling Way Roseville CA 95678-4419,NA,NA,FALSE,tested,Roseville,Placer County,38.7365510297601,-121.280685083121
+Roseville City Elementary,George Sargeant Elementary,1200 Ridgecrest Way Roseville CA 95661-7308,NA,NA,FALSE,tested,Roseville,Placer County,38.728778,-121.23776
+Dry Creek Joint Elementary,Heritage Oak Elementary,2271 Americana Drive Roseville CA 95747-7688,NA,NA,NA,not tested,Roseville,Placer County,38.757743,-121.314099
+Roseville Joint Union High,Independence High (Alternative),125 Berry Street Roseville CA 95678-1310,NA,NA,FALSE,tested,Roseville,Placer County,38.7579440212209,-121.275097125149
+Roseville City Elementary,Junction Elementary,2150 Ellison Drive Roseville CA 95747-8898,NA,NA,FALSE,tested,Roseville,Placer County,38.7773664,-121.365152181488
+Eureka Union,Maidu Elementary,1950 Johnson Ranch Drive Roseville CA 95661-3749,NA,NA,FALSE,tested,Roseville,Placer County,38.7386033133539,-121.247270586148
+Roseville Joint Union High,Oakmont High,1710 Cirby Way Roseville CA 95661-5520,NA,NA,FALSE,tested,Roseville,Placer County,38.72767555,-121.260288134207
+Eureka Union,Olympus Junior High,2625 La Croix Drive Roseville CA 95661-3959,NA,NA,FALSE,tested,Roseville,Placer County,38.748001,-121.233866
+Roseville City Elementary,Orchard Ranch Elementary,4375 Brookstone Dr Roseville CA 95747,NA,NA,FALSE,tested,Roseville,Placer County,38.78764675,-121.392368269125
+Dry Creek Joint Elementary,Quail Glen Elementary,1250 Canevari Drive Roseville CA 95747-6833,NA,NA,NA,not tested,Roseville,Placer County,38.773471,-121.334963628827
+Roseville City Elementary,Robert C. Cooley Middle,9300 Prairie Woods Way Roseville CA 95747-7129,NA,NA,FALSE,tested,Roseville,Placer County,38.79522,-121.334106
+Roseville Joint Union High,Roseville High,1 Tiger Way Roseville CA 95678-1706,NA,NA,FALSE,tested,Roseville,Placer County,38.7563724,-121.2758393
+Dry Creek Joint Elementary,Silverado Middle,2525 Country Club Drive Roseville CA 95747-6009,NA,NA,NA,not tested,Roseville,Placer County,38.7578031374372,-121.3263566886
+Roseville City Elementary,Stoneridge Elementary,2501 Alexandra Drive Roseville CA 95661-4087,NA,NA,FALSE,tested,Roseville,Placer County,38.7583,-121.234265
+Roseville City Elementary,Thomas Jefferson Elementary,750 Central Park Drive Roseville CA 95678-3513,NA,NA,FALSE,tested,Roseville,Placer County,38.7872352097041,-121.276642377537
+Roseville City Elementary,Warren T. Eich Middle,1509 Sierra Gardens Drive Roseville CA 95661-4804,NA,NA,FALSE,tested,Roseville,Placer County,38.7373333383231,-121.261418433633
+Roseville City Elementary,William Kaseberg Elementary,1040 Main Street Roseville CA 95678-2067,NA,NA,FALSE,tested,Roseville,Placer County,38.7527206,-121.304023063722
+Center Joint Unified,Wilson C. Riles Middle,4747 PFE Road Roseville CA 95747-9776,NA,NA,FALSE,tested,Roseville,Placer County,38.7292325,-121.3215896
+Roseville Joint Union High,Woodcreek High,2551 Woodcreek Oaks Boulevard Roseville CA 95747-6074,NA,NA,FALSE,tested,Roseville,Placer County,38.7622332,-121.333884381776

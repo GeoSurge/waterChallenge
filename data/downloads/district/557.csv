@@ -1,4 +1,3 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Penn Valley Union Elementary,Ready Springs Elementary,10862 Spenceville Road Penn Valley CA 95946-9625,NA,NA,FALSE,tested,NA,Nevada County,39.134316,-121.236191
-Penn Valley Union Elementary,Vantage Point Charter,10862 Spenceville Rd Penn Valley CA 95946-9625,26,ppb,TRUE,tested,NA,Nevada County,39.134316,-121.236191
-Penn Valley Union Elementary,Williams Ranch Elementary,14804 Pleasant Valley Road Penn Valley CA 95946-9722,NA,NA,FALSE,tested,NA,NA,NA,NA
+Pacific Union Elementary,Pacific Union Elementary,3001 Janes Road Arcata CA 95521-4701,NA,NA,FALSE,tested,Arcata,Humboldt County,40.89470695,-124.092477612123
+Pacific Union Elementary,Trillium Charter,1464 Spear Avenue Arcata CA 95521-4882,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8901111702905,-124.086857837534

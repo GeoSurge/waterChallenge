@@ -1,8 +1,6 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Dixon Unified,Anderson (Linford L.) Elementary,415 East C Street Dixon CA 95620-2798,NA,NA,NA,not tested,Dixon,Solano County,38.4475673245053,-121.818387000408
-Dixon Unified,C. A. Jacobs Intermediate,200 North Lincoln Street Dixon CA 95620-3209,NA,NA,NA,not tested,Dixon,Solano County,38.446529,-121.836271
-Dixon Unified,Dixon High,555 College Way Dixon CA 95620-9301,NA,NA,NA,not tested,Dixon,Solano County,38.4356009,-121.815997
-Dixon Unified,Dixon Montessori Charter,355 North Almond Street Dixon CA 95620-2702,NA,NA,NA,not tested,Dixon,Solano County,38.44844875,-121.8317000625
-Dixon Unified,Gretchen Higgins Elementary,1525 Pembroke Way Dixon CA 95620-4115,NA,NA,NA,not tested,Dixon,Solano County,38.4617919148894,-121.828751096634
-Dixon Unified,Maine Prairie High (Continuation),305 East C Street Dixon CA 95620-3019,NA,NA,NA,not tested,Dixon,Solano County,38.4475853877551,-121.819730918367
-Dixon Unified,Tremont Elementary,355 Pheasant Run Drive Dixon CA 95620-4219,NA,NA,NA,not tested,Dixon,Solano County,38.449063,-121.844312
+Palm Springs Unified,Bella Vista Elementary,65750 Avenida Jalisco Desert Hot Springs CA 92240-1674,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.9814462,-116.512132
+Palm Springs Unified,Edward L. Wenzlaff Education Center (Alternative School),11625 West Dr.  Desert Hot Springs CA 92240,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.9635851226408,-116.510250614935
+Palm Springs Unified,Edward L. Wenzlaff Education Center (Alternative School),11625 West Dr. Desert Hot Springs CA 92240,NA,NA,NA,not tested,Desert Hot Springs,Riverside County,33.9635851226408,-116.510250614935
+Palm Springs Unified,Painted Hills Middle,9250 Sonora Drive Desert Hot Springs CA 92240-1585,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.9828029,-116.5214391
+Palm Springs Unified,Two Bunch Palms Elementary,14250 West Drive Desert Hot Springs CA 92240-5655,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.9454593893263,-116.510049375221

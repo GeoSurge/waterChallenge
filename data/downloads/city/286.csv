@@ -1,10 +1,12 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Cupertino Union,Blue Hills Elementary,12300 De Sanka Avenue Saratoga CA 95070-3151,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.289951,-122.02582
-Cupertino Union,Christa McAuliffe Elementary,12211 Titus Avenue Saratoga CA 95070-3456,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.2922327087659,-122.009717866998
-Saratoga Union Elementary,Foothill Elementary,13919 Lynde Avenue Saratoga CA 95070-5310,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.2652328461953,-122.033430808543
-Campbell Union,Marshall Lane Elementary,14114 Marilyn Lane Saratoga CA 95070-5646,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.2642,-121.996502
-Campbell Union,Marshall Lane Elementary (Marshall Lane Preschool),14114 Marilyn Ln Saratoga CA 95070-5646,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.2642,-121.996502
-Campbell Union High,Prospect High,18900 Prospect Road Saratoga CA 95070-3435,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.29131785,-121.99983615542
-Saratoga Union Elementary,Redwood Middle,13925 Fruitvale Avenue Saratoga CA 95070-5603,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.2674315462679,-122.013987278175
-Saratoga Union Elementary,Saratoga Elementary,14592 Oak Street Saratoga CA 95070-6028,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.2567635923003,-122.032694355356
-Los Gatos-Saratoga Joint Union High,Saratoga High,20300 Herriman Avenue Saratoga CA 95070-4950,NA,NA,NA,not tested,Saratoga,Santa Clara County,37.2672830471655,-122.030447249233
+Santa Maria-Bonita,Alvin Elementary,301 East Alvin Avenue Santa Maria CA 93454-3703,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.9610525,-120.43294599857
+Santa Maria-Bonita,Battles (Washington) Elementary,605 East Battles Road Santa Maria CA 93454-7211,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.9314820612155,-120.428629003864
+Santa Maria-Bonita,Bruce (Robert) Elementary,601 West Alvin Avenue Santa Maria CA 93458-3012,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.9614031,-120.442883903974
+Santa Barbara County Office of Education,Dos Puertas School Juvenile Court School Santa Maria,4263 California Blvd Santa Maria CA 93455,NA,NA,NA,not tested,Santa Maria,Santa Barbara County,34.8809298401803,-120.445778352663
+Santa Maria-Bonita,Fesler (Isaac) Junior High,1100 East Fesler Street Santa Maria CA 93454-4611,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.956393,-120.418817
+Santa Maria-Bonita,Jimenez Roberto and Dr Francisco Elementary School,1970 South Biscayne Street Santa Maria CA 93458,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.9278579,-120.4524001
+Santa Maria-Bonita,Kunst (Tommie) Junior High,930 Hidden Pines Way Santa Maria CA 93458-1419,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.98597,-120.444016
+Santa Maria-Bonita,Ontiveros (Juan Pacifico) Elementary,930 West Rancho Verde Santa Maria CA 93458-8224,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.977159,-120.448125
+Private,Pacific Christian,3435 Santa Maria Way Santa Maria CA 93455,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.9114784,-120.4348852
+Santa Maria Joint Union High,Pioneer Valley High,675 Panther Drive Santa Maria CA 93454-9700,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.960991,-120.400264
+Santa Maria Joint Union High,Santa Maria High,901 South Broadway Santa Maria CA 93454-6603,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.9418775,-120.435834102041

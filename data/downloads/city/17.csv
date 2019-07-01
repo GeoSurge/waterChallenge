@@ -1,4 +1,9 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Reef-Sunset Unified,Reef-Sunset Adult Education,205 North Park Avenue Avenal CA 93204-1425,NA,NA,NA,not tested,Avenal,Kings County,36.009495,-120.125394
-Reef-Sunset Unified,Reef-Sunset Secondary Community Day,861 Monterey Street Avenal CA 93204-1425,NA,NA,NA,not tested,Avenal,Kings County,36.0080676734694,-120.124890408163
-Reef-Sunset Unified,Sunrise High (Continuation),209 North Park Avenue Avenal CA 93204-1425,NA,NA,NA,not tested,Avenal,Kings County,36.0095137689868,-120.125390314765
+Merced Union High,Atwater High,2201 Fruitland Avenue Atwater CA 95301-0835,NA,NA,NA,not tested,Atwater,Merced County,37.36825045,-120.61656785643
+Atwater Elementary,Atwater Senior Academy,1800 Juniper Avenue Atwater CA 95301-1401,NA,NA,NA,not tested,Atwater,Merced County,37.355554,-120.612664
+Atwater Elementary,Bellevue Elementary,1020 East Bellevue Road Atwater CA 95301-2314,NA,NA,FALSE,tested,Atwater,Merced County,37.359445,-120.584587607757
+Atwater Elementary,Bellevue Senior Elementary,1020 East Bellevue Rd Atwater CA 95301-2314,NA,NA,FALSE,tested,Atwater,Merced County,37.359445,-120.584587607757
+Atwater Elementary,Mitchell Elementary,1761 Grove Avenue Atwater CA 95301-3537,NA,NA,FALSE,tested,Atwater,Merced County,37.3529532,-120.6112958
+Atwater Elementary,Peggy Heller Elementary,201 Lake View Drive Atwater CA 95301-4769,NA,NA,FALSE,tested,Atwater,Merced County,37.37076395,-120.593810259422
+Atwater Elementary,Shaffer Elementary,1434 California Street Atwater CA 95301-4464,NA,NA,FALSE,tested,Atwater,Merced County,37.3468276,-120.597518052191
+Atwater Elementary,Thomas Olaeta Elementary,2266 High Street Atwater CA 95301-2831,NA,NA,FALSE,tested,Atwater,Merced County,37.3546807,-120.59685909387

@@ -1,14 +1,12 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Montebello Unified,Applied Technology Center,1200 West Mines Avenue Montebello CA 90640-5538,NA,NA,NA,not tested,Montebello,Los Angeles County,34.00464465,-118.116344372461
-Montebello Unified,Eastmont Intermediate,400 North Bradshawe Avenue Montebello CA 90640-1562,NA,NA,NA,not tested,Montebello,Los Angeles County,34.019875,-118.1435241
-Montebello Unified,Greenwood Elementary,900 South Greenwood Avenue Montebello CA 90640-5816,NA,NA,NA,not tested,Montebello,Los Angeles County,33.9971617751051,-118.118002201722
-Montebello Unified,La Merced Elementary,724 North Poplar Avenue Montebello CA 90640-2760,NA,NA,FALSE,tested,Montebello,Los Angeles County,34.0210993902439,-118.095904609756
-Montebello Unified,La Merced Intermediate,215 East Avenida de la Merced Montebello CA 90640-2799,NA,NA,FALSE,tested,Montebello,Los Angeles County,34.0231085725887,-118.098185276372
-Los Angeles Unified,Maple Primary Center,3601 South Maple Avenue Los Angeles CA 90011-2619,NA,NA,NA,not tested,Montebello,Los Angeles County,34.0084499,-118.1176355
-LAUSD,MAPLE PRIMARY CENTER (FRMR:JEFFERSON NEW PC #6),"3601 SOUTH MAPLE AVENUE, LOS ANGELES, CA 90011",NA,NA,NA,exempt,Montebello,Los Angeles County,34.0084499,-118.1176355
-LAUSD,MAPLE STATE PRE-SCHOOL,"3601 S MAPLE AVENUE, LOS ANGELES, CA 90011",NA,NA,NA,exempt,Montebello,Los Angeles County,34.0084499,-118.1176355
-Los Angeles Unified,Santee Education Complex,1921 South Maple Avenue Los Angeles CA 90011-1036,NA,NA,NA,not tested,Montebello,Los Angeles County,34.0084499,-118.1176355
-LAUSD,SANTEE EDUCATION COMPLEX,"1921 S MAPLE AVE, LOS ANGELES, CA 90011",NA,NA,NA,exempt,Montebello,Los Angeles County,34.0084499,-118.1176355
-Montebello Unified,Schurr Community Adult,820 North Wilcox Avenue Montebello CA 90640-1808,NA,NA,FALSE,tested,Montebello,Los Angeles County,34.028520302284,-118.12407402073799
-Montebello Unified,Schurr High,820 North Wilcox Avenue Montebello CA 90640-1808,NA,NA,NA,not tested,Montebello,Los Angeles County,34.028520302284,-118.12407402073799
-Montebello Unified,Vail High (Continuation),1230 South Vail Avenue Montebello CA 90640-6312,NA,NA,NA,not tested,Montebello,Los Angeles County,33.9937499591837,-118.129349795918
+Monrovia Unified,Bradoaks Elementary,930 East Lemon Avenue Monrovia CA 91016-3076,NA,NA,NA,not tested,Monrovia,Los Angeles County,34.146794,-117.985085718511
+Monrovia Unified,Canyon Early Learning Center,1000 South Canyon Boulevard Monrovia CA 91016-3535,NA,NA,NA,not tested,Monrovia,Los Angeles County,34.1459628,-117.9965674
+Monrovia Unified,Canyon Oaks High,930 Royal Oaks Drive Monrovia CA 91016-3735,NA,NA,NA,not tested,Monrovia,Los Angeles County,34.143118,-117.9847415
+Monrovia Unified,Clifton Middle,226 South Ivy Avenue Monrovia CA 91016-2836,NA,NA,NA,not tested,Monrovia,Los Angeles County,34.1500087266576,-117.99871339924
+Monrovia Unified,Mayflower Elementary,210 North Mayflower Avenue Monrovia CA 91016-2008,NA,NA,NA,not tested,Monrovia,Los Angeles County,34.1543164285714,-118.009767081633
+Monrovia Unified,Monroe Elementary,402 West Colorado Boulevard Monrovia CA 91016-2647,NA,NA,NA,not tested,Monrovia,Los Angeles County,34.1457372345177,-118.007675733406
+Monrovia Unified,Monrovia High,845 West Colorado Boulevard Monrovia CA 91016-2517,NA,NA,NA,not tested,Monrovia,Los Angeles County,34.1465009,-118.0161485
+Monrovia Unified,Mountain Park,950 South Mountain Avenue Monrovia CA 91016-3641,NA,NA,NA,not tested,Monrovia,Los Angeles County,34.139709,-117.986184
+Monrovia Unified,Plymouth Elementary,1300 Boley Street Monrovia CA 91016-4905,NA,NA,NA,not tested,Monrovia,Los Angeles County,34.1167164545455,-118.006386393939
+Monrovia Unified,Santa Fe Middle,148 West Duarte Road Monrovia CA 91016-4539,NA,NA,NA,not tested,Monrovia,Los Angeles County,34.1322812040816,-118.002682153061
+Monrovia Unified,Wild Rose Elementary,232 Jasmine Avenue Monrovia CA 91016-2919,NA,NA,NA,not tested,Monrovia,Los Angeles County,34.1497387,-117.992916187102

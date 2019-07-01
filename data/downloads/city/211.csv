@@ -1,34 +1,29 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Hueneme Elementary,Ansgar Larsen Elementary,550 Thomas Avenue Oxnard CA 93033-5333,19.9,ppb,TRUE,tested,Oxnard,Ventura County,34.1696758724832,-119.172354825503
-Hueneme Elementary,Art Haycox Elementary,5400 Perkins Road Oxnard CA 93033-8812,NA,NA,NA,not tested,Oxnard,Ventura County,34.15022055,-119.182649565943
-Ventura County Office of Education,Carl Dwire Jr Special School,3150 Via Marina Ave Oxnard CA 93030,10.05,ppb,TRUE,tested,Oxnard,Ventura County,34.188416,-119.213808
-Hueneme Elementary,Charles Blackstock Junior High,701 East Bard Road Oxnard CA 93033-7265,NA,NA,NA,not tested,Oxnard,Ventura County,34.1637542,-119.17167313741
-Oxnard,Christa McAuliffe Elementary,3300 West Via Marina Avenue Oxnard CA 93035-2440,NA,NA,FALSE,tested,Oxnard,Ventura County,34.1884198823529,-119.214829235294
-Oxnard Union High,Condor High,4000 S Rose Ave Oxnard CA 93033,NA,NA,NA,not tested,Oxnard,Ventura County,34.163043,-119.159316
-Hueneme Elementary,E. O. Green Junior High,3739 South C Street Oxnard CA 93033-6111,NA,NA,NA,not tested,Oxnard,Ventura County,34.16441755,-119.182019951975
-Oxnard,Elm Street Elementary,450 East Elm Street Oxnard CA 93033-3646,NA,NA,NA,not tested,Oxnard,Ventura County,34.1826603685306,-119.17215462858
-Oxnard,Emilie Ritchen Elementary,2200 Cabrillo Way Oxnard CA 93030-3106,NA,NA,FALSE,tested,Oxnard,Ventura County,34.2155435151515,-119.201599888889
-Hueneme Elementary,Fred L. Williams Elementary,4300 Anchorage Street Oxnard CA 93033-7429,NA,NA,NA,not tested,Oxnard,Ventura County,34.1609474704916,-119.16279601548
-Hueneme Elementary,Hollywood Beach Elementary,4000 Sunset Ln. Oxnard CA 93035-3949,NA,NA,NA,not tested,Oxnard,Ventura County,34.170798,-119.231967
-Ventura County Office of Education,James Foster Jr High School,800 Morado Pl Oxnard CA 93035,NA,NA,NA,not tested,Oxnard,Ventura County,34.2116743068767,-119.169547515158
-Oxnard,Juan Lagunas Soria Elementary,3101 Dunkirk Drive Oxnard CA 93035-1203,NA,NA,NA,not tested,Oxnard,Ventura County,34.1970798,-119.211625485596
-Hueneme Elementary,Julien Hathaway Elementary,405 East Dollie Street Oxnard CA 93033-7621,NA,NA,NA,not tested,Oxnard,Ventura County,34.1583373,-119.174143985834
-Oxnard,Kamala Elementary,634 West Kamala Street Oxnard CA 93033-3407,NA,NA,FALSE,tested,Oxnard,Ventura County,34.1786478888889,-119.184331525253
-Ocean View,Laguna Vista Elementary,5084 Etting Road Oxnard CA 93033-5904,5.3,ppb,TRUE,tested,Oxnard,Ventura County,34.161767,-119.147012
-Ocean View,Mar Vista Elementary,2382 Etting Road Oxnard CA 93033-6864,NA,NA,FALSE,tested,Oxnard,Ventura County,34.161657,-119.143353
-Oxnard,Marina West Elementary,2501 Carob Street Oxnard CA 93035-3334,NA,NA,FALSE,tested,Oxnard,Ventura County,34.183961,-119.204701
-Oxnard,McKinna Elementary,1611 South J Street Oxnard CA 93033-3110,14,ppb,TRUE,tested,Oxnard,Ventura County,34.183698836447,-119.189156531566
-Ocean View,Ocean View Early Education,4600 Olds Road Oxnard CA 93033-8062,NA,NA,FALSE,tested,Oxnard,Ventura County,34.158927,-119.148758
-Ocean View,Ocean View Junior High,4300 Olds Road Oxnard CA 93033-8051,NA,NA,FALSE,tested,Oxnard,Ventura County,34.1609675165285,-119.148696427159
-Oxnard Union High,Oxnard High,3400 West Gonzales Road Oxnard CA 93036-7768,NA,NA,NA,not tested,Oxnard,Ventura County,34.2193665,-119.1985987
-Oxnard Union High,Pacifica High,600 East Gonzales Road Oxnard CA 93036-8266,NA,NA,FALSE,tested,Oxnard,Ventura County,34.2180988,-119.170997047798
-Oxnard,"Richard B. Haydock, Middle",647 West Hill Street Oxnard CA 93033-3199,6.2,ppb,TRUE,tested,Oxnard,Ventura County,34.186095,-119.206767
-Rio Elementary,Rio del Norte,2500 Lobelia Drive Oxnard CA 93036-1594,NA,NA,NA,not tested,Oxnard,Ventura County,34.234697,-119.191424
-Rio Elementary,Rio Lindo Elementary,2131 Snow Avenue Oxnard CA 93036-2503,NA,NA,NA,not tested,Oxnard,Ventura County,34.2230963673469,-119.165392632653
-Rio Elementary,Rio Plaza Elementary,600 Simon Way Oxnard CA 93036-1451,NA,NA,NA,not tested,Oxnard,Ventura County,34.2399493846154,-119.158044230769
-Rio Elementary,Rio Rosales,1001 Kohala Street Oxnard CA 93030-7305,NA,NA,NA,not tested,Oxnard,Ventura County,34.211152,-119.150831
-Rio Elementary,Rio Vista Middle,3050 Thames River Drive Oxnard CA 93036-5338,NA,NA,NA,not tested,Oxnard,Ventura County,34.24271740625,-119.1696063125
-Oxnard,"Robert J. Frank, Middle",701 North Juanita Avenue Oxnard CA 93030-7442,NA,NA,FALSE,tested,Oxnard,Ventura County,34.2077755095949,-119.168630460305
-Oxnard,San Miguel,2400 South J Street Oxnard CA 93030-4431,NA,NA,FALSE,tested,Oxnard,Ventura County,34.1775496643836,-119.186148952055
-Oxnard,Thurgood Marshall Elementary,2900 Thurgood Marshall Drive Oxnard CA 93036-6349,NA,NA,FALSE,tested,Oxnard,Ventura County,34.221578,-119.209346
-Ocean View,Tierra Vista Elementary,2001 Sanford Street Oxnard CA 93033-7999,NA,NA,FALSE,tested,Oxnard,Ventura County,34.155032,-119.152723
+Tustin Unified,A. G. Currie Middle,1402 Sycamore Ave. Tustin CA 92780-6233,NA,NA,FALSE,tested,Orange,Orange County,33.727177,-117.826807
+Orange Unified,California Elementary,1080 North California Street Orange CA 92867-5810,NA,NA,FALSE,tested,Orange,Orange County,33.8057021,-117.842699328779
+Orange Unified,Cambridge Elementary,425 North Cambridge Orange CA 92866-1149,8.86,ppb,TRUE,tested,Orange,Orange County,33.793781280194104,-117.844269467601
+Orange Unified,Cerro Villa Middle,17852 East Serrano Avenue Villa Park CA 92861-1214,NA,NA,FALSE,tested,Orange,Orange County,33.8210916,-117.8250551
+Orange Unified,Esplanade Elementary,381 North Esplanade Street Orange CA 92869-2909,NA,NA,FALSE,tested,Orange,Orange County,33.79411435,-117.808437408176
+Orange Unified,Handy Elementary,860 North Handy Street Orange CA 92867-7243,7.59,ppb,TRUE,tested,Orange,Orange County,33.80126215,-117.82862061352
+Garden Grove Unified,James Irvine Intermediate,10552 Hazard Avenue Garden Grove CA 92843-5109,NA,NA,FALSE,tested,Orange,Orange County,33.7522246968183,-117.94529726889
+Tustin Unified,Jeane Thorman Elementary,1402 Sycamore Avenue Tustin CA 92780-6233,NA,NA,FALSE,tested,Orange,Orange County,33.727177,-117.826807
+Garden Grove Unified,John Marshall Elementary,15791 Bushard Street Westminster CA 92683-7455,NA,NA,FALSE,tested,Orange,Orange County,33.7332599509502,-117.963511821514
+Orange Unified,Jordan Elementary,4319 East Jordan Avenue Orange CA 92869-5431,NA,NA,FALSE,tested,Orange,Orange County,33.7802191,-117.807288944859
+Orange Unified,La Veta Elementary,2800 East La Veta Avenue Orange CA 92869-5111,8.04,ppb,TRUE,tested,Orange,Orange County,33.7795887,-117.823814267731
+Garden Grove Unified,Leo Carrillo Elementary,15270 Bushard Street Westminster CA 92683-6502,NA,NA,FALSE,tested,Orange,Orange County,33.7407810978571,-117.963413246607
+Orange Unified,Linda Vista Elementary,1200 North Cannon Street Orange CA 92869-1303,6.15,ppb,TRUE,tested,Orange,Orange County,33.80854405,-117.795962733628
+Orange Unified,McPherson Magnet,333 South Prospect Street Orange CA 92869-4825,NA,NA,FALSE,tested,Orange,Orange County,33.7836855,-117.817168950292
+Orange Unified,Orange High,525 North Shaffer Street Orange CA 92867-6824,5.84,ppb,TRUE,tested,Orange,Orange County,33.7980196,-117.846793049231
+Orange Unified,OUSD Community Day,250 South Yorba St Orange CA 92869-3609,NA,NA,NA,not tested,Orange,Orange County,33.7851895944691,-117.827161575035
+Orange Unified,OUSD Home Sch,250 S Yorba Street Orange CA 92869-3609,NA,NA,NA,not tested,Orange,Orange County,33.7851895944691,-117.827161575035
+Orange Unified,Palmyra Elementary,1325 East Palmyra Avenue Orange CA 92866-2428,6.425000000000001,ppb,TRUE,tested,Orange,Orange County,33.78469065,-117.839036455888
+Orange Unified,Portola Middle,270 North Palm Drive Orange CA 92868-2428,NA,NA,FALSE,tested,Orange,Orange County,33.79105565,-117.869774868966
+Orange Unified,Prospect Elementary,379 North Virage Street Orange CA 92869-2856,7.53,ppb,TRUE,tested,Orange,Orange County,33.792504,-117.816119536063
+Orange Unified,Richland Continuation High,615 North Lemon Street Orange CA 92867-6611,NA,NA,FALSE,tested,Orange,Orange County,33.7970161,-117.854811430806
+Orange Unified,ROP-Career Education,250 South Yorba Street Orange CA 92869,NA,NA,NA,not tested,Orange,Orange County,33.7851895944691,-117.827161575035
+Garden Grove Unified,Rosita Elementary,4726 Hazard Avenue Santa Ana CA 92703-2537,NA,NA,NA,not tested,Orange,Orange County,33.7523471277701,-117.932063132633
+Private,Salem Lutheran,6411 East Frank Lane Orange CA 92869,5.05,ppb,TRUE,tested,Orange,Orange County,33.812260896532,-117.784848095955
+Orange Unified,Santiago Middle,515 North Rancho Santiago Boulevard Orange CA 92869-2724,5.5649999999999995,ppb,TRUE,tested,Orange,Orange County,33.79554735,-117.798896046913
+Orange Unified,Sycamore Elementary,340 North Main Street Orange CA 92868-2408,NA,NA,FALSE,tested,Orange,Orange County,33.79239875,-117.868103985356
+Westminster,Warner Middle,14171 Newland Street Westminster CA 92683-4503,NA,NA,FALSE,tested,Orange,Orange County,33.7562534722222,-117.981141722222
+Orange Unified,Yorba Middle,935 North Cambridge Orange CA 92867-5720,NA,NA,FALSE,tested,Orange,Orange County,33.8028111065958,-117.844230571488

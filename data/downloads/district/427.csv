@@ -1,2 +1,3 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Mariposa County Office of Education,Monarch Academy,5082 Old Highway North Mariposa CA 95338,NA,NA,FALSE,tested,NA,Mariposa County,37.4904389727401,-119.96617252989
+Lost Hills Union Elementary,A. M. Thomas Middle,20979 Lobos Court Lost Hills CA 93249-0158,NA,NA,NA,not tested,NA,Kern County,35.614912139191,-119.699365827646
+Lost Hills Union Elementary,Lost Hills Elementary,14821 Primary Court Lost Hills CA 93249-0158,NA,NA,NA,not tested,NA,Kern County,35.615270244898,-119.701362734694

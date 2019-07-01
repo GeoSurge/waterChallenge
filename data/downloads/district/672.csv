@@ -1,8 +1,7 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-San Ysidro Elementary,La Mirada Elementary,222 Avenida de la Madrid San Ysidro CA 92173-1508,NA,NA,NA,not tested,San Diego,San Diego County,32.562946,-117.046105
-San Ysidro Elementary,Ocean View Hills,4919 Del Sol Boulevard San Diego CA 92154-8488,NA,NA,NA,not tested,San Diego,San Diego County,32.57148325,-117.024412055868
-San Ysidro Elementary,San Ysidro Middle,4345 Otay Mesa Road San Ysidro CA 92173-1623,NA,NA,NA,not tested,San Diego,San Diego County,32.56011335,-117.039140795142
-San Ysidro Elementary,Smythe Elementary,1880 Smythe Avenue San Ysidro CA 92173-1599,NA,NA,NA,not tested,San Diego,San Diego County,32.563896,-117.050209151783
-San Ysidro Elementary,Sunset Elementary,3825 Sunset Lane San Ysidro CA 92173-3334,NA,NA,NA,not tested,San Diego,San Diego County,32.5575599,-117.050499423289
-San Ysidro Elementary,Vista Del Mar,4885 Del Sol Blvd San Diego CA 92154-8401,NA,NA,NA,not tested,San Diego,San Diego County,32.57428,-117.064583
-San Ysidro Elementary,Willow Elementary,226 Willow Road San Ysidro CA 92173-3096,NA,NA,NA,not tested,San Diego,San Diego County,32.5437015241936,-117.042014991935
+San Gabriel Unified,Coolidge Elementary,421 North Mission Drive San Gabriel CA 91775-2731,11.6,ppb,TRUE,tested,NA,NA,NA,NA
+San Gabriel Unified,Del Mar High,312 South Del Mar Avenue San Gabriel CA 91776-1356,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Gabriel Unified,Gabrielino High,1327 South San Gabriel Boulevard San Gabriel CA 91776-3308,NA,NA,NA,not tested,San Gabriel,Los Angeles County,34.0840180665736,-118.09086154759
+San Gabriel Unified,Jefferson Middle,1372 East Las Tunas Drive San Gabriel CA 91776-1791,NA,NA,NA,not tested,San Gabriel,Los Angeles County,34.1034686,-118.0812706
+San Gabriel Unified,Options for Youth San Gabriel,405 South San Gabriel Boulevard Suite A San Gabriel CA 91776-1966,NA,NA,NA,not tested,NA,NA,NA,NA
+San Gabriel Unified,Wilson Elementary,8317 East Sheffield Road San Gabriel CA 91775-1799,NA,NA,FALSE,tested,NA,NA,NA,NA

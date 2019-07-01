@@ -1,8 +1,9 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Willits Unified,Baechtel Grove Middle,1150 Magnolia Street Willits CA 95490-4209,NA,NA,FALSE,tested,Willits,Mendocino County,39.4003692072087,-123.353048052249
-Willits Unified,Blosser Lane Elementary,1275 Blosser Lane Willits CA 95490-4163,6.3,ppb,TRUE,tested,Willits,Mendocino County,39.3993392743101,-123.359572910808
-Willits Unified,Brookside Elementary,Spruce and Lincoln Way Willits CA 95490,5.1,ppb,TRUE,tested,Willits,Mendocino County,39.411958,-123.361987
-Willits Unified,Sanhedrin High,120 North Main St Willits CA 95490-3109,7,ppb,TRUE,tested,Willits,Mendocino County,39.4150506945593,-123.35473663731
-Willits Unified,Willits Charter,1431 South Main Street Willits CA 95490-4309,NA,NA,FALSE,tested,Willits,Mendocino County,39.3937254453904,-123.348231777391
-Willits Unified,Willits Elementary Charter,405 East Commercial Street Willits CA 95490-3007,6.1,ppb,TRUE,tested,Willits,Mendocino County,39.4124305757576,-123.350078393939
-Willits Unified,Willits High,299 North Main Street Willits CA 95490-3110,NA,NA,FALSE,tested,Willits,Mendocino County,39.4171385,-123.3546652
+Los Angeles Unified,Larchmont Charter,1265 North Fairfax Avenue Los Angeles CA 90046-5205,NA,NA,NA,not tested,West Hollywood,Los Angeles County,34.0935058806779,-118.361631596928
+LAUSD,LAUREL EARLY EDUCATION CENTER,"8023 WILLOUGHBY AVE, LOS ANGELES,    CA 90046",NA,NA,NA,exempt,West Hollywood,Los Angeles County,34.0872525306122,-118.364093959184
+LAUSD,LAUREL ELEMENTARY,"925 N HAYWORTH AVE, LOS ANGELES,    CA 90046",NA,NA,NA,exempt,West Hollywood,Los Angeles County,34.0876443673469,-118.362803204082
+Los Angeles Unified,Rosewood Avenue Elementary,503 North Croft Avenue Los Angeles CA 90048-2510,NA,NA,NA,not tested,West Hollywood,Los Angeles County,34.0803178565787,-118.37430662969
+LAUSD,ROSEWOOD EARLY EDUCATION CENTER,"510 N ALFRED ST, LOS ANGELES,    CA 90048",NA,NA,NA,exempt,West Hollywood,Los Angeles County,34.0804449552337,-118.375158192622
+LAUSD,ROSEWOOD ELEMENTARY,"503 N CROFT AVE, LOS ANGELES,    CA 90048",NA,NA,NA,exempt,West Hollywood,Los Angeles County,34.0803178565787,-118.37430662969
+LAUSD,WEST HOLLYWOOD COMMUNITY DAY SCHOOL,"1049 NORTH FAIRFAX AVE, WEST HOLLYWOOD, CA 90046",NA,NA,NA,exempt,West Hollywood,Los Angeles County,34.0895549183673,-118.361455040816
+LAUSD,WEST HOLLYWOOD ELEMENTARY,"670 N HAMMOND ST, W HOLLYWOOD, CA 90069",NA,NA,NA,exempt,West Hollywood,Los Angeles County,34.0887242,-118.3876652

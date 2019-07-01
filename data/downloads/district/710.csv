@@ -1,11 +1,13 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Selma Unified,Abraham Lincoln Middle,1239 Nelson Boulevard Selma CA 93662-4112,NA,NA,NA,not tested,Selma,Fresno County,36.5838525652174,-119.600500869565
-Selma Unified,Andrew Jackson Elementary,2220 Huntsman Avenue Selma CA 93662-2422,NA,NA,NA,not tested,Selma,Fresno County,36.5835526915413,-119.614279721343
-Selma Unified,Eric White Elementary,2001 Mitchell Selma CA 93662-9601,NA,NA,NA,not tested,Selma,Fresno County,36.561768,-119.624356
-Selma Unified,George Washington Elementary,1420 Second Street Selma CA 93662-3925,NA,NA,NA,not tested,NA,NA,NA,NA
-Selma Unified,Hearland Alternative School,2269 Sylvia Street Selma CA 93662-3436,NA,NA,NA,not tested,Selma,Fresno County,36.5696121912909,-119.619009185364
-Selma Unified,Heartland High (Continuation),2269 Sylvia St Selma CA 93662-3488,NA,NA,NA,not tested,Selma,Fresno County,36.5696121912909,-119.619009185364
-Selma Unified,James Garfield Elementary,2535 B Street Selma CA 93662-3108,NA,NA,NA,not tested,Selma,Fresno County,36.5710718370399,-119.608623971605
-Selma Unified,Selma High,3125 Wright St Selma CA 93662-2429,NA,NA,NA,not tested,Selma,Fresno County,36.5811902347223,-119.615020769921
-Selma Unified,Theodore Roosevelt Elementary,1802 Floral Avenue Selma CA 93662-2808,NA,NA,NA,not tested,Selma,Fresno County,36.5762791083407,-119.608647142758
-Selma Unified,Woodrow Wilson Elementary,1325 Stillman Street Selma CA 93662-3221,NA,NA,NA,not tested,Selma,Fresno County,36.5723969417063,-119.602489977736
+Santa Rosa Elementary,Abraham Lincoln Elementary,850 West Ninth Street Santa Rosa CA 95401-5349,NA,NA,NA,not tested,NA,NA,NA,NA
+Santa Rosa Elementary,Albert F. Biella Elementary,2140 Jennings Avenue Santa Rosa CA 95401-9528,11.7,ppb,TRUE,tested,Santa Rosa,Sonoma County,38.4498565597847,-122.75292543966
+Santa Rosa Elementary,Brook Hill Elementary,1850 Vallejo Street Santa Rosa CA 95404-5399,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4378474572541,-122.693907851034
+Santa Rosa Elementary,Cesar Chavez Language Academy,2750 West Steele Lane Santa Rosa CA 95403-3236,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4596532752192,-122.74700550689
+Santa Rosa Elementary,Helen M. Lehman Elementary,1700 Jennings Avenue Santa Rosa CA 95401-4556,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.449675,-122.745082
+Santa Rosa Elementary,Hidden Valley Elementary,3435 Bonita Vista Drive Santa Rosa CA 95404-1573,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4759413345236,-122.699511013836
+Santa Rosa Elementary,James Monroe Elementary,2567 Marlow Road Santa Rosa CA 95403-2473,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4568771762267,-122.752206956644
+Santa Rosa Elementary,Kid Street Learning Center Charter,709 Davis Street Santa Rosa CA 95401-4767,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4410528030918,-122.721577681559
+Santa Rosa Elementary,Luther Burbank Elementary,203 South A Street Santa Rosa CA 95401-6302,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4349301984282,-122.715417835372
+Santa Rosa Elementary,Proctor Terrace Elementary,1711 Bryden Lane Santa Rosa CA 95404-3646,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4516682405063,-122.698978
+Santa Rosa Elementary,Santa Rosa French-American Charter (SRFACS),1350 Sonoma Avenue Santa Rosa CA 95405-6623,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4417433548387,-122.697471516129
+Santa Rosa Elementary,Steele Lane Elementary,301 Steele Lane Santa Rosa CA 95403-3148,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.460548,-122.720485

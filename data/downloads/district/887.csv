@@ -1,5 +1,2 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Tulare County Office of Education,Midcounty Community School,2101 N. Shirk Rd. Visalia CA 93291,NA,NA,NA,not tested,Visalia,Tulare County,36.346116,-119.367812
-Tulare County Office of Education,Special Education,6200 South Mooney Blvd Visalia CA 93277,NA,NA,NA,not tested,Visalia,Tulare County,36.2802823,-119.3133915
-Tulare County Office of Education,University Preparatory High,"915 South Mooney Boulevard, Mariposa Building Visalia CA 93277",NA,NA,NA,not tested,,,,
-Tulare County Office of Education,Valley Life Charter,3737 West Walnut Avenue Visalia CA 93277-3947,NA,NA,NA,not tested,Visalia,Tulare County,36.3127369842079,-119.332208366779
+Woodville Union Elementary,Woodville Elementary,16541 Road 168 Porterville CA 93257-9205,NA,NA,FALSE,tested,NA,NA,NA,NA

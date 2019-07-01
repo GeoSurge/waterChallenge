@@ -1,8 +1,9 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Laguna Beach Unified,El Morro Elementary,8681 North Coast Highway Laguna Beach CA 92651-1032,NA,NA,NA,not tested,Laguna Beach,Orange County,33.5481001,-117.7993626
-Laguna Beach Unified,El Morro Elementary,"8681 N Coast Hwy, Laguna Beach, CA 92651",NA,NA,NA,exempt,Laguna Beach,Orange County,33.5481001,-117.7993626
-Laguna Beach Unified,Laguna Beach High,625 Park Avenue Laguna Beach CA 92651-2340,NA,NA,NA,not tested,Laguna Beach,Orange County,33.5403719,-117.776068823868
-Laguna Beach Unified,Laguna Beach High School,"625 Park Ave, Laguna Beach, CA 92651",NA,NA,NA,exempt,Laguna Beach,Orange County,33.5403719,-117.776068823868
-Laguna Beach Unified,Thurston Middle,2100 Park Avenue Laguna Beach CA 92651-2240,NA,NA,NA,not tested,Laguna Beach,Orange County,33.549112513952,-117.76416603634
-Laguna Beach Unified,Thurston Middle School,"2100 Park Ave, Laguna Beach, CA 92651",NA,NA,NA,exempt,Laguna Beach,Orange County,33.549112513952,-117.76416603634
-Laguna Beach Unified,Top of the World Elementary,"21601 Treetop Ln, Laguna Beach, CA 92651",NA,NA,NA,exempt,Laguna Beach,Orange County,33.5451405,-117.751971
+Norwalk-La Mirada Unified,Arlie F. Hutchinson Middle,13900 Estero Road La Mirada CA 90638-3615,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.904473,-118.024705
+Norwalk-La Mirada Unified,Eastwood Elementary,15730 Pescados Drive La Mirada CA 90638-4999,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.8974504529979,-117.995794434422
+Norwalk-La Mirada Unified,Escalona Elementary,15135 Escalona Road La Mirada CA 90638-4601,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.8942125,-118.0117244
+East Whittier City Elementary,Granada Middle,15337 Lemon Drive Whittier CA 90604-3251,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.9233967356266,-118.002488053892
+Private,"Heights Christian Schools, Bluefield Campus",12900 Bluefield Avenue La Mirada CA 90638,7.7,ppb,TRUE,tested,La Mirada,Los Angeles County,33.914311,-118.007616
+Norwalk-La Mirada Unified,La Mirada High,13520 Adelfa Drive La Mirada CA 90638-3103,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.9084999220344,-118.004162971681
+Norwalk-La Mirada Unified,La Pluma Elementary,14420 La Pluma Drive La Mirada CA 90638-4029,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.9018642727273,-118.001138818182
+Norwalk-La Mirada Unified,Los Coyotes Middle,14640 Mercado Avenue La Mirada CA 90638-4210,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.8985770700044,-117.990351004967

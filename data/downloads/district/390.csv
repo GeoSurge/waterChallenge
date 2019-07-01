@@ -1,10 +1,11 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Little Lake City Elementary,Cresson Elementary,11650 East Cresson Street Norwalk CA 90650-1618,NA,NA,NA,not tested,Norwalk,Los Angeles County,33.9297596153846,-118.084221384615
-Little Lake City Elementary,Jersey Avenue Elementary,9400 Jersey Avenue Santa Fe Springs CA 90670-2859,NA,NA,NA,not tested,Santa Fe Springs,Los Angeles County,33.954453,-118.081853
-Little Lake City Elementary,Lake Center Middle,10503 South Pioneer Boulevard Santa Fe Springs CA 90670-3703,NA,NA,NA,not tested,Santa Fe Springs,Los Angeles County,33.9451041,-118.080829
-Little Lake City Elementary,Lakeland Elementary,11224 Bombardier Avenue Norwalk CA 90650-1830,NA,NA,NA,not tested,Norwalk,Los Angeles County,33.929655,-118.076835
-Little Lake City Elementary,Lakeside Middle,11000 East Kenney Street Norwalk CA 90650-7625,NA,NA,NA,not tested,NA,NA,NA,NA
-Little Lake City Elementary,Lakeview Elementary,11500 East Joslin Street Santa Fe Springs CA 90670-3612,NA,NA,NA,not tested,Santa Fe Springs,Los Angeles County,33.944289,-118.088504
-Little Lake City Elementary,Paddison Elementary,12100 Crewe Street Norwalk CA 90650-2443,NA,NA,NA,not tested,Norwalk,Los Angeles County,33.920673,-118.076448
-Little Lake City Elementary,Studebaker Elementary,11800 Halcourt Avenue Norwalk CA 90650-7512,NA,NA,NA,not tested,Norwalk,Los Angeles County,33.9263305728643,-118.101046939698
-Little Lake City Elementary,William W. Orr Elementary,12130 South Jersey Avenue Norwalk CA 90650-2316,NA,NA,NA,not tested,NA,NA,NA,NA
+Lawndale Elementary,Billy Mitchell Elementary,14429 Condon Avenue Lawndale CA 90260-1308,NA,NA,FALSE,tested,NA,Los Angeles County,33.900639,-118.359543888889
+Lawndale Elementary,Environmental Charter High,16315 Grevillea Avenue Lawndale CA 90260-2858,NA,NA,FALSE,tested,NA,Los Angeles County,33.8824814285714,-118.354897857143
+Lawndale Elementary,F. D. Roosevelt Elementary,3533 West Marine Boulevard Lawndale CA 90260-2400,NA,NA,FALSE,tested,NA,NA,NA,NA
+Lawndale Elementary,Jane Addams Middle,4535 West 153rd Place Lawndale CA 90260-1957,NA,NA,FALSE,tested,NA,NA,NA,NA
+Lawndale Elementary,Kit Carson Elementary,3530 West 147th Street Hawthorne CA 90250-8518,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.898207375,-118.33364425
+Lawndale Elementary,Lucille J. Smith Elementary,4521 West 147th Street Lawndale CA 90260-1324,NA,NA,FALSE,tested,NA,Los Angeles County,33.8983380769231,-118.355596153846
+Lawndale Elementary,Mark Twain Elementary,3728 West 154th Street Lawndale CA 90260-2464,NA,NA,FALSE,tested,NA,Los Angeles County,33.8909298888889,-118.33852425
+Lawndale Elementary,Will Rogers Middle,4110 West 154th Street Lawndale CA 90260-1740,NA,NA,FALSE,tested,NA,Los Angeles County,33.8910189,-118.340139
+Lawndale Elementary,William Anderson Elementary,4130 West 154th Street Lawndale CA 90260-1740,NA,NA,FALSE,tested,NA,Los Angeles County,33.8910189,-118.340139
+Lawndale Elementary,William Green Elementary,4520 West 168th Street Lawndale CA 90260-3246,NA,NA,FALSE,tested,NA,NA,NA,NA

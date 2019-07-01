@@ -1,7 +1,4 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Middletown Unified,Alphabet Soup Co op Preschool,21075 Bush St Middletown CA 95461,NA,NA,FALSE,tested,NA,Lake County,38.7540158547084,-122.61544250535
-Middletown Unified,Cobb Mountain Elementary,15895 Highway 175 Middletown CA 95461-0338,NA,NA,NA,not tested,NA,NA,NA,NA
-Middletown Unified,Coyote Valley Elementary,18950 Coyote Valley Road Middletown CA 95461-0338,NA,NA,NA,not tested,NA,NA,NA,NA
-Middletown Unified,Early Connection Preschool,15846 Wardlaw ST Middletown CA 95461,NA,NA,FALSE,tested,NA,Lake County,38.7550966756973,-122.615924081156
-Middletown Unified,Lake County International Charter,15850 Armstrong Street Middletown CA 95461,NA,NA,FALSE,tested,NA,Lake County,38.751383,-122.614553571429
-Middletown Unified,Minnie Cannon Elementary,15846 Wardlaw St. Middletown CA 95461-0338,NA,NA,FALSE,tested,NA,Lake County,38.7550966756973,-122.615924081156
+Maxwell Unified,Maxwell Elementary,146 North St. Maxwell CA 95955-0788,NA,NA,FALSE,tested,NA,Colusa County,39.280217,-122.195726
+Maxwell Unified,Maxwell Middle,146 North Street Maxwell CA 95955-0788,NA,NA,FALSE,tested,NA,Colusa County,39.280217,-122.195726
+Maxwell Unified,Maxwell Sr High,515 Oak Street Maxwell CA 95955-0788,NA,NA,FALSE,tested,NA,Colusa County,39.276269,-122.194849

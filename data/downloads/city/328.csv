@@ -1,23 +1,21 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Vista Unified,Beaumont Elementary,550 Beaumont Drive Vista CA 92084-6321,NA,NA,FALSE,tested,Vista,San Diego County,33.199654,-117.22493
-Vista Unified,Bella Mente Montessori Academy,1737 West Vista Way Vista CA 92083-2112,NA,NA,NA,not tested,Vista,San Diego County,33.1896628,-117.2784951
-Vista Unified,Bobier Elementary,220 West Bobier Drive Vista CA 92083-1903,NA,NA,FALSE,tested,Vista,San Diego County,33.221056,-117.248442
-Vista Unified,Breeze Hill Elementary,1111 Melrose Way Vista CA 92083-6505,NA,NA,FALSE,tested,Vista,San Diego County,33.1852698,-117.254515437546
-Vista Unified,California Avenue Elementary,215 West California Avenue Vista CA 92083-3622,6.8,ppb,TRUE,tested,Vista,San Diego County,33.2074402,-117.2448994
-Vista Unified,Foothill Oak Elementary,1370 Oak Drive Vista CA 92084-4001,NA,NA,FALSE,tested,Vista,San Diego County,33.2200197,-117.2218213
-Vista Unified,Grapevine Elementary,630 Grapevine Road Vista CA 92083-5599,11.5,ppb,TRUE,tested,Vista,San Diego County,33.199727,-117.273777
-Vista Unified,Guajome Learning Center,2000 North Santa Fe Avenue Vista CA 92083-1534,NA,NA,NA,not tested,Vista,San Diego County,33.2037523,-117.2446349
-Vista Unified,Guajome Park Academy Charter,2000 North Santa Fe Ave Vista CA 92083-1534,NA,NA,NA,not tested,Vista,San Diego County,33.2037523,-117.2446349
-Vista Unified,Hannalei Elementary,120 Hannalei Drive Vista CA 92083-7625,NA,NA,FALSE,tested,Vista,San Diego County,33.177448,-117.217137
-Vista Unified,Major General Raymond Murray High,215 North Melrose Drive Vista CA 92083-5720,NA,NA,FALSE,tested,Vista,San Diego County,33.198329,-117.254895
-Vista Unified,Maryland Elementary,700 North Avenue Vista CA 92084-2906,NA,NA,FALSE,tested,Vista,San Diego County,33.21551,-117.258029
-Lakeside Union Elementary,National University Academy,2030 University Drive Vista CA 92083-7736,NA,NA,FALSE,tested,Vista,San Diego County,33.173183,-117.219722
-Vista Unified,Olive Elementary,836 Olive Avenue Vista CA 92083-3316,NA,NA,FALSE,tested,Vista,San Diego County,33.2046013836103,-117.259030491692
-Vista Unified,Rancho Buena Vista High,1601 Longhorn Drive Vista CA 92081-5423,NA,NA,FALSE,tested,Vista,San Diego County,33.1633751,-117.2471389
-Vista Unified,Rancho Minerva Middle,2245 Foothill Drive Vista CA 92084-6035,NA,NA,FALSE,tested,Vista,San Diego County,33.2047244584825,-117.205772813563
-Vista Unified,Vista Academy of Visual and Performing Arts,600 North Santa Fe Avenue Vista CA 92083-3631,NA,NA,FALSE,tested,Vista,San Diego County,33.2037523,-117.2446349
-Vista Unified,Vista Adult,510 Sunset Drive Vista CA 92081,NA,NA,NA,not tested,Vista,San Diego County,33.1869943764176,-117.240834377425
-Vista Unified,Vista Adult Transition Center,325 East Bobier Drive Vista CA 92084-3027,6.2,ppb,TRUE,tested,Vista,San Diego County,33.221302056407,-117.241959098486
-Vista Unified,Vista Innovation and Design Academy,740 Olive Avenue Vista CA 92083-3396,NA,NA,FALSE,tested,Vista,San Diego County,33.2045948,-117.2568002
-Vista Unified,"Vista Magnet Middle School of Technology, Science, and Math",151 Civic Center Drive Vista CA 92084-6035,NA,NA,FALSE,tested,Vista,San Diego County,33.203627,-117.236398
-Vista Unified,Vista Visions Academy,305 East Bobier Vista CA 92084-3027,NA,NA,FALSE,tested,Vista,San Diego County,33.22130241528,-117.242031830082
+Vacaville Unified,Adult Education,100-A McClellan Street Vacaville CA 95688-3937,NA,NA,NA,not tested,Vacaville,Solano County,38.358743,-121.983293
+Vacaville Unified,Alamo Elementary,500 South Orchard Avenue Vacaville CA 95688-4334,NA,NA,FALSE,tested,Vacaville,Solano County,38.3528513102819,-122.001698425364
+Vacaville Unified,Alternative Cooperative Education Charter,400 Hemlock St. Vacaville CA 95688-2616,NA,NA,NA,not tested,Vacaville,Solano County,38.364589,-122.003501
+Travis Unified,Cambridge Elementary,100 Cambridge Drive Vacaville CA 95687-6900,NA,NA,NA,not tested,Vacaville,Solano County,38.33321,-121.952134
+Vacaville Unified,Cooper Elementary,750 Christine Drive Vacaville CA 95687-4163,NA,NA,FALSE,tested,Vacaville,Solano County,38.355046,-121.94699
+Vacaville Unified,Country High,100-B McClellan Street Vacaville CA 95688-3937,6.2,ppb,TRUE,tested,Vacaville,Solano County,38.358743,-121.983293
+Vacaville Unified,Edwin Markham Elementary,101 Markham Avenue Vacaville CA 95688-2312,6,ppb,TRUE,tested,Vacaville,Solano County,38.370765,-121.977633
+Vacaville Unified,Ernest Kimme Charter Academy for Independent Learning,1949 Peabody Road Vacaville CA 95687,NA,NA,FALSE,tested,Vacaville,Solano County,38.3356998673881,-121.970264483491
+Vacaville Unified,Eugene Padan Elementary,200 Padan School Road Vacaville CA 95687-5444,NA,NA,FALSE,tested,Vacaville,Solano County,38.3407045886217,-121.983745155975
+Vacaville Unified,Fairmont Charter Elementary,1355 Marshall Road Vacaville CA 95687-5519,NA,NA,FALSE,tested,Vacaville,Solano County,38.346292877551,-121.967196918367
+Travis Unified,Foxboro Elementary,600 Morning Glory Drive Vacaville CA 95687-5300,NA,NA,NA,not tested,Vacaville,Solano County,38.326433,-121.966739
+Vacaville Unified,Hemlock Elementary,400 Hemlock Street Vacaville CA 95688-2616,13,ppb,TRUE,tested,Vacaville,Solano County,38.364589,-122.003501
+Solano County Office of Education,Irene Larsen Center,1707 California Drive Vacaville CA 95687,NA,NA,FALSE,tested,Vacaville,Solano County,38.3333769740071,-121.977052131863
+Vacaville Unified,Jean Callison Elementary,6261 Vanden Road Vacaville CA 95687-7294,NA,NA,FALSE,tested,Vacaville,Solano County,38.340241,-121.94298
+Vacaville Unified,Kairos Public School Vacaville Academy,129 Elm Street Vacaville CA 95688-6925,NA,NA,FALSE,tested,Vacaville,Solano County,38.3524699662494,-121.990783179069
+Vacaville Unified,Orchard Elementary,805 North Orchard Avenue Vacaville CA 95688-2138,10,ppb,TRUE,tested,Vacaville,Solano County,38.3754582784993,-122.004471300067
+Vacaville Unified,Sierra Vista,301 Bel Air Drive Vacaville CA 95687-6343,5.8,ppb,TRUE,tested,Vacaville,Solano County,38.3365411933904,-121.957502026808
+Vacaville Unified,Vaca Pena Middle,200 Keith Way Vacaville CA 95687-5189,NA,NA,FALSE,tested,Vacaville,Solano County,38.3486306846519,-121.948152563587
+Vacaville Unified,Will C. Wood High,998 Marshall Road Vacaville CA 95687-5735,NA,NA,FALSE,tested,Vacaville,Solano County,38.3460680391454,-121.975014508414
+Vacaville Unified,Willis Jepson Middle,580 Elder Street Vacaville CA 95688-2531,NA,NA,FALSE,tested,Vacaville,Solano County,38.3626725377325,-122.007205647745

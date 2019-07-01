@@ -1,24 +1,32 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Lancaster Elementary,Amargosa Creek Middle,44333 27th Street West Lancaster CA 93536-6094,NA,NA,NA,not tested,Lancaster,Los Angeles County,34.6884433078161,-118.17915881675
-Lancaster Elementary,Crossroads Community Day,44310 Hardwood Avenue Lancaster CA 93534-4332,NA,NA,NA,not tested,Lancaster,Los Angeles County,34.6867944552657,-118.144339726351
-Lancaster Elementary,Desert View Elementary,1555 West Avenue H-10 Lancaster CA 93534-1371,NA,NA,NA,not tested,Lancaster,Los Angeles County,34.7091381820433,-118.159292172137
-Lancaster Elementary,Discovery,44910 17th Street East Lancaster CA 93535,NA,NA,NA,not tested,Lancaster,Los Angeles County,34.7002816934984,-118.099187465584
-Lancaster Elementary,Early Childhood Education,808 W. Avenue J Lancaster CA 93534-3427,NA,NA,NA,not tested,Lancaster,Los Angeles County,34.6895809880693,-118.143564355229
-Lancaster Elementary,El Dorado Elementary,361 East Pondera Lancaster CA 93535-3012,NA,NA,NA,not tested,Lancaster,Los Angeles County,34.6904809865831,-118.123730092154
-Lancaster Elementary,Endeavour Middle,43755 45th Street West Lancaster CA 93536-6885,NA,NA,NA,not tested,Lancaster,Los Angeles County,34.6780281967871,-118.210339248996
-Lancaster Elementary,Fulton and Alsbury Academy of Arts and Engineering,831 East Avenue K-2 Lancaster CA 93535-4788,NA,NA,NA,not tested,Lancaster,Los Angeles County,34.6729282837259,-118.114784812625
-Lancaster Elementary,iLEAD Lancaster Charter,254 East Avenue K-4 Lancaster CA 93535-4500,NA,NA,NA,not tested,Lancaster,Los Angeles County,34.6712545800262,-118.126710185547
-Lancaster Elementary,Jack Northrop Elementary,835 East Avenue K-4 Lancaster CA 93535-4735,NA,NA,NA,not tested,Lancaster,Los Angeles County,34.6714163444444,-118.117075233333
-Lancaster Elementary,John and Jacquelyn Miller Elementary,43420 22nd Street West Lancaster CA 93536-5244,NA,NA,NA,not tested,Lancaster,Los Angeles County,34.674525410146,-118.170063957464
-Lancaster Elementary,Joshua Elementary,43926 North Second Street East Lancaster CA 93535-4010,NA,NA,NA,not tested,NA,NA,NA,NA
-Lancaster Elementary,Lancaster Alternative and Virtual Academies,44310 Hardwood Avenue Lancaster CA 93534-4332,NA,NA,NA,not tested,Lancaster,Los Angeles County,34.6867944552657,-118.144339726351
-Lancaster Elementary,Life Source International Charter,44339 Beech Avenue Lancaster CA 93534-4303,NA,NA,NA,not tested,Lancaster,Los Angeles County,34.7080052,-118.1393662
-Lancaster Elementary,Linda Verde Center,44920 5th Street East Lancaster CA 93535,NA,NA,NA,not tested,Lancaster,Los Angeles County,34.6992320816327,-118.121397612245
-Lancaster Elementary,Linda Verde Elementary,44924 North Fifth Street East Lancaster CA 93535-2603,NA,NA,NA,not tested,NA,NA,NA,NA
-Lancaster Elementary,Mariposa Elementary,737 West Avenue H-6 Lancaster CA 93534-1517,NA,NA,NA,not tested,Lancaster,Los Angeles County,34.7131134371112,-118.145876583389
-Lancaster Elementary,Nancy Cory Elementary,3540 West Avenue K-4 Lancaster CA 93536-6643,NA,NA,NA,not tested,Lancaster,Los Angeles County,34.6711040434783,-118.192375173913
-Lancaster Elementary,New Vista Middle,753 East Avenue K-2 Lancaster CA 93535-4797,NA,NA,NA,not tested,Lancaster,Los Angeles County,34.6729255348526,-118.115841024126
-Lancaster Elementary,Piute Middle,425 East Avenue H-11 Lancaster CA 93535-1800,NA,NA,NA,not tested,Lancaster,Los Angeles County,34.708698,-118.1217225
-Lancaster Elementary,Sierra Elementary,747 West Avenue J-12 Lancaster CA 93534-4933,NA,NA,NA,not tested,Lancaster,Los Angeles County,34.6782386388889,-118.145878916667
-Lancaster Elementary,Sunnydale Elementary,1233 West Avenue J-8 Lancaster CA 93534-4770,NA,NA,NA,not tested,Lancaster,Los Angeles County,34.6822634285714,-118.153784081633
-Lancaster Elementary,West Wind Elementary,44044 36th Street West Lancaster CA 93536-6205,NA,NA,NA,not tested,Lancaster,Los Angeles County,34.6831007142857,-118.194622061224
+La Mesa-Spring Valley,Avondale Elementary,8401 Stansbury Street Spring Valley CA 91977-3737,NA,NA,NA,not tested,NA,NA,NA,NA
+La Mesa-Spring Valley,Avondale Elementary School,"8401 Stansbury St, Spring Valley, CA 91977",NA,NA,NA,exempt,NA,NA,NA,NA
+La Mesa-Spring Valley,Bancroft Elementary,8805 Tyler Street Spring Valley CA 91977,NA,NA,FALSE,tested,NA,NA,NA,NA
+La Mesa-Spring Valley,Bancroft Elementary/Quest Academy,8805 Tyler Street Spring Valley CA 91977-3336,NA,NA,FALSE,tested,NA,NA,NA,NA
+La Mesa-Spring Valley,Casa de Oro Elementary,10227 Ramona Drive Spring Valley CA 91977-1720,NA,NA,FALSE,tested,NA,San Diego County,32.747738,-116.972387
+La Mesa-Spring Valley,Fletcher Hills Elementary,2330 Center Place El Cajon CA 92020-2809,NA,NA,FALSE,tested,El Cajon,San Diego County,32.8004926595616,-116.996583553591
+La Mesa-Spring Valley,Highlands Elementary,3131 South Barcelona Street Spring Valley CA 91977-3003,NA,NA,FALSE,tested,NA,San Diego County,32.7374083494138,-116.981658330615
+La Mesa-Spring Valley,Kempton Elementary School,"740 Kempton St, Spring Valley, CA 91977",NA,NA,NA,exempt,NA,NA,NA,NA
+La Mesa-Spring Valley,Kempton Street Elementary,740 Kempton Street Spring Valley CA 91977,NA,NA,NA,not tested,NA,NA,NA,NA
+La Mesa-Spring Valley,Kempton Street Literacy Academy,"740 Kempton St, Spring Valley, CA 91977",NA,NA,NA,exempt,NA,NA,NA,NA
+La Mesa-Spring Valley,Kempton Street Literacy Academy,740 Kempton Street Spring Valley CA 91977-5017,NA,NA,NA,not tested,NA,San Diego County,32.710521,-117.002882
+La Mesa-Spring Valley,La Mesa Arts Academy,4200 Parks Avenue La Mesa CA 91942-6212,10,ppb,TRUE,tested,La Mesa,San Diego County,32.755398,-117.030379
+La Mesa-Spring Valley,La Mesa Dale Elementary,4370 Parks Avenue La Mesa CA 91941-5214,NA,NA,FALSE,tested,La Mesa,San Diego County,32.7577150678382,-117.032242083058
+La Mesa-Spring Valley,La Mesa-Spring Valley Home Independent Study,4811 Glen Street La Mesa CA 91942-5474,NA,NA,FALSE,tested,La Mesa,San Diego County,32.7664661384374,-117.008799369655
+La Mesa-Spring Valley,La Presa Elementary,519 La Presa Street Spring Valley CA 91977-6011,NA,NA,NA,not tested,NA,NA,NA,NA
+La Mesa-Spring Valley,La Presa Elementary School,"519 La Presa Ave, Spring Valley, CA 91977",NA,NA,NA,exempt,NA,NA,NA,NA
+La Mesa-Spring Valley,Lemon Avenue Elementary,8787 Lemon Avenue La Mesa CA 91941-5214,10,ppb,TRUE,tested,La Mesa,San Diego County,32.7681206040709,-117.008402702386
+La Mesa-Spring Valley,Loma Elementary,10355 Loma Lane Spring Valley CA 91978-1517,NA,NA,NA,not tested,NA,San Diego County,32.736646,-116.96885
+La Mesa-Spring Valley,Loma Elementary School,"10355 Loma Ln, Spring Valley, CA 91978",NA,NA,NA,exempt,NA,San Diego County,32.736646,-116.96885
+La Mesa-Spring Valley,Maryland Avenue Elementary,5400 Maryland Avenue La Mesa CA 91941-5214,13,ppb,TRUE,tested,La Mesa,San Diego County,32.777703,-117.03826
+La Mesa-Spring Valley,Murdock Elementary,4354 Conrad Drive La Mesa CA 91941-5214,NA,NA,FALSE,tested,NA,NA,NA,NA
+La Mesa-Spring Valley,Murray Manor Elementary,8305 El Paso Street La Mesa CA 91942-2704,NA,NA,FALSE,tested,La Mesa,San Diego County,32.7883216733128,-117.019806576683
+La Mesa-Spring Valley,Northmont Elementary,9405 Gregory Street La Mesa CA 91942-3811,NA,NA,FALSE,tested,La Mesa,San Diego County,32.7908434078948,-116.993913126317
+La Mesa-Spring Valley,Parkway Middle,9009 Park Plaza Drive La Mesa CA 91942-3400,NA,NA,FALSE,tested,La Mesa,San Diego County,32.7909600446238,-117.004905071719
+La Mesa-Spring Valley,Rancho Elementary,8845 Noeline Avenue Spring Valley CA 91977-5716,NA,NA,NA,not tested,San Diego,San Diego County,32.704318,-117.015568
+La Mesa-Spring Valley,Rancho Elementary School,"8845 Noeline Ave, Spring Valley, CA 91977",NA,NA,NA,exempt,San Diego,San Diego County,32.704318,-117.015568
+La Mesa-Spring Valley,Rolando Elementary,6925 Tower Street La Mesa CA 91941-5214,NA,NA,FALSE,tested,La Mesa,San Diego County,32.7631592630782,-117.048703856742
+La Mesa-Spring Valley,"Science, Technology, Engineering, Arts and Math Academy at La Presa",NA,NA,NA,NA,exempt,NA,Trøndelag,64.5731537,11.5280364395482
+La Mesa-Spring Valley,"Science, Technology, Engineering, Arts, and Math Academy at La Presa",1001 Leland Street Spring Valley CA 91977-4819,NA,NA,NA,not tested,NA,NA,NA,NA
+La Mesa-Spring Valley,Sweetwater Springs Elementary,"1001 Leland Street, Spring Valley, CA 91977",NA,NA,NA,exempt,NA,NA,NA,NA
+La Mesa-Spring Valley,Sweetwater Springs Elementary,10129 Austin Drive Spring Valley CA 91977-6903,NA,NA,NA,not tested,NA,San Diego County,32.7313732,-116.9748171

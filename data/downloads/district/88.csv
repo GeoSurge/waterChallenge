@@ -1,3 +1,4 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Buellton Union Elementary,Jonata Middle,301 Second Street Buellton CA 93427-9476,NA,NA,NA,not tested,Buellton,Santa Barbara County,34.618494,-120.200751
-Buellton Union Elementary,Oak Valley Elementary,595 Second Street Buellton CA 93427-6801,NA,NA,NA,not tested,Buellton,Santa Barbara County,34.6208900408163,-120.207637857143
+Brisbane Elementary,Brisbane Elementary,500 San Bruno Avenue Brisbane CA 94005-1671,NA,NA,NA,not tested,NA,San Mateo County,37.68072665,-122.399732797033
+Brisbane Elementary,Lipman Middle,1 Solano Street Brisbane CA 94005-1342,NA,NA,NA,not tested,NA,San Mateo County,37.6829291,-122.4052218
+Brisbane Elementary,Panorama Elementary,25 Bellevue Avenue Daly City CA 94014-1423,NA,NA,FALSE,tested,Daly City,San Mateo County,37.7069293212058,-122.437252035854

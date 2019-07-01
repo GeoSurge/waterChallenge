@@ -1,7 +1,14 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Oakdale Joint Unified,East Stanislaus High,250 Hinkley Avenue Oakdale CA 95361-3609,NA,NA,FALSE,tested,Oakdale,Stanislaus County,37.7606538571429,-120.856927265306
-Oakdale Joint Unified,Fair Oaks Elementary,151 North Lee Avenue Oakdale CA 95361-3314,NA,NA,FALSE,tested,Oakdale,Stanislaus County,37.7640617635466,-120.865788871715
-Oakdale Joint Unified,Magnolia Elementary,739 Magnolia Street Oakdale CA 95361-9625,16.35,ppb,TRUE,tested,Oakdale,Stanislaus County,37.7671983892618,-120.855988194631
-Oakdale Joint Unified,Oakdale Charter,1235 East D Street Oakdale CA 95361-3223,7.7,ppb,TRUE,tested,Oakdale,Stanislaus County,37.7728705157102,-120.839108300171
-Oakdale Joint Unified,Oakdale High,739 West G Street Oakdale CA 95361-3739,NA,NA,FALSE,tested,Oakdale,Stanislaus County,37.761504,-120.856099
-Oakdale Joint Unified,Sierra View Elementary,1323 East J Street Oakdale CA 95361-8860,NA,NA,FALSE,tested,Oakdale,Stanislaus County,37.7646037272727,-120.833025590909
+Newark Unified,August Schilling Elementary,36901 Spruce Street Newark CA 94560-2719,NA,NA,FALSE,tested,Newark,Alameda County,37.528165,-122.046106
+Newark Unified,Birch Grove Intermediate,37490 Birch Street Newark CA 94560-4140,NA,NA,FALSE,tested,Newark,Alameda County,37.53516755,-122.02233140513
+Newark Unified,Birch Grove Primary,6071 Smith Ave Newark CA 94560-4536,NA,NA,FALSE,tested,Newark,Alameda County,37.52948475,-122.016105727101
+Newark Unified,Bridgepoint High (Continuation),35753 Cedar Boulevard Newark CA 94560-5007,9.112,ppb,TRUE,tested,Newark,Alameda County,37.5449594,-122.029247
+Newark Unified,E. L. Musick Elementary,5735 Musick Avenue Newark CA 94560-2554,NA,NA,FALSE,tested,Newark,Alameda County,37.5422929946954,-122.031741196313
+Newark Unified,H. A. Snow Elementary,6580 Mirabeau Drive Newark CA 94560-1121,NA,NA,FALSE,tested,Newark,Alameda County,37.54205605,-122.04920602959
+Newark Unified,James A. Graham Elementary,36270 Cherry Street Newark CA 94560-2318,NA,NA,FALSE,tested,Newark,Alameda County,37.5385757991409,-122.042763618605
+Newark Unified,John F. Kennedy Elementary,35430 Blackburn Drive Newark CA 94560-1312,NA,NA,FALSE,tested,Newark,Alameda County,37.5525641,-122.042348129968
+Newark Unified,Lincoln Elementary,36111 Bettencourt Street Newark CA 94560-2101,NA,NA,FALSE,tested,Newark,Alameda County,37.5362983061224,-122.052616979592
+Newark Unified,Newark Junior High,6201 Lafayette Avenue Newark CA 94560-2432,6.926,ppb,TRUE,tested,Newark,Alameda County,37.5417841019707,-122.039344613929
+Newark Unified,Newark Memorial High,39375 Cedar Boulevard Newark CA 94560-5007,NA,NA,FALSE,tested,Newark,Alameda County,37.52062465,-122.002553870503
+Private,St. Edward Parish,5788 Thornton Avenue Newark CA 94560,NA,NA,FALSE,tested,Newark,Alameda County,37.5395210780721,-122.028520511827
+Newark Unified,Whiteford (June) Special Education Preschool,35725 Cedar Boulevard Newark CA 94560-1324,6.903,ppb,TRUE,tested,Newark,Alameda County,37.5449594,-122.029247

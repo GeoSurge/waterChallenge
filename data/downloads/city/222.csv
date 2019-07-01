@@ -1,21 +1,14 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Val Verde Unified,Avalon Elementary,1815 East Rider Street Perris CA 92571-7700,NA,NA,FALSE,tested,Perris,Riverside County,33.8303512860363,-117.241401770156
-Perris Union High,California Military Institute,755 North A Street Perris CA 92570-1958,NA,NA,FALSE,tested,Perris,Riverside County,33.7933597329832,-117.234713640829
-Perris Elementary,Clearwater Elementary,1640 Murrieta Road Perris CA 92571,NA,NA,NA,not tested,Perris,Riverside County,33.8027219,-117.2089922
-Val Verde Unified,Columbia Elementary,21350 Rider Street Perris CA 92570-8879,NA,NA,FALSE,tested,Perris,Riverside County,33.8302525,-117.2347892
-Perris Elementary,Enchanted Hills Elementary,1357 Mount Baldy Street Perris CA 92570-1884,NA,NA,FALSE,tested,Perris,Riverside County,33.7846827619849,-117.256481262396
-Perris Union High,Extended Learning Center,755 North A Street Perris CA 92570-1958,NA,NA,NA,not tested,Perris,Riverside County,33.7933597329832,-117.234713640829
-Perris Elementary,Innovative Horizons Charter,1461 North A Street Perris CA 92570-1968,7.2,ppb,TRUE,tested,Perris,Riverside County,33.7996613240727,-117.234696912734
-Val Verde Unified,Lakeside Middle,27720 Walnut Street Perris CA 92571-7520,NA,NA,FALSE,tested,Perris,Riverside County,33.8265696,-117.2295554
-Val Verde Unified,May Ranch Elementary,900 East Morgan Perris CA 92571-7815,NA,NA,FALSE,tested,Perris,Riverside County,33.837803,-117.243969
-Val Verde Unified,Mead Valley Elementary,21 100 Oleander Avenue Perris CA 92570-9415,5.44,ppb,TRUE,tested,Perris,Riverside County,33.8621135,-117.2551369
-Perris Elementary,Palms Elementary,255 East Jarvis Perris CA 92571-2825,NA,NA,FALSE,tested,Perris,Riverside County,33.7919512036784,-117.225516055531
-Perris Elementary,Perris Elementary,500 A Street Perris CA 92571-1956,5.2,ppb,TRUE,tested,Perris,Riverside County,33.78144,-117.234862
-Perris Union High,Perris High,175 East Nuevo Road Perris CA 92571-2910,NA,NA,NA,not tested,Perris,Riverside County,33.8010345859902,-117.224950306042
-Perris Elementary,Railway Elementary,555 Alpine Drive Perris CA 92570-6216,NA,NA,FALSE,tested,Perris,Riverside County,33.7611424,-117.2338364
-Val Verde Unified,Sierra Vista Elementary,20300 Sherman Road Perris CA 92571-7522,NA,NA,FALSE,tested,Perris,Riverside County,33.8302801,-117.1825725
-Perris Elementary,Sky View Elementary,625 Mildred Street Perris CA 92570-3930,NA,NA,FALSE,tested,Perris,Riverside County,33.7956387,-117.2216817
-Val Verde Unified,Triple Crown Elementary,530 Orange Avenue Perris CA 92571-4027,NA,NA,FALSE,tested,Perris,Riverside County,33.8157158706071,-117.214281551913
-Val Verde Unified,Val Verde Elementary,2656 Indian Avenue Perris CA 92571-3210,NA,NA,FALSE,tested,Perris,Riverside County,33.8194248,-117.2347713
-Val Verde Unified,Val Verde High,972 West Morgan Street Perris CA 92571-3103,NA,NA,FALSE,tested,Perris,Riverside County,33.8376318571429,-117.247715132653
-Riverside County Office Of Education ROP,Val Verde RLC,3010 Webster Avenue Perris CA 92571,NA,NA,FALSE,tested,Perris,Riverside County,33.8444774,-117.2438266
+Paramount Unified,Abraham Lincoln,15324 California Avenue Paramount CA 90723-4378,NA,NA,NA,not tested,Paramount,Los Angeles County,33.8944906839271,-118.158657378128
+Paramount Unified,Alondra Middle,16200 Downey Avenue Paramount CA 90723-5528,NA,NA,NA,not tested,Paramount,Los Angeles County,33.8964047,-118.1514987
+Compton Unified,Dominguez High,15301 South San Jose Avenue Compton CA 90221-3131,5.3,ppb,TRUE,tested,Paramount,Los Angeles County,33.8929526,-118.183110748376
+Paramount Unified,Harry Wirtz Elementary,8535 Contreras Street Paramount CA 90723-4378,NA,NA,NA,not tested,Paramount,Los Angeles County,33.9011352653061,-118.150460061224
+Paramount Unified,Hollydale,5511 Century Boulevard South Gate CA 90280-8114,NA,NA,NA,not tested,Paramount,Los Angeles County,33.9160779387755,-118.171796346939
+Paramount Unified,Howard Tanner,7210 Rosecrans Avenue Paramount CA 90723-2502,NA,NA,NA,not tested,Paramount,Los Angeles County,33.9037613,-118.1463239
+Paramount Unified,Leona Jackson,7220 Jackson Street Paramount CA 90723-4378,NA,NA,NA,not tested,Paramount,Los Angeles County,33.8855846474062,-118.172534354318
+Paramount Unified,Los Cerritos,14626 Gundry Avenue Paramount CA 90723-4378,NA,NA,NA,not tested,Paramount,Los Angeles County,33.902996,-118.176707
+Paramount Unified,Mark Keppel,6630 East Mark Keppel Street Paramount CA 90723-4378,NA,NA,NA,not tested,Paramount,Los Angeles County,33.8932832,-118.180614907323
+Paramount Unified,Paramount Adult,14507 Paramount Blvd. Paramount CA 90723-4378,NA,NA,NA,not tested,Paramount,Los Angeles County,33.9016762405063,-118.160170367089
+Paramount Unified,Paramount Park Middle,14608 Paramount Boulevard Paramount CA 90723-3465,NA,NA,NA,not tested,Paramount,Los Angeles County,33.9008913506494,-118.159965337662
+Paramount Unified,Paramount Unified Community Day,14507 Paramount Boulevard Paramount CA 90723-3419,NA,NA,NA,not tested,Paramount,Los Angeles County,33.9016762405063,-118.160170367089
+Paramount Unified,Theodore Roosevelt,13451 Merkel Avenue Paramount CA 90723-4378,NA,NA,NA,not tested,Paramount,Los Angeles County,33.9113820217619,-118.155554655662

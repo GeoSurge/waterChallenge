@@ -1,3 +1,3 @@
 district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Guadalupe Union Elementary,Kermit McKenzie Junior High,4710 West Main Street Guadalupe CA 93434-1788,NA,NA,FALSE,tested,Guadalupe,Santa Barbara County,34.9575929,-120.5772923
-Guadalupe Union Elementary,Mary Buren Elementary,1050 Peralta Street Guadalupe CA 93434-0788,NA,NA,FALSE,tested,Guadalupe,Santa Barbara County,34.9703051632653,-120.567548897959
+Colton Joint Unified,Grand Terrace Elementary,12066 Vivienda Avenue Grand Terrace CA 92313-5026,6.8,ppb,TRUE,tested,Grand Terrace,San Bernardino County,34.0353581122449,-117.321012857143
+Colton Joint Unified,Terrace View Elementary,22731 Grand Terrace Road Grand Terrace CA 92313-4921,10.4,ppb,TRUE,tested,Grand Terrace,San Bernardino County,34.0427279618655,-117.308629244568
